@@ -1,0 +1,33 @@
+,0
+symbol,SESN
+price,1.065
+beta,1.04242
+volAvg,2147458
+mktCap,137747104
+lastDiv,0.0
+range,0.37-1.54
+changes,-0.015
+companyName,Sesen Bio Inc
+currency,USD
+cik,0001485003
+isin,US8177631053
+cusip,817763105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.elevenbio.com/
+description,"Sesen Bio, Inc. engages in designing, engineering, and developing of targeted protein therapeutics. The company is headquartered in Cambridge, Massachusetts and currently employs 17 full-time employees. The firm is focused on developing antibody-drug conjugate (ADC) therapies for the treatment of cancer. Its product pipeline includes Vicinium, Vicinium in combination with checkpoint inhibator, durvalumab, and VB6-845d. The Company’s lead program, Vicinium, is a fusion protein in Phase III development for the treatment of non-muscle invasive bladder cancer (NMIBC). The company targets epithelial cell adhesion molecule (EpCAM) antigens on the surface of tumor cells to deliver a potent cytotoxin, Pseudomonas Exotoxin A (ETA) directly to cancer cells."
+ceo,Mr. Thomas Cannell
+sector,Healthcare
+country,US
+fullTimeEmployees,25
+phone,16174448550
+address,245 1st St Ste 1800
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,1.71922
+image,https://financialmodelingprep.com/image-stock/SESN.jpg
+ipoDate,2014-02-06
+defaultImage,True

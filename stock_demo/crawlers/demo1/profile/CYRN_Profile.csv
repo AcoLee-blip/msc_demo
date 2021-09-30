@@ -1,0 +1,33 @@
+,0
+symbol,CYRN
+price,1.02
+beta,0.70052
+volAvg,67813
+mktCap,61621872
+lastDiv,0.0
+range,0.31-1.97
+changes,-0.06
+companyName,Cyren Ltd
+currency,USD
+cik,
+isin,IL0010832371
+cusip,M26895108
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.cyren.com
+description,"CYREN Ltd. engages in the provision of cloud-based security solutions. The firm is a Security-as-a-Service provider of integrated cloud-based security technology solutions that mitigate cyber threats, malware attacks, information leaks, legal liability and productivity loss through the application of cyber intelligence. The company delivers security services to a range of customers and original equipment manufacturer, and service provider distribution partners, including network and security vendors offering content security gateways, unified threat management solutions and antivirus solutions, and to service providers, such as Software-as-a-Service vendors, Web hosting providers and Internet service providers. Its technologies include CYREN GlobalView Cloud and Recurrent Pattern Detection. Its offerings include CYREN WebSecurity, CYREN EmailSecurity, Cyber Intelligence Suite and Embedded Solutions."
+ceo,Mr. Brett Jackson
+sector,Technology
+country,IL
+fullTimeEmployees,242
+phone,7037603320
+address,"1 Sapir Road 5Th Floor, Beit Ampa, P.O. Box 4014"
+city,HERZLIYA
+state,
+zip,22102
+dcfDiff,-6.29
+dcf,1.21938
+image,https://financialmodelingprep.com/image-stock/CYRN.jpg
+ipoDate,1999-07-15
+defaultImage,True

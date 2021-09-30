@@ -1,0 +1,33 @@
+,0
+symbol,TNAV
+price,4.765
+beta,0.411
+volAvg,315686
+mktCap,226446128
+lastDiv,0.0
+range,3.45-6.5
+changes,0.025
+companyName,Telenav Inc
+currency,USD
+cik,0001474439
+isin,US8794551031
+cusip,879455103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.telenav.com/home
+description,"TeleNav, Inc. engages in the provision of personalized mobile navigation and location based platform services. The company is headquartered in Santa Clara, California and currently employs 784 full-time employees. The firm's services consist of its automotive and mobile navigation platform and its advertising delivery platform. The firm operates through three segments: automotive, advertising and mobile navigation. The automotive segment provides its map and navigation platform to auto manufacturers and original equipment manufacturers (OEMs) for distribution with their vehicles. The advertising segment provides interactive mobile advertisements on behalf of its advertising clients to consumers based on the location of the user and other targeting capabilities. The mobile navigation segment provides its map and navigation platform to end users through mobile devices. The firm's auto and mobile navigation platform allows it to deliver location-based services to auto manufacturers, developers and end users through various distribution channels, including wireless carriers."
+ceo,Dr. HP Jin
+sector,Technology
+country,US
+fullTimeEmployees,784
+phone,14082453800
+address,4655 Great America Pkwy Ste 300
+city,Santa Clara
+state,CALIFORNIA
+zip,95054
+dcfDiff,
+dcf,4.46079
+image,https://financialmodelingprep.com/image-stock/TNAV.jpg
+ipoDate,2010-05-13
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,ALYA
+price,2.68
+beta,0.0
+volAvg,14075
+mktCap,158582576
+lastDiv,0.0
+range,0.96-3.17
+changes,-0.12
+companyName,Alithya Group Inc
+currency,CAD
+cik,0001734520
+isin,CA01643B1067
+cusip,01643B106
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,http://alithya.com
+description,"Alithya Group, Inc. engages in the provision of information technology consulting services. The company is headquartered in Montreal, Quebec and currently employs 2,028 full-time employees. The Company’s offering falls under the following categories: Strategy, such as strategic consulting, organizational performance, architecture, and co-management; Microsoft Solutions for enterprise resource planning (ERP), customer relationship management (CRM), business analytics and azure-based solutions; Oracle Cloud Solutions for enterprise performance management (EPM), enterprise resource planning (ERP Cloud), enterprise business solutions (EBS) and business analytics, as well as Custom Solutions, such as remote digital solutions center, system integration and development and business analytics. Its clients cover a spectrum of sectors, such as banking, investment and insurance, energy, manufacturing, retail and distribution, telecommunications, transportation, professional services, healthcare and government."
+ceo,Mr. Paul Raymond
+sector,Technology
+country,CA
+fullTimeEmployees,2146
+phone,15142855552
+address,"1100 ROBERT-BOURASSA BLVD., SUITE 400"
+city,MONTREAL
+state,QUEBEC
+zip,H3B 5M2
+dcfDiff,
+dcf,3.39464
+image,https://financialmodelingprep.com/image-stock/ALYA.png
+ipoDate,2018-11-01
+defaultImage,False

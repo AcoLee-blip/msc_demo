@@ -1,0 +1,33 @@
+,0
+symbol,VER
+price,7.36
+beta,1.05064
+volAvg,9153516
+mktCap,8034985500
+lastDiv,0.43000000000000005
+range,3.56-10.18
+changes,0.21
+companyName,VEREIT Inc
+currency,USD
+cik,
+isin,US92339V1008
+cusip,92339V100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Diversified
+website,https://www.vereit.com/
+description,"VEREIT, Inc. operates as a real estate investment trust, which provides real estate investment services. The company is headquartered in Phoenix, Arizona and currently employs 180 full-time employees. The firm owns and actively manages a diversified portfolio of single-tenant retail, restaurant, office and industrial real estate assets subject to long-term net leases with creditworthy tenants. The Company’s business model provides equity capital to creditworthy corporations in return for long-term leases on their properties. The firm focuses on single-tenant, net-leased properties that are strategically located and essential to the business operations of the tenant, as well as retail properties that offer necessity and value-oriented products or services."
+ceo,Mr. Glenn Rufrano
+sector,Real Estate
+country,US
+fullTimeEmployees,160
+phone,16027786000
+address,2325 E Camelback Rd Fl 9
+city,Phoenix
+state,ARIZONA
+zip,85016
+dcfDiff,3701.22
+dcf,6.67295
+image,https://financialmodelingprep.com/image-stock/VER.png
+ipoDate,2011-09-07
+defaultImage,False

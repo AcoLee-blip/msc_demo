@@ -1,0 +1,33 @@
+,0
+symbol,EMKR
+price,3.7
+beta,1.03105
+volAvg,71530
+mktCap,108809968
+lastDiv,0.0
+range,1.46-3.97
+changes,0.02
+companyName,EMCORE Corp
+currency,USD
+cik,0000808326
+isin,US2908462037
+cusip,290846203
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.emcore.com/
+description,"EMCORE Corp. engages in the manufacture and provision of mixed-signal optics products. The company is headquartered in Alhambra, California and currently employs 420 full-time employees. The firm focuses on linear fiber optic transmission technology. The firm operates through Fiber Optics segment. The firm provides optical components, and also end-to-end solutions for high-speed communications network infrastructures. The firm's optical technologies are designed for cable television (CATV) and fiber-to-the-premise (FTTP) networks, telecommunications and data centers, satellite communications, aerospace and defense, wireless networks, and broadcast and professional audio/video systems. The firm's fiber optics products enable information that is modulated on light signals to be transmitted, routed (switched) and received in communication systems and networks."
+ceo,Mr. Jeffrey Rittichier
+sector,Technology
+country,US
+fullTimeEmployees,420
+phone,16262933400
+address,2015 Chestnut St
+city,Alhambra
+state,CALIFORNIA
+zip,91803
+dcfDiff,-171.24
+dcf,4.48097
+image,https://financialmodelingprep.com/image-stock/EMKR.png
+ipoDate,1997-03-06
+defaultImage,False

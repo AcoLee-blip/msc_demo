@@ -1,0 +1,33 @@
+,0
+symbol,CIA
+price,5.9
+beta,0.34782
+volAvg,67209
+mktCap,298068000
+lastDiv,0.0
+range,3.55-7.28
+changes,-0.29
+companyName,Citizens Inc
+currency,USD
+cik,0000024090
+isin,US1747401008
+cusip,174740100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Insurance Life
+website,http://www.citizensinc.com/
+description,"Citizens, Inc. (Austin, Texas) is an insurance holding company, which engages in the provision of insurance and reinsurance services. The company is headquartered in Austin, Texas and currently employs 311 full-time employees. The firm operates in three business segments: Life Insurance, Home Service and Other Non-Insurance Enterprises. The Life Insurance segment issues ordinary whole life insurance in the United States and in the United States Dollar-denominated amounts to foreign residents. The company operates this segment through its subsidiaries, including CICA Life Insurance Company of America (CICA) and Citizens National Life Insurance Company (CNLIC). The Home Service segment sells limited-liability, named peril property policies covering dwelling and contents. Its home service insurance products consist of small face amount ordinary whole life and pre-need policies, which are designed to fund final expenses for the insured, primarily consisting of funeral and burial costs. The Other Non-insurance Enterprises segment includes Computing Technology, Inc. and Insurance Investors, Inc. This segment also includes the results of Citizens, Inc., the parent company."
+ceo,Mr. Geoffrey Kolander
+sector,Financial Services
+country,US
+fullTimeEmployees,400
+phone,15128377100
+address,"14231 TANDEM BLVD, 2ND FLOOR"
+city,Austin
+state,TEXAS
+zip,78728
+dcfDiff,
+dcf,52.1428
+image,https://financialmodelingprep.com/image-stock/CIA.jpg
+ipoDate,1980-12-04
+defaultImage,True

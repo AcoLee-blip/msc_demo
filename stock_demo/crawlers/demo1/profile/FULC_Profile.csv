@@ -1,0 +1,33 @@
+,0
+symbol,FULC
+price,12.69
+beta,0.0
+volAvg,223729
+mktCap,348376032
+lastDiv,0.0
+range,7.01-22.96
+changes,0.71
+companyName,Fulcrum Therapeutics Inc
+currency,USD
+cik,0001680581
+isin,US3596161097
+cusip,359616109
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.fulcrumtx.com/
+description,"Fulcrum Therapeutics, Inc. is a clinical stage biopharmaceutical company. The company is headquartered in Cambridge, Massachusetts and currently employs 62 full-time employees. The firm focuses on improving the lives of patients with genetically defined rare diseases. The firm have developed a product engine which identifies drug targets which can modulate gene expression to treat the known root cause of gene mis-expression. The firm is also engaged in developing drugs for the treatment for the root cause of muscle disorders, central nervous system disorders and blood disorders."
+ceo,Dr. Robert Gould
+sector,Healthcare
+country,US
+fullTimeEmployees,73
+phone,16176518851
+address,26 Landsdowne St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,8765.7
+image,https://financialmodelingprep.com/image-stock/FULC.png
+ipoDate,2019-07-18
+defaultImage,False

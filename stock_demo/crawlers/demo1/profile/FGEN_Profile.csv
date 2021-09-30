@@ -1,0 +1,33 @@
+,0
+symbol,FGEN
+price,41.75
+beta,1.68382
+volAvg,726992
+mktCap,3799696900
+lastDiv,0.0
+range,22.65-51.56
+changes,0.74
+companyName,FibroGen Inc
+currency,USD
+cik,0000921299
+isin,US31572Q8087
+cusip,31572Q808
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.fibrogen.com
+description,"FibroGen, Inc. is a biopharmaceutical company, which engages in the discovery, development, and commercialization of novel therapeutics. The company is headquartered in San Francisco, California and currently employs 461 full-time employees. The firm is focused on fibrosis and hypoxia-inducible factor (HIF) biology and clinical development to advance innovative medicines for the treatment of anemia, fibrotic disease, and cancer. Roxadustat, the Company’s most advanced product candidate, is an oral small molecule inhibitor of HIF prolyl hydroxylase activity in Phase III clinical development for the treatment of anemia in chronic kidney disease (CKD), and is entering Phase III development for anemia in lower risk myelodysplastic syndromes (MDS). The firm has developed Pamrevlumab. Pamrevlumab is a proprietary therapeutic antibody to inhibit the activity of connective tissue growth factor (CTGF), a common factor in chronic fibrotic and proliferative disorders characterized by persistent and excessive scarring that can lead to organ dysfunction and failure."
+ceo,Mr. Enrique Conterno
+sector,Healthcare
+country,US
+fullTimeEmployees,531
+phone,14159781200
+address,409 Illinois St
+city,San Francisco
+state,CALIFORNIA
+zip,
+dcfDiff,
+dcf,46.5575
+image,https://financialmodelingprep.com/image-stock/FGEN.jpg
+ipoDate,2014-11-14
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,CSCO
+price,38.67
+beta,0.82478
+volAvg,25603138
+mktCap,163226829000
+lastDiv,1.4300000000000002
+range,32.4-50.28
+changes,-0.66
+companyName,Cisco Systems Inc
+currency,USD
+cik,0000858877
+isin,US17275R1023
+cusip,17275R102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.cisco.com/
+description,"Cisco Systems, Inc. engages in the design, manufacture, and sale of Internet Protocol based networking products and services related to the communications and information technology industry. The company is headquartered in San Jose, California and currently employs 75,900 full-time employees. The company operates through three geographic segments: Americas; Europe, Middle East, and Africa; and Asia Pacific, Japan, and China. Its product and technologies includes infrastructure platforms; applications; security and other products. The company also offers technical support services and advanced services. Infrastructure Platforms consists of its core networking technologies of switching, routing, data center products and wireless that are designed to work together to deliver networking capabilities and transport and store data. Application product category consists primarily of software-related offerings that utilize the core networking and data center platforms to provide their functions. Security product category primarily includes Company’s unified threat management products, advanced threat security products, and web security products."
+ceo,Mr. Charles Robbins
+sector,Technology
+country,US
+fullTimeEmployees,75900
+phone,14085264000
+address,170 W Tasman Dr
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-5.59
+dcf,41.836
+image,https://financialmodelingprep.com/image-stock/CSCO.png
+ipoDate,1990-02-01
+defaultImage,False

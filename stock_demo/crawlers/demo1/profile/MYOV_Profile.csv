@@ -1,0 +1,33 @@
+,0
+symbol,MYOV
+price,19.25
+beta,2.61052
+volAvg,1114570
+mktCap,1735373950
+lastDiv,0.0
+range,5.86-23.04
+changes,2.13
+companyName,Myovant Sciences Ltd
+currency,USD
+cik,0001679082
+isin,BMG637AM1024
+cusip,G637AM102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Biotechnology
+website,http://myovant.com/
+description,"Myovant Sciences, Inc. is a clinical-stage biopharmaceutical company. The firm is focused on developing and commercializing therapies for the treatment women’s health and endocrine diseases. Its lead product candidate is Relugolix, which is an oral, once-daily, small molecule that acts as a gonadotropin-releasing hormone (GnRH) receptor antagonist that binds to and inhibits receptors in the anterior pituitary gland. Inhibition of GnRH receptors decreases the release of the gonadotropins, luteinizing hormone (LH), and follicle-stimulating hormone (FSH), thereby decreasing the down-stream production of estrogen and progesterone by the ovaries in women and testosterone by the testes in men. The company is also advancing relugolix for the treatment of heavy menstrual bleeding associated with uterine fibroids, endometriosis-associated pain, and advanced prostate cancer. The firm is developing MVT-602, an oligopeptide kisspeptin agonist, for the treatment of female infertility."
+ceo,Dr. Lynn Seely
+sector,Healthcare
+country,GB
+fullTimeEmployees,214
+phone,442074003347
+address,"Ste 1 3rd Fl, 11/12 St. James's Square"
+city,LONDON
+state,
+zip,SW1Y 4LB
+dcfDiff,-17.98
+dcf,15.8229
+image,https://financialmodelingprep.com/image-stock/MYOV.png
+ipoDate,2016-10-27
+defaultImage,False

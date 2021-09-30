@@ -1,0 +1,33 @@
+,0
+symbol,QUIK
+price,3.041
+beta,2.0983
+volAvg,60498
+mktCap,33659308
+lastDiv,0.0
+range,2.12-8.82
+changes,0.181
+companyName,QuickLogic Corp
+currency,USD
+cik,0000882508
+isin,US74837P4054
+cusip,74837P405
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.quicklogic.com/
+description,"QuickLogic Corp. operates as a semiconductor company that designs, markets, and supports primarily Customer Specific Standard Products and secondarily, Field Programmable Gate Arrays, sensor software algorithms, software drivers, associated design software and programming hardware. The company is headquartered in Sunnyvale, California and currently employs 82 full-time employees. The firm's solutions primarily target smartphones, wearable devices, tablets, and the Internet-of-Things (IoT). The firm is a fabless semiconductor provider of flexible sensor processing solutions, ultra-low power display bridges, and ultra-low power Field Programmable Gate Arrays (FPGAs). The firm's solutions integrate multi-core processing, programmable logic, sensor fusion and context aware algorithms, and embedded software. The firm's solutions are created from its new silicon platforms, including EOS, ArcticLink III, PolarPro 3, PolarPro II, PolarPro, and Eclipse II products, its mature products, which are produced on semiconductor processes over 180 nanometers, primarily include its pASIC 3 and QuickRAM, as well as royalty revenue, programming hardware and design software."
+ceo,Mr. Brian Faith
+sector,Technology
+country,US
+fullTimeEmployees,81
+phone,14089904000
+address,1277 Orleans Dr
+city,Sunnyvale
+state,CALIFORNIA
+zip,95131
+dcfDiff,
+dcf,5.8489
+image,https://financialmodelingprep.com/image-stock/QUIK.png
+ipoDate,1999-10-15
+defaultImage,False

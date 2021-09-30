@@ -1,0 +1,33 @@
+,0
+symbol,ASMB
+price,5.54
+beta,1.25538
+volAvg,783623
+mktCap,182943536
+lastDiv,0.0
+range,4.78-27.84
+changes,0.19
+companyName,Assembly Biosciences Inc
+currency,USD
+cik,0001426800
+isin,US0453961080
+cusip,045396108
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.assemblybio.com/
+description,"Assembly Biosciences, Inc. is a biotechnology company, which engages in the development of products for infectious diseases, such as chronic hepatitis B virus and illnesses associated with a dysbiotic microbiome. The company is headquartered in Carmel, Indiana and currently employs 107 full-time employees. The firm is engaged in developing two platform programs, such as a class of oral therapeutics for the treatment of hepatitis B virus (HBV) infection, and a class of oral synthetic live therapeutics, which are designed to restore health to a dysbiotic microbiome. The company has discovered various core protein Allosteric Modulators (CpAMs), which are small molecules that directly target and allosterically modulate the HBV core (HBc) protein. Its Microbiome Program consists of an integrated platform that includes a strain identification and selection process, methods for strain isolation and growth under current good manufacturing practice conditions, and a delivery system, GEMICEL, which allows for targeted oral delivery of live biologic and conventional therapies to the lower gastrointestinal (GI) tract. The lead product candidate from this platform, AB-M101, is in development for the treatment of clostridium difficile-infections."
+ceo,Dr. John McHutchison
+sector,Healthcare
+country,US
+fullTimeEmployees,120
+phone,18334094583
+address,"331 OYSTER POINT BLVD., FOURTH FLOOR"
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,-15.2
+dcf,17.2597
+image,https://financialmodelingprep.com/image-stock/ASMB.png
+ipoDate,2010-12-17
+defaultImage,False

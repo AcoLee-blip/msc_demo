@@ -1,0 +1,33 @@
+,0
+symbol,BEAM
+price,34.34
+beta,0.0
+volAvg,675135
+mktCap,1990552450
+lastDiv,0.0
+range,13.0-41.19
+changes,-3.52
+companyName,Beam Therapeutics Inc
+currency,USD
+cik,0001745999
+isin,US07373V1052
+cusip,07373V105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://beamtx.com/
+description,"Beam Therapeutics Inc. is a biotechnology company focused on developing precision genetic medicines based on its base editing technology, to providing life-long cures to patients suffering from diseases. Its base editing technology enables a new class of precision genetic medicines that targets a single base in the genome without making a double-stranded break in the deoxyribonucleic acid (DNA). It is advancing a broad, diversified portfolio of 12 base editing programs against distinct editing targets. Its programs are organized by delivery modality into three distinct pipelines: electroporation for delivery to blood cells and immune cells; lipid nanoparticles (LNPs), for non-viral in vivo delivery to the liver and potentially other organs in the future; and adeno-associated viral vectors (AAV), for viral delivery to the eye and central nervous system (CNS)."
+ceo,Mr. John M. Evans
+sector,Healthcare
+country,US
+fullTimeEmployees,134
+phone,18573278775
+address,26 Landsdowne St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/BEAM.jpg
+ipoDate,2020-02-06
+defaultImage,True

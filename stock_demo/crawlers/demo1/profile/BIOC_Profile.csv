@@ -1,0 +1,33 @@
+,0
+symbol,BIOC
+price,6.16
+beta,0.94038
+volAvg,714830
+mktCap,82503344
+lastDiv,0.0
+range,2.1-13.0
+changes,1.23
+companyName,Biocept Inc
+currency,USD
+cik,0001044378
+isin,US09072V4023
+cusip,09072V402
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://biocept.com/
+description,"Biocept, Inc. is an oncology laboratory service company, which focuses on the development and marketing of novel laboratory products in the detection of rare cells to include circulating tumor cells. The company is headquartered in San Diego, California and currently employs 42 full-time employees. The firm develops and commercializes circulating tumor cell (CTC) and circulating tumor deoxyribonucleic acid (ctDNA), assays utilizing a standard blood sample, or liquid biopsy. The firm's Target-Selector offering is based on an internally developed, microfluidics-based CTC capture and analysis platform, with enabling features that change how CTC testing can be used by clinicians by providing biomarker detection and monitoring requiring only a standard blood sample. The ctDNA technology enables mutation detection and is applicable to nucleic acid from CTCs or other sample types, such as blood plasma. The firm commercializes its Target-Selector assays for a range of solid tumor indications, such as breast cancer, non-small cell lung cancer (NSCLC), small cell lung cancer (SCLC), gastric cancer, colorectal cancer, prostate cancer and melanoma."
+ceo,Mr. Michael Nall
+sector,Healthcare
+country,US
+fullTimeEmployees,88
+phone,18583208200
+address,5810 Nancy Ridge Dr
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,
+dcf,4.97019
+image,https://financialmodelingprep.com/image-stock/BIOC.png
+ipoDate,2014-02-05
+defaultImage,False

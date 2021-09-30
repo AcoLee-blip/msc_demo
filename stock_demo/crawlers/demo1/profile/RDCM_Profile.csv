@@ -1,0 +1,33 @@
+,0
+symbol,RDCM
+price,8.27
+beta,0.86016
+volAvg,20995
+mktCap,115357408
+lastDiv,0.0
+range,5.23-10.3
+changes,0.13
+companyName,Radcom Ltd
+currency,USD
+cik,0001016838
+isin,IL0010826688
+cusip,M81865111
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.radcom.com/
+description,"RADCOM Ltd. engages in the development, manufacture, marketing, and support of innovative network test and service monitoring solutions for communications service providers and equipment vendors. The firm provides solutions for networks, including long-term evolution (LTE), LTE Advanced (LTE-A), voice over LTE (VoLTE), Internet protocol multimedia subsystem (IMS), Voice over Internet protocol (VoIP), universal mobile telecommunications system (UMTS) or global system for mobile communications (GSM) and mobile broadband. Its software-based solutions enable CSPs to manage both existing networks and network functions virtualization (NFV) based architectures. Its products and solutions include The MaveriQ Solution for Service Assurance and customer experience management (CEM). The MaveriQ solution is a probe-based customer and service assurance solution designed to enable CSPs to carry out end-to-end voice and data quality monitoring and to manage their networks and services. The MaveriQ solution offers analysis and troubleshooting tools."
+ceo,Mr. Eyal Harari
+sector,Technology
+country,IL
+fullTimeEmployees,282
+phone,97236455055
+address,24 Raoul Wallenberg st.
+city,TEL AVIV-YAFO
+state,
+zip,
+dcfDiff,-6.07
+dcf,13.4786
+image,https://financialmodelingprep.com/image-stock/RDCM.png
+ipoDate,1997-09-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,CCMP
+price,143.07
+beta,1.25384
+volAvg,152693
+mktCap,4156942080
+lastDiv,1.74
+range,85.26-174.87
+changes,-25.97
+companyName,Cabot Microelectronics Corp
+currency,USD
+cik,0001102934
+isin,US12709P1030
+cusip,12709P103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.cabotcmp.com/
+description,"Cabot Microelectronics Corp. engages in the development, manufacture, and sale of chemical mechanical planarization consumables products. The company is headquartered in Aurora, Illinois and currently employs 2,047 full-time employees. The firm also provides performance products and services to the pipeline operations industry. The company operates through two reportable segments: Electronic Materials and Performance Materials. Electronic Materials segment includes products and solutions for the semiconductor industry. The company manufactures and sells chemical mechanical planarization (CMP) consumables, including CMP slurries and polishing pad products, and high-purity process chemicals used to etch and clean silicon wafers in the production of semiconductors, photovoltaics (solar cells) and flat panel displays. Performance Materials segment includes pipeline performance products and services for oilfield energy industries, wood treatment products, and products and equipment used in the precision optics industry."
+ceo,Mr. David Li
+sector,Technology
+country,US
+fullTimeEmployees,2047
+phone,16303755461
+address,870 N Commons Dr
+city,Aurora
+state,ILLINOIS
+zip,60504
+dcfDiff,
+dcf,157.639
+image,https://financialmodelingprep.com/image-stock/CCMP.png
+ipoDate,2000-04-04
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,SMCI
+price,29.61
+beta,1.13475
+volAvg,317343
+mktCap,1533267970
+lastDiv,0.0
+range,15.76-33.3
+changes,1.06
+companyName,Super Micro Computer Inc
+currency,USD
+cik,0001375365
+isin,US86800U1043
+cusip,86800U104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.supermicro.com/en/
+description,"Super Micro Computer, Inc. manufactures servers and other computer products. The company is headquartered in San Jose, California and currently employs 3,670 full-time employees. The firm's solutions range from server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services. The firm sells its server systems and server subsystems and accessories through a combination of distributors, including value added resellers and system integrators, and other equipment manufacturers (OEMs). As of June 30, 2016, the Company offered over 4,950 stock keeping units (SKUs), including SKUs for server and storage systems, serverboards, chassis, power supplies and other system accessories. The firm develops and manufactures server solutions based upon a modular and open architecture."
+ceo,Mr. Charles Liang
+sector,Technology
+country,US
+fullTimeEmployees,3670
+phone,14085038000
+address,980 Rock Ave
+city,San Jose
+state,CALIFORNIA
+zip,95131
+dcfDiff,144.32
+dcf,30.1345
+image,https://financialmodelingprep.com/image-stock/SMCI.png
+ipoDate,2007-03-29
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,ENPH
+price,119.2
+beta,1.13349
+volAvg,3528075
+mktCap,15058892800
+lastDiv,0.0
+range,17.6-129.61
+changes,1.99
+companyName,Enphase Energy Inc
+currency,USD
+cik,0001463101
+isin,US29355A1079
+cusip,29355A107
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Solar
+website,https://enphase.com/
+description,"Enphase Energy, Inc. engages in the design, development, manufacture, and sale of microinverter systems for the solar photovoltaic industry. The company is headquartered in Fremont, California and currently employs 427 full-time employees. The company is engaged in designing, developing, manufacturing and selling microinverter systems for the solar photovoltaic industry. Its semiconductor-based microinverter system converts direct current (DC) electricity to alternating current (AC) electricity. Its microinverter system consists of four components: Enphase microinverters, the AC Battery, an Envoy gateway and Enlighten cloud-based software. Its Enphase microinverters provide power conversion at the individual solar module level by a digital architecture that incorporates custom application specific integrated circuits (ASIC), specialized power electronics devices, and an embedded software subsystem. Envoy bi-directional communications gateway provides collecting and sending data to Enlighten software. Enlighten cloud-based software provides the capabilities to remotely monitor, manage, and maintain an individual system or a fleet of systems."
+ceo,Mr. Badrinarayanan Kothandaraman
+sector,Technology
+country,US
+fullTimeEmployees,577
+phone,17077634784
+address,47281 Bayside Pkwy
+city,Fremont
+state,CALIFORNIA
+zip,94538
+dcfDiff,
+dcf,103.44
+image,https://financialmodelingprep.com/image-stock/ENPH.png
+ipoDate,2012-03-30
+defaultImage,False

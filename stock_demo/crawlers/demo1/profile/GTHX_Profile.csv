@@ -1,0 +1,33 @@
+,0
+symbol,GTHX
+price,12.76
+beta,2.07879
+volAvg,786110
+mktCap,485465696
+lastDiv,0.0
+range,8.8-31.38
+changes,0.08
+companyName,G1 Therapeutics Inc
+currency,USD
+cik,0001560241
+isin,US3621LQ1099
+cusip,3621LQ109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.g1therapeutics.com/
+description,"G1 Therapeutics, Inc. engages in the development of small molecule therapeutics for the treatment of patients with cancer. The company is headquartered in Research Triangle Park, North Carolina and currently employs 84 full-time employees. The firm is engaged in developing small-molecule therapies for the treatment of cancer. Its two clinical-stage candidates are trilaciclib (G1T28) and G1T38, which are potent, selective inhibitors of the validated kinase targets CDK4/6. Trilaciclib and G1T38 are designed to be combined and enhance the anti-tumor activity of current therapies. The company is also developing G1T48, an oral selective estrogen receptor degrader (SERD) for the treatment of breast cancer. The firm is evaluating trilaciclib in three Phase II clinical trials. G1T38 is being evaluated in combination with Faslodex in a Phase I b/II a trial for patients with estrogen receptor-positive, HER2-negative breast cancer."
+ceo,Mr. Mark Velleca
+sector,Healthcare
+country,US
+fullTimeEmployees,104
+phone,19192139835
+address,"700 Park Offices Drive, Suite 200"
+city,RESEARCH TRIANGLE PARK
+state,NORTH CAROLINA
+zip,27709
+dcfDiff,
+dcf,19.6188
+image,https://financialmodelingprep.com/image-stock/GTHX.png
+ipoDate,2017-05-17
+defaultImage,False

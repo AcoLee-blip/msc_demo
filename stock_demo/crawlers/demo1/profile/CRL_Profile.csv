@@ -1,0 +1,33 @@
+,0
+symbol,CRL
+price,237.46
+beta,1.19264
+volAvg,328480
+mktCap,11811877900
+lastDiv,0.0
+range,95.58-257.88
+changes,1.8
+companyName,Charles River Laboratories International Inc
+currency,USD
+cik,0001100682
+isin,US1598641074
+cusip,159864107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.criver.com/
+description,"Charles River Laboratories International, Inc. is an early-stage contract research company, which provides essential products and services to help pharmaceutical and biotechnology companies, government agencies and academic institutions. The company is headquartered in Wilmington, Massachusetts and currently employs 14,700 full-time employees. The firm is engaged in laboratory animal medicine and science (research model technologies) and develop a portfolio of discovery and safety assessment services, both good laboratory practice (GLP) and non-GLP, which supports its clients from target identification through non-clinical development. The firm operates in three segments: Research Models and Services (RMS), Discovery and Safety Assessment (DSA), and Manufacturing Support (Manufacturing). The RMS segment includes Research Models and Research Model Services. The DSA segment includes Discovery Services and Safety Assessment. The Manufacturing segment includes Microbial Solutions, Avian, Biologics and Contract Manufacturing. The firm also provides a suite of products and services to support the Company's clients' manufacturing activities."
+ceo,Mr. James Foster
+sector,Healthcare
+country,US
+fullTimeEmployees,17100
+phone,17812226000
+address,251 Ballardvale St
+city,Wilmington
+state,MASSACHUSETTS
+zip,01887
+dcfDiff,63.52
+dcf,233.88
+image,https://financialmodelingprep.com/image-stock/CRL.jpg
+ipoDate,2000-06-23
+defaultImage,True

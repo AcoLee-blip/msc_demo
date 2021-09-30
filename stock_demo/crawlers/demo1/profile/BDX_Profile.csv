@@ -1,0 +1,33 @@
+,0
+symbol,BDX
+price,240.21
+beta,0.84193
+volAvg,1428350
+mktCap,69629436000
+lastDiv,3.16
+range,197.75-286.72
+changes,-2.95
+companyName,Becton Dickinson and Co
+currency,USD
+cik,0000010795
+isin,US0758871091
+cusip,075887109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Instruments & Supplies
+website,http://www.bd.com/
+description,"Becton, Dickinson & Co. is a medical technology company. The company is headquartered in Franklin Lakes, New Jersey and currently employs 70,093 full-time employees. The firm operates through two segments: BD Medical and BD Life Sciences. The BD Medical segment produces an array of medical technologies and devices that are used to help improve healthcare delivery in a range of settings. BD Medical consists of various business units, including diabetes care, medication and procedural solutions, medication management solutions and pharmaceutical systems. The BD Life Sciences segment provides products for the safe collection and transport of diagnostics specimens, and instruments and reagent systems to detect a range of infectious diseases, healthcare-associated infections and cancers. The firm's BD Life Sciences segment consists of various business units, including preanalytical systems, diagnostic systems and biosciences."
+ceo,Mr. Thomas Polen
+sector,Healthcare
+country,US
+fullTimeEmployees,70093
+phone,12018476800
+address,1 Becton Dr
+city,Franklin Lakes
+state,NEW JERSEY
+zip,07417
+dcfDiff,
+dcf,238.351
+image,https://financialmodelingprep.com/image-stock/BDX.png
+ipoDate,1963-09-25
+defaultImage,False

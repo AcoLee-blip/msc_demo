@@ -1,0 +1,33 @@
+,0
+symbol,EMR
+price,75.49
+beta,1.53637
+volAvg,2620904
+mktCap,45112218000
+lastDiv,2.505
+range,37.75-78.38
+changes,1.26
+companyName,Emerson Electric Co
+currency,USD
+cik,0000032604
+isin,US2910111044
+cusip,291011104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,https://www.emerson.com/en-us
+description,"Emerson Electric Co. engages in the provision of measurement and analytical instrumentation; industrial valves & equipment; process control systems, tools & appliance solutions for customers in a range of industrial, commercial and consumer markets. The company is headquartered in St. Louis, Missouri and currently employs 88,000 full-time employees. The firm operates through four segments based on the nature of the products and services rendered: Process Management, Industrial Automation, Climate Technologies and Commercial & Residential Solutions. The firm's principal production operations are electronics assembly, metal stamping, forming, casting, machining, welding, plating, heat treating, painting and assembly. In addition, the Company uses specialized production operations, including automatic and semiautomatic testing, automated material handling and storage, ferrous and nonferrous machining, and special furnaces for heat treating and foundry applications. The firm provides measurement, control and diagnostic technologies for automated industrial processes."
+ceo,Mr. David Farr
+sector,Industrials
+country,US
+fullTimeEmployees,88000
+phone,13145532000
+address,"8000 W Florissant Ave, PO Box 4100"
+city,St. Louis
+state,MISSOURI
+zip,63136
+dcfDiff,-39.33
+dcf,71.6173
+image,https://financialmodelingprep.com/image-stock/EMR.jpg
+ipoDate,1944-09-05
+defaultImage,True

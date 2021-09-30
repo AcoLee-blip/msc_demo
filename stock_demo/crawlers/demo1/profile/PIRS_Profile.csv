@@ -1,0 +1,33 @@
+,0
+symbol,PIRS
+price,2.725
+beta,1.51597
+volAvg,390132
+mktCap,152519872
+lastDiv,0.0
+range,1.6-4.3
+changes,0.075
+companyName,Pieris Pharmaceuticals Inc
+currency,USD
+cik,0001583648
+isin,US7207951036
+cusip,720795103
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.pieris.com/
+description,"Pieris Pharmaceuticals, Inc. is a clinical-stage biotechnology company, which engages in the discovery and development of Anticalin-based drugs. The company is headquartered in Boston, Massachusetts and currently employs 107 full-time employees. The firm's pipeline includes immuno-oncology multi-specifics tailored for the tumor micro-environment, an inhaled Anticalin to treat uncontrolled asthma and a half-life-optimized Anticalin to treat anemia. Its Anticalins proteins are a class of low molecular-weight therapeutic proteins derived from lipocalins, which are naturally occurring low-molecular weight human proteins typically found in blood plasma and other bodily fluids. The company is focused on developing three drug candidates, which include PRS-080, PRS-060 and PRS-300 series. Its PRS-080 is an Anticalin drug candidate targeting hepcidin. The firm's second Anticalin drug candidate, PRS-060, binds to the IL-4 receptor alpha-chain (IL-4RA), thereby inhibiting the actions of IL-4 and IL-13, two cytokines known to be mediators in the inflammatory cascade that causes asthma and other inflammatory diseases. PRS-343 is an Anticalin-based drug candidate."
+ceo,Mr. Stephen Yoder
+sector,Healthcare
+country,US
+fullTimeEmployees,114
+phone,18572468998
+address,255 State St Fl 9
+city,Boston
+state,MASSACHUSETTS
+zip,02109
+dcfDiff,-2.92
+dcf,3.38483
+image,https://financialmodelingprep.com/image-stock/PIRS.png
+ipoDate,2014-12-18
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,JOE
+price,29.25
+beta,1.26209
+volAvg,212252
+mktCap,1722313090
+lastDiv,0.07
+range,15.32-31.4
+changes,0.05
+companyName,St. Joe Co
+currency,USD
+cik,0000745308
+isin,US7901481009
+cusip,790148100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Real Estate Diversified
+website,http://www.joe.com/
+description,"The St. Joe Co. engages in the real estate development and management business. The company is headquartered in Watersound, Florida and currently employs 53 full-time employees. The firm operates through five segments: residential real estate; commercial real estate; resorts and leisure; leasing operations, and forestry. Its residential real estate segment plans and develops primary residential and resort residential communities of various sizes on its existing land. Its commercial real estate segment plans, develops, manages and sells real estate. Resorts and leisure segment features a portfolio of vacation rentals and hotel operations, as well as golf courses, a beach club, marinas and other related resort amenities. Its leasing operations business includes its retail and commercial leasing. Its forestry segment focuses on the management of its timber holdings in Northwest Florida."
+ceo,Mr. Jorge Gonzalez
+sector,Real Estate
+country,US
+fullTimeEmployees,55
+phone,18502316400
+address,133 S Watersound Pkwy
+city,WaterSound
+state,FLORIDA
+zip,32461
+dcfDiff,-15.3
+dcf,29.2055
+image,https://financialmodelingprep.com/image-stock/JOE.png
+ipoDate,1990-03-23
+defaultImage,False

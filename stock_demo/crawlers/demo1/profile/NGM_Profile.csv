@@ -1,0 +1,33 @@
+,0
+symbol,NGM
+price,19.5
+beta,0.0
+volAvg,159687
+mktCap,1342142080
+lastDiv,0.0
+range,9.245-23.95
+changes,0.43
+companyName,NGM Biopharmaceuticals Inc
+currency,USD
+cik,0001426332
+isin,US62921N1054
+cusip,62921N105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.ngmbio.com/
+description,"NGM Biopharmaceuticals, Inc. is a clinical-stage biopharmaceutical company, which engages in the discovery and development of therapeutics for cardio-metabolic, liver, oncologic, and ophthalmic diseases. The company is headquartered in South San Francisco, California and currently employs 164 full-time employees. The Company’s product candidates include NGM282, NGM313, NGM386, NGM395, NGM120, NGM217 and NGM621. NGM282 is an engineered variant of the human hormone known as FGF19, which the Company is developing for the treatment of non-alcoholic steatohepatitis (NASH). NGM313 is an agonistic antibody selectively activating fibroblast growth factor receptor 1c-beta-klotho and has the potential as an insulin sensitizer for the treatment of type two diabetes and NASH. NGM386 and NGM395 are engineered variants of the human hormone known as GDF15, which is developed for the treatment of obesity. NGM120 is an antagonistic antibody binding glial cell-derived neurotrophic factor receptor alpha-like, or GFRAL, that is designed to inhibit the effects of elevated GDF15 levels on cancer anorexia/cachexia syndrome, and cancer."
+ceo,Mr. David Woodhouse
+sector,Healthcare
+country,US
+fullTimeEmployees,186
+phone,16502435555
+address,333 Oyster Point Blvd
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,21.4629
+image,https://financialmodelingprep.com/image-stock/NGM.png
+ipoDate,2019-04-04
+defaultImage,False

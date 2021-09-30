@@ -1,0 +1,33 @@
+,0
+symbol,UBX
+price,4.67
+beta,0.0
+volAvg,1555056
+mktCap,247104656
+lastDiv,0.0
+range,2.72-15.44
+changes,-0.06
+companyName,UNITY Biotechnology Inc
+currency,USD
+cik,0001463361
+isin,US91381U1016
+cusip,91381U101
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://unitybiotechnology.com/
+description,"Unity Biotechnology, Inc. operates as a biotechnology company engaged in the research and development of therapeutics to extend the human health span. The company is headquartered in Brisbane California, California and currently employs 103 full-time employees. The firm develops therapeutics for age-associated diseases such as arthritis, vision loss, and cognitive decline. The company develops a range of Senolytic medicines that eliminate senescent cells and stop the production of Senescence Associated Secretory Phenotype. Its pipelines of products that target cellular senescence are in its clinical development stage. Its lead products candidates include senolytic molecules, UBX0101 and UBX1967, designed for local treatment for the removal of accumulated senescent cells.UBX0101 is a drug candidate developed for musculoskeletal diseases targeting osteoarthritis. The company is a inhibitor of the MDM2/p53 protein interaction that eliminates senescent cells. UBX1967 is targeted at ophthalmologic diseases. The company is a senolytic small molecule inhibitor of specific members of the Bcl-2 family of apoptosis regulatory proteins."
+ceo,Dr. Anirvan Ghosh
+sector,Healthcare
+country,US
+fullTimeEmployees,94
+phone,16504161192
+address,3280 Bayshore Blvd
+city,Brisbane California
+state,CALIFORNIA
+zip,94005
+dcfDiff,
+dcf,4.73898
+image,https://financialmodelingprep.com/image-stock/UBX.png
+ipoDate,2018-05-03
+defaultImage,False

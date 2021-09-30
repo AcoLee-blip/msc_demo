@@ -1,0 +1,33 @@
+,0
+symbol,LMT
+price,372.11
+beta,0.95212
+volAvg,1170713
+mktCap,104110424000
+lastDiv,9.6
+range,266.11-442.53
+changes,4.22
+companyName,Lockheed Martin Corp
+currency,USD
+cik,0000936468
+isin,US5398301094
+cusip,539830109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Aerospace & Defense
+website,http://www.lockheedmartin.com
+description,"Lockheed Martin Corp. operates as a global security and aerospace company, which engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services. The company is headquartered in Bethesda, Maryland and currently employs 105,000 full-time employees. The firm operates through four segments. Aeronautics segment is engaged in the research, design, development, manufacture, integration, sustainment, support and upgrade of military aircraft, including combat and air mobility aircraft, unmanned air vehicles and related technologies. Missiles and Fire Control segment provides air and missile defense systems; fire control systems; manned and unmanned ground vehicles, and energy management solutions. Rotary and Mission Systems segment provides design, manufacture, service and support for a range of military and civil helicopters; mission systems and sensors for rotary and fixed-wing aircraft; simulation and training services, and unmanned systems and technologies, among others. Space Systems segment is engaged in the research and development, design, engineering and production of satellites, strategic and defensive missile systems and space transportation systems."
+ceo,Ms. Marillyn Hewson
+sector,Industrials
+country,US
+fullTimeEmployees,110000
+phone,13018976000
+address,6801 ROCKLEDGE DR
+city,Bethesda
+state,MARYLAND
+zip,20817
+dcfDiff,
+dcf,372.475
+image,https://financialmodelingprep.com/image-stock/LMT.png
+ipoDate,1961-10-11
+defaultImage,False

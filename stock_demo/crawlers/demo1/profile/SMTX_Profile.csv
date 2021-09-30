@@ -1,0 +1,33 @@
+,0
+symbol,SMTX
+price,4.07
+beta,1.42653
+volAvg,87796
+mktCap,119132976
+lastDiv,0.0
+range,1.32-4.19
+changes,0.09
+companyName,SMTC Corp
+currency,USD
+cik,0001108320
+isin,US8326822074
+cusip,832682207
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Electronic Components
+website,http://www.smtc.com/en/default.aspx
+description,"SMTC Corp. engages in the provision of end-to-end electronics manufacture services. The company is headquartered in Markham, Ontario and currently employs 3,291 full-time employees. The firm's manufacturing services include product design and sustaining engineering services, printed circuit board assembly (PCBA), production, enclosure fabrication, systems integration and testing services, configuration to order, build to order and direct order fulfillment. Its geographic segments include the United States, Mexico and China. SMTC offers integrated contract manufacturing services to global original equipment manufacturers and technology companies primarily within the industrial, networking and computing, communications and medical market sectors. SMTC offers over three vertically integrated manufacturing streams, such as enclosures and precision metal fabrication products, PCBA products and larger-scale systems. For each of these streams, SMTC provides a range of manufacturing services, from assembly, test to system level test and end customer order fulfillment."
+ceo, Edward Smith
+sector,Technology
+country,CA
+fullTimeEmployees,2805
+phone,19054791810
+address,7050 Woodbine Ave Suite 300
+city,Markham
+state,ONTARIO
+zip,L3R 4G8
+dcfDiff,-3.47
+dcf,3.71314
+image,https://financialmodelingprep.com/image-stock/SMTX.png
+ipoDate,2000-07-21
+defaultImage,False

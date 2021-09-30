@@ -1,0 +1,33 @@
+,0
+symbol,JNPR
+price,21.65
+beta,0.8783
+volAvg,3333493
+mktCap,7138784300
+lastDiv,0.79
+range,15.2-26.49
+changes,0.33
+companyName,Juniper Networks Inc
+currency,USD
+cik,0001043604
+isin,US48203R1041
+cusip,48203R104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Communication Equipment
+website,https://www.juniper.net/
+description,"Juniper Networks, Inc. engages in the design, development, and sale of products and services for high-performance networks. The company is headquartered in Sunnyvale, California and currently employs 9,283 full-time employees. The firm sells its products in over 100 countries in three geographic regions: Americas; Europe, the Middle East and Africa, and Asia Pacific. The firm sells its high-performance network products and service offerings across routing, switching and security. Its products address network requirements for global service providers, cloud providers, national governments, research and public sector organizations, and other enterprises. The firm offers its customers various services, including technical support, professional services, education and training programs. The firm's Junos Platform enables its customers to expand network software into the application space, and deploy software clients to control delivery. The Junos Platform includes a range of products, such as Junos Operating System (OS) and Junos Space."
+ceo,Mr. Rami Rahim
+sector,Technology
+country,US
+fullTimeEmployees,9419
+phone,14087452000
+address,1133 Innovation Way
+city,Sunnyvale
+state,CALIFORNIA
+zip,94089
+dcfDiff,34.57
+dcf,25.3417
+image,https://financialmodelingprep.com/image-stock/JNPR.png
+ipoDate,2009-10-29
+defaultImage,False

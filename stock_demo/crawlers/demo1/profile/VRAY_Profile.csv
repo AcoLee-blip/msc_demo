@@ -1,0 +1,33 @@
+,0
+symbol,VRAY
+price,3.9
+beta,0.72833
+volAvg,778158
+mktCap,579150020
+lastDiv,0.0
+range,1.106-4.88
+changes,0.3
+companyName,ViewRay Inc
+currency,USD
+cik,0001597313
+isin,US92672L1070
+cusip,92672L107
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,http://www.viewray.com/
+description,"ViewRay, Inc. designs, manufactures and markets magnetic resonance imaging (MRI) system. The company is headquartered in Oakwood Village, Ohio and currently employs 221 full-time employees. The MRIdian is a system that integrates high quality radiation therapy with simultaneous magnetic resonance imaging (MRI). The company provides two generations of the MRIdian: the first generation MRIdian with Cobalt-60 based radiation beams and the second generation MRIdian Linac, with linear accelerator (linac) based radiation beams. The MRIdian combines MRI and external-beam radiation therapy to simultaneously image and treat cancer patients. MRIdian also records the level of radiation dose that the treatment area has received. MRIdian system is comprised of three components: the MRI system, the radiation delivery system and an integrated treatment planning and delivery software. The MRI system is the component of MRIdian that captures soft tissue images of the patient’s body. Its MRI system captures and displays live images in one plane, four times per second or in three planes, two times per second."
+ceo,Mr. Scott Drake
+sector,Healthcare
+country,US
+fullTimeEmployees,309
+phone,14407033210
+address,2 Thermo Fisher Way
+city,Oakwood Village
+state,OHIO
+zip,44146
+dcfDiff,-7.02
+dcf,5.35332
+image,https://financialmodelingprep.com/image-stock/VRAY.png
+ipoDate,2014-11-04
+defaultImage,False

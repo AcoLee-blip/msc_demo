@@ -1,0 +1,33 @@
+,0
+symbol,AXP
+price,111.1
+beta,1.19997
+volAvg,4360320
+mktCap,89457943000
+lastDiv,1.72
+range,67.0-138.13
+changes,-0.02
+companyName,American Express Co
+currency,USD
+cik,0000004962
+isin,US0258161092
+cusip,025816109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Credit Services
+website,https://www.americanexpress.com
+description,"American Express Co. engages in the provision of charge and credit card products, and travel-related services. The company is headquartered in New York City, New York and currently employs 59,000 full-time employees. The firm's principal products and services are charge and credit card products, and travel-related services offered to consumers and businesses around the world. The firm's segments include the Global Consumer Services Group (GCSG), Global Merchant and Network Services (GMNS), and Global Commercial Services (GCS). The firm's range of products and services includes network services; merchant acquisition and processing, servicing and settlement, and point-of-sale marketing and information products and services for merchants; other fee services, including fraud prevention services and the design and operation of customer loyalty programs; expense management products and services, and stored value/prepaid products."
+ceo,Mr. Stephen Squeri
+sector,Financial Services
+country,US
+fullTimeEmployees,59000
+phone,12126402000
+address,200 Vesey St Fl 50
+city,New York City
+state,NEW YORK
+zip,10285
+dcfDiff,-132.07
+dcf,130.264
+image,https://financialmodelingprep.com/image-stock/AXP.png
+ipoDate,1977-05-18
+defaultImage,False

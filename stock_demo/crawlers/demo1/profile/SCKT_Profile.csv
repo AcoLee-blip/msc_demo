@@ -1,0 +1,33 @@
+,0
+symbol,SCKT
+price,2.195
+beta,0.99541
+volAvg,3402075
+mktCap,13346302
+lastDiv,0.0
+range,0.76-4.5
+changes,-0.135
+companyName,Socket Mobile Inc
+currency,USD
+cik,0000944075
+isin,US83368E2000
+cusip,83368E200
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.socketmobile.com/
+description,"Socket Mobile, Inc. engages in the development and production of mobile systems solutions. The company is headquartered in Newark California, California and currently employs 56 full-time employees. The firm's products are integrated into mobile applications used in mobile point of sale (mPOS), hospitality, asset management, commercial services, healthcare and other mobile business markets. The firm operates through mobile systems solutions for businesses segment. Its cordless barcode scanners connect over Bluetooth and work with applications running on smartphones, mobile computers and tablets using various operating systems. The company offers a software developer kit (SDK) to mobile application developers to enable the use of its products with their applications. The firm offers barcode scanning products for both one-dimensional (1D), including imager and laser, and two-dimensional (2D) barcode scanning in standard and durable cases. Its 7 Series barcode scanners are designed for handling as a stand-alone cordless barcode scanner. Its D700 series barcode scanners are used in linear imaging, laser and 2D models."
+ceo,Mr. Kevin Mills
+sector,Technology
+country,US
+fullTimeEmployees,56
+phone,15109333000
+address,39700 Eureka Dr
+city,Newark California
+state,CALIFORNIA
+zip,94560
+dcfDiff,-2.04
+dcf,1.67446
+image,https://financialmodelingprep.com/image-stock/SCKT.png
+ipoDate,1995-06-07
+defaultImage,False

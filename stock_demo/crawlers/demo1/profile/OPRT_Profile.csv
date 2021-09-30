@@ -1,0 +1,33 @@
+,0
+symbol,OPRT
+price,16.52
+beta,0.0
+volAvg,74967
+mktCap,455671168
+lastDiv,0.0
+range,5.26-25.84
+changes,0.71
+companyName,Oportun Financial Corp
+currency,USD
+cik,0001538716
+isin,US68376D1046
+cusip,68376D104
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Credit Services
+website,
+description,"Oportun Financial Corp. is a holding company, which engages in the provision of financial services for customers with credit invisibles. The company is headquartered in San Carlos, California and currently employs 1,474 full-time employees. The platform and application of machine learning enables the Company to provide loans. The firm offers an amortizing installment loans with fixed payments and fixed interest rates throughout the life of the loan. The firm offers personal loans, auto loans and OportunPath. OportunPath provides account updates. The company enables its customers to complete a loan application online via a mobile phone, tablet, or computer. The company also provides prepaid debit cards. The firm operates in approximately 12 states, including California, Texas, Illinois, Utah, Nevada, Arizona, Missouri, New Mexico, Florida, Wisconsin, Idaho and New Jersey."
+ceo,Mr. Raul Vazquez
+sector,Financial Services
+country,US
+fullTimeEmployees,1578
+phone,16508108823
+address,2 Circle Star Way
+city,San Carlos
+state,CALIFORNIA
+zip,94070
+dcfDiff,
+dcf,20.9469
+image,https://financialmodelingprep.com/image-stock/OPRT.jpg
+ipoDate,2019-09-26
+defaultImage,True

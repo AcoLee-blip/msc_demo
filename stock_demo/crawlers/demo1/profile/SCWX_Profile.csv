@@ -1,0 +1,33 @@
+,0
+symbol,SCWX
+price,11.19
+beta,1.12631
+volAvg,104546
+mktCap,919696060
+lastDiv,0.0
+range,5.29-18.23
+changes,0.33
+companyName,SecureWorks Corp
+currency,USD
+cik,0001468666
+isin,US81374A1051
+cusip,81374A105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,
+description,"SecureWorks Corp. is a cyber security company, which delivers information security solutions. The company is headquartered in Atlanta, Georgia and currently employs 2,663 full-time employees. The firm provides intelligence-driven information security solutions. The firm is focused on protecting the Company's clients from cyber-attacks. The firm's solutions enable companies to fortify their cyber defenses to prevent security breaches, detect malicious activity in real time, prioritize and respond to security incidents, and predict emerging threats. The firm offered managed security and threat intelligence on a subscription basis under contracts with initial terms that typically range from one to three years and, as of February 3, 2017. The firm's integrated suite of solutions includes Managed security, Threat intelligence, Security and risk consulting and Incident response."
+ceo,Mr. Michael Cote
+sector,Technology
+country,US
+fullTimeEmployees,2663
+phone,14049291810
+address,1 Concourse Pkwy Ste 500
+city,Atlanta
+state,GEORGIA
+zip,30328
+dcfDiff,-26.31
+dcf,13.4171
+image,https://financialmodelingprep.com/image-stock/SCWX.jpg
+ipoDate,2016-04-22
+defaultImage,True

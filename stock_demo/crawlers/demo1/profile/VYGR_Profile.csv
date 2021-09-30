@@ -1,0 +1,33 @@
+,0
+symbol,VYGR
+price,8.55
+beta,1.81876
+volAvg,231944
+mktCap,320332608
+lastDiv,0.0
+range,6.26-15.26
+changes,-0.08
+companyName,Voyager Therapeutics Inc
+currency,USD
+cik,0001640266
+isin,US92915B1061
+cusip,92915B106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.voyagertherapeutics.com/
+description,"Voyager Therapeutics, Inc. operates as a clinical-stage gene therapy company, which develops treatments for patients suffering from central nervous system. The company is headquartered in Cambridge, Massachusetts and currently employs 123 full-time employees. The firm focuses on developing treatments for patients suffering from severe diseases of the central nervous system (CNS). The firm's pipeline consists of programs for CNS indications, including advanced Parkinson's disease; a monogenic form of amyotrophic lateral sclerosis (ALS); Huntington's disease; Friedreich's ataxia; frontotemporal dementia/Alzheimer's disease, and severe chronic pain. The firm's clinical candidate, VY-AADC01, is an adeno-associated virus (AAV) gene therapy product candidate, for the treatment of advanced Parkinson's disease. VY-AADC01 consists of the AAV2 capsid, which has been used in multiple AAV gene therapy clinical trials for various diseases, and the cytomegalovirus promoter that drives expression of the aromatic L-amino acid decarboxylase (AADC) transgene. Its pipeline also includes VY-SOD101, VY-FXN01, VY-HTT01, VY-TAU01 and VY-NAV01."
+ceo,Mr. G. Andre Turenne
+sector,Healthcare
+country,US
+fullTimeEmployees,185
+phone,18572595340
+address,75 Sidney St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,-21.13
+dcf,13.3568
+image,https://financialmodelingprep.com/image-stock/VYGR.png
+ipoDate,2015-11-11
+defaultImage,False

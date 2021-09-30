@@ -1,0 +1,33 @@
+,0
+symbol,ATRA
+price,18.12
+beta,2.27121
+volAvg,815975
+mktCap,1408183300
+lastDiv,0.0
+range,4.52-19.36
+changes,2.38
+companyName,Atara Biotherapeutics Inc
+currency,USD
+cik,0001604464
+isin,US0465131078
+cusip,046513107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.atarabio.com/
+description,"Atara Biotherapeutics, Inc. operates as a clinical stage company, which engages in the development of novel therapeutics for patients with cancer, autoimmune, and viral diseases. The company is headquartered in South San Francisco, California and currently employs 372 full-time employees. The firm is focused on developing therapies for patients with severe and life-threatening diseases. The firm operates through the business of developing and commercializing therapeutics segment. The firm is focused on developing allogeneic or third-party derived antigen-specific T-cells. T-cells are a type of white blood cell. The firm's product candidate, ATA129, is a third-party derived Epstein-Barr virus CTL for the treatment of Epstein-Barr virus (EBV). ATA188 is in development for the treatment of multiple sclerosis. ATA520, which is a third-party donor derived WT1-CTL, targets cancers expressing the antigen Wilms Tumor 1 (WT1). ATA520 is in Phase I clinical trials. The firm's T-cell product candidate, ATA230, which is a third-party derived cytomegalovirus-CTL (CMV-CTL), is in Phase II clinical trials for refractory CMV."
+ceo,Dr. Pascal Touchon
+sector,Healthcare
+country,US
+fullTimeEmployees,409
+phone,16502788930
+address,611 Gateway Blvd Ste 900
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,-33.35
+dcf,15.1484
+image,https://financialmodelingprep.com/image-stock/ATRA.jpg
+ipoDate,2014-10-16
+defaultImage,True

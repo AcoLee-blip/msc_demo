@@ -1,0 +1,33 @@
+,0
+symbol,CEVA
+price,40.04
+beta,1.3463
+volAvg,123835
+mktCap,890898050
+lastDiv,0.0
+range,20.45-46.5
+changes,-0.82
+companyName,CEVA Inc
+currency,USD
+cik,0001173489
+isin,US1572101053
+cusip,157210105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.ceva-dsp.com/
+description,"CEVA, Inc. engages in the licensing of signal processing platforms and artificial intelligence processors to chip manufacturers. The company is headquartered in Mountain View, California and currently employs 341 full-time employees. The firm partners with semiconductor companies and original equipment manufacturers (OEMs) to create connected devices for a range of end markets, including mobile, consumer, automotive, industrial and Internet of things (IoT). The firm operates in the segment of licensing of intellectual property to semiconductor companies and electronic equipment manufacturers. CEVA addresses the requirements of the mobile, consumer, automotive, industrial and IoT markets by designing and licensing a range of application-specific signal processing platforms, which enable the design of solutions for developing a range of applications, including communications and connectivity, audio and voice, imaging and vision, and storage."
+ceo,Mr. Gideon Wertheizer
+sector,Technology
+country,US
+fullTimeEmployees,382
+phone,16504177900
+address,1174 Castro St Ste 210
+city,Mountain View
+state,CALIFORNIA
+zip,94040
+dcfDiff,-13.7
+dcf,44.2015
+image,https://financialmodelingprep.com/image-stock/CEVA.png
+ipoDate,2002-11-01
+defaultImage,False

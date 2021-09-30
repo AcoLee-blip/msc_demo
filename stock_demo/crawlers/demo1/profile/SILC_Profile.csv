@@ -1,0 +1,33 @@
+,0
+symbol,SILC
+price,36.395
+beta,0.98132
+volAvg,11967
+mktCap,261160704
+lastDiv,0.0
+range,20.93-39.52
+changes,0.125
+companyName,Silicom Ltd
+currency,USD
+cik,0000916793
+isin,IL0010826928
+cusip,M84116108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.silicom-usa.com
+description,"Silicom Ltd. engages in the provision of networking and data infrastructure solutions. The firm's products include server network interface cards with and without bypass (Server Adapters); Intelligent and programmable cards, with features, such as encryption, acceleration, data compression, redirection, time stamping, network capture solutions, field programmable gate array (FPGA) based ultra-low latency solutions, and/or other offload features and/or compute blades (Smart Cards), and standalone Products. The firm's market segments for its products include network appliances; servers; data storage, including Big Data; The Cloud, virtualized data centers, with and without software-defined networking (SDN), and Internet of Things (IOT)."
+ceo,Mr. Yeshayahu Orbach
+sector,Technology
+country,IL
+fullTimeEmployees,260
+phone,97297644555
+address,14 Atir Yeda St.
+city,KFAR SAVA
+state,
+zip,4464323
+dcfDiff,17.96
+dcf,39.7917
+image,https://financialmodelingprep.com/image-stock/SILC.jpg
+ipoDate,2005-12-27
+defaultImage,True

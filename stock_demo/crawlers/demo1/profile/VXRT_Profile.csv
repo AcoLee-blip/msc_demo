@@ -1,0 +1,33 @@
+,0
+symbol,VXRT
+price,5.07
+beta,-0.07956
+volAvg,17743464
+mktCap,555007870
+lastDiv,0.0
+range,0.27-17.49
+changes,-0.24
+companyName,Vaxart Inc
+currency,USD
+cik,0000072444
+isin,US92243A2006
+cusip,92243A200
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://vaxart.com/
+description,"Vaxart, Inc. operates as a clinical-stage biotechnology company, which engages in the development of oral recombinant vaccines. The company is headquartered in South San Francisco, California and currently employs 28 full-time employees. The firm has three product candidates in clinical development that address viral infections that have limited therapeutic options. Its products include vapendavir, an oral treatment for human rhinovirus (HRV) upper respiratory infections in moderate-to-severe asthmatics in Phase IIb SPIRITUS trial; BTA585, an oral fusion (F) protein inhibitor in Phase II development for the treatment and prevention of respiratory syncytial virus (RSV) infections, and BTA074, a topical antiviral treatment in Phase II development for condyloma caused by human papillomavirus Types 6 and 11. The company has preclinical RSV non-fusion inhibitor program. The company has focused its research and drug development capabilities on discovering and developing small molecule compounds that can prevent or treat infectious diseases."
+ceo,Dr. Wouter Latour
+sector,Healthcare
+country,US
+fullTimeEmployees,28
+phone,16505503500
+address,"385 Oyster Point Boulevard, Suite 9A"
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,5.82709
+image,https://financialmodelingprep.com/image-stock/VXRT.jpg
+ipoDate,1980-03-17
+defaultImage,True

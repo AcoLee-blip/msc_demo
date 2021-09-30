@@ -1,0 +1,33 @@
+,0
+symbol,SWIR
+price,11.33
+beta,2.36186
+volAvg,183158
+mktCap,415847264
+lastDiv,0.0
+range,4.31-14.37
+changes,0.53
+companyName,Sierra Wireless Inc
+currency,USD
+cik,0001111863
+isin,CA8265161064
+cusip,826516106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.sierrawireless.com/
+description,"Sierra Wireless, Inc. engages in the provision of device-to-cloud and networking solutions. The company is headquartered in Richmond British Columbia, British Columbia and currently employs 1,400 full-time employees. The firm's OEM Solution segment offers cellular embedded wireless modules for IoT connectivity, including an embedded application framework to support customer applications. The firm's Enterprise Solution segment offers intelligent routers and gateways, including management tools and applications that enable cellular connectivity. The firm's Cloud and Connectivity Services segment offers a cloud based platform for deploying and managing IoT applications, Smart SIM supported by mobile core networks, and managed wireless broadband services to enable customer IoT deployments. The firm offers a portfolio of second generation, third generation, and fourth generation cellular embedded wireless modules and gateways, integrated with its secure cloud and connectivity services. The firm offers its products to original equipment manufacturers (OEMs) and enterprises."
+ceo,Mr. Kent Thexton
+sector,Technology
+country,CA
+fullTimeEmployees,1280
+phone,16042311100
+address,13811 Wireless Way
+city,Richmond British Columbia
+state,BRITISH COLUMBIA
+zip,V6V 3A4
+dcfDiff,-3.75
+dcf,14.2125
+image,https://financialmodelingprep.com/image-stock/SWIR.png
+ipoDate,1999-05-17
+defaultImage,False

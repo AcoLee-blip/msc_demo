@@ -1,0 +1,33 @@
+,0
+symbol,CASA
+price,4.49
+beta,0.584937
+volAvg,275723
+mktCap,375023648
+lastDiv,0.0
+range,1.85-6.1
+changes,-0.08
+companyName,Casa Systems Inc
+currency,USD
+cik,0001333835
+isin,US14713L1026
+cusip,14713L102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.casa-systems.com/
+description,"Casa Systems, Inc. engages in the provision and development of digital cable video and broadband services. The company is headquartered in Andover, Massachusetts and currently employs 743 full-time employees. In addition, the Company offers solutions for next-generation distributed and virtualized architectures in cable operator, fixed telecom and wireless networks. Its products include axyom software platform, delivery platforms, multi-service applications, capacity expansion products. The firm offers a range of solutions including addition of critical bandwidth capacity, flexibility to add new and expand existing services, ability to upgrade networks remotely, reduced network complexity, ability to densify networks, and common platform capabilities to address the needs of both fixed and wireless networks."
+ceo,Mr. Jerry Guo
+sector,Technology
+country,US
+fullTimeEmployees,997
+phone,19786886706
+address,100 River Rd Ste 100
+city,Andover
+state,MASSACHUSETTS
+zip,01810
+dcfDiff,-86.79
+dcf,5.7052
+image,https://financialmodelingprep.com/image-stock/CASA.png
+ipoDate,2017-12-15
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,XAIR
+price,5.44
+beta,-0.225457
+volAvg,143181
+mktCap,93280768
+lastDiv,0.0
+range,3.45-12.5
+changes,0.12
+companyName,Beyond Air Inc
+currency,USD
+cik,0001641631
+isin,US08862L1035
+cusip,08862L103
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,http://www.ait-pharm.com
+description,"Beyond Air, Inc. is a clinical-stage medical device and biopharmaceutical company. The company is headquartered in Garden City, New York and currently employs 18 full-time employees. The firm is focused on developing a nitric oxide (NO) generator and delivery system that generates NO from ambient air. The Beyond Air NOGDS is designed to deliver a dosage of NO to the lungs. The firm focuses on areas, such as persistent pulmonary hypertension of the newborn (PPHN), bronchiolitis (BRO) and nontuberculous mycobacteria (NTM). Its Beyond Air NOGDS also delivers a high concentration of NO to the lungs. The Company’s products include Beyond Air- PH, Beyond Air- BRO and Beyond Air- NTM."
+ceo,Mr. Steven Lisi
+sector,Healthcare
+country,US
+fullTimeEmployees,18
+phone,15166658200
+address,825 E Gate Blvd Ste 320
+city,Garden City
+state,NEW YORK
+zip,11530
+dcfDiff,
+dcf,7.75335
+image,https://financialmodelingprep.com/image-stock/XAIR.png
+ipoDate,2019-05-07
+defaultImage,False

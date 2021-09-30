@@ -1,0 +1,33 @@
+,0
+symbol,MYOK
+price,224.81
+beta,2.17083
+volAvg,1183063
+mktCap,11987520500
+lastDiv,0.0
+range,42.65-224.84
+changes,0.07
+companyName,MyoKardia Inc
+currency,USD
+cik,0001552451
+isin,US62857M1053
+cusip,62857M105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.myokardia.com/
+description,"MyoKardia, Inc. is a clinical-stage biopharmaceutical company, which engages in the discovery, commercialization, and development of therapies for the treatment of cardiovascular diseases. The company is headquartered in South San Francisco, California and currently employs 220 full-time employees. The firm focuses on the treatment of heritable cardiomyopathies, a group of rare, genetically-driven forms of heart failure that result from biomechanical defects in cardiac muscle contraction. The firm is engaged in the business of developing and commercializing therapeutics. The firm has used its precision medicine platform to generate an initial pipeline of over four therapeutic programs for the chronic treatment of two forms of heritable cardiomyopathy-hypertrophic cardiomyopathy (HCM), and dilated cardiomyopathy (DCM). Additionally, the Company has three preclinical programs, HCM-2, DCM-2 and LUS-1. Its lead product candidate, MYK-461, is an orally-administered small molecule designed to reduce excessive cardiac muscle contractility leading to HCM."
+ceo,Mr. Tassos Gianakakos
+sector,Healthcare
+country,US
+fullTimeEmployees,246
+phone,16507410900
+address,1000 Sierra Point Parkway
+city,Brisbane California
+state,CALIFORNIA
+zip,94080
+dcfDiff,-134.47
+dcf,224.666
+image,https://financialmodelingprep.com/image-stock/MYOK.png
+ipoDate,2015-10-29
+defaultImage,False

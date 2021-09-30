@@ -1,0 +1,33 @@
+,0
+symbol,ORCL
+price,56.905
+beta,0.77161
+volAvg,13424353
+mktCap,171334697000
+lastDiv,0.96
+range,39.71-62.6
+changes,0.455
+companyName,Oracle Corp
+currency,USD
+cik,0001341439
+isin,US68389X1054
+cusip,68389X105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.oracle.com/
+description,"Oracle Corp. engages in the provision of products and services that address all aspects of corporate information technology environments. The company is headquartered in Redwood City, California and currently employs 136,000 full-time employees. The firm's businesses include cloud and on-premise software, hardware and services. Its cloud and on-premise software business consists of three segments, including cloud software and on-premise software, which includes Software as a Service (SaaS) and Platform as a Service (PaaS) offerings, cloud infrastructure as a service (IaaS) and software license updates and product support. Its hardware business consists of two segments, including hardware products and hardware support. The firm's services business includes the remainder of the Company's segments. Its services business includes activities, such as consulting services, enhanced support services and education services, among others."
+ceo,Ms. Safra Catz
+sector,Technology
+country,US
+fullTimeEmployees,135000
+phone,16505067000
+address,500 Oracle Pkwy
+city,Redwood City
+state,CALIFORNIA
+zip,94065
+dcfDiff,-5.99
+dcf,70.9751
+image,https://financialmodelingprep.com/image-stock/ORCL.png
+ipoDate,2013-07-15
+defaultImage,False

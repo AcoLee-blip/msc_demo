@@ -1,0 +1,33 @@
+,0
+symbol,CVM
+price,12.45
+beta,2.4541
+volAvg,506086
+mktCap,480870048
+lastDiv,0.0
+range,6.35-18.0
+changes,0.36
+companyName,CEL-SCI Corp
+currency,USD
+cik,0000725363
+isin,US1508376076
+cusip,150837607
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Biotechnology
+website,http://www.cel-sci.com/
+description,"CEL-SCI Corp. is a biotechnology company, which engages in the research, development, and manufacture of investigational immunotherapy products for the treatment of cancer and infectious diseases. The company is headquartered in Vienna, Virginia and currently employs 43 full-time employees. The firm is focused on activating the immune system to fight cancer and infectious diseases. The company operates through the segment of research and development of certain drugs and vaccines. The company is focused on the development of Multikine (Leukocyte Interleukin, Injection), an investigational immunotherapy under development for treatment of certain head and neck cancers, and anal warts or cervical dysplasia in human immunodeficiency virus and human papillomavirus co-infected patients and Ligand Epitope Antigen Presentation System (L.E.A.P.S.) technology, with over two investigational therapies, LEAPS-H1N1-DC, a product candidate under development for treatment of pandemic influenza in hospitalized patients, and CEL-2000 and CEL-4000, vaccine product candidates under development for treatment of rheumatoid arthritis."
+ceo,Mr. Geert Kersten
+sector,Healthcare
+country,US
+fullTimeEmployees,43
+phone,17035069460
+address,8229 Boone Blvd Ste 802
+city,Vienna
+state,VIRGINIA
+zip,22182
+dcfDiff,
+dcf,13.0609
+image,https://financialmodelingprep.com/image-stock/CVM.png
+ipoDate,1983-12-08
+defaultImage,False

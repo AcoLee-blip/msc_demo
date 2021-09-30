@@ -1,0 +1,33 @@
+,0
+symbol,HLIT
+price,6.165
+beta,0.94118
+volAvg,669073
+mktCap,602615170
+lastDiv,0.0
+range,4.44-8.57
+changes,0.055
+companyName,Harmonic Inc
+currency,USD
+cik,0000851310
+isin,US4131601027
+cusip,413160102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.harmonicinc.com
+description,"Harmonic, Inc. engages in the development and sale of video delivery software, products, system solutions, and services. The company is headquartered in San Jose, California and currently employs 814 full-time employees. The firm has two segments: Video and Cable Edge. Harmonic provides technical support and professional services to its customers around the world. The Video segment sells video processing and production, and playout solutions and services to broadcast and media companies, streaming media companies, cable operators, and satellite and telecommunications (telco), and pay television (TV) service providers. Its Cable Edge business sells cable edge solutions and related services to cable operators around the world. The Video segment offers a range of products and solutions, as well as software-based media processing platforms. The firm's Narrowcast Services Gateway (NSG) products are integrated edge gateway products that integrate routing, multiplexing, scrambling and modulation into a single package for the delivery of narrowcast services to subscribers over cable networks."
+ceo,Dr. Patrick Harshman
+sector,Technology
+country,US
+fullTimeEmployees,807
+phone,14084906242
+address,4300 N 1st St
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,
+dcf,7.53888
+image,https://financialmodelingprep.com/image-stock/HLIT.png
+ipoDate,1995-05-22
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,VNET
+price,24.5
+beta,0.227
+volAvg,1456927
+mktCap,3256613380
+lastDiv,0.0
+range,6.31-30.44
+changes,0.44
+companyName,21Vianet Group Inc
+currency,CNY
+cik,0001508475
+isin,US90138A1034
+cusip,90138A103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,http://ir.21vianet.com/
+description,"21Vianet Group, Inc. engages in the provision of carrier-neutral internet data center services. The company is headquartered in Beijing, Beijing and currently employs 3,162 full-time employees. The firm hosts its customers' servers and networking equipment and provides interconnectivity. The firm also provides managed network services to enable customers to deliver data across the Internet through its data transmission network and smart routing technology. The firm provides value-added services, such as content delivery network (CDN) services, virtual private network (VPN) services and last-mile wired broadband services. The company offers public cloud services, private cloud and hybrid services. In addition, the Company also offers container-based data center service. The firm's service offerings include hosting and related services, and managed network services. The firm provides hosting and related services to house servers and networking equipment in its data centers and connects them through its data transmission network, and offers other hosting related value-added services."
+ceo,Mr. Shiqi Wang
+sector,Technology
+country,CN
+fullTimeEmployees,2295
+phone,861084562121
+address,"M5, 1 Jiuxianqiao East Road,Chaoyang Distric"
+city,Beijing
+state,BEIJING
+zip,100016
+dcfDiff,159.38
+dcf,29.953
+image,https://financialmodelingprep.com/image-stock/VNET.jpg
+ipoDate,2011-04-21
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,BB
+price,4.99
+beta,0.97769
+volAvg,4084676
+mktCap,2794629380
+lastDiv,0.0
+range,2.7-6.89
+changes,-0.2
+companyName,BlackBerry Ltd
+currency,USD
+cik,0001070235
+isin,CA09228F1036
+cusip,09228F103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.blackberry.com/
+description,"BlackBerry Ltd. engages in the provision of security software and services to enterprises and governments. The company is headquartered in Waterloo, Ontario and currently employs 3,945 full-time employees. The firm provides enterprises and governments with technology to secure the Internet of Things (IoT). The company provides various solutions for enabling IoT, which includes endpoint management, endpoint protection, secure communications, alerts and crisis communications, secure documents, applications, embedded systems and transport asset tracking. Its professional service offerings include cybersecurity consulting, enterprise consulting and QNX professional services. Its support and training services include technical support and technical training. The company serves various industries, including financial services, transportation, government, education, professional services, healthcare and manufacturing. Its BlackBerry Secure Unified Endpoint Management (UEM) and Productivity Suites delivers users secure access to tools, applications and files for productivity, collaboration and agility."
+ceo,Mr. John Chen
+sector,Technology
+country,CA
+fullTimeEmployees,3647
+phone,15198887465
+address,2200 University Ave E
+city,Waterloo
+state,ONTARIO
+zip,N2K 0A7
+dcfDiff,
+dcf,5.71365
+image,https://financialmodelingprep.com/image-stock/BB.png
+ipoDate,1997-10-28
+defaultImage,False

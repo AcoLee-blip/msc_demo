@@ -1,0 +1,33 @@
+,0
+symbol,CVLT
+price,43.47
+beta,0.65865
+volAvg,283295
+mktCap,2048754180
+lastDiv,0.0
+range,24.26-51.9
+changes,-0.76
+companyName,Commvault Systems Inc
+currency,USD
+cik,0001169561
+isin,US2041661024
+cusip,204166102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.commvault.com/
+description,"Commvault Systems, Inc. engages in the provision of data protection and information management software applications and related services. The company is headquartered in Tinton Falls, New Jersey and currently employs 2,559 full-time employees. The firm develops, markets and sells a suite of software applications and services, primarily in North America, Europe, Australia and Asia, that provides its customers with data protection solutions supporting all operating systems, applications, and databases on virtual and physical servers, Network Attached Storage (NAS) shares, cloud-based infrastructures, and mobile devices; management through a single console; multiple protection methods, including backup and archive, snapshot management, replication, and content indexing for eDiscovery; storage management using deduplication for disk, tape and cloud; integration with the storage arrays; complete virtual infrastructure management supporting multiple hypervisors; security capabilities to limit access to critical data, and policy-based data management."
+ceo,Mr. Sanjay Mirchandani
+sector,Technology
+country,US
+fullTimeEmployees,2533
+phone,17328704000
+address,1 Commvault Way
+city,Tinton Falls
+state,NEW JERSEY
+zip,07724
+dcfDiff,
+dcf,47.961
+image,https://financialmodelingprep.com/image-stock/CVLT.png
+ipoDate,2006-09-22
+defaultImage,False

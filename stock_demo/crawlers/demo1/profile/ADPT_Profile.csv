@@ -1,0 +1,33 @@
+,0
+symbol,ADPT
+price,48.69
+beta,0.0
+volAvg,862493
+mktCap,6659428400
+lastDiv,0.0
+range,15.19-54.2
+changes,-3.24
+companyName,Adaptive Biotechnologies Corp
+currency,USD
+cik,0001478320
+isin,US00650F1093
+cusip,00650F109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.adaptivebiotech.com
+description,"Adaptive Biotechnologies Corp. engages in the development of an immune medicine platform. The company is headquartered in Seattle, Washington and currently employs 346 full-time employees. The firm is focused on using the biology of the adaptive immune system to develop the diagnosis and treatment of disease. Its immune medicine platform generates clinical immunomics data to decode the adaptive immune system. Its products and pipeline includes immunoSEQ, clonoSEQ and cellular therapy. The company offers its immunoSEQ technology as a service and a kit. immunoSEQ utilizes bias-controlled polymerase chain reaction (PCR) to sequence immune receptors from deoxyribonucleic (DNA). clonoSEQ is its diagnostic test product for the detection and next-generation sequencing (NGS)-based monitoring of minimal residual disease (MRD) in bone marrow samples in patients with myeloma (MM) and acute lymphoblastic leukemia (ALL). clonoSEQ is designed to sequence all rearranged receptor sequences in a tumor in parallel to enable MRD monitoring. The company also focuses on developing immune-mediated therapies in oncology and other disease areas."
+ceo,Mr. Chad Robins
+sector,Healthcare
+country,US
+fullTimeEmployees,453
+phone,12066590067
+address,1551 Eastlake Ave E Ste 200
+city,Seattle
+state,WASHINGTON
+zip,98102
+dcfDiff,
+dcf,48.3413
+image,https://financialmodelingprep.com/image-stock/ADPT.png
+ipoDate,2019-06-27
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,ARVN
+price,23.27
+beta,0.0
+volAvg,412915
+mktCap,943575230
+lastDiv,0.0
+range,19.68-61.57
+changes,-0.22
+companyName,Arvinas Inc
+currency,USD
+cik,0001655759
+isin,US04335A1051
+cusip,04335A105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://arvinas.com/
+description,"Arvinas, Inc. is a biopharmaceutical company, which engages in the discovery, development and commercialization of therapies to degrade disease-causing proteins. The company is headquartered in New Haven, Connecticut and currently employs 103 full-time employees. The firm is engaged in the development and commercialization of therapies to degrade disease-causing proteins. The firm uses its technology platform to engineer proteolysis targeting chimeras (PROTACs), which are designed to harness the body’s own natural protein disposal system to selectively and efficiently degrade and remove disease-causing proteins. The firm is using its PROTAC platform to build an pipeline of protein degradation product candidates to target diseases in a wide range of organ systems and tissues. The company is also focused on advancing its lead product candidates, ARV-110 and ARV-471, into Phase 1 clinical trials. The company seeks to initiate a Phase 1 clinical trial for ARV-110 in men with metastatic castration-resistant prostate cancer (mCRPC), and a Phase 1 clinical trial for ARV-471 in women with metastatic ER positive, HER2 negative breast cancer, or ER+ breast cancer."
+ceo,Dr. John Houston
+sector,Healthcare
+country,US
+fullTimeEmployees,133
+phone,12035351456
+address,5 Science Park
+city,New Haven
+state,CONNECTICUT
+zip,06511
+dcfDiff,
+dcf,20.4697
+image,https://financialmodelingprep.com/image-stock/ARVN.png
+ipoDate,2018-09-27
+defaultImage,False

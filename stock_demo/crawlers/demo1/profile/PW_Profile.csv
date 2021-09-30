@@ -1,0 +1,33 @@
+,0
+symbol,PW
+price,24.97
+beta,0.29448
+volAvg,30743
+mktCap,47846016
+lastDiv,0.0
+range,6.95-33.89
+changes,0.17
+companyName,Power REIT
+currency,USD
+cik,0001532619
+isin,US73933H1014
+cusip,73933H101
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,REIT Specialty
+website,http://pwreit.com/
+description,"Power REIT is a holding company, which engages in the development, acquisition, and management of real estate assets related to transportation and energy infrastructure. The company is headquartered in Old Bethpage, New York and currently employs 0 full-time employees. The Company, within the transportation and energy infrastructure sectors, is focused on making new acquisitions of real estate that are or will be leased to renewable energy generation projects, such as utility-scale solar farms and wind farms. The company is structured as a holding company and owns its assets through its subsidiaries. Its assets include approximately 112 miles of railroad infrastructure and related real estate, which is owned by its subsidiary Pittsburgh & West Virginia Railroad (P&WV) and approximately 601 acres of fee simple land leased to a range of solar power generating projects with an aggregate generating capacity of approximately 108 Megawatts (MW). The company is engaged in expanding its portfolio of real estate related to renewable energy generation projects."
+ceo,Mr. David Lesser
+sector,Real Estate
+country,US
+fullTimeEmployees,0
+phone,12127500373
+address,301 Winding Rd
+city,Old Bethpage
+state,NEW YORK
+zip,11804
+dcfDiff,-5.75
+dcf,27.3049
+image,https://financialmodelingprep.com/image-stock/PW.jpg
+ipoDate,1980-03-17
+defaultImage,True

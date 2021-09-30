@@ -1,0 +1,33 @@
+,0
+symbol,LIVN
+price,52.675
+beta,0.88482
+volAvg,519824
+mktCap,2559815420
+lastDiv,0.0
+range,33.4-85.3
+changes,0.545
+companyName,LivaNova PLC
+currency,USD
+cik,0001639691
+isin,GB00BYMT0J19
+cusip,G5509L101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,http://www.livanova.com/home.action
+description,"LivaNova Plc is a global medical technology company, which engages in the development and delivery of important therapeutic solutions for the benefit of patients, healthcare professionals and healthcare systems. The firm's segments include Cardiac Surgery and Neuromodulation. The Cardiac Surgery segment is engaged in the development, production and sale of cardiovascular surgery products. Cardiac Surgery products include oxygenators, heart-lung machines, autotransfusion, mechanical heart valves and tissue heart valves. The Neuromodulation segment is engaged in the design, development and marketing of neuromodulation therapy for the treatment of drug-resistant epilepsy and treatment resistant depression."
+ceo,Mr. Damien McDonald
+sector,Healthcare
+country,GB
+fullTimeEmployees,4000
+phone,442033250662
+address,20 Eastbourne Terrace
+city,LONDON
+state,
+zip,W2 6LG
+dcfDiff,255.11
+dcf,54.5245
+image,https://financialmodelingprep.com/image-stock/LIVN.jpg
+ipoDate,2015-10-19
+defaultImage,True

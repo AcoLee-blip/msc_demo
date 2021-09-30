@@ -1,0 +1,33 @@
+,0
+symbol,BYFC
+price,1.69
+beta,0.99156
+volAvg,1051200
+mktCap,47385912
+lastDiv,0.0
+range,1.04-7.23
+changes,-0.05
+companyName,Broadway Financial Corp
+currency,USD
+cik,0001001171
+isin,US1114441058
+cusip,111444105
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Banks Regional
+website,
+description,"Broadway Financial Corp. is a bank holding company, which offers personal, money market, checking and certificate of deposit accounts. The company is headquartered in Los Angeles, California and currently employs 67 full-time employees. The firm is engaged in the savings and loan business through its subsidiary, Broadway Federal Bank, f.s.b. (the Bank). The Bank is a community-oriented savings institution. The Bank's business consists of deposits from the general public and using such deposits, together with borrowings and other funds, to make mortgage loans secured by residential properties with over five or more units (multi-family); commercial real estate, and residential properties with one-to four-units (single family). Its loan portfolio consists of mortgage loans, which are secured by single family residential properties; multi-family properties, and commercial real estate, including churches. Its deposits consist of passbook savings accounts, checking accounts, negotiable order of withdrawal (NOW) accounts, money market accounts and fixed-term certificates of deposit."
+ceo,Mr. Wayne-Kent Bradshaw
+sector,Financial Services
+country,US
+fullTimeEmployees,62
+phone,13236341700
+address,5055 Wilshire Blvd Ste 500
+city,Los Angeles
+state,CALIFORNIA
+zip,90036
+dcfDiff,-1.37
+dcf,2.36009
+image,https://financialmodelingprep.com/image-stock/BYFC.jpg
+ipoDate,1996-01-09
+defaultImage,True

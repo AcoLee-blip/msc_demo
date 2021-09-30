@@ -1,0 +1,33 @@
+,0
+symbol,MSCI
+price,390.92
+beta,0.82861
+volAvg,472760
+mktCap,32405313500
+lastDiv,3.6000000000000005
+range,218.65-437.35
+changes,1.44
+companyName,MSCI Inc
+currency,USD
+cik,0001408198
+isin,US55354G1004
+cusip,55354G100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Financial Data & Stock Exchanges
+website,https://www.msci.com/
+description,"MSCI, Inc. engages in the provision of investment decision support tools, including indices, portfolio risk and performance analytics and corporate governance products and services. The company is headquartered in New York City, New York and currently employs 3,358 full-time employees. Its segments include Index, Analytics and All Other segment. All Other segment comprises environmental, social and governance (ESG) and Real Estate segments. Its indexes are used in various areas of the investment process, including index-linked product creation and performance benchmarking, as well as portfolio construction and rebalancing, and asset allocation. The Analytics segment uses analytical content to create products and services, which offer institutional investors an integrated view of risk and return. MSCI's ESG products include MSCI ESG Ratings, MSCI ESG Business Involvement Screening Research and MSCI ESG Governance Metrics. MSCI's Real Estate products comprise private real estate benchmarks and indexes branded IPD Group Limited (IPD) and include Portfolio Analysis Service (PAS), IPD Rental Information Service (IRIS) and IPD Global Intel."
+ceo,Mr. Henry Fernandez
+sector,Financial Services
+country,US
+fullTimeEmployees,3459
+phone,12128043990
+address,"7 World Trade Center, 250 Greenwich Street, 49Th Floor"
+city,New York City
+state,NEW YORK
+zip,10007
+dcfDiff,-224.83
+dcf,367.623
+image,https://financialmodelingprep.com/image-stock/MSCI.png
+ipoDate,2007-11-15
+defaultImage,False

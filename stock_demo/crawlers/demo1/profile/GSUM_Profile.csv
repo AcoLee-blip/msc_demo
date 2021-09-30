@@ -1,0 +1,33 @@
+,0
+symbol,GSUM
+price,1.75
+beta,2.01602
+volAvg,522784
+mktCap,61272400
+lastDiv,0.0
+range,0.237-2.5
+changes,-0.01
+companyName,Gridsum Holding Inc
+currency,CNY
+cik,0001647338
+isin,US3981321009
+cusip,398132100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://ir.gridsum.com/
+description,"Gridsum Holding, Inc. provides data analysis software for multinational and domestic enterprises and government agencies in China. The company is headquartered in Beijing, Beijing and currently employs 1,192 full-time employees. The firm provides data analysis software for multinational and domestic enterprises, and government agencies in China. The firm's technology, the Gridsum Big Data Platform performs multi-dimensional correlation analysis and analyzes real-time events. The firm offers various types of solutions and technologies. The firm's software products are designed for a range of commercial and governmental applications. The firm's products focus on digital marketing analytics and automation solutions. The firm offers Web analytics solutions based on data warehouse technology to build solutions on a distributed data warehouse architecture, using the open-source Hadoop framework. The firm delivers its solutions as cloud-based software-as-a-service (SaaS) offerings that manage information technology (IT) support costs by outsourcing hardware and software maintenance and support."
+ceo,Mr. Guosheng Qi
+sector,Technology
+country,CN
+fullTimeEmployees,929
+phone,861082619988
+address,
+city,Beijing
+state,BEIJING
+zip,100083
+dcfDiff,
+dcf,4.8198
+image,https://financialmodelingprep.com/image-stock/GSUM.jpg
+ipoDate,2016-09-23
+defaultImage,True

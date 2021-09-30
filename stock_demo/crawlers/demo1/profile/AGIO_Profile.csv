@@ -1,0 +1,33 @@
+,0
+symbol,AGIO
+price,41.49
+beta,1.91056
+volAvg,693721
+mktCap,2873589250
+lastDiv,0.0
+range,27.77-56.75
+changes,-0.13
+companyName,Agios Pharmaceuticals Inc
+currency,USD
+cik,0001439222
+isin,US00847X1046
+cusip,00847X104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.agios.com/
+description,"Agios Pharmaceuticals, Inc. is a biopharmaceutical company, which engages in the discovery and development of novel investigational medicines to treat cancer and rare genetic diseases. The company is headquartered in Cambridge, Massachusetts and currently employs 482 full-time employees. The firm's therapeutic areas of focus are cancer and rare genetic metabolic disorders, which are a group of over 600 rare genetic diseases caused by mutations, or defects, of single metabolic genes. The firm's cancer product candidates are enasidenib and ivosidenib (AG-120), which target mutated isocitrate dehydrogenase 2 (IDH2) and isocitrate dehydrogenase 1 (IDH1), respectively, and AG-881, which targets both mutated IDH1 and mutated IDH2. These mutations are found in a range of hematological malignancies and solid tumors. The lead product candidate in its rare genetic metabolic disorder (RGD), programs, AG-348, targets pyruvate kinase-R for the treatment of pyruvate kinase deficiency. Pyruvate kinase deficiency is a rare disorder that often results in severe hemolytic anemia due to inherited mutations in the pyruvate kinase enzyme within red blood cells."
+ceo,Dr. Jacqualyn Fouse
+sector,Healthcare
+country,US
+fullTimeEmployees,536
+phone,16176498600
+address,88 Sidney St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,36.739
+image,https://financialmodelingprep.com/image-stock/AGIO.png
+ipoDate,2013-07-24
+defaultImage,False

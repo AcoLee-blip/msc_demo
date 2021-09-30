@@ -1,0 +1,33 @@
+,0
+symbol,EVOP
+price,24.265
+beta,0.0
+volAvg,282376
+mktCap,1019462400
+lastDiv,0.0
+range,10.12-30.0
+changes,0.715
+companyName,EVO Payments Inc
+currency,USD
+cik,0001704596
+isin,US26927E1047
+cusip,26927E104
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://evopayments.com/
+description,"EVO Payments, Inc. is a holding company, which provides payments technology and services. The company is headquartered in Atlanta, Georgia and currently employs 2,200 full-time employees. The Company’s solutions include europay, mastercard, and visa (EMV), chip and signature enabled POS terminals, virtual POS terminals for desktops, mobile acceptance and mobile POS solutions for mobile devices and tablets, online hosted payments and payment service provider (PSP) for card-not-present bankcard, direct debit, and alternative payment scheme processing. The company also provides in-house customer services. The company operates through two segments: North America and Europe. The North America segment consists of the United States, Canada and Mexico. The Europe segment consists of Western Europe (Spain, United Kingdom, Ireland, Germany) and Eastern Europe (Poland, Czech Republic). The company also provides automated teller machine (ATM) processing services to a financial institution and third-party ATM providers."
+ceo,Mr. James Kelly
+sector,Technology
+country,US
+fullTimeEmployees,2400
+phone,15164799000
+address,10 Glenlake Pkwy Ste 950
+city,Atlanta
+state,GEORGIA
+zip,30328
+dcfDiff,
+dcf,33.1836
+image,https://financialmodelingprep.com/image-stock/EVOP.png
+ipoDate,2018-05-23
+defaultImage,False

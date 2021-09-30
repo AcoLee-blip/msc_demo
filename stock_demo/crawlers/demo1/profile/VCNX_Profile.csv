@@ -1,0 +1,33 @@
+,0
+symbol,VCNX
+price,1.99
+beta,0.0
+volAvg,1107769
+mktCap,39987460
+lastDiv,0.0
+range,1.63-12.23
+changes,0.01
+companyName,Vaccinex Inc
+currency,USD
+cik,0001205922
+isin,US9186401033
+cusip,918640103
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.vaccinex.com/
+description,"Vaccinex, Inc. is a clinical-stage biotechnology company, which engages in the development of targeted biotherapeutics to treat serious diseases and conditions with unmet medical needs, including cancer, neurodegenerative diseases, and autoimmune disorders. The company is headquartered in Rochester, New York and currently employs 44 full-time employees. The firm is focused on providing treatments for serious diseases, including cancer, neurodegenerative diseases, and autoimmune disorders. The company provides SEMA4D antibody platform, which is focused on developing its lead product candidate VX15/2503 (VX15) for the treatment of non-small cell lung cancer, NSCLC, osteosarcoma, melanoma and Huntington’s disease. The company also provides ActiveMAb antibody discovery platform, a human antibody discovery platform used for expressing large and diverse libraries of high affinity, full-length human monoclonal antibodies on the surface of vaccinia, a mammalian virus. Its product candidate VX5 is in preclinical development for the treatment of multiple sclerosis and potentially for other autoimmune disorders."
+ceo,Dr. Maurice Zauderer
+sector,Healthcare
+country,US
+fullTimeEmployees,45
+phone,15852712700
+address,1895 Mount Hope Ave
+city,Rochester
+state,NEW YORK
+zip,14620
+dcfDiff,
+dcf,2.04552
+image,https://financialmodelingprep.com/image-stock/VCNX.jpg
+ipoDate,2018-08-09
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,VERB
+price,1.18
+beta,1.1187
+volAvg,484336
+mktCap,55063280
+lastDiv,0.0
+range,0.72-2.64
+changes,0.05
+companyName,Verb Technology Company Inc
+currency,USD
+cik,0001566610
+isin,US92337U1043
+cusip,92337U104
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://nfusz.com/
+description,"Verb Technology Co., Inc. is a digital technology company, which develops interactive video data collection and analysis applications. The company is headquartered in Newport Beach, California and currently employs 10 full-time employees. The firm is engaged in marketing cloud-based business software products under the brand name Tagg on a subscription basis. The firm's software-as-a-service products are cloud-based, accessible on all mobile and desktop devices, and are available by subscription for individual and enterprise users. The firm's applications include TaggCRM, the mobile app for entrepreneurs; TaggMED, for the healthcare industry; TaggEDU, for the education industry, and TaggNGO, for non-profit organizations."
+ceo,Mr. Rory Cutaia
+sector,Technology
+country,US
+fullTimeEmployees,83
+phone,18552502300
+address,2210 Newport Blvd Ste 200
+city,Newport Beach
+state,CALIFORNIA
+zip,92663
+dcfDiff,
+dcf,1.2287
+image,https://financialmodelingprep.com/image-stock/VERB.png
+ipoDate,2014-02-13
+defaultImage,False

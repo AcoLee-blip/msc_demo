@@ -1,0 +1,33 @@
+,0
+symbol,STIM
+price,7.24
+beta,0.0
+volAvg,278912
+mktCap,136561600
+lastDiv,0.0
+range,1.25-7.28
+changes,0.56
+companyName,Neuronetics Inc
+currency,USD
+cik,0001227636
+isin,US64131A1051
+cusip,64131A105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://www.neuronetics.com
+description,"Neuronetics, Inc. commercial stage medical technology company. The company is headquartered in Malvern, Pennsylvania and currently employs 191 full-time employees. The firm is focused on the design and development of medical devices to treat psychiatric disorders. The Company’s principal product is NeuroStar Advanced Therapy System. The company is a non-invasive treatment that uses transcranial magnetic stimulation (TMS) to create a pulsed magnetic field to induce electrical pulses for stimulating certain areas of the brain associated with mood. The system is used to treat adult patients with major depressive disorders. The firm offers its therapy systems to psychiatrist offices in the United States."
+ceo,Mr. Christopher Thatcher
+sector,Healthcare
+country,US
+fullTimeEmployees,235
+phone,18776007555
+address,3222 Phoenixville Pike
+city,Malvern
+state,PENNSYLVANIA
+zip,
+dcfDiff,
+dcf,9.85904
+image,https://financialmodelingprep.com/image-stock/STIM.jpg
+ipoDate,2018-06-28
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,RMD
+price,213.39
+beta,0.3216
+volAvg,545881
+mktCap,30923413500
+lastDiv,1.56
+range,108.85-224.24
+changes,0.6
+companyName,Resmed Inc
+currency,USD
+cik,0000943819
+isin,US7611521078
+cusip,761152107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Instruments & Supplies
+website,https://www.resmed.com/
+description,"ResMed, Inc. engages in the development, manufacturing, distribution, and marketing of medical equipment and software solutions. The company is headquartered in San Diego, California and currently employs 7,240 full-time employees. The firm is engaged in the development, manufacturing, distribution and marketing of medical devices and cloud-based software applications that diagnose, treat and manage respiratory disorders, including sleep disordered breathing (SDB), chronic obstructive pulmonary disease (COPD), neuromuscular disease and other diseases. SDB includes obstructive sleep apnea (OSA) and other respiratory disorders that occur during sleep. Its cloud-based software digital health applications, along with its devices, are designed to provide connected care to improve patient outcomes. The firm's portfolio of products includes devices, diagnostic products, mask systems, headgear and other accessories, dental devices, portable oxygen concentrators (POCs) and cloud-based software informatics solutions. The firm produces Continuous Positive Airway Pressure (CPAP), Variable Positive Airway Pressure (VPAP) and AutoSet systems for the titration and treatment of SDB."
+ceo,Mr. Michael Farrell
+sector,Healthcare
+country,US
+fullTimeEmployees,7240
+phone,18587462400
+address,9001 Spectrum Center Blvd
+city,San Diego
+state,CALIFORNIA
+zip,92123
+dcfDiff,
+dcf,182.31
+image,https://financialmodelingprep.com/image-stock/RMD.png
+ipoDate,1995-06-01
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,NATI
+price,34.38
+beta,0.9593
+volAvg,716878
+mktCap,4512237600
+lastDiv,1.04
+range,20.42-47.89
+changes,0.56
+companyName,National Instruments Corp
+currency,USD
+cik,0000935494
+isin,US6365181022
+cusip,636518102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.ni.com/
+description,"National Instruments Corp. designs, manufactures and sells systems to engineers and scientists that accelerate productivity, innovation and discovery. The company is headquartered in Austin, Texas and currently employs 7,263 full-time employees. The firm offers a line of measurement, automation and control products. The company offers products, technology and services, which include system design software, programming tools, application software, modular hardware products and related driver software, production test systems, NI education platform, software products for teaching and hardware products for teaching. The company also offers NI Services, including hardware services and maintenance, software maintenance services, and training and certification. Its products are used across various industries in a range of applications, including research and development, simulation and modeling, prototype and validation, production testing and industrial control and field and factory service and repair. The company serves various industries and applications, such as consumer electronics, commercial aerospace, telecommunications and others."
+ceo,Mr. Eric Starkloff
+sector,Technology
+country,US
+fullTimeEmployees,7300
+phone,15123389119
+address,11500 N Mopac Expy
+city,Austin
+state,TEXAS
+zip,78759-3504
+dcfDiff,-15.76
+dcf,36.6462
+image,https://financialmodelingprep.com/image-stock/NATI.png
+ipoDate,1995-03-14
+defaultImage,False

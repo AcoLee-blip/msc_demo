@@ -1,0 +1,33 @@
+,0
+symbol,MDB
+price,248.2
+beta,0.117073
+volAvg,813389
+mktCap,14611286000
+lastDiv,0.0
+range,93.81-273.01
+changes,-2.82
+companyName,MongoDB Inc
+currency,USD
+cik,0001441816
+isin,US60937P1066
+cusip,60937P106
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.mongodb.com/
+description,"MongoDB, Inc. engages in the development and provision of a general purpose database platform. The company is headquartered in New York City, New York and currently employs 1,212 full-time employees. Its platform is designed to run applications at scale across a broad range of use cases in the cloud, on-premise or in a hybrid environment. Its primary subscription package is MongoDB Enterprise Advanced, which includes its proprietary database server, security, enterprise management capabilities, its graphical user interface, analytics integrations and technical support. The company also offers MongoDB Atlas, its cloud hosted database-as-a-service (DBaaS) offering that includes infrastructure and management of its community server offering. The Company’s The MongoDB enterprise database server, called Enterprise Server, is its proprietary database. The Company’s other products include Community Server, a free-to-download version of its database and MongoDB Stitch, a backend-as-a-service. The firm also provides professional services to its customers, including consulting and training."
+ceo,Mr. Dev Ittycheria
+sector,Technology
+country,US
+fullTimeEmployees,1813
+phone,18662378815
+address,1633 Broadway Fl 38
+city,New York City
+state,NEW YORK
+zip,10019
+dcfDiff,-135.03
+dcf,261.464
+image,https://financialmodelingprep.com/image-stock/MDB.png
+ipoDate,2017-10-19
+defaultImage,False

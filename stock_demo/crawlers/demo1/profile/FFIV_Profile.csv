@@ -1,0 +1,33 @@
+,0
+symbol,FFIV
+price,159.48
+beta,1.08656
+volAvg,776203
+mktCap,9744068600
+lastDiv,0.0
+range,79.78-162.5
+changes,2.36
+companyName,F5 Networks Inc
+currency,USD
+cik,0001048695
+isin,US3156161024
+cusip,315616102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.f5.com/
+description,"F5 Networks, Inc. engages development and provision of software defined application services. The company is headquartered in Seattle, Washington and currently employs 5,325 full-time employees. The firm is engaged in the development, marketing and sale of application delivery networking products that optimize the security, performance and availability of network applications, servers and storage systems. The firm's geographical segments include the Americas (primarily the United States); Europe, the Middle East, and Africa (EMEA); Japan, and the Asia Pacific region (APAC). The firm's Traffic Management Operating System (TMOS) based offerings include software products for local and global traffic management, network and application security, access management, Web acceleration and various network and application services. These products are available as modules that can run individually or as part of an integrated solution on the Company's purpose-built BIG-IP appliances and VIPRION chassis-based hardware, or as software-only Virtual Editions."
+ceo,Mr. Francois Locoh-Donou
+sector,Technology
+country,US
+fullTimeEmployees,5325
+phone,12062725555
+address,401 Elliott Ave W
+city,Seattle
+state,WASHINGTON
+zip,98104
+dcfDiff,
+dcf,137.342
+image,https://financialmodelingprep.com/image-stock/FFIV.png
+ipoDate,1999-06-03
+defaultImage,False

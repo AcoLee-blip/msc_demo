@@ -1,0 +1,33 @@
+,0
+symbol,GBIO
+price,31.24
+beta,0.0
+volAvg,159801
+mktCap,1453175420
+lastDiv,0.0
+range,17.0-32.555
+changes,0.19
+companyName,Generation Bio Co
+currency,USD
+cik,0001733294
+isin,US37148K1007
+cusip,37148K100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://generationbio.com/
+description,"Generation Bio Co. is a genetic medicines company. The Company is developing a class of gene therapy utilizing its non-viral gene therapy platform to provide durable, redosable treatments for patients living with rare and prevalent diseases. The Company’s non-viral gene therapy platform includes its DNA construct called closed-ended DNA (ceDNA), its cell-targeted lipid nanoparticle delivery system (ctLNP) and its established, scalable capsid-free manufacturing process. The Company is developing gene therapies to provide targeted delivery of genetic payloads that include multiple genes to a range of tissues of diseases. The Company is also engineering its gene therapies to be redosable, which enable patient titration to reach the desired therapeutic expression and to maintain efficiency in a patient’s life. The Company is a preclinical stage company and have not identified a product candidate."
+ceo,Dr. Cameron Geoffrey McDonough
+sector,Healthcare
+country,US
+fullTimeEmployees,85
+phone,18575295908
+address,301 BINNEY STREET
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/GBIO.jpg
+ipoDate,2020-06-12
+defaultImage,True

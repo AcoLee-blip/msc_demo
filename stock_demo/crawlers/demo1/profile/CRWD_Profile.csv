@@ -1,0 +1,33 @@
+,0
+symbol,CRWD
+price,137.3
+beta,0.0
+volAvg,5184304
+mktCap,30130348000
+lastDiv,0.0
+range,31.95-153.9
+changes,6.34
+companyName,Crowdstrike Holdings Inc
+currency,USD
+cik,0001535527
+isin,US22788C1053
+cusip,22788C105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://ir.crowdstrike.com/
+description,"CrowdStrike Holdings, Inc. is a holding company, which engages in the provision of cloud-delivered solution for next-generation endpoint protection that offers cloud modules on its Falcon platform through SaaS subscription-based model. The company is headquartered in Sunnyvale, California and currently employs 1,455 full-time employees. The Company’s Falcon platform is comprised of two integrated technologies: lightweight agent and threat graph. The platform offers a set of cloud-delivered technologies that provides a wide range of products including antivirus, endpoint detection and response (EDR), device control, managed threat hunting, information technology (IT) hygiene, vulnerability management and threat intelligence. Its cloud modules include Falcon Prevent, Falcon Insight, Falcon Device Control, Falcon OverWatch, Falcon Discover, Falcon Complete, Falcon Spotlight, Falcon X, Falcon Search engine and Falcon Sandbox. Its Falcon Prevent provides antivirus capabilities to customers, delivering protection to defend customers against both malware and fileless attacks. Its Falcon Complete provides monitoring, management, response and remediation solution to its customers."
+ceo,Mr. George Kurtz
+sector,Technology
+country,US
+fullTimeEmployees,2583
+phone,18885128906
+address,150 Mathilda Pl Ste 300
+city,Sunnyvale
+state,CALIFORNIA
+zip,94086
+dcfDiff,
+dcf,136.928
+image,https://financialmodelingprep.com/image-stock/CRWD.png
+ipoDate,2019-06-12
+defaultImage,False

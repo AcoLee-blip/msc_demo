@@ -1,0 +1,33 @@
+,0
+symbol,ADTN
+price,12.33
+beta,1.33298
+volAvg,263401
+mktCap,591299970
+lastDiv,0.44999999999999996
+range,4.8-13.2
+changes,-0.18
+companyName,ADTRAN Inc
+currency,USD
+cik,0000926282
+isin,US00738A1060
+cusip,00738A106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.adtran.com/
+description,"ADTRAN, Inc. engages in the provision of networking and communications equipment. The company is headquartered in Huntsville, Alabama and currently employs 1,900 full-time employees. The firm's solutions enable voice, data, video and Internet communications across a range of network infrastructures. The company operates through two segments: Network Solutions and Services & Support. Network Solutions includes software and hardware products that enable CSPs and enterprise customers to realize a fully connected world. The company provides a full-range of network implementation, maintenance and managed services. Its solutions include Access & Aggregation, Customer Devices, and Traditional & Other Products. Its Access & Aggregation solutions are used by communications service providers (CSPs) to connect their network infrastructure to their subscribers. The portfolio of ADTRAN solutions within Access & Aggregation category includes a range of modular or fixed physical form factors designed to deliver the technology and economic fit based on the target subscriber density and environmental conditions."
+ceo,Mr. Thomas Stanton
+sector,Technology
+country,US
+fullTimeEmployees,1790
+phone,12569638220
+address,901 Explorer Blvd NW
+city,Huntsville
+state,ALABAMA
+zip,35806
+dcfDiff,-9.64
+dcf,13.6928
+image,https://financialmodelingprep.com/image-stock/ADTN.png
+ipoDate,1994-08-10
+defaultImage,False

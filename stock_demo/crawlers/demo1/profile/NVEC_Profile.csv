@@ -1,0 +1,33 @@
+,0
+symbol,NVEC
+price,50.89
+beta,1.16466
+volAvg,21263
+mktCap,245963072
+lastDiv,4.0
+range,42.85-76.4
+changes,0.2
+companyName,NVE Corp
+currency,USD
+cik,0000724910
+isin,US6294452064
+cusip,629445206
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.nve.com
+description,"NVE Corp. engages in the development and sale of devices that use spintronics, a nanotechnology that relies on electron spin rather than electron charge to acquire, store, and transmit information. The company is headquartered in Eden Prairie, Minnesota and currently employs 48 full-time employees. The firm manufactures spintronic products, including sensors and couplers that are used to acquire and transmit data. The firm has also licensed its spintronic magnetoresistive random access memory technology (MRAM). Its parts are found in industrial, scientific, and medical applications. The firm's products include sensors, couplers and MRAM products. Its sensor products detect the strength or gradient of magnetic fields and are used to determine position or speed. Its spintronic couplers combine a GMR sensor element and an IsoLoop integrated microscopic coil. MRAM uses spintronics to store data. The company combines the speed of static random-access memory (SRAM), the density of dynamic random-access memory (DRAM) and the nonvolatility of flash memory. Data is stored in the spin of the electrons in thin metal alloy films."
+ceo,Dr. Daniel Baker
+sector,Technology
+country,US
+fullTimeEmployees,46
+phone,19528299217
+address,11409 Valley View Rd
+city,Eden Prairie
+state,MINNESOTA
+zip,55344
+dcfDiff,-60.37
+dcf,50.0239
+image,https://financialmodelingprep.com/image-stock/NVEC.png
+ipoDate,1983-09-26
+defaultImage,False

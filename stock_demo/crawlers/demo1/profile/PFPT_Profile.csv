@@ -1,0 +1,33 @@
+,0
+symbol,PFPT
+price,100.865
+beta,1.24001
+volAvg,562853
+mktCap,5820747800
+lastDiv,0.0
+range,83.81-133.0
+changes,0.925
+companyName,Proofpoint Inc
+currency,USD
+cik,0001212458
+isin,US7434241037
+cusip,743424103
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.proofpoint.com/
+description,"Proofpoint, Inc. is a cybersecurity company. The company is headquartered in Sunnyvale, California and currently employs 2,613 full-time employees. The firm's security-as-a-service platform consists of an integrated suite of on-demand data protection solutions, including threat protection, incident response, regulatory compliance, archiving, governance, eDiscovery and secure communication. The firm's solutions are built on a cloud-based platform. The firm provides a multi-tiered security-as-a-service platform, including solutions, platform technologies and infrastructure. Its product families include Email Security, Proofpoint Advanced Threat Protection, Proofpoint Information Protection and Archiving, and Proofpoint Digital Risk Protection. The firm's platform services include Threat detection, Threat intel extraction, Nexus threat graph, Real-time detection, Information classification and Intelligent policy."
+ceo,Mr. Gary Steele
+sector,Technology
+country,US
+fullTimeEmployees,3368
+phone,14085174710
+address,892 Ross Dr
+city,Sunnyvale
+state,CALIFORNIA
+zip,94089
+dcfDiff,-177.67
+dcf,123.031
+image,https://financialmodelingprep.com/image-stock/PFPT.png
+ipoDate,2012-01-03
+defaultImage,False

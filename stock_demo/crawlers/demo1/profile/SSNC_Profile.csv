@@ -1,0 +1,33 @@
+,0
+symbol,SSNC
+price,64.94
+beta,1.58455
+volAvg,1080560
+mktCap,16622366700
+lastDiv,0.515
+range,29.51-67.71
+changes,0.8
+companyName,SS&C Technologies Holdings Inc
+currency,USD
+cik,0001402436
+isin,US78467J1007
+cusip,78467J100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.ssctech.com
+description,"SS&C Technologies Holdings, Inc. engages in the development and provision of software solutions to the financial services and healthcare industries. The company is headquartered in Windsor, Connecticut and currently employs 22,600 full-time employees. The Company’s software-enabled services allows its clients to automate and integrate front-office functions, such as trading and modeling, middle-office functions, such as portfolio management and reporting, and back-office functions, such as accounting, transfer agency, compliance, regulatory services, performance measurement, reconciliation, reporting, processing and clearing. The company offers portfolio accounting software, portfolio management software, trading software products, banking and lending solutions and professional services. The company serves various markets, including institutional asset and wealth management, alternative investment management, healthcare, brokerage, retirement, financial advisory and financial institutions vertical markets."
+ceo,Mr. William Stone
+sector,Technology
+country,US
+fullTimeEmployees,22800
+phone,18602984500
+address,80 LAMBERTON RD
+city,Windsor
+state,CONNECTICUT
+zip,06095
+dcfDiff,302.83
+dcf,65.2983
+image,https://financialmodelingprep.com/image-stock/SSNC.png
+ipoDate,2010-03-31
+defaultImage,False

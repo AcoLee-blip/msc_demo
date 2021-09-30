@@ -1,0 +1,33 @@
+,0
+symbol,SNPS
+price,225.66
+beta,1.17054
+volAvg,767953
+mktCap,34246613000
+lastDiv,0.0
+range,104.9-246.69
+changes,1.9
+companyName,Synopsys Inc
+currency,USD
+cik,0000883241
+isin,US8716071076
+cusip,871607107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.synopsys.com/
+description,"Synopsys, Inc. engages in the provision of software products and consulting services in the electronic design automation industry. The company is headquartered in Mountain View, California and currently employs 13,896 full-time employees. The firm supplies the electronic design automation (EDA) software that engineers use to design and test integrated circuits, also known as chips. The company also offers IP products, which are pre-designed circuits that engineers use as components of larger chip designs rather than designing those circuits themselves. The company provides software and hardware used to develop the electronic systems that incorporate chips and the software that runs on them. The company provides technical services to support its solutions and help its customers develop chips and electronic systems. The company is also a provider of software tools that developers use to develop software code in a range of industries, including electronics, financial services, energy, and industrials. The company offers products and services in four categories: core EDA; IP, Systems and Software Integrity; Manufacturing Solutions, and Professional Services and Other."
+ceo,Dr. Aart de Geus
+sector,Technology
+country,US
+fullTimeEmployees,13896
+phone,16505845000
+address,690 E Middlefield Rd
+city,Mountain View
+state,CALIFORNIA
+zip,94043
+dcfDiff,-64.96
+dcf,232.175
+image,https://financialmodelingprep.com/image-stock/SNPS.png
+ipoDate,1992-02-26
+defaultImage,False

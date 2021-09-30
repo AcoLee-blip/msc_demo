@@ -1,0 +1,33 @@
+,0
+symbol,GE
+price,9.035
+beta,0.90693
+volAvg,104751063
+mktCap,79145427000
+lastDiv,0.04
+range,5.48-13.26
+changes,0.275
+companyName,General Electric Co
+currency,USD
+cik,0000040545
+isin,US3696041033
+cusip,369604103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,https://www.ge.com
+description,"General Electric Co. is a technology and financial services company. The company is headquartered in Boston, Massachusetts and currently employs 283,000 full-time employees. The firm's products and services range from aircraft engines, power generation, and oil and gas production equipment to medical imaging, financing and industrial products. Its segments include Power, which includes products and services related to energy production; Renewable Energy, which offers renewable power sources; Oil & Gas, including liquefied natural gas and pipelines; Aviation, which includes commercial and military aircraft engines, and integrated digital components, among others; Healthcare, which provides healthcare technologies in medical imaging, digital solutions, patient monitoring and diagnostics, and drug discovery, among others; Transportation, which is a supplier to the railroad, mining, marine, stationary power and drilling industries; Energy Connections & Lighting, which includes Energy Connections and Lighting businesses, and Capital, which is a financial services division."
+ceo,Mr. H. Lawrence Culp
+sector,Industrials
+country,US
+fullTimeEmployees,205000
+phone,16174433000
+address,5 NECCO STREET
+city,Boston
+state,MASSACHUSETTS
+zip,02210
+dcfDiff,21.63
+dcf,11.4917
+image,https://financialmodelingprep.com/image-stock/GE.png
+ipoDate,1892-06-23
+defaultImage,False

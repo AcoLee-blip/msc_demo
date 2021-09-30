@@ -1,0 +1,33 @@
+,0
+symbol,MRAM
+price,5.83
+beta,2.33546
+volAvg,198067
+mktCap,110802648
+lastDiv,0.0
+range,1.75-9.01
+changes,-0.02
+companyName,Everspin Technologies Inc
+currency,USD
+cik,0001438423
+isin,US30041T1043
+cusip,30041T104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.everspin.com/
+description,"Everspin Technologies, Inc. engages in the provision of magnetoresistive random access memory (MRAM) solutions. The company is headquartered in Chandler, Arizona and currently employs 95 full-time employees. The firm is engaged in designing, manufacturing and shipping discrete and embedded MRAM and spin-torque MRAM (ST-MRAM) into markets and applications. The firm's products include Parallel Interface MRAM, Serial Peripheral Interface (SPI), Quad SPI and Double Data Rate (DDR) 3 dynamic random-access memory (DRAM) Compatible MRAM - Spin Torque Technology. The firm's MR10Q010 Quad SPI MRAM is a memory solution for applications that store and retrieve data and programs. Its DDR3 DRAM Compatible MRAM - Spin Torque Technology is designed to comply with all DDR3 DRAM features, such as on-device termination (ODT) and internal ZQ calibration."
+ceo,Mr. Kevin Conley
+sector,Technology
+country,US
+fullTimeEmployees,88
+phone,14803471111
+address,5670 W Chandler Blvd Ste 100
+city,Chandler
+state,ARIZONA
+zip,85226
+dcfDiff,-8.31
+dcf,8.64657
+image,https://financialmodelingprep.com/image-stock/MRAM.png
+ipoDate,2016-10-07
+defaultImage,False

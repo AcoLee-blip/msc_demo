@@ -1,0 +1,33 @@
+,0
+symbol,ETR
+price,108.66
+beta,0.51692
+volAvg,1138929
+mktCap,21757210600
+lastDiv,3.74
+range,75.19-135.55
+changes,0.91
+companyName,Entergy Corp
+currency,USD
+cik,0000065984
+isin,US29364G1031
+cusip,29364G103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Diversified
+website,http://www.entergy.com/
+description,"Entergy Corp. is a holding company, which engages in electric power generation and distribution. The company is headquartered in New Orleans, Louisiana and currently employs 13,688 full-time employees. The firm is an integrated energy company engaged in electric power production and retail electric distribution operations. The firm operates through two business segments: Utility and Entergy Wholesale Commodities. The Utility segment includes the generation, transmission, distribution and sale of electric power to retail and wholesale customers in areas of Arkansas, Mississippi, Texas and Louisiana, including the City of New Orleans and operates a natural gas distribution business. The Entergy Wholesale Commodities segment includes the ownership, operation and decommissioning of nuclear power plants located in the northern United States and the sale of the electric power produced by its operating plants to wholesale customers. As of December 31, 2016, the Company owned and operated power plants with over 30,000 megawatts of aggregate electric generating capacity, including approximately 10,000 megawatts of nuclear-fueled capacity."
+ceo,Mr. Leo Denault
+sector,Utilities
+country,US
+fullTimeEmployees,13635
+phone,15045764000
+address,639 Loyola Ave
+city,New Orleans
+state,LOUISIANA
+zip,70113
+dcfDiff,
+dcf,109.021
+image,https://financialmodelingprep.com/image-stock/ETR.png
+ipoDate,1949-05-31
+defaultImage,False

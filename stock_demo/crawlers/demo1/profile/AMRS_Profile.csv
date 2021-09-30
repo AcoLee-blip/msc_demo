@@ -1,0 +1,33 @@
+,0
+symbol,AMRS
+price,2.22
+beta,0.67222
+volAvg,2933093
+mktCap,531048448
+lastDiv,0.0
+range,1.4-6.07
+changes,0.18
+companyName,Amyris Inc
+currency,USD
+cik,0001365916
+isin,US03236M2008
+cusip,03236M200
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Specialty Chemicals
+website,https://www.amyris.com/
+description,"Amyris, Inc. engages in the provision of bioscience solutions. The company is headquartered in Emeryville, California and currently employs 503 full-time employees. The firm is primarily focused on applying its technology platform to engineer, manufacture and sell high performance, natural, sustainably-sourced products into the Health & Wellness, Clean Beauty, and Flavor and Fragrance markets. Its technology platform enables users to rapidly engineer microbes and use them as catalysts to metabolize renewable, plant-sourced sugars into large volume, high-value ingredients. Its biotechnology platform and industrial fermentation process replace existing complex and expensive manufacturing processes. The Company’s platform is used to design, build, optimize and upscale strains producing eight distinct molecules at commercial volumes, leading to more than 15 commercial ingredients."
+ceo,Mr. John Melo
+sector,Basic Materials
+country,US
+fullTimeEmployees,561
+phone,15104500761
+address,5885 Hollis St Ste 100
+city,Emeryville
+state,CALIFORNIA
+zip,94608
+dcfDiff,-2574.7
+dcf,2.74296
+image,https://financialmodelingprep.com/image-stock/AMRS.png
+ipoDate,2010-09-28
+defaultImage,False

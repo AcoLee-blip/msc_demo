@@ -1,0 +1,33 @@
+,0
+symbol,BAND
+price,149.48
+beta,0.473715
+volAvg,542710
+mktCap,3719869440
+lastDiv,0.0
+range,50.89-198.605
+changes,4.69
+companyName,Bandwidth Inc
+currency,USD
+cik,0001514416
+isin,US05988J1034
+cusip,05988J103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,http://www.bandwidth.com
+description,"Bandwidth, Inc. provides cloud-based communications services. The company is headquartered in Raleigh, North Carolina and currently employs 611 full-time employees. The firm has two operating and reportable segments, CPaaS and Other. The Company’s solutions include a broad range of software APIs for voice and text functionality and IP voice network. The Company’s sophisticated and easy-to-use software APIs allow enterprises to enhance their products and services by incorporating advanced voice and text capabilities. The firm offers advanced monitoring, reporting and analytics, superior customer service, dedicated operating teams, and personalized support."
+ceo,Mr. David Morken
+sector,Technology
+country,US
+fullTimeEmployees,772
+phone,19194394171
+address,900 Main Campus Dr
+city,Raleigh
+state,NORTH CAROLINA
+zip,27606
+dcfDiff,-72.98
+dcf,178.743
+image,https://financialmodelingprep.com/image-stock/BAND.png
+ipoDate,2017-11-10
+defaultImage,False

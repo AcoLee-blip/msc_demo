@@ -1,0 +1,33 @@
+,0
+symbol,AVRO
+price,16.0
+beta,0.0
+volAvg,181987
+mktCap,583216000
+lastDiv,0.0
+range,9.76-29.32
+changes,0.36
+companyName,AVROBIO Inc
+currency,USD
+cik,0001681087
+isin,US05455M1009
+cusip,05455M100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.avrobio.com
+description,"Avrobio, Inc. engages in the development of lentiviral-based gene therapies. The company is headquartered in Cambridge, Massachusetts and currently employs 73 full-time employees. The firm is focused on developing curative ex vivo lentiviral-based gene therapies to treat rare diseases following a single dose. Its gene therapies employ hematopoietic stem cells that are extracted from the patient and then modified with lentiviral vectors to insert a functional copy of the gene that is defective in the target disease. Its product pipeline includes AVR-RD-01, AVR-RD-02, AVR-RD-03 and AVR-RD-04. The firm is developing AVR-RD-01 for the treatment of Fabry disease. AVR-RD-02 is the Company’s gene therapy for Gaucher disease. AVR-RD-03 is being developed for the treatment of Pompe disease. The firm is developing AVR-RD-04 for the treatment of patients with cystinosis."
+ceo,Mr. Geoff MacKay
+sector,Healthcare
+country,US
+fullTimeEmployees,112
+phone,17819626030
+address,1 Kendall Sq Bldg 300 Ste 201
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,22.3483
+image,https://financialmodelingprep.com/image-stock/AVRO.png
+ipoDate,2018-06-21
+defaultImage,False

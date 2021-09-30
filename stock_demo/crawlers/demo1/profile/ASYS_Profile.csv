@@ -1,0 +1,33 @@
+,0
+symbol,ASYS
+price,5.43
+beta,1.67439
+volAvg,41392
+mktCap,76281720
+lastDiv,0.0
+range,3.55-7.96
+changes,0.17
+companyName,Amtech Systems Inc
+currency,USD
+cik,0000720500
+isin,US0323325045
+cusip,032332504
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.amtechsystems.com/
+description,"Amtech Systems, Inc. engages in the manufacture of capital equipment. The company is headquartered in Tempe, Arizona and currently employs 415 full-time employees. The firm operates through three business segments: solar, semiconductor and polishing. The solar segment supplies thermal processing systems, including diffusion; plasma-enhanced chemical vapor deposition (PECVD); atomic layer deposition (ALD), and related automation, parts and services to the solar/photovoltaic industry. The semiconductor segment supplies thermal processing equipment, including solder reflow equipment and related controls for use by the semiconductor manufacturers and in electronics assembly for automotive and other industries. The polishing supplies segment produces consumables and machinery for lapping (fine abrading) and polishing of materials, such as sapphire substrates and optical components."
+ceo,Mr. Michael Whang
+sector,Technology
+country,US
+fullTimeEmployees,415
+phone,14809675146
+address,131 S Clark Dr
+city,Tempe
+state,ARIZONA
+zip,85281
+dcfDiff,-24.78
+dcf,9.99152
+image,https://financialmodelingprep.com/image-stock/ASYS.jpg
+ipoDate,1983-08-09
+defaultImage,True

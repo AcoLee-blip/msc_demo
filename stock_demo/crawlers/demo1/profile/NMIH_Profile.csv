@@ -1,0 +1,33 @@
+,0
+symbol,NMIH
+price,22.55
+beta,2.05566
+volAvg,770764
+mktCap,1912542080
+lastDiv,0.0
+range,8.06-35.79
+changes,0.2
+companyName,NMI Holdings Inc
+currency,USD
+cik,0001547903
+isin,US6292093050
+cusip,629209305
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Insurance Property & Casualty
+website,http://www.nationalmi.com/
+description,"NMI Holdings, Inc. is engaged in the provision of private mortgage guaranty insurance. The company is headquartered in Emeryville, California and currently employs 318 full-time employees. The firm's primary insurance subsidiary, National Mortgage Insurance Corporation (NMIC), is a mortgage insurance (MI) provider on loans purchased by the Government-sponsored enterprises (GSEs). Its reinsurance subsidiary, National Mortgage Reinsurance Inc One (Re One), provides reinsurance to NMIC on certain loans insured by NMIC. NMIH's subsidiary, NMI Services, Inc. (NMIS), provides outsourced loan review services to mortgage loan originators. Its Primary mortgage insurance provides mortgage default protection on individual loans at specified coverage percentages. Primary insurance may be written on a flow basis, in which loans are insured as loan originations occur in individual, loan-by-loan transactions, or an aggregated basis, in which each loan in a portfolio of loans is individually insured in a single transaction, typically after the loans have been originated."
+ceo,Ms. Claudia Merkle
+sector,Financial Services
+country,US
+fullTimeEmployees,327
+phone,18555306642
+address,2100 Powell St Fl 12
+city,Emeryville
+state,CALIFORNIA
+zip,94608
+dcfDiff,
+dcf,24.0393
+image,https://financialmodelingprep.com/image-stock/NMIH.png
+ipoDate,2013-11-08
+defaultImage,False

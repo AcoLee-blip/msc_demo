@@ -1,0 +1,33 @@
+,0
+symbol,HUM
+price,431.735
+beta,0.93802
+volAvg,673992
+mktCap,57136239000
+lastDiv,2.425
+range,208.25-474.7
+changes,-0.065
+companyName,Humana Inc
+currency,USD
+cik,0000049071
+isin,US4448591028
+cusip,444859102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Health Care Plans
+website,http://www.humana.com/
+description,"Humana Inc. engages in the provision of health insurance services. The company is headquartered in Louisville, Kentucky and currently employs 41,600 full-time employees. The firm's segments include Retail, Group and Specialty, Healthcare Services and Individual Commercial. The Retail segment consists of Medicare benefits, including dental, vision, and other supplemental health and financial protection products. The Healthcare Services segment includes services offered to its health plan members, as well as to third parties, including pharmacy solutions, provider services, home-based services and clinical programs, as well as services and capabilities to manage population health. The Individual Commercial segment includes Individual Commercial products marketed under the HumanaOne brand."
+ceo,Mr. Bruce Broussard
+sector,Healthcare
+country,US
+fullTimeEmployees,46000
+phone,15025801000
+address,500 W Main St
+city,Louisville
+state,KENTUCKY
+zip,40202
+dcfDiff,-251.67
+dcf,467.32
+image,https://financialmodelingprep.com/image-stock/HUM.png
+ipoDate,1971-05-18
+defaultImage,False

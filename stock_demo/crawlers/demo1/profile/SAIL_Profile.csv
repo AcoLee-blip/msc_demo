@@ -1,0 +1,33 @@
+,0
+symbol,SAIL
+price,43.435
+beta,2.140578
+volAvg,1647732
+mktCap,3948784380
+lastDiv,0.0
+range,11.61-49.84
+changes,-0.445
+companyName,SailPoint Technologies Holdings Inc
+currency,USD
+cik,0001627857
+isin,US78781P1057
+cusip,78781P105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.sailpoint.com/
+description,"SailPoint Technologies Holdings, Inc. engages in the provision of enterprise identity governance solutions. The company is headquartered in Austin, Texas and currently employs 1,003 full-time employees. The firm is focused on providing SailPoint that empowers customers to efficiently and securely govern the digital identities of employees, contractors, business partners and other users, and manage their constantly changing access rights to enterprise applications and data. The Company’s products and services include Open Identity Platform, Cloud-based Identity Governance, On-premises Identity Governance, Data Access Governance, Identity Analytics, Healthcare Identity Solutions, and Federal Identity Solutions."
+ceo,Mr. Mark McClain
+sector,Technology
+country,US
+fullTimeEmployees,1168
+phone,15123462000
+address,11120 Four Points Dr Ste 100
+city,Austin
+state,TEXAS
+zip,78726
+dcfDiff,-27.68
+dcf,48.8217
+image,https://financialmodelingprep.com/image-stock/SAIL.png
+ipoDate,2017-11-17
+defaultImage,False

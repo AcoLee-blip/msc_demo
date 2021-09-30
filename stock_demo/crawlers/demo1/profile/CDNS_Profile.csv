@@ -1,0 +1,33 @@
+,0
+symbol,CDNS
+price,114.56
+beta,1.12926
+volAvg,1536706
+mktCap,31954335700
+lastDiv,0.0
+range,51.39-127.5
+changes,-2.12
+companyName,Cadence Design Systems Inc
+currency,USD
+cik,
+isin,US1273871087
+cusip,127387108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.cadence.com/
+description,"Cadence Design Systems, Inc. engages in the design and development of integrated circuits and electronic devices. The company is headquartered in San Jose, California and currently employs 7,500 full-time employees. The firm's product categories include Functional Verification, Digital integrated circuits (IC) Design and Signoff, Custom IC Design and Verification, System Interconnect and Analysis, and intellectual property (IP). Functional verification products are used to verify that the circuitry or the software designed will perform as intended. Digital IC design offerings are used to create representations of a digital circuit or an IC that can be verified for correctness prior to implementation. Custom IC design and verification offerings are used to create schematic and physical representations of circuits down to the transistor level for analog and memory designs. System Interconnect and Analysis offerings are used to develop printed circuit boards and IC packages. Design IP offerings consist of functional blocks, which customers integrate into their ICs for the development process."
+ceo,Mr. Lip-Bu Tan
+sector,Technology
+country,US
+fullTimeEmployees,8100
+phone,14089431234
+address,2655 Seely Ave
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-43.0
+dcf,113.744
+image,https://financialmodelingprep.com/image-stock/CDNS.png
+ipoDate,1988-06-01
+defaultImage,False

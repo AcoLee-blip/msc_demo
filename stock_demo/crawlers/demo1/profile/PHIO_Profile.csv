@@ -1,0 +1,33 @@
+,0
+symbol,PHIO
+price,2.17
+beta,2.30251
+volAvg,449910
+mktCap,12543881
+lastDiv,0.0
+range,1.6-13.64
+changes,0.0
+companyName,Phio Pharmaceuticals Corp
+currency,USD
+cik,0001533040
+isin,US71880W3034
+cusip,71880W303
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://phiopharma.com/
+description,"Phio Pharmaceuticals Corp, formerly RXi Pharmaceuticals Corporation, is a biotechnology company. The Company is focused on developing immuno-oncology therapeutics based on its self-delivering ribonucleic acid interface (RNAi) (sd-rxRNA) therapeutic platform. The Company’s focuses on developing sd-rxRNA therapeutic compounds to be used in the context of adoptive cell transfer by targeting checkpoints or other gene targets, or to be used in immunotherapy following intratumoral injection. The Company’s pipeline include RXI-762 and RXI-804. Its sd-rxRNA compounds are designed to down-regulate the expression of a specific gene that may be over-expressed in a disease condition. The Company is developing RXI-762 for the treatment of Melanoma, Ovarian cancer and other indications. RXI-804 is an sd-rxRNA compound that is designed to suppress the expression of immune checkpoint protein, TIGIT."
+ceo,Dr. Gerrit Dispersyn
+sector,Healthcare
+country,US
+fullTimeEmployees,11
+phone,15087673861
+address,257 Simarano Dr Ste 101
+city,Marlborough
+state,MASSACHUSETTS
+zip,01752
+dcfDiff,
+dcf,17.2575
+image,https://financialmodelingprep.com/image-stock/PHIO.png
+ipoDate,2012-05-10
+defaultImage,False

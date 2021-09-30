@@ -1,0 +1,33 @@
+,0
+symbol,OKTA
+price,220.065
+beta,0.97631
+volAvg,1387280
+mktCap,28187686900
+lastDiv,0.0
+range,88.66-251.18
+changes,-4.195
+companyName,Okta Inc
+currency,USD
+cik,0001660134
+isin,US6792951054
+cusip,679295105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.okta.com/
+description,"Okta, Inc. engages in the provision of identity management platform for the enterprise. The company is headquartered in San Francisco, California and currently employs 2,116 full-time employees. The firm's Okta Identity Cloud platform provides identity management solutions that enable customers to secure their users and connect them to technology and applications. The company also connects enterprises to their customers, employees, contractors, and partners. The company allows users to access a range of cloud applications, Websites, mobile applications and service from various devices. Its platform is used by information technology (IT) organizations to secure their enterprise and by developers to build customer-facing Websites and applications. Okta Identity Cloud consists of a suite of products to manage and secure identities. The company offers a range of products, such as Adaptive Multi-Factor Authentication, Universal Directory, Lifecycle Management products, Single Sign-On, application program interface (API) Access Management and Mobility Management."
+ceo,Mr. Todd McKinnon
+sector,Technology
+country,US
+fullTimeEmployees,2379
+phone,18887227871
+address,100 1st St Ste 600
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,
+dcf,225.246
+image,https://financialmodelingprep.com/image-stock/OKTA.png
+ipoDate,2017-04-07
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,KLR
+price,7.08
+beta,0.0
+volAvg,199884
+mktCap,207625248
+lastDiv,0.0
+range,3.8-11.15
+changes,0.02
+companyName,Kaleyra Inc
+currency,USD
+cik,0001719489
+isin,US4833791035
+cusip,483379103
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Telecom Services
+website,https://www.kaleyra.com/
+description,"Kaleyra, Inc., formerly GigCapital Inc., provides mobile communication services for financial institutions and enterprises worldwide. The Company through its platform, Kaleyra Hexa, manages multi-channel integrated communication services on a global scale, comprising of messages, push notifications, e-mail, instant messaging, voice services and chatbots. Its offered products are Scalable SMS API, Scolable Voice API, Number Insights API and Numbers. Its Scalable SMS API allows users to connect with customers by sending messages worldwide in their preferred languages through unicode messages. It also enhances messaging campaigns by leveraging data analytics. Real-time data and detailed analytics helps reach subscribers better and build valuable relationships. Its Number Insight API provides real-time, key information about every single mobile number worldwide. It enables businesses to enhance their campaign and know their target audience by offering a detailed and accurate database."
+ceo,Mr. Dario Calogero
+sector,Communication Services
+country,IT
+fullTimeEmployees,267
+phone,39022885841
+address,"Via Marco D Aviano, 2"
+city,Milan
+state,MILANO
+zip,20131
+dcfDiff,
+dcf,8.29778
+image,https://financialmodelingprep.com/image-stock/KLR.jpg
+ipoDate,2017-12-08
+defaultImage,True

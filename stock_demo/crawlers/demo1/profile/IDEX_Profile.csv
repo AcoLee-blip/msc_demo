@@ -1,0 +1,33 @@
+,0
+symbol,IDEX
+price,1.035
+beta,-2.07338
+volAvg,6386052
+mktCap,247334992
+lastDiv,0.0
+range,0.28-3.98
+changes,0.0658
+companyName,Ideanomics Inc
+currency,USD
+cik,0000837852
+isin,US45166V1061
+cusip,45166V106
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://ideanomics.com/
+description,"Ideanomics, Inc. provides cloud-based software and services. The company is headquartered in New York City, New York and currently employs 50 full-time employees. The firm focuses on BASE technology and infrastructure including Blockchain, artificial intelligence, supply chain and exchanges to the virtual platform as a service (v pass). Its business units include smart intellectual property cloud, smart sales cloud products and transactional cloud. The firm is engaged in creating closed trade ecosystem for buyers and sellers. The firm creates a vertical, transactional platform for global enterprise."
+ceo,Mr. Alfred Poor
+sector,Technology
+country,US
+fullTimeEmployees,60
+phone,12122061216
+address,55 Broadway Fl 19
+city,New York City
+state,NEW YORK
+zip,10006
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/IDEX.png
+ipoDate,2001-07-11
+defaultImage,False

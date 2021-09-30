@@ -1,0 +1,33 @@
+,0
+symbol,ONCS
+price,5.495
+beta,2.67872
+volAvg,277550
+mktCap,152147760
+lastDiv,0.0
+range,1.04-5.77
+changes,-0.085
+companyName,OncoSec Medical Inc
+currency,USD
+cik,0001444307
+isin,US68234L3069
+cusip,68234L306
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://oncosec.com/
+description,"OncoSec Medical, Inc. is a biotechnology company, which engages in designing, developing, and commercializing therapies for the treatment of cancer. The company is headquartered in Pennington, New Jersey and currently employs 37 full-time employees. The firm is focused on designing, developing and commercializing gene therapies, therapeutics and medical approaches to stimulate an anti-tumor immune response for the treatment of cancer. The firm's lead product candidate, ImmunoPulse IL-12, consists of a plasmid construct encoding the proinflammatory cytokine, IL-12, which is delivered into the tumor through in vivo electroporation. As of July 31, 2016, the Company was pursuing two Phase II trials: ImmunoPulse IL-12 monotherapy in patients with metastatic melanoma and ImmunoPulse IL-12 plus pembrolizumab in patients with advanced, metastatic melanoma. In addition, it is pursuing ImmunoPulse IL-12 monotherapy in patients with triple negative breast cancer. Its ImmunoPulse product candidates are based on its deoxyribonucleic acid (DNA)-based immunotherapy technology, which is designed to stimulate the human immune system, resulting in systemic anti-tumor immune responses."
+ceo,Mr. Daniel O'Connor
+sector,Healthcare
+country,US
+fullTimeEmployees,37
+phone,18582107333
+address,24 N Main St
+city,Pennington
+state,NEW JERSEY
+zip,08534
+dcfDiff,
+dcf,7.3254
+image,https://financialmodelingprep.com/image-stock/ONCS.png
+ipoDate,2015-05-29
+defaultImage,False

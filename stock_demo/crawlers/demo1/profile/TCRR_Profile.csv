@@ -1,0 +1,33 @@
+,0
+symbol,TCRR
+price,26.9
+beta,0.0
+volAvg,279740
+mktCap,899054460
+lastDiv,0.0
+range,5.84-27.17
+changes,1.46
+companyName,TCR2 Therapeutics Inc
+currency,USD
+cik,0001750019
+isin,US87808K1060
+cusip,87808K106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.tcr2.com/
+description,"TCR2 Therapeutics, Inc. is an immunotherapy company, which develops biological drugs and engineering t-cells for cancer therapy. The company is headquartered in Cambridge, Massachusetts and currently employs 71 full-time employees. The Company’s T cell receptor (TCR) Fusion Construct T cells (TRuC-T cells) specifically recognize and kill cancer cells by harnessing the entire T cell receptor (TCR) signaling complex. The firm has demonstrated anti-tumor activity of TRuC-T cells in preclinical models across various tumor targets. The firm has also developed combinations of TRuC variants with elements designed to sustain the immunotherapeutic response and counteract the immunosuppressive tumor microenvironment. Its platform is highlighted with multiple programs of product candidate, which include TC-210, TC-220, TC-410, TC-110 and TC-310."
+ceo,Dr. Garry Menzel
+sector,Healthcare
+country,US
+fullTimeEmployees,87
+phone,16179495200
+address,100 Binney St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,22.094
+image,https://financialmodelingprep.com/image-stock/TCRR.png
+ipoDate,2019-02-14
+defaultImage,False

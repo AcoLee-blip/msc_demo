@@ -1,0 +1,33 @@
+,0
+symbol,T
+price,28.9354
+beta,0.64871
+volAvg,37305753
+mktCap,206193672000
+lastDiv,2.08
+range,26.08-39.7
+changes,0.4954
+companyName,AT&T Inc
+currency,USD
+cik,0000732717
+isin,US00206R1023
+cusip,00206R102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Telecom Services
+website,https://www.att.com/
+description,"AT&T, Inc. is a holding company, which engages in the provision of telecommunications media and technology service. The company is headquartered in Dallas, Texas and currently employs 252,000 full-time employees. The firm is a provider of telecommunications, media and technology services globally. The firm operates through four segments: Communication segment, WarnerMedia segment, Latin America segment and Xandr segment. The Communications segment provides wireless and wireline telecom, video and broadband services to consumers.The business units of the Communication segment includes Mobility, Entertainment Group and Business Wireline. The WarnerMedia segment develops, produces and distributes feature films, television, gaming and other content over various physical and digital formats. The business units of the WarnerMedia segment includes Turner, Home Box Office and Warner Bros. Latin America segment provides entertainment services in Latin America and wireless services in Mexico. Viro and Mexico are the business units of the Latin America segment. The Xandr segment provides advertising services."
+ceo,Mr. Randall Stephenson
+sector,Communication Services
+country,US
+fullTimeEmployees,244000
+phone,12108214105
+address,208 S Akard St
+city,Dallas
+state,TEXAS
+zip,75202
+dcfDiff,336.96
+dcf,28.3708
+image,https://financialmodelingprep.com/image-stock/T.png
+ipoDate,1983-11-21
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,INS
+price,35.68
+beta,1.19778
+volAvg,47707
+mktCap,318599936
+lastDiv,0.0
+range,23.26-45.47
+changes,-0.2
+companyName,Intelligent Systems Corp
+currency,USD
+cik,0000320340
+isin,US45816D1000
+cusip,45816D100
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Software Application
+website,http://www.intelsys.com/
+description,"Intelligent Systems Corp. engages in the management of emerging technology companies. The company is headquartered in Norcross, Georgia and currently employs 255 full-time employees. The firm's financial transaction solutions and services (FinTech) operations are conducted through its CoreCard Software, Inc. (CoreCard) subsidiary. CoreCard and its affiliate companies in Romania and India, as well as the corporate office provide administrative, human resources and executive management support. The firm also has two subsidiaries, CoreCard SRL in Romania and ISC Software in India, that perform software development and testing, as well as processing operations support for CoreCard. CoreCard designs, develops, and markets a suite of software solutions to accounts receivable businesses, financial institutions, retailers and processors to manage their credit and debit cards, prepaid cards, private label cards, fleet cards, loyalty programs, and accounts receivable and small loan transactions."
+ceo,Mr. James Strange
+sector,Technology
+country,US
+fullTimeEmployees,530
+phone,14043812900
+address,4355 Shackleford Rd
+city,Norcross
+state,GEORGIA
+zip,30093
+dcfDiff,-2.88
+dcf,41.3655
+image,https://financialmodelingprep.com/image-stock/INS.jpg
+ipoDate,1981-01-01
+defaultImage,True

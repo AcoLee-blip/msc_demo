@@ -1,0 +1,33 @@
+,0
+symbol,LUNA
+price,7.43
+beta,0.88789
+volAvg,181793
+mktCap,229015632
+lastDiv,0.0
+range,4.5-9.32
+changes,0.01
+companyName,Luna Innovations Inc
+currency,USD
+cik,0001239819
+isin,US5503511009
+cusip,550351100
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,http://lunainc.com/
+description,"Luna Innovations, Inc. engages in the development and manufacture of fiber optic test and measurement, sensing, and instrumentation products for the automotive, aerospace, energy, and infrastructure industries. The company is headquartered in Roanoke, Virginia and currently employs 266 full-time employees. The firm provides technology solutions to measure and monitor processes in the aerospace, automotive, energy, telecommunications and defense industries. The company operates in two business segments: Products and Licensing, and Technology Development. The Products and Licensing segment develops, manufactures and markets its suite of products, including high-speed optical receiver (HSOR), and Terahertz (THz) products, and fiber optic sensing, as well as test and measurement products. The Technology Development segment performs applied research principally in the areas of sensing and instrumentation, advanced materials and health sciences. Its HSOR transmission products are deployed in the Internet communications equipment infrastructure for high-speed bandwidth. Through its subsidiary, Micron Optics, Inc., it provides optical components and laser-based measurement technology."
+ceo,Mr. Scott Graeff
+sector,Technology
+country,US
+fullTimeEmployees,277
+phone,15407698400
+address,301 1st St SW Ste 200
+city,Roanoke
+state,VIRGINIA
+zip,24011
+dcfDiff,-4.53
+dcf,7.63535
+image,https://financialmodelingprep.com/image-stock/LUNA.png
+ipoDate,2006-06-06
+defaultImage,False

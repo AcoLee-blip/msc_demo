@@ -1,0 +1,33 @@
+,0
+symbol,DBD
+price,8.12
+beta,3.25536
+volAvg,870916
+mktCap,630748610
+lastDiv,0.0
+range,2.8-13.05
+changes,0.29
+companyName,Diebold Nixdorf Inc
+currency,USD
+cik,0000028823
+isin,US2536511031
+cusip,253651103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.dieboldnixdorf.com/
+description,"Diebold Nixdorf, Inc. engages in the provision of integrated software-led services, self-service delivery and security systems to financial, retail, commercial, and government markets. The company is headquartered in North Canton, Ohio and currently employs 23,000 full-time employees. The firm's geographic segments include North America (NA), Asia Pacific (AP), Europe, Middle East and Africa (EMEA), and Latin America (LA). These segments sell and service financial self-service (FSS), retail solutions and security systems. The firm is engaged in providing connected commerce solutions to financial institutions. These solutions are supported by a field service organization. The firm provides security solutions, which combine a services portfolio and products to help address its customers' needs. The firm provides services for a portfolio of physical security offerings, in addition to serving as a national locksmith. The firm provides voting machines for official elections and the terminals for the governmental lottery and correspondent bank."
+ceo,Mr. Gerrard Schmid
+sector,Technology
+country,US
+fullTimeEmployees,22000
+phone,13304904000
+address,"5995 Mayfair Rd, PO Box 3077"
+city,North Canton
+state,OHIO
+zip,44720-8077
+dcfDiff,-25.84
+dcf,11.1923
+image,https://financialmodelingprep.com/image-stock/DBD.png
+ipoDate,1980-03-17
+defaultImage,False

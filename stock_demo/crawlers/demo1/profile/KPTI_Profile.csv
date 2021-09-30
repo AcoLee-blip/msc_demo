@@ -1,0 +1,33 @@
+,0
+symbol,KPTI
+price,15.3
+beta,0.98861
+volAvg,1212598
+mktCap,1126092290
+lastDiv,0.0
+range,13.39-29.61
+changes,0.32
+companyName,Karyopharm Therapeutics Inc
+currency,USD
+cik,0001503802
+isin,US48576U1060
+cusip,48576U106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://karyopharm.com/
+description,"Karyopharm Therapeutics, Inc. is an oncology-focused pharmaceutical company dedicated to the discovery, development, and commercialization of novel first-in-class drugs directed against nuclear export and related targets for the treatment of cancer and other major diseases. The company is headquartered in Newton Center, Massachusetts and currently employs 332 full-time employees. The firm is focused on the discovery, development, and commercialization of drugs directed against nuclear export and related targets for the treatment of cancer and other diseases. Its selective inhibitor of nuclear export (SINE) compounds function by binding with and inhibiting the nuclear export protein XPO1 (or CRM1). Its lead compound, XPOVIOTM (selinexor), received accelerated approval from the Food and Drug Administration (FDA), in combination with dexamethasone as a treatment for patients with heavily pretreated multiple myeloma. Its XPOVIO is an oral SINE compound, which blocks the nuclear export of tumor suppressor, growth regulatory and anti-inflammatory proteins, leading to accumulation of these proteins in the nucleus and enhancing their anti-cancer activity in the cell. The company is also focused on developing treatments for other diseases, such as Hematologic Malignancies and Solid Tumor Malignancies."
+ceo,DR. Michael Kauffman
+sector,Healthcare
+country,US
+fullTimeEmployees,347
+phone,16176580600
+address,85 Wells Ave
+city,Newton Center
+state,MASSACHUSETTS
+zip,02459
+dcfDiff,
+dcf,17.2999
+image,https://financialmodelingprep.com/image-stock/KPTI.png
+ipoDate,2013-11-06
+defaultImage,False

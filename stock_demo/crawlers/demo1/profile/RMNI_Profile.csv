@@ -1,0 +1,33 @@
+,0
+symbol,RMNI
+price,4.0
+beta,-0.308536
+volAvg,236727
+mktCap,305140000
+lastDiv,0.0
+range,2.22-5.97
+changes,0.0
+companyName,Rimini Street Inc
+currency,USD
+cik,
+isin,US76674Q1076
+cusip,76674Q107
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.riministreet.com/
+description,"Rimini Street, Inc. engages in the provision of enterprise software support products and services. The company is headquartered in Las Vegas, Nevada and currently employs 1,080 full-time employees. The firm's services include support program features; product support services; global tax, legal and regulatory update services; global security services; risk avoidance services; interoperability support; installation and upgrade process support; performance support; device and user interface support; account management services, and onboarding and archiving services. Its security support services include various offerings, such as security case resolution, security advisory and security intelligence. The firm offers its services for Oracle E-Business Suite, JD Edwards, PeopleSoft, Agile Product Lifecycle Management (PLM), Siebel, Oracle Retail, Oracle Database, Oracle Fusion Middleware, Hyperion, systems applications and products (SAP) Business Suite, SAP High-Performance Analytic Appliance (HANA) Database and BusinessObjects."
+ceo,Mr. Seth Ravin
+sector,Technology
+country,US
+fullTimeEmployees,1270
+phone,17028399671
+address,3993 Howard Hughes Pkwy Ste 500
+city,Las Vegas
+state,NEVADA
+zip,89169
+dcfDiff,-5.1
+dcf,3.7646
+image,https://financialmodelingprep.com/image-stock/RMNI.png
+ipoDate,2015-07-10
+defaultImage,False

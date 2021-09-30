@@ -1,0 +1,33 @@
+,0
+symbol,DOMO
+price,34.77
+beta,0.0
+volAvg,482640
+mktCap,1017756160
+lastDiv,0.0
+range,7.62-47.25
+changes,1.66
+companyName,Domo Inc
+currency,USD
+cik,0001505952
+isin,US2575541055
+cusip,257554105
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.domo.com/
+description,"Domo, Inc. designs, develops, and markets executive management software solutions. The company is headquartered in American Fork, Utah and currently employs 761 full-time employees. The Company’s platform enables employees to access real-time data and insights and take action from their smart phone. Through the Company’s platform, data from across the business is collected, stored, prepared, organized, analyzed, visualized, and shared. The firm applies algorithms and machine learning to the data that allow alerts to be triggered and actions invited. Users can receive these notifications on any device and immediately act on the invitation, after which the system can write back to the original system of record."
+ceo,Mr. Joshua James
+sector,Technology
+country,US
+fullTimeEmployees,802
+phone,18008991000
+address,772 E Utah Valley Dr
+city,American Fork
+state,UTAH
+zip,84003
+dcfDiff,
+dcf,38.1276
+image,https://financialmodelingprep.com/image-stock/DOMO.png
+ipoDate,2018-06-29
+defaultImage,False

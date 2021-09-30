@@ -1,0 +1,33 @@
+,0
+symbol,NTNX
+price,26.25
+beta,2.094
+volAvg,3405098
+mktCap,5409259000
+lastDiv,0.0
+range,11.31-37.86
+changes,0.63
+companyName,Nutanix Inc
+currency,USD
+cik,0001618732
+isin,US67059N1081
+cusip,67059N108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.nutanix.com/
+description,"Nutanix, Inc. engages in the provision of enterprise virtualization and storage solutions. The company is headquartered in San Jose, California and currently employs 5,770 full-time employees. The firm's enterprise cloud platform connects to public cloud services. The company has operations in the United States; Europe, the Middle East and Africa; Asia-Pacific, and Other Americas. Its solution consists of software product families, including Acropolis and Prism. Its solution is delivered on commodity x86 servers. Acropolis includes its Distributed Storage Fabric that delivers enterprise-grade data management features. Acropolis also includes a built-in hypervisor, and its Application Mobility Fabric that enables application placement, conversion and migration across various hypervisors, and between public and private clouds. Prism delivers integrated virtualization and infrastructure management, operational analytics and a suite of one-click administration capabilities."
+ceo,Dr. Dheeraj Pandey
+sector,Technology
+country,US
+fullTimeEmployees,6230
+phone,14082168360
+address,1740 Technology Dr Ste 150
+city,San Jose
+state,CALIFORNIA
+zip,95110
+dcfDiff,-591.24
+dcf,26.5912
+image,https://financialmodelingprep.com/image-stock/NTNX.png
+ipoDate,2016-09-30
+defaultImage,False

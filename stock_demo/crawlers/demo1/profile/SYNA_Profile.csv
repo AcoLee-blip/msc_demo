@@ -1,0 +1,33 @@
+,0
+symbol,SYNA
+price,78.69
+beta,1.23106
+volAvg,361161
+mktCap,2716237310
+lastDiv,0.0
+range,44.41-92.32
+changes,1.15
+companyName,Synaptics Inc
+currency,USD
+cik,0000817720
+isin,US87157D1090
+cusip,87157D109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.synaptics.com/
+description,"Synaptics, Inc. engages in the development, marketing, and sale of human interface semiconductor solutions for electronic devices and products. The company is headquartered in San Jose, California and currently employs 1,861 full-time employees. The firm is a developer and supplier of custom-designed human interface product solutions that enable people to interact with a range of mobile computing, communications, entertainment and other electronic devices. Its products include ClearPad, ClearView, TouchView, Natural ID, TouchPad, SecurePad, ClickPad and ForcePad. Its other product solutions include dual pointing solutions, TouchStyk, and TouchButtons. Its dual pointing solutions offer TouchPad with a pointing stick in a single notebook computer, enabling users to select their interface of choice. TouchStyk is a self-contained pointing stick module that uses capacitive technology similar to that used in its TouchPad. TouchButtons provide capacitive buttons and scrolling controls for an interface solution designed to replace mechanical buttons."
+ceo,Mr. Michael Hurlston
+sector,Technology
+country,US
+fullTimeEmployees,1861
+phone,14089041100
+address,1251 McKay Dr
+city,San Jose
+state,CALIFORNIA
+zip,95131
+dcfDiff,
+dcf,100.917
+image,https://financialmodelingprep.com/image-stock/SYNA.png
+ipoDate,2002-01-29
+defaultImage,False

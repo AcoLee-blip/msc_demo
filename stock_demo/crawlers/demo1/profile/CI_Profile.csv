@@ -1,0 +1,33 @@
+,0
+symbol,CI
+price,220.15
+beta,0.71854
+volAvg,2005886
+mktCap,79532933000
+lastDiv,0.04
+range,118.5-224.96
+changes,-0.96
+companyName,Cigna Corp
+currency,USD
+cik,0001739940
+isin,US1255231003
+cusip,125523100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Health Care Plans
+website,https://www.cigna.com/
+description,"Cigna Corp. engages in the provision of global health services. The company is headquartered in Bloomfield, Connecticut and currently employs 73,800 full-time employees. The firm offers medical, dental, disability, life and accident insurance and related products and services. The firm's segments include Global Health Care, Global Supplemental Benefits, Group Disability and Life, and Other Operations and Corporate. Its Global Health Care segment aggregates the commercial and Government operating segments. Its commercial operating segment encompasses the United States commercial and certain international healthcare businesses serving employers and their employees, other groups, and individuals. Its Global Supplemental Benefits segment offers supplemental health, life and accident insurance products in selected international markets and in the United States. Its Group Disability and Life segment provides group long-term and short-term disability insurance, group life insurance, accident and specialty insurance and related services."
+ceo,Mr. David Cordani
+sector,Healthcare
+country,US
+fullTimeEmployees,73700
+phone,18602266000
+address,900 Cottage Grove Rd
+city,Bloomfield
+state,CONNECTICUT
+zip,06002
+dcfDiff,-153.51
+dcf,186.847
+image,https://financialmodelingprep.com/image-stock/CI.png
+ipoDate,1982-04-01
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,RP
+price,61.705
+beta,1.01287
+volAvg,774443
+mktCap,6284778000
+lastDiv,0.0
+range,36.91-69.79
+changes,0.095
+companyName,RealPage Inc
+currency,USD
+cik,0001286225
+isin,US75606N1090
+cusip,75606N109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.realpage.com
+description,"RealPage, Inc. engages in the provision of software and data analytics to the real estate industry. The company is headquartered in Richardson, Texas and currently employs 6,200 full-time employees. The firm's property management solutions are referred to as Enterprise Resource Planning systems. Its on demand platform provides a single point of access and a repository of real-time lease transaction data, including prospect, renter and property data. Its platform consists of four primary categories of solutions: Property Management, Lease Management, Resident Services and Asset Optimization. These solutions provide complementary asset performance and investment decision support; risk mitigation, billing and utility management; resident engagement, spend management, operations and facilities management, and lead generation and lease management capabilities that collectively enable its clients to manage all the stages of the renter life cycle. In addition, its open architecture allows third-party applications to access its solutions using its RealPage Exchange platform."
+ceo,Mr. Stephen Winn
+sector,Technology
+country,US
+fullTimeEmployees,7300
+phone,19728203915
+address,2201 Lakeside Blvd
+city,Richardson
+state,TEXAS
+zip,75082
+dcfDiff,-43.13
+dcf,60.9877
+image,https://financialmodelingprep.com/image-stock/RP.png
+ipoDate,2010-08-12
+defaultImage,False

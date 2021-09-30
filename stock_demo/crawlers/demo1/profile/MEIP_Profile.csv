@@ -1,0 +1,33 @@
+,0
+symbol,MEIP
+price,2.895
+beta,1.70844
+volAvg,778126
+mktCap,325751200
+lastDiv,0.0
+range,0.72-4.46
+changes,0.075
+companyName,MEI Pharma Inc
+currency,USD
+cik,
+isin,US55279B2025
+cusip,55279B202
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.meipharma.com/
+description,"MEI Pharma, Inc. engages in the clinical development of therapies for cancer. The company is headquartered in San Diego, California and currently employs 40 full-time employees. The firm is focused on the clinical development of drugs and therapies for treatment of cancer. The firm's portfolio of clinical drug candidates includes Pracinostat, ME-344 and ME-401. Pracinostat is an orally available histone deacetylase (HDAC) inhibitor indicated for the treatment of hematologic diseases, such as acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS). ME-344 is an isoflavone-based mitochondrial inhibitor targeting a mitochondrial component of the terminal respiratory chain complex in rapidly proliferating cells. ME-401 is an oral inhibitor of phosphatidylinositide 3-kinase (PI3K) delta, a molecular target that plays a critical role in the proliferation and survival of hematologic cancer cells. Pracinostat has been tested in multiple Phase I and Phase II clinical trials in advanced hematologic malignancies and solid tumor indications."
+ceo,Dr. Daniel Gold
+sector,Healthcare
+country,US
+fullTimeEmployees,40
+phone,18583697100
+address,3611 Valley Centre Dr Ste 500
+city,San Diego
+state,CALIFORNIA
+zip,92130
+dcfDiff,
+dcf,2.84539
+image,https://financialmodelingprep.com/image-stock/MEIP.png
+ipoDate,2003-12-18
+defaultImage,False

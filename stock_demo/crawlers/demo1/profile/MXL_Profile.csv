@@ -1,0 +1,33 @@
+,0
+symbol,MXL
+price,26.8
+beta,1.99718
+volAvg,474267
+mktCap,1987715580
+lastDiv,0.0
+range,7.79-30.52
+changes,-0.06
+companyName,Maxlinear Inc
+currency,USD
+cik,0001288469
+isin,US57776J1007
+cusip,57776J100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Semiconductors
+website,https://www.maxlinear.com/
+description,"MaxLinear, Inc. engages in the provision of radio frequency, high-performance analog and mixed-signal communications systems-on-chip solutions for the connected home, wired and wireless infrastructure, and industrial and multi-market applications. The company is headquartered in Carlsbad, California and currently employs 739 full-time employees. The firm's RF receiver products capture and process digital and analog broadband signals to be decoded for various applications. These products include both RF receivers and RF receiver systems-on-chip (SoCs), which incorporate its radio system architecture and the functionality necessary to receive and demodulate broadband signals, modem solutions, and physical medium devices that provide a constant current source, current-to-voltage regulation, and data alignment and retiming functionality in optical interconnect applications. The company provides semiconductor solutions for the connected home, specifically Multimedia over Coax Alliance (MoCA) solutions. The company sells its products to original equipment manufacturers (OEMs), module makers and original design manufacturers (ODMs)."
+ceo,Dr. Kishore Seendripu
+sector,Technology
+country,US
+fullTimeEmployees,697
+phone,17606920711
+address,5966 La Place Ct
+city,Carlsbad
+state,CALIFORNIA
+zip,92008
+dcfDiff,1.05
+dcf,24.7757
+image,https://financialmodelingprep.com/image-stock/MXL.jpg
+ipoDate,2010-03-24
+defaultImage,True

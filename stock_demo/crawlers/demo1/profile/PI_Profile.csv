@@ -1,0 +1,33 @@
+,0
+symbol,PI
+price,34.49
+beta,2.24484
+volAvg,228150
+mktCap,796260350
+lastDiv,0.0
+range,11.47-36.961
+changes,1.08
+companyName,Impinj Inc
+currency,USD
+cik,0001114995
+isin,US4532041096
+cusip,453204109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.impinj.com/
+description,"IImpinj, Inc. engages in the development and sale of RAIN, a radio frequency identification solution. The company is headquartered in Seattle, Washington and currently employs 282 full-time employees. The firm sells a platform that includes endpoint integrated circuits (ICs), reader ICs, readers and gateways that enable wireless connectivity to everyday items, and software that delivers Item Intelligence from endpoint reads. The Impinj Platform connects billions of everyday items, such as apparel, medical supplies, automobile parts, drivers' licenses, food and luggage to applications, such as inventory management, patient safety, asset tracking and item authentication, delivering real-time information to businesses about items they create, manage, transport and sell. The Impinj Platform wirelessly delivers information about these items' identity, location and authenticity, or Item Intelligence, to the digital world."
+ceo,Dr. Chris Diorio
+sector,Technology
+country,US
+fullTimeEmployees,272
+phone,12065175300
+address,400 Fairview Ave N Ste 1200
+city,Seattle
+state,WASHINGTON
+zip,98109
+dcfDiff,-21.19
+dcf,31.7721
+image,https://financialmodelingprep.com/image-stock/PI.png
+ipoDate,2016-07-21
+defaultImage,False

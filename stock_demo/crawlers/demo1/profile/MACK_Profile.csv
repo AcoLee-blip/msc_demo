@@ -1,0 +1,33 @@
+,0
+symbol,MACK
+price,3.68
+beta,2.59232
+volAvg,40895
+mktCap,49239136
+lastDiv,0.5
+range,1.49-4.75
+changes,-0.03
+companyName,Merrimack Pharmaceuticals Inc
+currency,USD
+cik,0001274792
+isin,US5903282094
+cusip,590328209
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.merrimackpharma.com
+description,"Merrimack Pharmaceuticals, Inc. is a clinical stage biopharmaceutical company, which engages in discovering, developing, and commercializing medicines consisting of novel therapeutics paired with diagnostics for the treatment of cancer. The company is headquartered in Cambridge, Massachusetts and currently employs 27 full-time employees. The firm is engaged in designing novel treatments for cancer by targeting biomarker-defined cancers. Its clinical programs include MM-121 (seribantumab), MM-141 (istiratumab) and MM-310. MM-121 is a fully human monoclonal antibody that binds to the ErbB3 (HER3) receptor and targets heregulin positive cancers. MM-141 is a fully human tetravalent bispecific antibody designed to block tumor survival signals by targeting receptor complexes containing the insulin-like growth factor 1, or IGF-1, receptor and ErbB3 (HER3) cell surface receptor. MM-310 is an antibody-directed nanotherapeutic that targets the ephrin receptor A2, or EphA2, receptor and contains a novel prodrug of the highly potent chemotherapy docetaxel. The Company’s preclinical programs include MM-161, ATRi, BCL2/BCLxl, TRAIL, Immuno-oncology and STIMULI."
+ceo,Dr. Richard Peters
+sector,Healthcare
+country,US
+fullTimeEmployees,0
+phone,16174411000
+address,1 Broadway Fl 14
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,5.10167
+image,https://financialmodelingprep.com/image-stock/MACK.png
+ipoDate,2012-03-29
+defaultImage,False

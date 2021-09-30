@@ -1,0 +1,33 @@
+,0
+symbol,ZIXI
+price,6.76
+beta,1.1486
+volAvg,680640
+mktCap,385260512
+lastDiv,0.0
+range,2.84-9.29
+changes,-0.03
+companyName,Zix Corp
+currency,USD
+cik,0000855612
+isin,US98974P1003
+cusip,98974P100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.zix.com/
+description,"Zix Corp. provides an email encryption and security solutions. The company is headquartered in Dallas, Texas and currently employs 265 full-time employees. The firm serves organizations in the healthcare, financial services, insurance and government sectors, including federal financial regulators, such as the Federal Financial Institutions Examination Council (FFIEC), divisions of the United States Treasury, the United States Securities and Exchange Commission (SEC), the United States banks, over 30 Blue Cross Blue Shield organizations and the United States hospitals. The firm's ZixEncrypt enables the secure exchange of e-mails that include sensitive information through a secure messaging service, which allows an enterprise to use policy-driven rules to determine which e-mail messages should be sent securely to comply with regulations or company-defined policies. The company also offers ZixOne and ZixProtect product solutions."
+ceo,Mr. David Wagner
+sector,Technology
+country,US
+fullTimeEmployees,566
+phone,12143702000
+address,"2711 North Haskell Avenue, Suite 2300, Lb 36"
+city,Dallas
+state,TEXAS
+zip,75204
+dcfDiff,-3.81
+dcf,6.50175
+image,https://financialmodelingprep.com/image-stock/ZIXI.jpg
+ipoDate,1989-11-09
+defaultImage,True

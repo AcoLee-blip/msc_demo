@@ -1,0 +1,33 @@
+,0
+symbol,ANY
+price,1.31
+beta,1.7825
+volAvg,415900
+mktCap,9115399
+lastDiv,0.0
+range,0.33-5.55
+changes,-0.05
+companyName,Sphere 3D Corp
+currency,USD
+cik,0001591956
+isin,CA84841L3083
+cusip,84841L308
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://sphere3d.com
+description,"Sphere 3D Corp. engages in the provision of containerization, virtualization, and data management solutions via hybrid cloud, cloud, and on-premise implementations through its global reseller network and professional services organization. The company is headquartered in North York, Ontario and currently employs 429 full-time employees. The firm delivers data management, desktop and application virtualization solutions through hybrid cloud, cloud and on premise implementations by its global reseller network. The firm achieves this through a combination of containerized applications, virtual desktops, virtual storage and physical hyper-converged platforms. The Company’s products allow organizations to deploy a combination of public, private or hybrid cloud strategies while backing them up with the latest storage solutions. The firm has a portfolio of brands including RDX, Glassware 2.0, SnapCLOUD, SnapServer, SnapSync, NEO and V3 ."
+ceo,Mr. Peter Tassiopoulos
+sector,Technology
+country,CA
+fullTimeEmployees,429
+phone,14167495999
+address,"Bldg. 2, 895 Don Mills Rd Suite 900"
+city,North York
+state,ONTARIO
+zip,M3C 1W3
+dcfDiff,
+dcf,1.70534
+image,https://financialmodelingprep.com/image-stock/ANY.png
+ipoDate,2014-07-07
+defaultImage,False

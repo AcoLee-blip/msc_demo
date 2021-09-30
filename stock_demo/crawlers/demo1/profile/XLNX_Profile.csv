@@ -1,0 +1,33 @@
+,0
+symbol,XLNX
+price,127.65
+beta,0.957
+volAvg,3520856
+mktCap,31289823200
+lastDiv,1.5100000000000002
+range,67.68-136.5
+changes,0.0
+companyName,Xilinx Inc
+currency,USD
+cik,0000743988
+isin,US9839191015
+cusip,983919101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.xilinx.com/
+description,"Xilinx, Inc. engages in the design and development of programmable logic semiconductor devices and the related software design tools. The company is headquartered in San Jose, California and currently employs 4,433 full-time employees. The firm's programmable devices and associated technologies include integrated circuits (ICs) in the form of programmable logic devices (PLDs), including programmable System on Chips (SoCs) and three-dimensional ICs (3D ICs); software design tools to program the PLDs; targeted reference designs; printed circuit boards, and intellectual property (IP), which consists of Xilinx, and various third-party verification and IP cores. The firm provides design services, customer training, field engineering and technical support. Its PLDs include field programmable gate arrays (FPGAs), complex programmable logic devices (CPLDs) that its customers program to perform desired logic functions, and programmable SoCs, which combine (Advanced reduced instruction set computing (RISC) Machines (ARM)) processor-based systems with programmable logic in a single device."
+ceo,Mr. Victor Peng
+sector,Technology
+country,US
+fullTimeEmployees,4891
+phone,14085597778
+address,2100 LOGIC DR
+city,San Jose
+state,CALIFORNIA
+zip,95124
+dcfDiff,-72.05
+dcf,118.273
+image,https://financialmodelingprep.com/image-stock/XLNX.png
+ipoDate,1990-06-01
+defaultImage,False

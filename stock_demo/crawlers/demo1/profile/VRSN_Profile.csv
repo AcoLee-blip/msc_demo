@@ -1,0 +1,33 @@
+,0
+symbol,VRSN
+price,198.51
+beta,0.82195
+volAvg,665784
+mktCap,22651975700
+lastDiv,0.0
+range,148.77-221.3
+changes,-0.46
+companyName,Verisign Inc
+currency,USD
+cik,0001014473
+isin,US92343E1029
+cusip,92343E102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.verisign.com/
+description,"VeriSign, Inc. provides domain name registry services and Internet infrastructure, which enables Internet navigation for many of the world's most recognized domain names. The company is headquartered in Reston, Virginia and currently employs 900 full-time employees. The firm operates through Registry Services and Security Services segment. Registry Services ensure the security, stability and resiliency of Internet infrastructure and services, including the .com and .net domains, and operation of the root-zone maintainer functions for the core of the Internet's Domain Name System (DNS). Security Services provides infrastructure assurance services consisting of Distributed Denial of Services (DDoS) Protection Services and Managed DNS Services. DDoS Protection Services supports online business continuity by providing monitoring and mitigation services against DDoS attacks. Managed DNS Services is a hosting service that delivers DNS resolution for the availability of Web-based systems."
+ceo,Mr. D. Bidzos
+sector,Technology
+country,US
+fullTimeEmployees,872
+phone,17039483200
+address,12061 Bluemont Way
+city,Reston
+state,VIRGINIA
+zip,20190
+dcfDiff,-107.65
+dcf,209.832
+image,https://financialmodelingprep.com/image-stock/VRSN.jpg
+ipoDate,1998-01-29
+defaultImage,True

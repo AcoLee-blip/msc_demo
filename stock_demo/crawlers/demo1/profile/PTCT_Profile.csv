@@ -1,0 +1,33 @@
+,0
+symbol,PTCT
+price,59.83
+beta,1.21839
+volAvg,473996
+mktCap,4082541820
+lastDiv,0.0
+range,30.792-61.765
+changes,0.34
+companyName,PTC Therapeutics Inc
+currency,USD
+cik,0001070081
+isin,US69366J2006
+cusip,69366J200
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.ptcbio.com/
+description,"PTC Therapeutics, Inc. is a biopharmaceutical company, which engages in the discovery and commercialization of clinically-differentiated medicines. The company is headquartered in South Plainfield, New Jersey and currently employs 517 full-time employees. The firm is focused on the discovery, development and commercialization of medicines using its expertise in ribonucleic acid (RNA) biology. Its product pipeline includes Ataluren (Translarna), PTC596 and RG7916. Its product candidate, ataluren, is an orally administered small-molecule compound for the treatment of patients with genetic disorders due to a nonsense mutation. Ataluren is in clinical development for the treatment of Duchenne muscular dystrophy caused by a nonsense mutation (nmDMD) and cystic fibrosis caused by a nonsense mutation (nmCF). PTC596 is an orally active small molecule that targets tumor stem cell populations by reducing the function, activity and amount of BMI1. RG7916 is an investigational oral therapeutic, which is in two clinical studies: SUNFISH, a trial in childhood onset (Type II/III) spinal muscular atrophy (SMA) patients, and FIREFISH, a trial in infant onset (Type I) SMA patients."
+ceo,Dr. Stuart Peltz
+sector,Healthcare
+country,US
+fullTimeEmployees,754
+phone,19082227000
+address,100 Corporate Ct
+city,South Plainfield
+state,NEW JERSEY
+zip,07080
+dcfDiff,-1107.05
+dcf,56.1132
+image,https://financialmodelingprep.com/image-stock/PTCT.png
+ipoDate,2013-06-20
+defaultImage,False

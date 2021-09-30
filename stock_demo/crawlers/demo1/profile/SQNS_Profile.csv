@@ -1,0 +1,33 @@
+,0
+symbol,SQNS
+price,4.4186
+beta,0.64471
+volAvg,169149
+mktCap,133937488
+lastDiv,0.0
+range,1.68-8.29
+changes,0.3486
+companyName,Sequans Communications SA
+currency,USD
+cik,0001383395
+isin,US8173232070
+cusip,817323207
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Semiconductors
+website,https://www.sequans.com/
+description,"Sequans Communications SA is a developer and provider of 5G and 4G chips and modules for massive, broadband, and critical IoT. The company is headquartered in Colombes, Ile-De-France and currently employs 227 full-time employees. Its semiconductor solutions integrate baseband processor and radio frequency (RF) transceiver integrated circuits (ICs) along with its signal processing techniques, algorithms and software stacks. In the broadband data device market, its solutions serve as the wireless communications platform in devices, such as smartphones; Universal Serial Bus (USB) dongles; portable routers; embedded wireless modems for laptops, tablets, and other consumer multimedia devices; and customer-premises equipment, such as fixed wireless access modems, routers and residential gateways. The firm's products include SQN3330, SQN3223, SQN3221, SQN3241, VZ120Q, VZ22Q, VZ22M, US60L, SQN3220, SQN3240, SQN3120, SQN5120, SQN3140, VZ20Q, VZ20M, SQN1210 and SQN1220."
+ceo,Dr. Georges Karam
+sector,Technology
+country,FR
+fullTimeEmployees,208
+phone,33170721600
+address,"Portes de la Defense, 15-55, Boulevard Charles de Gaulle"
+city,Colombes
+state,ILE-DE-FRANCE
+zip,92700
+dcfDiff,
+dcf,4.72889
+image,https://financialmodelingprep.com/image-stock/SQNS.jpg
+ipoDate,2011-04-15
+defaultImage,True

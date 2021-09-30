@@ -1,0 +1,33 @@
+,0
+symbol,PNC
+price,123.435
+beta,1.26873
+volAvg,2070060
+mktCap,52299530000
+lastDiv,4.6
+range,79.41-161.79
+changes,2.435
+companyName,PNC Financial Services Group Inc
+currency,USD
+cik,0000713676
+isin,US6934751057
+cusip,693475105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Banks Regional
+website,https://www.pnc.com/
+description,"PNC Financial Services Group, Inc. is a holding company, which engages in the provision of financial services. The company is headquartered in Pittsburgh, Pennsylvania and currently employs 50,928 full-time employees. The firm has businesses engaged in retail banking, including residential mortgage, corporate and institutional banking and asset management. The firm operates through four segments: Retail Banking, Corporate & Institutional Banking, Asset Management Group, and BlackRock. Retail Banking provides deposit, lending, brokerage, investment management and cash management products and services. Corporate & Institutional Banking provides lending, treasury management and capital markets-related products and services. Asset Management Group includes personal wealth management for high net worth and ultra-high net worth clients and institutional asset management. BlackRock, in which the Company holds an equity investment, is a publicly traded investment management firm providing investment and risk management services to institutional and retail clients across the world."
+ceo,Mr. William Demchak
+sector,Financial Services
+country,US
+fullTimeEmployees,50017
+phone,18887622265
+address,300 5th Ave
+city,Pittsburgh
+state,PENNSYLVANIA
+zip,15222-2401
+dcfDiff,-134.17
+dcf,121.937
+image,https://financialmodelingprep.com/image-stock/PNC.png
+ipoDate,1987-10-21
+defaultImage,False

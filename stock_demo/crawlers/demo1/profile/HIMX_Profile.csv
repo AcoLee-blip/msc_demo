@@ -1,0 +1,33 @@
+,0
+symbol,HIMX
+price,4.095
+beta,1.23286
+volAvg,704047
+mktCap,705093440
+lastDiv,0.0
+range,1.73-5.1
+changes,0.035
+companyName,Himax Technologies Inc
+currency,USD
+cik,0001342338
+isin,US43289P1066
+cusip,43289P106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.himax.com.tw/
+description,"Himax Technologies, Inc. is a semiconductor solution provider dedicated to display imaging processing technologies. The company is headquartered in Tainan, Tainan and currently employs 2,160 full-time employees. The firm is engaged in display driver integrated circuits (IC) and timing controllers used in televisions, laptops, monitors, mobile phones, tablets, digital cameras, car navigation and other consumer electronics devices. The firm operates through two segments: Driver IC and Non-driver products. In addition, the Company designs and provides controllers for touch sensor displays, liquid crystal on silicon micro-displays used in palm-size projectors and head-mounted displays, light-emitting diode driver ICs, power management ICs, scaler products for monitors and projectors, video processing IC solutions and silicon IPs. The company also offers digital camera solutions, including complementary metal-oxide-semiconductor image sensors and wafer level optics, which are used in a range of applications, such as mobile phone, tablet, laptop, televisions, personal computer camera, automobile, security and medical devices."
+ceo,Mr. Jordan Wu
+sector,Technology
+country,TW
+fullTimeEmployees,1975
+phone,88665050880
+address,"No.26, Zihlian Road, Sinshin District"
+city,Tainan
+state,TAINAN
+zip,
+dcfDiff,-6.86
+dcf,4.08185
+image,https://financialmodelingprep.com/image-stock/HIMX.jpg
+ipoDate,2006-03-31
+defaultImage,True

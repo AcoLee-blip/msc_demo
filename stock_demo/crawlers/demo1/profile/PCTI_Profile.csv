@@ -1,0 +1,33 @@
+,0
+symbol,PCTI
+price,6.02
+beta,0.06077
+volAvg,101696
+mktCap,112693192
+lastDiv,0.22
+range,3.95-9.65
+changes,-0.03
+companyName,PCTEL Inc
+currency,USD
+cik,0001057083
+isin,US69325Q1058
+cusip,69325Q105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.pctel.com/
+description,"PCTEL, Inc. engages in the provision of antennas and wireless network testing solutions. The company is headquartered in Bloomingdale, Illinois and currently employs 454 full-time employees. The firm operates in two segments: Connected Solutions and RF Solutions. The RF Solutions segment develops and provides test equipment, software and engineering services for wireless networks. The Connected Solutions segment designs and delivers antennas and site solutions for wireless networks globally. PCTEL antennas and site solutions support networks across the world, including Supervisory Control and Data Acquisition (SCADA) for oil, gas and utilities, fleet management, industrial operations, healthcare, small cell and network timing deployment, defense, public safety, education and broadband access. Its SeeGull flex scanning receivers are used around the world for indoor and drive test applications, including baseline testing, acceptance testing, spectrum clearing, troubleshooting and network optimization. PCTEL provides wireless network testing, commissioning, optimization, design, integration and consulting services."
+ceo,Mr. David Neumann
+sector,Technology
+country,US
+fullTimeEmployees,331
+phone,16303726800
+address,471 Brighton Drive
+city,Bloomingdale
+state,ILLINOIS
+zip,60108
+dcfDiff,
+dcf,5.52039
+image,https://financialmodelingprep.com/image-stock/PCTI.png
+ipoDate,1999-10-19
+defaultImage,False

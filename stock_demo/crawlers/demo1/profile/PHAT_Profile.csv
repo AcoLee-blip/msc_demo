@@ -1,0 +1,33 @@
+,0
+symbol,PHAT
+price,39.64
+beta,0.0
+volAvg,48284
+mktCap,1027314180
+lastDiv,0.0
+range,18.51-64.54
+changes,1.25
+companyName,Phathom Pharmaceuticals Inc
+currency,USD
+cik,0001783183
+isin,US71722W1071
+cusip,71722W107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.phathompharma.com/
+description,"Phathom Pharmaceuticals, Inc. is a clinical-stage biopharmaceutical company, which engages in the development and commercialization of novel treatments for gastrointestinal diseases. The company is headquartered in Menlo Park, California and currently employs 16 full-time employees. The firm is focused on developing and commercializing treatments for gastrointestinal (GI) diseases. Its product candidate, vonoprazan, is an oral small molecule potassium competitive acid blocker (P-CAB). The company is developing vonoprazan as an agent in the treatment of gastroesophageal reflux disease (GERD) and in combination with antibiotics for the treatment of Helicobacter pylori (H. pylori) infection. Vonoprazan accumulates in the secretory canaliculus where the proton pumps are present in their active state. Vonoprazan binds to proton pumps in both their inactive and active states and remains in the secretory canaliculus where it continues to inhibit acid secretion over an extended period."
+ceo,Ms. Terrie J. Curran
+sector,Healthcare
+country,US
+fullTimeEmployees,25
+phone,18777428466
+address,"100 CAMPUS DRIVE,, SUITE 102"
+city,Florham Park
+state,NEW JERSEY
+zip,07932
+dcfDiff,
+dcf,59.3051
+image,https://financialmodelingprep.com/image-stock/PHAT.png
+ipoDate,2019-10-25
+defaultImage,False

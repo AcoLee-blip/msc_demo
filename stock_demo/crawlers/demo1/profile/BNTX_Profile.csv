@@ -1,0 +1,33 @@
+,0
+symbol,BNTX
+price,101.63
+beta,0.0
+volAvg,2751360
+mktCap,24205520900
+lastDiv,0.0
+range,18.6-115.0
+changes,-7.82
+companyName,BioNTech SE
+currency,EUR
+cik,0001776985
+isin,US09075V1026
+cusip,09075V102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://biontech.de/
+description,"BioNTech SE operates as a clinical-stage biotechnology company. The company is headquartered in Mainz, Rheinland-Pfalz and currently employs 1,179 full-time employees. The firm focuses on patient-specific immunotherapies for the treatment of cancer and other serious diseases. The company develops a broad product pipeline using different scientific approaches and technology platforms, including individualized mRNA-based product candidates, chimeric antigen receptor T-cells, checkpoint immunomodulators, targeted cancer antibodies and small molecules. In addition, the Company offers diagnostic products and drug discovery services for other therapeutic areas, including infectious diseases, allergies and autoimmune disorders."
+ceo,Prof. Ugur Sahin M.D.
+sector,Healthcare
+country,DE
+fullTimeEmployees,1179
+phone,49613190840
+address,An der Goldgrube 12
+city,Mainz
+state,RHEINLAND-PFALZ
+zip,55131
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/BNTX.png
+ipoDate,2019-10-10
+defaultImage,False

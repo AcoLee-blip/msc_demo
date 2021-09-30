@@ -1,0 +1,33 @@
+,0
+symbol,NXTD
+price,0.3144
+beta,-0.03507
+volAvg,2389315
+mktCap,11007112
+lastDiv,0.0
+range,0.213-0.889
+changes,-0.0072
+companyName,NXT-ID Inc
+currency,USD
+cik,0001566826
+isin,US67091J2069
+cusip,67091J206
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Security & Protection Services
+website,https://nxt-id.com
+description,"Nxt-ID, Inc. provides a comprehensive platform of technology products and services that enable the Internet of Things (IoT). The company is headquartered in Sebastian, Florida and currently employs 16 full-time employees. The firm is focused on products, solutions and services for security on mobile devices. The firm's core technologies consist of those that support digital payments, biometric identification, encryption, sensors and miniaturization. The company has three lines of business: mobile commerce (m-commerce), primarily through the application of secure digital payment technologies; biometric access control applications, and Department of Defense contracting. The company intends to use its core biometric facial and voice recognition algorithms to develop security applications (both cloud based and locally hosted) that can be used for companies, as well as individuals, law enforcement, the defense industry, and the United States Department of Defense. Its offerings include Wocket, a physical electronic smart wallet; the NXT Smartcard, a standalone smartcard; Wi-Mag, an antenna and payment technology, and 3D FaceMatch and 3D SketchArtist facial recognition products."
+ceo,Mr. Vincent Miceli
+sector,Industrials
+country,US
+fullTimeEmployees,30
+phone,12032662103
+address,1627 US Highway 1 Ste 206
+city,Sebastian
+state,FLORIDA
+zip,06478
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/NXTD.png
+ipoDate,2013-08-02
+defaultImage,False

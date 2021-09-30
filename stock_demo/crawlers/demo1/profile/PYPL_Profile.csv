@@ -1,0 +1,33 @@
+,0
+symbol,PYPL
+price,187.6
+beta,1.07513
+volAvg,8942364
+mktCap,219809055000
+lastDiv,0.0
+range,82.07-215.83
+changes,-1.5
+companyName,PayPal Holdings Inc
+currency,USD
+cik,0001633917
+isin,US70450Y1038
+cusip,70450Y103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Credit Services
+website,https://www.paypal.com/
+description,"PayPal Holdings, Inc. engages in the development of technology platform for digital payments. The company is headquartered in San Jose, California and currently employs 21,800 full-time employees. The firm's combined payment solutions, including its PayPal, PayPal Credit, Braintree, Venmo, Xoom and Paydiant products, compose its Payments Platform. The company operates a two-sided global technology platform that links its customers, both merchants and consumers, around the globe to facilitate the processing of payment transactions, allowing it to connect merchants and consumers. The company allows its customers to use their account for both purchase and paying for goods, as well as to transfer and withdraw funds. The company enables consumers to exchange funds with merchants using funding sources, which include bank account, PayPal account balance, PayPal Credit account, credit and debit card or other stored value products. The company offers consumers person-to-person payment solutions through its PayPal Website and mobile application, Venmo and Xoom."
+ceo,Mr. Daniel Schulman
+sector,Financial Services
+country,US
+fullTimeEmployees,23200
+phone,14089671000
+address,2211 N 1st St
+city,San Jose
+state,CALIFORNIA
+zip,95131
+dcfDiff,-78.95
+dcf,219.256
+image,https://financialmodelingprep.com/image-stock/PYPL.png
+ipoDate,2015-07-06
+defaultImage,False

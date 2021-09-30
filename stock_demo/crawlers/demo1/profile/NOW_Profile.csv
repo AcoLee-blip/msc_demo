@@ -1,0 +1,33 @@
+,0
+symbol,NOW
+price,500.149
+beta,1.24142
+volAvg,1457073
+mktCap,97579090000
+lastDiv,0.0
+range,238.93-537.53
+changes,-9.6309
+companyName,ServiceNow Inc
+currency,USD
+cik,0001373715
+isin,US81762P1021
+cusip,81762P102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.servicenow.com/
+description,"ServiceNow, Inc. engages in the provision of enterprise cloud computing solutions. The company is headquartered in Santa Clara, California and currently employs 9,929 full-time employees. The firm offers a set of cloud-based services that automate workflow within and between departments in an enterprise. The company provides workflow solutions, and focuses on service management for customer support, human resources, security operations and other enterprise departments. The platform also enables customers to create, by themselves or with its partners, their own service-oriented business applications throughout the enterprise. The firm delivers its software through the Internet as a service. The company markets its services to enterprises in a range of industries, including financial services, consumer products, information technology services, healthcare, government, education and technology. The company operates data centers in Australia, Brazil, Canada, Hong Kong, the Netherlands, Singapore, Switzerland, the United Kingdom and the United States."
+ceo,Mr. William McDermott
+sector,Technology
+country,US
+fullTimeEmployees,11148
+phone,14085018550
+address,2225 Lawson Ln
+city,Santa Clara
+state,CALIFORNIA
+zip,95054
+dcfDiff,
+dcf,514.214
+image,https://financialmodelingprep.com/image-stock/NOW.png
+ipoDate,2012-06-29
+defaultImage,False

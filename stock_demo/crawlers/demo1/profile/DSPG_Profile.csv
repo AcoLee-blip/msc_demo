@@ -1,0 +1,33 @@
+,0
+symbol,DSPG
+price,15.8
+beta,0.86067
+volAvg,149880
+mktCap,372834176
+lastDiv,0.0
+range,10.26-18.77
+changes,0.08
+companyName,DSP Group Inc
+currency,USD
+cik,0000915778
+isin,US23332B1061
+cusip,23332B106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.dspg.com/
+description,"DSP Group, Inc. provides wireless chipset solutions for converged communications. The company is headquartered in San Jose, California and currently employs 320 full-time employees. Delivering semiconductor system solutions with software and hardware reference designs, the Company enables original equipment manufacturers, original design manufacturers, consumer electronics manufacturers and service providers to develop new products. Its segments include Home, Office and Mobile. The Home segment includes wireless chipset solutions for converged communication at home. The Office segment offers solution for Voice-over-Internet protocol (VoIP) office products, including office solutions that provide businesses with VoIP terminals with converged voice and data applications. The Mobile segment offers products for the mobile market that provides voice enhancement, always-on and far-end noise elimination targeted for mobile phone and mobile headsets and wearable devices that incorporate its noise suppression and voice quality enhancement HDClear technology."
+ceo,Mr. Ofer Elyakim
+sector,Technology
+country,US
+fullTimeEmployees,340
+phone,14089864300
+address,2055 Gateway Pl Ste 480
+city,San Jose
+state,CALIFORNIA
+zip,95110
+dcfDiff,-10.58
+dcf,15.5889
+image,https://financialmodelingprep.com/image-stock/DSPG.jpg
+ipoDate,1994-02-15
+defaultImage,True

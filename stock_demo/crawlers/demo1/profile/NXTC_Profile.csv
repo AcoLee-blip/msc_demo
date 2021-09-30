@@ -1,0 +1,33 @@
+,0
+symbol,NXTC
+price,10.38
+beta,0.0
+volAvg,406632
+mktCap,286001184
+lastDiv,0.0
+range,7.91-70.98
+changes,-0.15
+companyName,NextCure Inc
+currency,USD
+cik,0001661059
+isin,US65343E1082
+cusip,65343E108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.nextcure.com/
+description,"NextCure, Inc. is a clinical-stage biopharmaceutical company, which engages in discovering and developing immunomedicines to treat cancer and other immune-related diseases. The company is headquartered in Beltsville, Maryland and currently employs 44 full-time employees. The firm uses its functional integrated nextcure discovery in immune oncology (FIND-IO) technology to functional screening approaches for the identification of targets from multiple therapeutic areas, including autoimmunity and neurology, enabling immunomedicine to treat unmet medical needs. Its product pipelines include NC318, a immunotherapeutic against a immunomodulatory target found on a restricted set of myeloid and tumor cells, and NC410, a immunomedicine designed to block an immune regulator expressed on T cells and suppressive antigen-presenting cell populations, including dendritic cell subpopulations."
+ceo,Mr. Michael Richman
+sector,Healthcare
+country,US
+fullTimeEmployees,69
+phone,12403994900
+address,9000 Virginia Manor Rd Ste 200
+city,Beltsville
+state,MARYLAND
+zip,20705
+dcfDiff,
+dcf,13.552
+image,https://financialmodelingprep.com/image-stock/NXTC.jpg
+ipoDate,2019-05-09
+defaultImage,True

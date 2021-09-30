@@ -1,0 +1,33 @@
+,0
+symbol,NCR
+price,23.25
+beta,1.59044
+volAvg,1050369
+mktCap,2996924930
+lastDiv,0.0
+range,10.55-35.87
+changes,0.93
+companyName,NCR Corp
+currency,USD
+cik,0000070866
+isin,US62886E1082
+cusip,62886E108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.ncr.com/
+description,"NCR Corp. engages in the development, manufacture and sale of consumer transaction solutions. The company is headquartered in Atlanta, Georgia and currently employs 34,000 full-time employees. The firm offers a range of solutions, including software, advisory and consulting services, hardware, support and managed services. Its portfolio includes digital first offerings for banking, restaurants and retailers, as well as payments, multi-vendor connected device services, automated teller machines (ATMs), point of sale (POS) terminals and self-service technologies. The company also resells third party networking products and provides related service offerings in the telecommunications and technology sectors."
+ceo,Mr. Michael Hayford
+sector,Technology
+country,US
+fullTimeEmployees,36000
+phone,19374455000
+address,864 Spring St NW
+city,Atlanta
+state,GEORGIA
+zip,30308
+dcfDiff,
+dcf,25.1655
+image,https://financialmodelingprep.com/image-stock/NCR.png
+ipoDate,1996-12-11
+defaultImage,False

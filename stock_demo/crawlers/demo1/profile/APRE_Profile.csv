@@ -1,0 +1,33 @@
+,0
+symbol,APRE
+price,21.0
+beta,0.0
+volAvg,120813
+mktCap,444922816
+lastDiv,0.0
+range,19.67-53.11
+changes,0.09
+companyName,Aprea Therapeutics Inc
+currency,USD
+cik,0001781983
+isin,US03836J1025
+cusip,03836J102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.aprea.com/
+description,"Aprea Therapeutics, Inc. operates as a clinical-stage biopharmaceutical company. The company is headquartered in Boston, Massachusetts and currently employs 14 full-time employees. The firm is focused on developing and commercializing cancer therapeutics that reactivate mutant p53 tumor suppressor protein. Its lead product candidate, APR-246, is a small molecule p53 reactivator that is being developed for hematologic malignancies, including myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML). APR-246 product candidate is designed to be administered intravenously and forms the active moiety, 2-methylene-quinuclidin-3-one (MQ), under physiological conditions. Its second product candidate, APR-548, is a p53 reactivator. APR-548 is being developed in an oral dosage form."
+ceo,Mr. Christian S. Schade
+sector,Healthcare
+country,US
+fullTimeEmployees,13
+phone,16095104718
+address,535 Boylston St
+city,Boston
+state,MASSACHUSETTS
+zip,02116
+dcfDiff,
+dcf,47.6725
+image,https://financialmodelingprep.com/image-stock/APRE.jpg
+ipoDate,2019-10-03
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,GILT
+price,5.37
+beta,0.66176
+volAvg,413247
+mktCap,297999008
+lastDiv,0.36
+range,4.7-10.76
+changes,0.03
+companyName,Gilat Satellite Networks Ltd
+currency,USD
+cik,
+isin,IL0010825102
+cusip,M51474118
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.gilat.com
+description,"Gilat Satellite Networks Ltd. engages in the provision of broadband satellite communication and networking solutions and services. The firm operates through three segments: Commercial, Mobility and Services divisions. The firm designs and manufactures satellite ground segment and networking communications equipment, which it sells to its customers either as network components (modems, Block Up converters (BUCs), antennas) or as complete network solutions (which include hubs and related terminals and services) or turnkey projects. The equipment that the Company develops includes commercial Very Small Aperture Terminals (VSAT) systems, defense and homeland security satellite communications systems, solid-state power amplifiers (SSPAs), BUCs, low-profile antennas, on-the-Move/on-the-Pause terminals and modems. The firm's equipment is used by satellite operators, service providers, telecommunications operators, system integrators, government and defense organizations, large corporations and enterprises."
+ceo,Mr. Yona Ovadia
+sector,Technology
+country,IL
+fullTimeEmployees,864
+phone,97239252000
+address,"21 Yegia Kapayim St., Kiryat Arye"
+city,PETAH TIKVA
+state,
+zip,
+dcfDiff,-6.53
+dcf,7.32447
+image,https://financialmodelingprep.com/image-stock/GILT.png
+ipoDate,1993-01-01
+defaultImage,False

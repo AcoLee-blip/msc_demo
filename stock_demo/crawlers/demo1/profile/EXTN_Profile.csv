@@ -1,0 +1,33 @@
+,0
+symbol,EXTN
+price,3.38
+beta,1.1489
+volAvg,243147
+mktCap,111969264
+lastDiv,0.0
+range,3.24-8.925
+changes,0.03
+companyName,Exterran Corp
+currency,USD
+cik,0001635881
+isin,US30227H1068
+cusip,30227H106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,https://exterran.com/
+description,"Exterran Corp. engages in the provision of oil, gas, water and power markets solutions. The company is headquartered in Houston, Texas and currently employs 4,300 full-time employees. The firm operates through three segments: contract operations, aftermarket services, and oil and gas product sales. The contract operations segment provides natural gas compression services, production and processing equipment services, and maintenance services to meet specific customer requirements on assets owned by it. The aftermarket services segment provides a range of services to support the surface production, compression and processing needs of customers, from parts sales and normal maintenance services to full operation of a customer's owned assets. The oil and gas product sales segment provides design, engineering, manufacturing, installation and sale of natural gas compression units, and accessories and equipment used in the production, treating and processing of crude oil and natural gas."
+ceo,Mr. Andrew Way
+sector,Energy
+country,US
+fullTimeEmployees,3600
+phone,12818367000
+address,11000 Equity Dr
+city,Houston
+state,TEXAS
+zip,77041
+dcfDiff,
+dcf,4.71663
+image,https://financialmodelingprep.com/image-stock/EXTN.jpg
+ipoDate,2015-10-23
+defaultImage,True

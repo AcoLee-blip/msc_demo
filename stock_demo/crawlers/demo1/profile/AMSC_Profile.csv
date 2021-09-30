@@ -1,0 +1,33 @@
+,0
+symbol,AMSC
+price,13.92
+beta,0.92446
+volAvg,362983
+mktCap,384235168
+lastDiv,0.0
+range,4.4-18.5
+changes,-0.02
+companyName,American Superconductor Corp
+currency,USD
+cik,0000880807
+isin,US0301112076
+cusip,030111207
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Specialty Industrial Machinery
+website,http://www.amsc.com/
+description,"American Superconductor Corp. engages in provision of megawatt-scale power solutions which improve the performance of the power grid and lower the cost of wind power. The company is headquartered in Devens, Massachusetts and currently employs 223 full-time employees. The firm operates through two segments: Wind and Grid. Through the Company's Windtec Solutions brand, the Wind business segment enables manufacturers to field wind turbines. Through the Company's Gridtec Solutions, the Grid business segment enables electric utilities and renewable energy project developers to connect, transmit and distribute power. AMSC supplies power electronics and control systems, licenses its engineered wind turbine designs and provides customer support services to wind turbine manufacturers. The firm provides a range of power electronics and software-based control systems. AMSC provides transmission planning services that enable it to identify power grid congestion and other risks. The firm also sells grid interconnection solutions for wind farms and solar power plants, power quality systems, and transmission and distribution cable systems."
+ceo,Mr. Daniel McGahn
+sector,Industrials
+country,US
+fullTimeEmployees,242
+phone,19788423000
+address,60 Jackson Rd
+city,Devens
+state,MASSACHUSETTS
+zip,01432
+dcfDiff,-17.21
+dcf,18.2723
+image,https://financialmodelingprep.com/image-stock/AMSC.png
+ipoDate,1991-12-12
+defaultImage,False

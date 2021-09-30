@@ -1,0 +1,33 @@
+,0
+symbol,EXFO
+price,2.6834
+beta,1.3941
+volAvg,29912
+mktCap,149570304
+lastDiv,0.0
+range,2.0-4.95
+changes,-0.0766
+companyName,EXFO Inc
+currency,USD
+cik,0001116284
+isin,CA3020461073
+cusip,302046107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.exfo.com/
+description,"EXFO, Inc. engages in the provision of test, monitoring, and analytics solutions for fixed and mobile communications service providers, webscale companies and equipment manufacturers. The company is headquartered in Quebec, Quebec and currently employs 1,810 full-time employees. The company focuses on network infrastructures: fourth generation (4G)/long-term evolution (LTE), wireless backhaul, small cells and distributed antenna systems (DAS), 100G network upgrades and fiber-to-the-home (FTTH)/fiber-to-the-curb (FTTC)/fiber-to-the-node (FTTN) deployments. The company offers a range of wire line and wireless tests, service assurance and analytics solutions to the global telecommunications industry. Its products include TestFlow; LTB-8 platform; a family of optical time domain reflect meters (OTDRs); iSAM; MaxTester-940 Fiber Certifier optical loss test set (OLTS) for data center and enterprise markets, and the G.fast handheld test set."
+ceo,Mr. Philippe Morin
+sector,Technology
+country,CA
+fullTimeEmployees,1810
+phone,14186830211
+address,400 Godin Ave
+city,Quebec City
+state,QUEBEC
+zip,G1M 2K2
+dcfDiff,-0.81
+dcf,3.23346
+image,https://financialmodelingprep.com/image-stock/EXFO.png
+ipoDate,2001-08-20
+defaultImage,False

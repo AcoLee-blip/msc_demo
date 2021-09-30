@@ -1,0 +1,33 @@
+,0
+symbol,JOB
+price,0.9451
+beta,2.44215
+volAvg,576804
+mktCap,16697176
+lastDiv,0.0
+range,0.17-2.49
+changes,0.0142
+companyName,GEE Group Inc
+currency,USD
+cik,0000040570
+isin,US36165A1025
+cusip,36165A102
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Staffing & Employment Services
+website,https://www.geegroup.com/
+description,"GEE Group, Inc. engages in the provision of staffing solutions. The company is headquartered in Jacksonville, Florida and currently employs 344 full-time employees. The firm operates through two segments: contract staffing services and direct hire placement. The firm's professional staffing services provide information technology, engineering, medical and accounting professionals to clients on either a regular placement basis or a temporary contract basis. The firm's industrial staffing business provides weekly temporary staffing for light industrial clients, primarily in Ohio. The firm and its subsidiaries provide professional placement services specializing in the placement of information technology, engineering, and accounting professionals, and medical data entry assistants (medical scribes) specializing in electronic medical records (EMR) services for emergency departments, specialty physician practices and clinics, for direct hire and contract staffing, and temporary staffing services in light industrial staffing."
+ceo,Mr. Derek Dewan
+sector,Industrials
+country,US
+fullTimeEmployees,344
+phone,19045127504
+address,7751 Belfort Pkwy Ste 150
+city,Jacksonville
+state,FLORIDA
+zip,32256
+dcfDiff,-38.76
+dcf,343.513
+image,https://financialmodelingprep.com/image-stock/JOB.png
+ipoDate,1980-03-17
+defaultImage,False

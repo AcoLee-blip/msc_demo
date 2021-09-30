@@ -1,0 +1,33 @@
+,0
+symbol,CMBM
+price,22.8
+beta,0.0
+volAvg,184813
+mktCap,586160640
+lastDiv,0.0
+range,3.57-27.61
+changes,-1.09
+companyName,Cambium Networks Corp
+currency,USD
+cik,0001738177
+isin,KYG177661090
+cusip,G17766109
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,
+description,"Cambium Networks Corp. engages in the provision of wireless broadband networking infrastructure solutions. The company is headquartered in Rolling Meadows, Illinois and currently employs 516 full-time employees. The Company’s wireless fabric includes intelligent radios, smart antennas, radio frequency (RF), algorithms, wireless-aware switches and our cloud-based network management software. Its offers its wireless broadband solutions in five categories: Point-to-Point (PTP) backhaul portfolio, Point-to-Multiple (PMP) distribution, cnPilot cloud-managed Wi-Fi solutions, cnMatrix cloud-managed wireless-aware switching solution and cnReach family of narrow-bandwidth connectivity products."
+ceo,Mr. Atul Bhatnagar
+sector,Technology
+country,US
+fullTimeEmployees,516
+phone,13459433100
+address,3800 Golf Rd Ste 360
+city,Rolling Meadows
+state,ILLINOIS
+zip,60008
+dcfDiff,
+dcf,24.555
+image,https://financialmodelingprep.com/image-stock/CMBM.jpg
+ipoDate,2019-06-26
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,HLI
+price,64.97
+beta,0.74438
+volAvg,340353
+mktCap,4504435200
+lastDiv,1.26
+range,42.86-65.575
+changes,0.3
+companyName,Houlihan Lokey Inc
+currency,USD
+cik,0001302215
+isin,US4415931009
+cusip,441593100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Capital Markets
+website,https://hl.com/
+description,"Houlihan Lokey, Inc. engages in the provision of investment banking services. The company is headquartered in Los Angeles, California and currently employs 1,354 full-time employees. The firm operates through three segments: Corporate Finance, Financial Restructuring and Financial Advisory Services. The firm provides financial professionals with an integrated platform that enables them to deliver advice to its clients. The Corporate Finance activities include two categories: M&A and capital markets advisory. The Financial Advisory Services segment includes financial opinions, and a range of valuation and financial consulting services in the United States. The company also provides strategic consulting services to clients. The Financial Restructuring segment provides advice to debtors and creditors."
+ceo,Mr. Scott Beiser
+sector,Financial Services
+country,US
+fullTimeEmployees,1491
+phone,13105538871
+address,10250 Constellation Blvd Fl 5
+city,Los Angeles
+state,CALIFORNIA
+zip,90067
+dcfDiff,-49.18
+dcf,69.0273
+image,https://financialmodelingprep.com/image-stock/HLI.jpg
+ipoDate,2015-08-13
+defaultImage,True

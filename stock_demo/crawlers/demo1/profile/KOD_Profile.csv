@@ -1,0 +1,33 @@
+,0
+symbol,KOD
+price,112.45
+beta,0.0
+volAvg,305306
+mktCap,5038142000
+lastDiv,0.0
+range,24.41-131.01
+changes,-10.18
+companyName,Kodiak Sciences Inc
+currency,USD
+cik,0001468748
+isin,US50015M1099
+cusip,50015M109
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://kodiak.com/
+description,"Kodiak Sciences, Inc. is a clinical-stage biopharmaceutical company, which engages in the development of novel therapies for the treatment of retinal diseases. The company is headquartered in Palo Alto, California and currently employs 34 full-time employees. The firm is focused on developing therapeutics to treat ophthalmic diseases. The Company’s Antibody Biopolymer Conjugate (ABC) platform focuses on merging the fields of antibody-based and chemistry-based therapies. The firm in addition to its lead product candidate, KSI-301, is a molecule for age-related macular degeneration and diabetic retinopathy. The firm has leveraged its ABC platform to build a pipeline of product candidates in various stages of development including KSI-501, a dual inhibitor ABC for the treatment of neovascular retinal diseases, such as wet AMD and diabetic retinopathy."
+ceo,DR. Victor Perlroth
+sector,Healthcare
+country,US
+fullTimeEmployees,41
+phone,16502810850
+address,2631 Hanover St
+city,Palo Alto
+state,CALIFORNIA
+zip,94304
+dcfDiff,
+dcf,84.3728
+image,https://financialmodelingprep.com/image-stock/KOD.png
+ipoDate,2018-10-04
+defaultImage,False

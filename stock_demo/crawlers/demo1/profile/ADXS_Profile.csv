@@ -1,0 +1,33 @@
+,0
+symbol,ADXS
+price,0.3943
+beta,3.46895
+volAvg,1985366
+mktCap,26113504
+lastDiv,0.0
+range,0.332-1.48
+changes,-0.0106
+companyName,Advaxis Inc
+currency,USD
+cik,0001100397
+isin,US0076243072
+cusip,007624307
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.advaxis.com/
+description,"Advaxis, Inc. is a biotechnology company, which engages in the discovery, development and commercialization of cancer immunotherapies. The company is headquartered in Princeton, New Jersey and currently employs 35 full-time employees. These immunotherapies are based on a platform technology that utilizes live attenuated Lm bioengineered to secrete antigen/adjuvant fusion proteins. These Lm-LLO strains integrate multiple functions into a single immunotherapy as they access and direct antigen presenting cells to stimulate anti-tumor T-cell immunity, stimulate and activate the immune system with the equivalent of multiple adjuvants, and simultaneously reduce tumor protection in the tumor microenvironment to enable the T-cells to eliminate tumors. Axalimogene filolisbac is its lead Lm-LLO immunotherapy product candidate for the treatment of Human Papilloma Virus-associated cancers. ADXS-PSA is its Lm-LLO immunotherapy product candidate that targets the Prostate Specific Antigen (PSA) associated with prostate cancer."
+ceo,Mr. Kenneth Berlin
+sector,Healthcare
+country,US
+fullTimeEmployees,35
+phone,17325451590
+address,305 College Rd E
+city,Princeton
+state,NEW JERSEY
+zip,08540
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/ADXS.png
+ipoDate,2005-07-28
+defaultImage,False

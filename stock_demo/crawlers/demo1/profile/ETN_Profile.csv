@@ -1,0 +1,33 @@
+,0
+symbol,ETN
+price,114.81
+beta,1.13652
+volAvg,1535263
+mktCap,45763265000
+lastDiv,2.92
+range,56.42-119.48
+changes,1.49
+companyName,Eaton Corporation PLC
+currency,USD
+cik,0001551182
+isin,IE00B8KQN827
+cusip,G29183103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,http://www.eaton.com
+description,"Eaton Corp. Plc is a diversified power management company, which provides energy-efficient solutions for electrical, hydraulic and mechanical power. The firm provides solutions that help its customers manage electrical, hydraulic and mechanical power. Its segments include Electrical Products, Electrical Systems and Services, Hydraulics, Aerospace and Vehicle. The Electrical Products segment consists of electrical components, industrial components, residential products, single phase power quality, emergency lighting, fire detection, wiring devices, structural support systems, circuit protection and lighting products. The Hydraulics segment offers hydraulics components, systems and services for industrial and mobile equipment. The Aerospace segment is a supplier of aerospace fuel, hydraulics, and pneumatic systems for commercial and military use. The Vehicle segment engages in the design, manufacture, marketing and supply of drivetrain, powertrain systems and critical components for cars, light trucks and commercial vehicles."
+ceo,Mr. Craig Arnold
+sector,Industrials
+country,IE
+fullTimeEmployees,95000
+phone,35316372900
+address,"Eaton Hse, 30 Pembroke Road"
+city,DUBLIN
+state,
+zip,4
+dcfDiff,-25.48
+dcf,109.159
+image,https://financialmodelingprep.com/image-stock/ETN.png
+ipoDate,2012-12-03
+defaultImage,False

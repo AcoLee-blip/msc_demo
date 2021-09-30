@@ -1,0 +1,33 @@
+,0
+symbol,CDW
+price,135.56
+beta,1.19833
+volAvg,784621
+mktCap,19383453700
+lastDiv,1.52
+range,73.39-146.95
+changes,-3.14
+companyName,CDW Corp
+currency,USD
+cik,0001402057
+isin,US12514G1085
+cusip,12514G108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,https://www.cdw.com/
+description,"CDW Corporation (CDW) is a provider of integrated information technology (IT) solutions in the United States, Canada and the United Kingdom. The Company's segments include Corporate, Public and Other. The Corporate segment consists of private sector business customers in the United States based on employee size between Medium/Large customers, which primarily includes organizations with more than 100 employees, and Small Business customers, which primarily includes organizations with up to 100 employees. Its Public segment comprises government agencies and education and healthcare institutions in the United States. Its Other segment includes Canada and CDW UK. The CDW Advanced Services business consists primarily of customized engineering services delivered by technology specialists and engineers, and managed services that include Infrastructure as a Service (IaaS) offerings. The Company has centralized logistics and headquarters functions that provide services to the segments."
+ceo,Ms. Christine Leahy
+sector,Technology
+country,US
+fullTimeEmployees,9900
+phone,18474656000
+address,200 N Milwaukee Ave
+city,Vernon Hills
+state,ILLINOIS
+zip,60069
+dcfDiff,-11.85
+dcf,129.882
+image,https://financialmodelingprep.com/image-stock/CDW.jpg
+ipoDate,2013-06-27
+defaultImage,True

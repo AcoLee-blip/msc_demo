@@ -1,0 +1,33 @@
+,0
+symbol,VOYA
+price,55.34
+beta,1.44587
+volAvg,1286549
+mktCap,6987671000
+lastDiv,0.6
+range,29.75-63.81
+changes,2.41
+companyName,Voya Financial Inc
+currency,USD
+cik,0001535929
+isin,US9290891004
+cusip,929089100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Financial Conglomerates
+website,http://voya.com
+description,"Voya Financial, Inc. is a retirement, investment, and insurance company, which engages in the provision of financial services. The company is headquartered in New York City, New York and currently employs 6,000 full-time employees. The firm operates through five segments: Retirement, Investment Management, Annuities, Individual Life and Employee Benefits. The Retirement segment is a provider of retirement services and products in the United States. The Investment Management segment offers domestic and international fixed income, equity, multi-asset and alternatives products and solutions. The Annuities segment provides fixed and indexed annuities, tax-qualified mutual fund custodial and other investment-only products and payout annuities for pre-retirement wealth accumulation and post-retirement income management sold through multiple channels. The Individual Life segment provides wealth protection and transfer opportunities through universal and variable products. The Employee Benefits segment provides stop loss, group life, voluntary employee-paid and disability products to mid-sized and large businesses."
+ceo,Mr. Rodney Martin
+sector,Financial Services
+country,US
+fullTimeEmployees,6000
+phone,12123098200
+address,230 Park Ave
+city,New York City
+state,NEW YORK
+zip,10169
+dcfDiff,-50.5
+dcf,58.834
+image,https://financialmodelingprep.com/image-stock/VOYA.png
+ipoDate,2013-02-05
+defaultImage,False

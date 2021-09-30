@@ -1,0 +1,33 @@
+,0
+symbol,EQIX
+price,760.37
+beta,0.38324
+volAvg,375855
+mktCap,67750257000
+lastDiv,13.100000000000001
+range,477.87-839.77
+changes,0.06
+companyName,Equinix Inc
+currency,USD
+cik,0001101239
+isin,US29444U7000
+cusip,29444U700
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,REIT Specialty
+website,https://www.equinix.com/
+description,"Equinix, Inc. engages in the provision of collocation space and develops data centre solutions. The company is headquartered in Redwood City, California and currently employs 7,903 full-time employees. The firm connects various companies directly to their customers and partners inside interconnected data centers. The company operates through three segments: Americas, EMEA and Asia-Pacific. Its platform Equinix, combines a global footprint of International Business Exchange (IBX) data centers, a range of interconnection solutions, ecosystems and support. Its customers include carriers, mobile and other bandwidth providers, cloud and information technology (IT) services providers, content providers and enterprises. The company provides each customer access to a choice of business partners and solutions based on their colocation, interconnection and managed IT service needs. Its colocation offerings include operations space, storage space, cabinets and power for customers' colocation needs inside Equinix's IBX data centers. Its interconnection offerings include Equinix Cloud Exchange, Equinix Performance Hub and Equinix Data Hub."
+ceo,Mr. Charles Meyers
+sector,Real Estate
+country,US
+fullTimeEmployees,8378
+phone,16505986000
+address,1 Lagoon Dr
+city,Redwood City
+state,CALIFORNIA
+zip,94065
+dcfDiff,
+dcf,825.238
+image,https://financialmodelingprep.com/image-stock/EQIX.png
+ipoDate,2000-08-11
+defaultImage,False

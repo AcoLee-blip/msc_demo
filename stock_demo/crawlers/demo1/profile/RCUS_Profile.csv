@@ -1,0 +1,33 @@
+,0
+symbol,RCUS
+price,22.52
+beta,1.479588
+volAvg,552416
+mktCap,1462072700
+lastDiv,0.0
+range,7.19-37.41
+changes,-0.08
+companyName,Arcus Biosciences Inc
+currency,USD
+cik,0001724521
+isin,US03969F1093
+cusip,03969F109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Biotechnology
+website,https://www.arcusbio.com/
+description,"Arcus Biosciences, Inc. engages in the development and commercialization of immunotherapies. The company is headquartered in Hayward, California and currently employs 108 full-time employees. The firm is focused on the discovery and development of cancer immunotherapy. Its pipeline includes AB928, AB680, AB122, and AB154. AB928 is a potent and selective dual antagonist of the adenosine receptors known as A2aR and A2bR.It is in the Phase-I clinical trial. AB680 is a potent and selective inhibitor of CD73 and is in the pre-clinical stage of development. AB122 is an anti-PD-1 antibody and is in the Phase-I dose-escalation trial. AB154 is a humanized anti-TIGIT antibody."
+ceo,Dr. Terry Rosen
+sector,Healthcare
+country,US
+fullTimeEmployees,139
+phone,15106946200
+address,3928 Point Eden Way
+city,Hayward
+state,CALIFORNIA
+zip,94545
+dcfDiff,
+dcf,20.822
+image,https://financialmodelingprep.com/image-stock/RCUS.png
+ipoDate,2018-03-15
+defaultImage,False

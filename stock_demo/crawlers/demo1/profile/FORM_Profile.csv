@@ -1,0 +1,33 @@
+,0
+symbol,FORM
+price,37.53
+beta,1.22772
+volAvg,535316
+mktCap,2904371460
+lastDiv,0.0
+range,16.35-37.78
+changes,1.16
+companyName,FormFactor Inc
+currency,USD
+cik,0001039399
+isin,US3463751087
+cusip,346375108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.formfactor.com/
+description,"FormFactor, Inc. engages in the provision of test and measurement solutions. The company is headquartered in Livermore, California and currently employs 1,676 full-time employees. The firm's segments include the Probe Cards segment and Systems segment. The firm designs, manufactures and sells multiple product lines, including probe cards, analytical probes, probe stations, integrated measurement systems, thermal sub-systems, reliability test systems, and related services. Its products provide electrical information from a range of semiconductor and electro-optical devices and integrated circuits (devices) from development to production. Probe Cards segment consists of probe card products and analytical probes. Systems segment consists of wafer probing, thermal and reliability products to enable precision on-wafer measurement of integrated circuits. Systems products are used in the early phases of the development and characterization of semiconductor processes."
+ceo,DR. Michael Slessor
+sector,Technology
+country,US
+fullTimeEmployees,1836
+phone,19252433522
+address,7005 Southfront Rd
+city,Livermore
+state,CALIFORNIA
+zip,94551
+dcfDiff,-7.88
+dcf,31.2103
+image,https://financialmodelingprep.com/image-stock/FORM.png
+ipoDate,2003-06-12
+defaultImage,False

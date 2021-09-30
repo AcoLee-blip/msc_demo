@@ -1,0 +1,33 @@
+,0
+symbol,TDC
+price,21.065
+beta,1.05498
+volAvg,1107793
+mktCap,2302404610
+lastDiv,0.0
+range,17.62-27.79
+changes,1.125
+companyName,Teradata Corp
+currency,USD
+cik,0000816761
+isin,US88076W1036
+cusip,88076W103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.teradata.com/
+description,"Teradata Corp. engages in the provision of hybrid cloud analytics software solutions. The company is headquartered in San Diego, California and currently employs 10,152 full-time employees. The company is focused on delivering data intelligence to its customers. The company provides Teradata Vantage, which is an analytics platform. The company connects multiple sources of data for ecosystem simplification and delivers scale and integration. Teradata Vantage incorporates commercial and open source technologies, including its integrated data warehouse engine, and it is available on-premises or in the cloud. Its solutions and services comprise software, hardware, and related business consulting and support services. The company operates through three geographical regions: Americas Region (North America and Latin America); EMEA region (Europe, Middle East and Africa), and APAC Region (Asia Pacific and Japan). Its business consulting services include a range of offerings, including consulting to help organizations establish an analytic vision, identify and operationalize analytical opportunities, and enable an analytical ecosystem architecture."
+ceo,Mr. Victor Lund
+sector,Technology
+country,US
+fullTimeEmployees,8535
+phone,18665488348
+address,17095 Via Del Campo
+city,San Diego
+state,CALIFORNIA
+zip,92127
+dcfDiff,
+dcf,24.9357
+image,https://financialmodelingprep.com/image-stock/TDC.png
+ipoDate,2007-09-12
+defaultImage,False

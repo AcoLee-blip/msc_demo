@@ -1,0 +1,33 @@
+,0
+symbol,ILMN
+price,305.58
+beta,1.08199
+volAvg,1487584
+mktCap,44614676000
+lastDiv,0.0
+range,196.78-404.2
+changes,1.27
+companyName,Illumina Inc
+currency,USD
+cik,0001110803
+isin,US4523271090
+cusip,452327109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.illumina.com
+description,"Illumina, Inc. engages in the development, manufacturing, and marketing of life science tools and integrated systems for large-scale analysis of genetic variation and function. The company is headquartered in San Diego, California and currently employs 7,300 full-time employees. The firm operates through two segments: Core Illumina and the consolidated variable interest entities (VIEs), which include the activities of GRAIL, Inc. (GRAIL) and Helix Holdings I, LLC (Helix). Core Illumina consists of its core operations. Core Illumina's products and services serve customers in the research, clinical and applied markets, and enable the adoption of a range of genomic solutions. The firm's portfolio of integrated systems, consumables and analysis tools addresses the range of genomic complexity, price points, and throughput, enabling customers to select the solution for their research or clinical challenge. The firm provides reproductive-health solutions, including noninvasive prenatal testing (NIPT), preimplantation genetic screening and diagnosis, and neonatal and genetic health testing."
+ceo,Mr. Francis deSouza
+sector,Healthcare
+country,US
+fullTimeEmployees,7700
+phone,18582024500
+address,5200 Illumina Way
+city,San Diego
+state,CALIFORNIA
+zip,92122
+dcfDiff,-162.84
+dcf,331.555
+image,https://financialmodelingprep.com/image-stock/ILMN.png
+ipoDate,2000-07-28
+defaultImage,False

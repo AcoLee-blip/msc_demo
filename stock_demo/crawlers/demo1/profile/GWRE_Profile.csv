@@ -1,0 +1,33 @@
+,0
+symbol,GWRE
+price,108.43
+beta,1.20389
+volAvg,621966
+mktCap,9051172900
+lastDiv,0.0
+range,71.64-124.16
+changes,0.29
+companyName,Guidewire Software Inc
+currency,USD
+cik,0001528396
+isin,US40171V1008
+cusip,40171V100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.guidewire.com/
+description,"Guidewire Software, Inc. engages in the provision of technology platform, which composes of software, services, and a partner ecosystem, for the global Property and Casualty insurance industry. The company is headquartered in San Mateo, California and currently employs 2,355 full-time employees. Its software serves as a technology platform for P&C insurance carriers. The firm's InsurancePlatform consists of three elements: core transaction processing, data management and analytics, and digital engagement. Its core insurance operations include underwriting and policy administration, claim management and billing, enables new insights into data that can improve business decision making and supports digital sales, service and claims experiences for policyholders, agents, and other key stakeholders. The firm's core transaction processing includes Guidewire InsuranceSuite, Guidewire PolicyCenter, Guidewire ClaimCenter, Guidewire BillingCenter and InsuranceSuite Add-on Modules. The firm's data management and analytics includes Guidewire DataHub, InfoCenter, Live and Predictive Analytics."
+ceo,Mr. Michael Rosenbaum
+sector,Technology
+country,US
+fullTimeEmployees,2355
+phone,16503579100
+address,2850 S Delaware St Ste 400
+city,San Mateo
+state,CALIFORNIA
+zip,
+dcfDiff,-104.75
+dcf,106.273
+image,https://financialmodelingprep.com/image-stock/GWRE.png
+ipoDate,2011-11-24
+defaultImage,False

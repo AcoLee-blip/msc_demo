@@ -1,0 +1,33 @@
+,0
+symbol,PLBC
+price,23.15
+beta,0.60068
+volAvg,5026
+mktCap,119940840
+lastDiv,0.36
+range,15.0-29.23
+changes,0.45
+companyName,Plumas Bancorp
+currency,USD
+cik,0001168455
+isin,US7292731020
+cusip,729273102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Banks Regional
+website,
+description,"Plumas Bancorp is a bank holding company, which engages in the provision of banking products and service. The company is headquartered in Quincy, California and currently employs 155 full-time employees. The firm's primary subsidiary is Plumas Bank. The Bank is a California state-chartered bank. The Federal Deposit Insurance Corporation (the FDIC) up to maximum insurable amounts insures the Bank's deposit accounts. The Bank operates through its approximately 10 branch networks. The Bank maintains approximately 15 automated teller machines (ATMs) tied in with statewide and national networks. In addition to its branch network, the Bank operates lending offices specializing in government-guaranteed lending in Auburn, California and Beaverton, Oregon, a commercial/agricultural lending office located in Chico, California, and a commercial loan office located in Reno, Nevada. The Bank's loan portfolio consists commercial real estate loans; commercial and industrial loans; consumer loans; agricultural loans; residential real estate loans, and construction and land development loans."
+ceo,Mr. Andrew Ryback
+sector,Financial Services
+country,US
+fullTimeEmployees,162
+phone,15302837305
+address,35 S Lindan Ave
+city,Quincy
+state,CALIFORNIA
+zip,95971
+dcfDiff,-25.96
+dcf,29.329
+image,https://financialmodelingprep.com/image-stock/PLBC.jpg
+ipoDate,1994-03-14
+defaultImage,True

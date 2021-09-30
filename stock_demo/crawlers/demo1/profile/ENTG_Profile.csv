@@ -1,0 +1,33 @@
+,0
+symbol,ENTG
+price,86.39
+beta,1.29096
+volAvg,919566
+mktCap,11661959200
+lastDiv,0.32
+range,38.12-90.43
+changes,1.35
+companyName,Entegris Inc
+currency,USD
+cik,0001101302
+isin,US29362U1043
+cusip,29362U104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.entegris.com/
+description,"Entegris, Inc. engages in the development, manufacture, and supply of specialty materials for microelectronics industry. The company is headquartered in Billerica, Massachusetts and currently employs 4,900 full-time employees. The firm operates in three business segments: Specialty Chemicals and Engineered Materials (SCEM), Advanced Materials Handling (AMH) and Microcontamination Control (MC). The SCEM segment provides process chemistries, gases, materials and delivery systems to support semiconductor and other manufacturing processes. The AMH segment develops solutions to monitor, protect, transport, and deliver critical liquid chemistries and substrates for a set of applications in the semiconductor industry and other high-technology industries. AMH offers wafer solutions, chemical containers and fluidics. MC offers solutions to purify critical liquid chemistries and gases used in semiconductor manufacturing processes and other high-technology industries."
+ceo,Mr. Bertrand Loy
+sector,Technology
+country,US
+fullTimeEmployees,5300
+phone,19784366500
+address,129 Concord Rd
+city,Billerica
+state,MASSACHUSETTS
+zip,01821
+dcfDiff,-14.11
+dcf,82.4768
+image,https://financialmodelingprep.com/image-stock/ENTG.png
+ipoDate,2000-07-11
+defaultImage,False

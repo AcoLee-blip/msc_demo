@@ -1,0 +1,33 @@
+,0
+symbol,RSSS
+price,2.1947
+beta,0.87239
+volAvg,55143
+mktCap,57460540
+lastDiv,0.0
+range,2.05-3.7
+changes,-0.1353
+companyName,Research Solutions Inc
+currency,USD
+cik,0001386301
+isin,US7610251057
+cusip,761025105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,http://www.researchsolutions.com/
+description,"Research Solutions, Inc. is a holding company, which engages in the provision of information technology. The company is headquartered in Encino, California and currently employs 135 full-time employees. The firm provides a cloud based software-as-a-service (SaaS) research platform, which allows on-demand access to scientific, technical, and medical (STM) information for life science companies, academic institutions, and other research-intensive organizations. The firm provides three service offerings to its customers, which include Article Galaxy SaaS Platforms, Article Galaxy Transactions, and Reprints and ePrints. Article Galaxy SaaS platforms is its cloud-based SaaS solution (Article Galaxy), which consists of software and Internet-based interfaces. Article Galaxy Transactions provides its customers with a single source to the universe of published STM content. The firm has developed ePrint software, which transitions paper Reprints to electronic ePrints. The firm's subsidiaries include Reprints Desk, Inc. and Reprints Desk Latin America S. de R.L. de C.V."
+ceo,Mr. Peter Derycz
+sector,Technology
+country,US
+fullTimeEmployees,135
+phone,13104770354
+address,16350 Ventura Blvd Ste D # 811
+city,Encino
+state,CALIFORNIA
+zip,91436
+dcfDiff,
+dcf,2.57477
+image,https://financialmodelingprep.com/image-stock/RSSS.jpg
+ipoDate,2009-04-14
+defaultImage,True

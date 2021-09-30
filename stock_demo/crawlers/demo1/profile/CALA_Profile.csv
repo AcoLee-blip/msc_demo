@@ -1,0 +1,33 @@
+,0
+symbol,CALA
+price,4.27
+beta,1.66045
+volAvg,490636
+mktCap,301285664
+lastDiv,0.0
+range,2.99-8.18
+changes,0.21
+companyName,Calithera Biosciences Inc
+currency,USD
+cik,0001496671
+isin,US13089P1012
+cusip,13089P101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.calithera.com/
+description,"Calithera Biosciences, Inc. is a clinical-stage biopharmaceutical company, which focuses on discovering and developing small molecule drugs that target novel and critical metabolic pathways in tumor and cancer-fighting immune cells. The company is headquartered in South San Francisco, California and currently employs 79 full-time employees. The firm focuses on discovering and developing small molecule drugs directed against tumor and immune cell targets that control key metabolic pathways in the tumor microenvironment. The company is engaged in developing agents that take advantage of the metabolic requirements of tumor cells and cancer-fighting immune cells, such as cytotoxic T-cells. The firm's lead product candidate, CB-839, is a critical enzyme in tumor cells. Its other product candidate, CB-1158, is being developed for hematology and oncology indications. CB-1158 is a potent and selective orally bioavailable inhibitor of the enzyme arginase. CB-839 is a selective, reversible and orally bioavailable inhibitor of human glutaminase. CB-1158 has single agent anti-tumor activity in syngeneic mouse tumor models that has been demonstrated to act through an immune mechanism. CB-1158 is being tested in a Phase I clinical trial in patients with solid tumors."
+ceo,Dr. Susan Molineaux
+sector,Healthcare
+country,US
+fullTimeEmployees,93
+phone,16508701000
+address,343 Oyster Point Blvd # 200
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,-6.32
+dcf,4.84741
+image,https://financialmodelingprep.com/image-stock/CALA.png
+ipoDate,2014-10-02
+defaultImage,False

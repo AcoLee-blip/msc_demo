@@ -1,0 +1,33 @@
+,0
+symbol,ZS
+price,131.92
+beta,1.312601
+volAvg,2296207
+mktCap,17532958700
+lastDiv,0.0
+range,35.0-163.8
+changes,-8.14
+companyName,Zscaler Inc
+currency,USD
+cik,0001713683
+isin,US98980G1022
+cusip,98980G102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.zscaler.com/
+description,"Zscaler, Inc. engages in the provision of cloud-based internet security platform. The company is headquartered in San Jose, California and currently employs 1,480 full-time employees. The firm provides a platform that is built as a multi-tenant, distributed cloud service designed to scale and deliver real-time insights into security issues. The firm offers two principal cloud services, such as Zscaler Internet Access (ZIA), and Zscaler Private Access (ZPA). The Company’s ZIA securely connects users to externally managed applications, including with software as a service (SaaS) applications and Internet destinations, regardless of device, location or network. ZPA offers authorized users secure and access to internally managed applications hosted in enterprise data centers or the public cloud. ZPA solution connects a specific user to a specific application, without bringing the user on the network, resulting in better security. Its cloud architecture platform includes Secure Sockets Layer (SSL) inspection, data privacy and security, and Zscaler application."
+ceo,Mr. Jagtar Chaudhry
+sector,Technology
+country,US
+fullTimeEmployees,1480
+phone,14085330288
+address,110 Rose Orchard Way
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-64.99
+dcf,147.485
+image,https://financialmodelingprep.com/image-stock/ZS.png
+ipoDate,2018-03-16
+defaultImage,False

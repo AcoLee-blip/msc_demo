@@ -1,0 +1,33 @@
+,0
+symbol,V
+price,210.48
+beta,0.87907
+volAvg,8005403
+mktCap,461287981000
+lastDiv,1.52
+range,133.93-217.65
+changes,2.22
+companyName,Visa Inc
+currency,USD
+cik,0001403161
+isin,US92826C8394
+cusip,92826C839
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Credit Services
+website,https://usa.visa.com/
+description,"Visa, Inc. engages in the provision of digital payment services. The company is headquartered in San Francisco, California and currently employs 19,500 full-time employees. The firm operates through payment services segment. The firm enables global commerce through the transfer of value and information among the participants. The firm's transaction processing network facilitates authorization, clearing and settlement of payment transactions and enables to provide its financial institution and merchant clients a range of products, platforms and value-added services. The firm is a retail electronic payment network based on payments volume, number of transactions and number of cards in circulation. Its products/services include core products, processing infrastructure, transaction processing services, digital products, merchant products, and risk products and payment security initiatives."
+ceo,Mr. Alfred Kelly
+sector,Financial Services
+country,US
+fullTimeEmployees,19500
+phone,16504323200
+address,PO Box 8999
+city,San Francisco
+state,CALIFORNIA
+zip,94128
+dcfDiff,-120.65
+dcf,201.88
+image,https://financialmodelingprep.com/image-stock/V.png
+ipoDate,2008-03-19
+defaultImage,False

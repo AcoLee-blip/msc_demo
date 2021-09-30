@@ -1,0 +1,33 @@
+,0
+symbol,ES
+price,93.14
+beta,0.37817
+volAvg,1361466
+mktCap,31916097500
+lastDiv,2.239
+range,60.69-99.42
+changes,0.83
+companyName,Eversource Energy
+currency,USD
+cik,0000072741
+isin,US30040W1080
+cusip,30040W108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated Electric
+website,http://www.eversource.com
+description,"Eversource Energy engages in the generation, transmission, and distribution of natural gas and electricity. The company is headquartered in Springfield, Massachusetts and currently employs 7,998 full-time employees. The firm operates through four segments: Electric Distribution, Electric Transmission, Natural Gas Distribution and Water Distribution. The firm's electric distribution segment consists of the distribution businesses, which are engaged in the distribution of electricity to retail customers in Connecticut, Massachusetts and New Hampshire and the regulated electric generation businesses. Its electric transmission segment owns and maintains transmission facilities that are part of an interstate power transmission grid over which electricity is transmitted throughout New England. Its electric distribution segment consists of the distribution businesses of The Connecticut Light and Power Company (CL&P), NSTAR Electric Company (NSTAR Electric) and Public Service Company of New Hampshire (PSNH). The company also provides water utility services through its subsidiary, Eversource Aquarion Holdings, Inc."
+ceo,Mr. James Judge
+sector,Utilities
+country,US
+fullTimeEmployees,8234
+phone,18606655000
+address,300 Cadwell Dr
+city,Springfield
+state,MASSACHUSETTS
+zip,01104
+dcfDiff,518.05
+dcf,92.1277
+image,https://financialmodelingprep.com/image-stock/ES.png
+ipoDate,1967-02-20
+defaultImage,False

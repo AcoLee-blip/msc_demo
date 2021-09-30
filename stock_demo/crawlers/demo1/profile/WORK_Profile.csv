@@ -1,0 +1,33 @@
+,0
+symbol,WORK
+price,25.75
+beta,0.0
+volAvg,14183381
+mktCap,14691018800
+lastDiv,0.0
+range,15.1-40.07
+changes,-0.14
+companyName,Slack Technologies Inc
+currency,USD
+cik,0001764925
+isin,US83088V1026
+cusip,83088V102
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://slack.com/
+description,"Slack Technologies, Inc. develops and publishes real-time collaboration applications and platforms. The company is headquartered in San Francisco, California and currently employs 1,664 full-time employees. The firm's Slack allows users to organize their team conversations in open channels; make a channel for a project, a topic or a team, and create private channels and invite team members. Slack indexes and archives messages, notifications and files. Slack allows developers to create applications for an interface with bot users, slash commands and notifications. Its application program interfaces (APIs) can be used alone or in conjunction with each other to build various kinds of Slack applications. The Events API uses Slack's object-driven OAuth scope system to control access to events."
+ceo,Mr. Daniel Butterfield
+sector,Technology
+country,US
+fullTimeEmployees,2045
+phone,14156307943
+address,500 Howard St
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,
+dcf,30.1192
+image,https://financialmodelingprep.com/image-stock/WORK.png
+ipoDate,2019-06-20
+defaultImage,False

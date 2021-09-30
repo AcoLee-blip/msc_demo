@@ -1,0 +1,33 @@
+,0
+symbol,PSTG
+price,17.81
+beta,1.46687
+volAvg,4253732
+mktCap,4776873500
+lastDiv,0.0
+range,7.93-20.5
+changes,0.42
+companyName,Pure Storage Inc
+currency,USD
+cik,0001474432
+isin,US74624M1027
+cusip,74624M102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Computer Hardware
+website,https://www.purestorage.com/
+description,"Pure Storage, Inc. engages in the provision of flash-based storage solutions. The company is headquartered in Mountain View, California and currently employs 3,350 full-time employees. The firm is focused on delivering software-defined all-flash solutions that are fast and cloud-capable for customers, enabling customers to put data to work for their businesses. Its data platform replaces storage systems designed for mechanical disk with all-flash systems optimized end-to-end for solid-state memory. Its business model replaces the forklift upgrade cycle with an Evergreen Storage model. Its primary offerings include its FlashArray and FlashBlade products, inclusive of its Purity Operating Environment (Purity OE) software, its Pure1 cloud-based software, and FlashStack, its joint converged infrastructure solution with Cisco. Its customers include large and mid-size organizations across a diverse set of industry verticals, including cloud-based software and service providers, consumer Web, education, energy, financial services, governments, healthcare, manufacturing, media, retail and telecommunications."
+ceo,Mr. Charles Giancarlo
+sector,Technology
+country,US
+fullTimeEmployees,3500
+phone,18003797873
+address,650 Castro St Ste 400
+city,Mountain View
+state,CALIFORNIA
+zip,94041
+dcfDiff,
+dcf,19.4044
+image,https://financialmodelingprep.com/image-stock/PSTG.png
+ipoDate,2015-10-07
+defaultImage,False

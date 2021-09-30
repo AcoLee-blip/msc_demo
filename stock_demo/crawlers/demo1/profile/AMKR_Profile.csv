@@ -1,0 +1,33 @@
+,0
+symbol,AMKR
+price,13.14
+beta,1.65422
+volAvg,1152315
+mktCap,3185740540
+lastDiv,0.0
+range,5.4-15.8
+changes,-0.14
+companyName,Amkor Technology Inc
+currency,USD
+cik,0001047127
+isin,US0316521006
+cusip,031652100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.amkor.com/
+description,"Amkor Technology, Inc. provides outsourced semiconductor packaging and test services. The company is headquartered in Tempe, Arizona and currently employs 30,850 full-time employees. The firm's packaging and test services are designed to meet application and chip specific requirements, including the type of interconnect technology; size, thickness and electrical, and mechanical and thermal performance. The company provides packaging and test services, including semiconductor wafer bump, wafer probe, wafer backgrind, package design, packaging, system-level, and final test and drop shipment services. The firm provides its services to integrated device manufacturers (IDMs), fabless semiconductor companies and contract foundries. IDMs design, manufacture, package and test semiconductors in their own facilities. The firm offers a range of advanced and mainstream packaging and test services. The firm's mainstream packages include leadframe packages, substrate-based wirebond packages and micro-electro-mechanical systems packages."
+ceo,Mr. Stephen Kelley
+sector,Technology
+country,US
+fullTimeEmployees,29650
+phone,14808215000
+address,2045 East Innovation Circle
+city,Tempe
+state,ARIZONA
+zip,85284
+dcfDiff,
+dcf,16.8871
+image,https://financialmodelingprep.com/image-stock/AMKR.png
+ipoDate,1998-05-01
+defaultImage,False

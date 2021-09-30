@@ -1,0 +1,33 @@
+,0
+symbol,CCXI
+price,58.19
+beta,1.6875
+volAvg,601816
+mktCap,4027236610
+lastDiv,0.0
+range,7.88-65.43
+changes,-2.59
+companyName,ChemoCentryx Inc
+currency,USD
+cik,0001340652
+isin,US16383L1061
+cusip,16383L106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.chemocentryx.com/
+description,"ChemoCentryx, Inc. is a biopharmaceutical company engages in the development and commercialization of medicines. The company is headquartered in Mountain View, California and currently employs 76 full-time employees. The firm is engaged in developing new medications targeted at inflammatory disorders, autoimmune diseases and cancer. Each of its drug candidates focuses on a specific chemoattractant receptor that selectively blocks its negative inflammatory or suppressive response, leaving the rest of the immune system intact. Its late stage compounds include Avacopan (CCX168) and CCX140. Avacopan (CCX168) is an orally administered complement inhibitor targeting the C5a receptor (C5aR), and is being developed for orphan and rare diseases, including anti-neutrophil cytoplasmic auto-antibody associated vasculitis (AAV); atypical hemolytic uremic syndrome (aHUS), and complement 3 glomerulopathy (C3G). CCX140 is an orally administered inhibitor of the chemokine receptor known as C-C chemokine receptor type 2 (CCR2), in development for diabetic nephropathy (DN), a form of chronic kidney disease (CKD), and for focal segmental glomerulosclerosis (FSGS)."
+ceo,Dr. Thomas Schall
+sector,Healthcare
+country,US
+fullTimeEmployees,82
+phone,16502102900
+address,850 Maude Ave
+city,Mountain View
+state,CALIFORNIA
+zip,94043
+dcfDiff,
+dcf,52.7286
+image,https://financialmodelingprep.com/image-stock/CCXI.png
+ipoDate,2012-02-08
+defaultImage,False

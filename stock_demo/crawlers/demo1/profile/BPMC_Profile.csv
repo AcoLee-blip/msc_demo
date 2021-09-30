@@ -1,0 +1,33 @@
+,0
+symbol,BPMC
+price,100.49
+beta,0.985
+volAvg,439770
+mktCap,5600388100
+lastDiv,0.0
+range,43.29-108.505
+changes,-0.76
+companyName,Blueprint Medicines Corp
+currency,USD
+cik,0001597264
+isin,US09627Y1091
+cusip,09627Y109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.blueprintmedicines.com/
+description,"Blueprint Medicines Corp. is a precision therapy company. The company is headquartered in Cambridge, Massachusetts and currently employs 320 full-time employees. The firm focuses on patients with genomically defined diseases driven by abnormal kinase activation. The company focuses on crafting drug candidates that provide clinical responses to patients without adequate treatment options. The company has developed a small molecule drug pipeline in cancer and a genetic disease. Its drug candidate, BLU-285, targets KIT, including Exon 17 mutations, and targets PDGFRa, including the D842V mutation. These mutations activate receptor tyrosine kinases that are drivers of cancer and proliferative disorders, including gastrointestinal stromal tumors (GIST), and systemic mastocytosis (SM). Its drug candidate BLU-554 targets FGFR4, a kinase that is activated in a defined subset of patients with hepatocellular carcinoma (HCC), the common type of liver cancer. The company is engaged in developing BLU-667, a drug candidate that targets RET, a receptor tyrosine kinase that is activated by mutations or translocations."
+ceo,Mr. Jeffrey Albers
+sector,Healthcare
+country,US
+fullTimeEmployees,394
+phone,16173747580
+address,45 Sidney St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,-75.93
+dcf,102.542
+image,https://financialmodelingprep.com/image-stock/BPMC.png
+ipoDate,2015-04-30
+defaultImage,False

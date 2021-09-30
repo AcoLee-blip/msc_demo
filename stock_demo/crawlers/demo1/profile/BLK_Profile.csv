@@ -1,0 +1,33 @@
+,0
+symbol,BLK
+price,659.79
+beta,1.21429
+volAvg,633700
+mktCap,100625236000
+lastDiv,14.190000000000001
+range,323.98-692.73
+changes,-10.83
+companyName,BlackRock Inc
+currency,USD
+cik,0001364742
+isin,US09247X1019
+cusip,09247X101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Asset Management
+website,https://www.blackrock.com/us/individual
+description,"BlackRock, Inc. engages in providing investment management, risk management, and advisory services for institutional and retail clients worldwide. The company is headquartered in New York City, New York and currently employs 16,100 full-time employees. BlackRock provides a range of investment and risk management services to institutional and retail clients worldwide. Its diverse platform of active (alpha) and index (beta) investment strategies across asset classes enables the Company to tailor investment outcomes and asset allocation solutions for clients. Its product offerings include single- and multi-asset portfolios investing in equities, fixed income, alternatives and money market instruments. Its products are offered directly and through intermediaries in a range of vehicles, including open-end and closed-end mutual funds, iShares exchange-traded funds (ETFs), separate accounts, collective investment funds and other pooled investment vehicles. The company offers its Aladdin investment system, as well as risk management, outsourcing, advisory and technology services, to institutional investors and wealth management intermediaries under the BlackRock Solutions name."
+ceo,Mr. Laurence Fink
+sector,Financial Services
+country,US
+fullTimeEmployees,16300
+phone,12128105300
+address,55 E 52nd St
+city,New York City
+state,NEW YORK
+zip,10055
+dcfDiff,
+dcf,665.658
+image,https://financialmodelingprep.com/image-stock/BLK.jpg
+ipoDate,1999-10-01
+defaultImage,True

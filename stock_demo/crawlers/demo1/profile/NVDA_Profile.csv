@@ -1,0 +1,33 @@
+,0
+symbol,NVDA
+price,526.607
+beta,1.53923
+volAvg,13241707
+mktCap,325292753000
+lastDiv,0.64
+range,180.68-589.07
+changes,-11.6626
+companyName,NVIDIA Corp
+currency,USD
+cik,0001045810
+isin,US67066G1040
+cusip,67066G104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.nvidia.com/
+description,"NVIDIA Corp. engages in the design and manufacture of computer graphics processors, chipsets, and related multimedia software. The company is headquartered in Santa Clara, California and currently employs 13,277 full-time employees. The company operates through two segments: GPU and Tegra Processor. Its GPU product brands are aimed at specialized markets, including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Its Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core central processing units (CPUs) to drive supercomputing for mobile gaming and entertainment devices, as well as autonomous robots, drones and cars. The firm's processor has created platforms that address four markets: Gaming, Professional Visualization, Datacenter, and Automotive. Its offerings include NVIDIA DGX AI supercomputer, the NVIDIA DRIVE AI car computing platform and the GeForce NOW cloud gaming service."
+ceo,Mr. Jen-Hsun Huang
+sector,Technology
+country,US
+fullTimeEmployees,13775
+phone,14084862000
+address,2788 San Tomas Expy
+city,Santa Clara
+state,CALIFORNIA
+zip,95051
+dcfDiff,-95.03
+dcf,558.621
+image,https://financialmodelingprep.com/image-stock/NVDA.jpg
+ipoDate,1999-01-22
+defaultImage,True

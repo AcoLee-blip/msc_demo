@@ -1,0 +1,33 @@
+,0
+symbol,AGM
+price,66.53
+beta,1.16517
+volAvg,52596
+mktCap,695757440
+lastDiv,3.1000000000000005
+range,40.05-87.0
+changes,-1.82
+companyName,Federal Agricultural Mortgage Corp
+currency,USD
+cik,0000845877
+isin,US3131483063
+cusip,313148306
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Credit Services
+website,http://www.farmermac.com/
+description,"Federal Agricultural Mortgage Corp. is a stockholder-owned, federally chartered corporation, which engages in the provision of a secondary market for agricultural real estate and rural housing mortgage loans, rural utilities loans, and loans guaranteed by the United States Department of Agriculture. The company is headquartered in Washington, Washington Dc and currently employs 103 full-time employees. The firm's segments include Farm & Ranch, USDA Guarantees, Rural Utilities, Institutional Credit and Corporate. Its secondary market activities are purchasing eligible loans directly from lenders; providing advances against eligible loans by purchasing obligations secured by those loans; securitizing assets and guaranteeing the payment of principal and interest on the resulting securities that represent interests in, or obligations secured by, pools of eligible loans; and issuing long-term standby purchase commitments (LTSPCs) for eligible loans. The loans eligible for the secondary market provided by Farmer Mac include mortgage loans secured by first liens on agricultural real estate, including part-time farms and rural housing (comprising the assets eligible for the Farm & Ranch line of business)."
+ceo,Mr. Bradford Nordholm
+sector,Financial Services
+country,US
+fullTimeEmployees,103
+phone,12028727700
+address,1999 K St NW Fl 4
+city,WASHINGTON
+state,WASHINGTON DC
+zip,20006
+dcfDiff,-1314.94
+dcf,108.133
+image,https://financialmodelingprep.com/image-stock/AGM.png
+ipoDate,1988-12-09
+defaultImage,False

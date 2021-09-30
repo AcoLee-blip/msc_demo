@@ -1,0 +1,33 @@
+,0
+symbol,INSP
+price,176.732
+beta,0.0
+volAvg,316233
+mktCap,4736448500
+lastDiv,0.0
+range,40.53-184.39
+changes,-4.0175
+companyName,Inspire Medical Systems Inc
+currency,USD
+cik,0001609550
+isin,US4577301090
+cusip,457730109
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Medical Devices
+website,http://www.inspiremedicalsystems.com
+description,"Inspire Medical Systems, Inc. engages in the development and commercialization of minimally invasive solutions for patients with obstructive sleep apnea. The company is headquartered in Golden Valley, Minnesota and currently employs 165 full-time employees. The firm is focused on the developing and commercialization of minimally invasive solutions for patients with obstructive sleep apnea. The firm has developed a novel, closed-loop solution that continuously monitors a patient's breathing patterns and delivers mild hypoglossal nerve stimulation to maintain an open airway. The system delivers mild stimulation to the hypoglossal nerve, which controls the movement of user's tongue and other key airway muscles. By stimulating these muscles, the airway remains open during sleep. The system is controlled by a small handheld sleep remote."
+ceo,Mr. Timothy Herbert
+sector,Healthcare
+country,US
+fullTimeEmployees,239
+phone,17639575037
+address,5500 Wayzata Blvd Ste 1600
+city,Golden Valley
+state,MINNESOTA
+zip,55416
+dcfDiff,
+dcf,120.31
+image,https://financialmodelingprep.com/image-stock/INSP.png
+ipoDate,2018-05-03
+defaultImage,False

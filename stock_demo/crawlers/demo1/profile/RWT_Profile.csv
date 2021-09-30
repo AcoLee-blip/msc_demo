@@ -1,0 +1,33 @@
+,0
+symbol,RWT
+price,8.8
+beta,1.20785
+volAvg,1536969
+mktCap,984966400
+lastDiv,0.885
+range,2.14-18.01
+changes,0.4
+companyName,Redwood Trust Inc
+currency,USD
+cik,0000930236
+isin,US7580754023
+cusip,758075402
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Mortgage
+website,http://www.redwoodtrust.com
+description,"Redwood Trust, Inc. engages in the business of investing in mortgages and other real estate-related assets. The company is headquartered in Mill Valley, California and currently employs 149 full-time employees. The firm is engaged in mortgage banking activities. The firm operates through three segments: Residential Investments, Residential Mortgage Banking and Commercial. The Residential Investments segment includes a portfolio of investments in residential mortgage-backed securities (RMBS) retained from its Sequoia securitizations. The Residential Mortgage Banking segment consists of operating a mortgage loan conduit that acquires residential loans from third-party originators for subsequent sale, securitization, or transfer to its investment portfolio. Its Commercial segment consists of investments in multi-family securities and commercial mortgage-backed securities, as well as a remaining commercial loan investment following the sale of the remainder of its commercial mezzanine loan portfolio."
+ceo,Mr. Christopher Abate
+sector,Real Estate
+country,US
+fullTimeEmployees,372
+phone,14153802317
+address,1 Belvedere Pl Ste 300
+city,Mill Valley
+state,CALIFORNIA
+zip,94941
+dcfDiff,
+dcf,9.63026
+image,https://financialmodelingprep.com/image-stock/RWT.png
+ipoDate,1995-08-04
+defaultImage,False

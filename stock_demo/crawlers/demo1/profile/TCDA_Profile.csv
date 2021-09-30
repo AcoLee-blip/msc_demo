@@ -1,0 +1,33 @@
+,0
+symbol,TCDA
+price,6.46
+beta,0.0
+volAvg,1275632
+mktCap,324191872
+lastDiv,0.0
+range,3.74-44.3
+changes,-0.09
+companyName,Tricida Inc
+currency,USD
+cik,0001595585
+isin,US89610F1012
+cusip,89610F101
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Drug Manufacturers General Specialty & Generic
+website,https://www.tricida.com/
+description,"Tricida, Inc. is a pharmaceutical company. The company is headquartered in South San Francisco, California and currently employs 104 full-time employees. The firm's lead program, TRC101 is a treatment for chronic kidney disease (CKD). The firm is engaged in developing a non-absorbed drug to enable safety and efficacy for chronic treatment of CKD patients. The TRC101 drug acts in the gastrointestinal tract and clears the human body through the digestive system, by preventing degradation and systemic uptake."
+ceo,Dr. Gerrit Klaerner
+sector,Healthcare
+country,US
+fullTimeEmployees,141
+phone,14154297800
+address,7000 Shoreline Ct Ste 201
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,9.23078
+image,https://financialmodelingprep.com/image-stock/TCDA.png
+ipoDate,2018-06-28
+defaultImage,False

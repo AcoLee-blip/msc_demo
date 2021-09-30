@@ -1,0 +1,33 @@
+,0
+symbol,CRIS
+price,1.21
+beta,2.19677
+volAvg,541427
+mktCap,71169056
+lastDiv,0.0
+range,0.62-3.59
+changes,0.0
+companyName,Curis Inc
+currency,USD
+cik,0001108205
+isin,US2312692005
+cusip,231269200
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.curis.com/
+description,"Curis, Inc. engages in the development and commercialization of drug candidates for the treatment of human cancers. The company is headquartered in Lexington, Massachusetts and currently employs 31 full-time employees. The firm's drug candidate is CUDC-907, an orally-available, small molecule inhibitor of histone deacetylase (HDAC) and phosphatidylinositol-3-kinase (PI3K) enzymes. CUDC-907 is an oral, dual inhibitor of Class I and II HDAC, as well as Class I PI3K enzymes. CA-170 is an oral small molecule drug candidate that is designed to selectively target programmed death ligand-1 (PDL1) and V-domain Ig suppressor of T-cell activation (VISTA) immune checkpoint proteins, both of which independently function as negative regulators of immune activation. CA-4948 is an oral small molecule drug candidate that is designed to inhibit the Interleukin-1 receptor-associated kinase 4 (IRAK4) kinase, which is a transducer of toll-like receptor or certain interleukin receptor signaling pathways."
+ceo,Mr. James Dentzer
+sector,Healthcare
+country,US
+fullTimeEmployees,28
+phone,16175036500
+address,"128 SPRING STREET, BUILDING C, SUITE 500"
+city,Lexington
+state,MASSACHUSETTS
+zip,02421
+dcfDiff,-10.4
+dcf,1.63413
+image,https://financialmodelingprep.com/image-stock/CRIS.png
+ipoDate,2000-08-01
+defaultImage,False

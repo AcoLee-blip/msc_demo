@@ -1,0 +1,33 @@
+,0
+symbol,TWTR
+price,43.48
+beta,0.82384
+volAvg,18530298
+mktCap,34581819000
+lastDiv,0.0
+range,20.0-52.93
+changes,0.67
+companyName,Twitter Inc
+currency,USD
+cik,0001418091
+isin,US90184L1026
+cusip,90184L102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Internet Content & Information
+website,https://twitter.com
+description,"Twitter, Inc. is a global platform for public self-expression and conversation in real time. The company is headquartered in San Francisco, California and currently employs 3,920 full-time employees. The firm's products and services include Twitter, Periscope, Promoted Tweets, Promoted Accounts and Promoted Trends. Its Twitter is a platform for public self-expression and conversation in real time. Periscope broadcasts can also be viewed through Twitter and on desktop or mobile Web browser. Its Promoted Products enable its advertisers to promote their brands, products and services, amplify their visibility and reach, and extend the conversation around their advertising campaigns. Promoted Accounts appear in the same format and place as accounts suggested by its Who to Follow recommendation engine, or in some cases, in Tweets in a user's timeline. Promoted Trends appear at the top of the list of trending topics for an entire day in a particular country or on a global basis. Its MoPub is a mobile-focused advertising exchange. Twitter Audience Platform is an advertising offering."
+ceo,Mr. Jack Dorsey
+sector,Communication Services
+country,US
+fullTimeEmployees,4900
+phone,14152229670
+address,1355 Market St Ste 900
+city,San Francisco
+state,CALIFORNIA
+zip,94103
+dcfDiff,-173.9
+dcf,52.5303
+image,https://financialmodelingprep.com/image-stock/TWTR.png
+ipoDate,2013-11-07
+defaultImage,False

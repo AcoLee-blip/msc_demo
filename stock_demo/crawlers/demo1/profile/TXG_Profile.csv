@@ -1,0 +1,33 @@
+,0
+symbol,TXG
+price,138.695
+beta,0.0
+volAvg,780789
+mktCap,14820949000
+lastDiv,0.0
+range,48.78-166.31
+changes,-1.275
+companyName,10X Genomics Inc
+currency,USD
+cik,0001770787
+isin,US88025U1097
+cusip,88025U109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.10xgenomics.com/
+description,"10X Genomics, Inc. is a life science technology company, which engages in building products to interrogate, understand and master biology. The company is headquartered in Pleasanton, California and currently employs 557 full-time employees. The Company’s integrated solutions include instruments, consumables and software for analyzing biological systems at a resolution and scale that matches the complexity of biology. The Company’s product consists of chromium single cell gene expression solution, cell immune profiling solution, cell copy number variation (CNV) solution, Cell assay for transposase accessible chromatin (ATAC) solution. The Company’s Chromium platform enables analysis of individual biological components, such as up to millions of single cells. Its Visium platform is designed to identify where biological components are located and how they are arranged with respect to each other. Its molecular assays are used with its Chromium platform, and with its planned Visium platform, to provide sensitive and robust biochemistries that convert minute amounts of biological analytes into detectable signals."
+ceo,Mr. Serge Saxonov
+sector,Healthcare
+country,US
+fullTimeEmployees,584
+phone,19254017300
+address,6230 Stoneridge Mall Road
+city,Pleasanton
+state,CALIFORNIA
+zip,94588
+dcfDiff,
+dcf,143.0
+image,https://financialmodelingprep.com/image-stock/TXG.png
+ipoDate,2019-09-12
+defaultImage,False

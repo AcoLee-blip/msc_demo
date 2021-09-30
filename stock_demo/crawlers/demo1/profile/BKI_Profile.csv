@@ -1,0 +1,33 @@
+,0
+symbol,BKI
+price,93.31
+beta,0.62439
+volAvg,669790
+mktCap,14652375000
+lastDiv,0.0
+range,50.01-97.19
+changes,-0.53
+companyName,Black Knight Inc
+currency,USD
+cik,0001627014
+isin,US09215C1053
+cusip,09215C105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.blackknightinc.com/
+description,"Black Knight, Inc. engages in the provision of integrated software, data and analytics solutions. The company is headquartered in Jacksonville, Florida and currently employs 4,700 full-time employees. The firm's segments include Technology, and Data and Analytics. The firm's Technology segment offers software and hosting solutions that support loan servicing, loan origination and settlement services. Its Data and Analytics segment offers data and analytics solutions to the mortgage, real estate and capital markets industries. These solutions include property ownership data, lien data, servicing data, automated valuation models, collateral risk scores, prepayment and default models, lead generation and other data solutions."
+ceo,Mr. Anthony Jabbour
+sector,Technology
+country,US
+fullTimeEmployees,4900
+phone,19048545100
+address,601 Riverside Ave
+city,Jacksonville
+state,FLORIDA
+zip,32204
+dcfDiff,3.96
+dcf,94.5452
+image,https://financialmodelingprep.com/image-stock/BKI.jpg
+ipoDate,2017-09-19
+defaultImage,True

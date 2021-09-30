@@ -1,0 +1,33 @@
+,0
+symbol,CBTX
+price,22.05
+beta,1.098641
+volAvg,48906
+mktCap,547821180
+lastDiv,0.4
+range,12.5-31.73
+changes,-0.18
+companyName,CBTX Inc
+currency,USD
+cik,0001473844
+isin,US12481V1044
+cusip,12481V104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Banks Regional
+website,https://ir.cbtxinc.com/investor-relations
+description,"CBTX, Inc. operates as a bank holding company. The company is headquartered in Houston, Texas and currently employs 495 full-time employees. The Bank operates 18 branches located in the Houston market and its Beaumont market presence includes 15 branches. The Bank delivers tailored financial products and services to its customers."
+ceo,Mr. Robert Franklin
+sector,Financial Services
+country,US
+fullTimeEmployees,500
+phone,17132107600
+address,9 Greenway Plz Ste 110
+city,Houston
+state,TEXAS
+zip,77046
+dcfDiff,
+dcf,21.296
+image,https://financialmodelingprep.com/image-stock/CBTX.jpg
+ipoDate,2017-11-08
+defaultImage,True

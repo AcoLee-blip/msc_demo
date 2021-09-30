@@ -1,0 +1,33 @@
+,0
+symbol,SPFI
+price,17.23
+beta,0.0
+volAvg,18830
+mktCap,311160000
+lastDiv,0.14
+range,11.3-22.0
+changes,0.51
+companyName,South Plains Financial Inc
+currency,USD
+cik,0001163668
+isin,US83946P1075
+cusip,83946P107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Banks Regional
+website,
+description,"South Plains Financial, Inc. is a bank holding company, which engages in the provision of commercial and retail banking services through its subsidiary, City Bank. The company is headquartered in Lubbock, Texas and currently employs 684 full-time employees. The Bank provides wide range of commercial and consumer financial services to small and medium-sized businesses and individuals in its market areas. Its principal business activities include commercial and retail banking, along with insurance, investment, trust and mortgage services. The Bank operates 26 branch offices and 13 production offices both in banking markets and in certain areas that primarily focus on mortgage loan production. The Bank operates through two reportable segments: banking and insurance."
+ceo,Mr. Curtis C. Griffith
+sector,Financial Services
+country,US
+fullTimeEmployees,679
+phone,18067927101
+address,5219 City Bank Pkwy
+city,Lubbock
+state,TEXAS
+zip,79407
+dcfDiff,
+dcf,24.1778
+image,https://financialmodelingprep.com/image-stock/SPFI.jpg
+ipoDate,2019-05-09
+defaultImage,True

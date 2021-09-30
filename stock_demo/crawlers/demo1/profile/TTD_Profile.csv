@@ -1,0 +1,33 @@
+,0
+symbol,TTD
+price,734.77
+beta,2.43052
+volAvg,1046409
+mktCap,34507960000
+lastDiv,0.0
+range,136.0-847.5
+changes,-5.23
+companyName,Trade Desk Inc
+currency,USD
+cik,0001671933
+isin,US88339J1051
+cusip,88339J105
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://thetradedesk.com/
+description,"The Trade Desk, Inc. offers a technology platform for advertising buyers. The company is headquartered in Ventura, California and currently employs 944 full-time employees. The firm provides a self-service platform that enables clients to purchase and manage digital advertising campaigns across various advertising formats, including display, video and social, and on a range of devices, including computers, mobile devices and connected television. Its platform enables a media planner or buyer at an advertising agency to purchase digital media programmatically on various media exchanges and sell-side platforms; acquire and use third-party data to optimize and measure digital advertising campaigns; deploy their, or their client's, own first-party data in order to optimize campaign efficacy; link digital campaigns to offline sales results or other business objectives; access other services, such as its data management platform and publisher management platform marketplace, and use its user interface and application programming interfaces (APIs) to build their own technology on top of the Company's platform."
+ceo,Mr. Jeffrey Green
+sector,Technology
+country,US
+fullTimeEmployees,1310
+phone,18055853434
+address,42 N Chestnut St
+city,Ventura
+state,CALIFORNIA
+zip,93001
+dcfDiff,-226.43
+dcf,627.408
+image,https://financialmodelingprep.com/image-stock/TTD.png
+ipoDate,2016-09-21
+defaultImage,False

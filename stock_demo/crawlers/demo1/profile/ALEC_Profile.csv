@@ -1,0 +1,33 @@
+,0
+symbol,ALEC
+price,12.69
+beta,0.0
+volAvg,887670
+mktCap,1005589890
+lastDiv,0.0
+range,9.12-35.93
+changes,0.63
+companyName,Alector Inc
+currency,USD
+cik,0001653087
+isin,US0144421072
+cusip,014442107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://alector.com
+description,"Alector, Inc. operates as a clinical-stage biopharmaceutical company. The company is headquartered in South San Francisco, California and currently employs 109 full-time employees. Immuno-neurology targets immune dysfunction as a cause of multiple pathologies that are drivers of degenerative brain disorders. The firm is developing therapies designed to simultaneously counteract these pathologies by restoring healthy immune function to the brain. The firm's platform leverages large scale human genetic datasets, advanced tools in bioinformatics and imaging, and insights into neurodegeneration and immunology to identify immune system. Its platform focuses on target selection, biomarker selection and patient selection. Its product portfolio includes AL001, AL101, Al002 and AL003. Its AL001 targets frontotemporal dementia carrying a progranulin (FTD-GRN)."
+ceo,DR. Arnon Rosenthal
+sector,Healthcare
+country,US
+fullTimeEmployees,126
+phone,14152315660
+address,151 Oyster Point Blvd Ste 300
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,10.862
+image,https://financialmodelingprep.com/image-stock/ALEC.png
+ipoDate,2019-02-07
+defaultImage,False

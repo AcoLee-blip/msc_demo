@@ -1,0 +1,33 @@
+,0
+symbol,ZUO
+price,10.34
+beta,0.0
+volAvg,2014729
+mktCap,1222188030
+lastDiv,0.0
+range,6.21-17.79
+changes,0.08
+companyName,Zuora Inc
+currency,USD
+cik,0001423774
+isin,US98983V1061
+cusip,98983V106
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.zuora.com/
+description,"Zuora, Inc. operates as an online subscription billing and management platform. The company is headquartered in San Mateo, California and currently employs 1,221 full-time employees. The firm's products include Zuora Billing, a recurring billing platform designed for subscription businesses of all sizes across any industry; Zoura Configure Price Quote (CPQ), it configures subscription deal, quote for changes along the subscription lifecycle, and leverage pricing strategies to maximize customer lifetime value; Zuora Collect, it configures user's own automated dunning workflow and automate user's payment retry logic to prevent involuntary churn, and Zuora Revpro, automates revenue management to meet compliance for the latest revenue standards and accelerate user's time to close. Its multi-tenant cloud platform helps companies to launch, scale, and monetize their subscription services."
+ceo,Mr. Tien Tzuo
+sector,Technology
+country,US
+fullTimeEmployees,1249
+phone,18004251281
+address,101 REDWOOD SHORES PARKWAY
+city,Redwood City
+state,CALIFORNIA
+zip,94065
+dcfDiff,
+dcf,10.9584
+image,https://financialmodelingprep.com/image-stock/ZUO.png
+ipoDate,2018-04-12
+defaultImage,False

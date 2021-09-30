@@ -1,0 +1,33 @@
+,0
+symbol,MITK
+price,13.14
+beta,0.30988
+volAvg,559296
+mktCap,548987900
+lastDiv,0.0
+range,5.26-15.1
+changes,-0.25
+companyName,Mitek Systems Inc
+currency,USD
+cik,0000807863
+isin,US6067102003
+cusip,606710200
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.miteksystems.com/
+description,"Mitek Systems, Inc. engages in the innovation of mobile capture and digital identity verification solutions. The company is headquartered in San Diego, California and currently employs 272 full-time employees. The firm's technology allows users to remotely deposit checks, open accounts, get insurance quotes, pay bills, as well as verify their identity by taking pictures of various documents with their camera-equipped smartphones and tablets instead of using the device keyboard. Its technology uses algorithms to correct image distortion, extract relevant data, route images to their desired location and process transactions. Its technology processes images of documents in various ways. The firm's products include Mobile Verify, Mobile Fill, Mobile Docs, Mobile Deposit and Commercial Mobile Deposit Capture. Its mobile technology solutions are provided in two parts: a software development kit (SDK) for mobile capture, and a software platform for image correction, detection, extraction and authentication."
+ceo,Mr. Scipio Carnecchia
+sector,Technology
+country,US
+fullTimeEmployees,272
+phone,16192696800
+address,600 B St Ste 100
+city,San Diego
+state,CALIFORNIA
+zip,92101
+dcfDiff,8.03
+dcf,13.9657
+image,https://financialmodelingprep.com/image-stock/MITK.jpg
+ipoDate,1989-01-03
+defaultImage,True

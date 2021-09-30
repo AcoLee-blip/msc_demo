@@ -1,0 +1,33 @@
+,0
+symbol,INFO
+price,90.51
+beta,0.9994
+volAvg,2003501
+mktCap,36055474000
+lastDiv,0.68
+range,44.81-94.02
+changes,0.31
+companyName,IHS Markit Ltd
+currency,USD
+cik,0001598014
+isin,BMG475671050
+cusip,G47567105
+exchange,Nasdaq Global Select
+exchangeShortName,NYSE
+industry,Consulting Services
+website,https://ihsmarkit.com/
+description,"IHS Markit Ltd. engages in the provision of information, analytics, and solutions to customers in the business, finance, and government sectors. The firm operates through four segments: Resources, Transportation, Consolidated Markets & Solutions (CMS) and Financial Services. The Resources segment includes its energy and chemicals product offerings. Its energy offerings are focused on upstream, midstream, downstream and power/gas/coal/renewables (PGCR) services. The Transportation segment includes its automotive and maritime and trade (M&T) product offerings. The CMS segment includes its product design; technology, media and telecommunication, and economics and country risk (ECR) product offerings. The firm's Financial Services segment provides pricing and reference data, indices, valuation and trading services, trade processing, enterprise software and managed services."
+ceo,Mr. Lance Uggla
+sector,Industrials
+country,GB
+fullTimeEmployees,15500
+phone,442072602000
+address,"4th Fl, Ropemaker Place, 25 Ropemaker Street"
+city,LONDON
+state,
+zip,EC2Y 9LY
+dcfDiff,36.78
+dcf,82.1325
+image,https://financialmodelingprep.com/image-stock/INFO.png
+ipoDate,2014-06-19
+defaultImage,False

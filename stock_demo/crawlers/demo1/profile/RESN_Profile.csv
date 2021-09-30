@@ -1,0 +1,33 @@
+,0
+symbol,RESN
+price,2.32
+beta,3.17601
+volAvg,1026806
+mktCap,125688784
+lastDiv,0.0
+range,0.951-3.29
+changes,-0.08
+companyName,Resonant Inc
+currency,USD
+cik,0001579910
+isin,US76118L1026
+cusip,76118L102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.resonant.com/
+description,"Resonant, Inc. engages in the creation of filter designs for radio frequency front-ends for the mobile device industry. The company is headquartered in Goleta, California and currently employs 70 full-time employees. The firm creates filter designs for radio frequency (RF) front-ends for the mobile device industry. The RF front-end is the circuitry in a mobile device for analog signal processing and is located between the device's antenna and its digital baseband. The firm uses a technology called Infinite Synthesized Networks (ISN) to configure and connect resonators, the building blocks of RF filters. The firm uses ISN to develop new classes of filter designs. The firm is also developing a series of single-band surface acoustic wave (SAW) filter designs for frequency bands. The firm is developing multiplexer filter designs for over two bands to address the carrier aggregation (CA) requirements of its customers. In addition, the Company is also developing reconfigurable filter designs to replace multiple filters for multiple bands. The firm is also involved in the development of a filter reconfigurable between three bands."
+ceo,Mr. George Holmes
+sector,Technology
+country,US
+fullTimeEmployees,77
+phone,18053089803
+address,175 Cremona Dr Ste 200
+city,Goleta
+state,CALIFORNIA
+zip,93117
+dcfDiff,-2.94
+dcf,2.76342
+image,https://financialmodelingprep.com/image-stock/RESN.png
+ipoDate,2014-05-29
+defaultImage,False

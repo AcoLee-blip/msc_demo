@@ -1,0 +1,33 @@
+,0
+symbol,BSQR
+price,1.17
+beta,1.42794
+volAvg,35481
+mktCap,15391466
+lastDiv,0.0
+range,0.83-2.0
+changes,-0.04
+companyName,Bsquare Corp
+currency,USD
+cik,0001054721
+isin,US11776U3005
+cusip,11776U300
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.bsquare.com/
+description,"BSQUARE Corp. provides software, embedded and engineering services. The company is headquartered in Bellevue, Washington and currently employs 183 full-time employees. The firm's standalone intelligent systems include smart, connected computing devices, such as smart phones, set-top boxes, point-of-sale terminals, kiosks, tablets and handheld data collection devices, as well as smart vending machines, automatic teller machine (ATM) machines, digital signs and in-vehicle telematics and entertainment devices. The company focuses on systems that utilize Microsoft Windows Embedded operating systems as well as devices running other operating systems, such as Android, Linux, and QNX Software Systems (QNX), and that are connected to a network or data cloud via a wired or wireless connection. Its customers include original equipment manufacturers (OEMs), original design manufacturers (ODMs), corporate enterprises (Enterprises), silicon vendors (SVs) and peripheral vendors."
+ceo,Mr. Ralph Derrickson
+sector,Technology
+country,US
+fullTimeEmployees,75
+phone,14255195900
+address,110 110th Ave NE Ste 300
+city,Bellevue
+state,WASHINGTON
+zip,98004
+dcfDiff,-1.47
+dcf,1.84801
+image,https://financialmodelingprep.com/image-stock/BSQR.png
+ipoDate,1999-10-20
+defaultImage,False

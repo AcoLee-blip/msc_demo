@@ -1,0 +1,33 @@
+,0
+symbol,FIXX
+price,10.085
+beta,0.0
+volAvg,423118
+mktCap,456491488
+lastDiv,0.0
+range,9.19-22.5
+changes,0.175
+companyName,Homology Medicines Inc
+currency,USD
+cik,0001661998
+isin,US4380831077
+cusip,438083107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.homologymedicines.com/
+description,"Homology Medicines, Inc. operates as a technology platform to design and develop treatments to address rare diseases at the genetic level. The company is headquartered in Bedford, Massachusetts and currently employs 184 full-time employees. The firm is focused on developing a pipeline of new medicines that address and cure the underlying cause of monogenic diseases in the liver, central nervous system (CNS), bone marrow, lung and the eye. The Company’s lead product candidate, HMI-102 is a gene therapy for the treatment of phenylketonuria (PKU). Its PKU program is focused on adults using the gene therapy approach. The Company’s suite of 15 adeno-associated virus vectors (AAVHSCs) enables it to focus on a method of gene editing called gene correction. The Company’s diverse set of AAVHSCs allows it to precisely target, via a single intravenous injection, a wide range of disease-relevant tissues, including the liver, central nervous system, or CNS, bone marrow, lung, muscle and eye, across both modalities - gene editing and gene therapy."
+ceo,Dr. Arthur Tzianabos
+sector,Healthcare
+country,US
+fullTimeEmployees,195
+phone,17813017277
+address,1 Patriots Park
+city,Bedford
+state,MASSACHUSETTS
+zip,01730
+dcfDiff,
+dcf,11.8468
+image,https://financialmodelingprep.com/image-stock/FIXX.png
+ipoDate,2018-03-28
+defaultImage,False

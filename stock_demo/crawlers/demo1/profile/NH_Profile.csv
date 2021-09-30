@@ -1,0 +1,33 @@
+,0
+symbol,NH
+price,2.1111
+beta,1.75024
+volAvg,251875
+mktCap,234783872
+lastDiv,0.0
+range,0.811-6.39
+changes,0.0311
+companyName,NantHealth Inc
+currency,USD
+cik,0001566469
+isin,US6301041074
+cusip,630104107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://nanthealth.com/
+description,"NantHealth, Inc. is an evidence-based, personalized healthcare company, which engages in the provision of treatment for critical diseases such as cancer in United States, the United Kingdom, Singapore, and Canada. The company is headquartered in Culver City, California and currently employs 543 full-time employees. The firm is engaged in converging science and technology through a single integrated clinical platform, to provide actionable health information at the point of care. As of December 31, 2017, the Company conducted its operations primarily in the United States, Canada, the United Kingdom and Singapore. Its solutions include molecular profiling solution, software, and hardware systems infrastructure, which integrates patient data management, bioinformatics, and molecular medicine, enabling care and clinical practice. Its cancer care solutions include a set of interoperability, diagnostics, risk stratification and decision support solutions (Eviti). Its systems infrastructure collects, indexes, analyzes and interprets billions of molecular, clinical, operational and financial data points derived from sources to improve decision-making."
+ceo,Dr. Patrick Soon-Shiong
+sector,Healthcare
+country,US
+fullTimeEmployees,398
+phone,13108537513
+address,9920 JEFFERSON BLVD
+city,Culver City
+state,CALIFORNIA
+zip,90245
+dcfDiff,-1.02
+dcf,2.53746
+image,https://financialmodelingprep.com/image-stock/NH.png
+ipoDate,2016-06-02
+defaultImage,False

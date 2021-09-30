@@ -1,0 +1,33 @@
+,0
+symbol,ALLO
+price,30.84
+beta,0.0
+volAvg,664964
+mktCap,4326235100
+lastDiv,0.0
+range,17.43-55.0
+changes,0.75
+companyName,Allogene Therapeutics Inc
+currency,USD
+cik,0001737287
+isin,US0197701065
+cusip,019770106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.allogene.com/
+description,"Allogene Therapeutics, Inc. operates as a clinical stage immuno-oncology company pioneering the development and commercialization of genetically engineered allogeneic T cell therapies for the treatment of cancer. The company is headquartered in South San Francisco, California and currently employs 190 full-time employees. The firm is focused on developing and commercializing of allogeneic T cell therapies for the treatment of cancer. The company is involved in developing a pipeline of multiple allogeneic chimeric antigen receptor (CAR) T cell product candidates utilizing protein engineering, gene editing, gene insertion and T cell manufacturing technologies. Its T cell product candidates are designed to target and kill cancer cells. Its product candidate includes UCART19, ALLO-501, ALLO-715 and ALLO-647. The Company’s UCART19 is an allogeneic CAR T cell therapy that targets CD19. The Company’s ALLO-501 is an allogeneic anti-CD19 CAR T cell product candidate, which is designed for the treatment of patients with relapsed or refractory (R/R) non-Hodgkin lymphoma (NHL). The Company’s ALLO-715 targets B-cell maturation antigen (BCMA) for the treatment of patients with R/R multiple myeloma."
+ceo,Dr. David Chang
+sector,Healthcare
+country,US
+fullTimeEmployees,215
+phone,16504572700
+address,210 E Grand Ave
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,36.2129
+image,https://financialmodelingprep.com/image-stock/ALLO.png
+ipoDate,2018-10-11
+defaultImage,False

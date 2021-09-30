@@ -1,0 +1,33 @@
+,0
+symbol,LNG
+price,52.05
+beta,1.64989
+volAvg,1444058
+mktCap,13130861600
+lastDiv,0.0
+range,27.06-67.11
+changes,0.55
+companyName,Cheniere Energy Inc
+currency,USD
+cik,0000003570
+isin,US16411R2085
+cusip,16411R208
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Oil & Gas Midstream
+website,http://www.cheniere.com
+description,"Cheniere Energy, Inc. engages in liquefied natural gas (LNG) related businesses. The company is headquartered in Houston, Texas and currently employs 1,372 full-time employees. The firm operates through two segments: LNG terminal business, and LNG and natural gas marketing business. Its LNG terminal segment consists of the Sabine Pass and Corpus Christi LNG terminals. Its LNG and natural gas marketing segment consists of LNG and natural gas marketing activities by Cheniere Marketing. Cheniere Marketing is developing a portfolio of long- and medium-term SPAs with professional staff based in the United States, the United Kingdom, Singapore and Chile. The firm conducts its business through its subsidiaries, including the development, construction and operation of its LNG terminal business and the development and operation of its LNG and natural gas marketing business. The firm owns and operates the Sabine Pass LNG terminal in Louisiana through its ownership interest in and management agreements with Cheniere Partners."
+ceo,Mr. Jack Fusco
+sector,Energy
+country,US
+fullTimeEmployees,1530
+phone,17133755000
+address,700 Milam St Ste 1900
+city,Houston
+state,TEXAS
+zip,77002
+dcfDiff,446831.0
+dcf,59.1454
+image,https://financialmodelingprep.com/image-stock/LNG.png
+ipoDate,2001-03-05
+defaultImage,False

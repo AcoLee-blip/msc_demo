@@ -1,0 +1,33 @@
+,0
+symbol,ICE
+price,98.69
+beta,0.61045
+volAvg,2983033
+mktCap,55393116000
+lastDiv,1.1749999999999998
+range,63.51-106.99
+changes,0.38
+companyName,Intercontinental Exchange Inc
+currency,USD
+cik,0001571949
+isin,US45866F1049
+cusip,45866F104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Financial Data & Stock Exchanges
+website,https://www.intercontinentalexchange.com/
+description,"Intercontinental Exchange, Inc. engages in the management of online marketplace. The company is headquartered in Atlanta, Georgia and currently employs 5,161 full-time employees. The firm provides data services for commodity and financial markets. The firm's segments include Trading and Clearing segment, and Data and Listings segment. The Trading and Clearing segment includes the Company's transaction-based execution and clearing businesses. The firm's Data and Listings segment includes its subscription-based data services and securities listings businesses. The firm operates regulated marketplaces for listing, trading and clearing a range of derivatives and securities contracts across the asset classes, including energy and agricultural commodities, interest rates, equities, equity derivatives, exchange traded funds, credit derivatives, bonds and currencies. The firm offers market data services to support the trading, investment, risk management and connectivity needs of customers across a range of asset classes."
+ceo,Mr. Jeffrey Sprecher
+sector,Financial Services
+country,US
+fullTimeEmployees,6293
+phone,17708574700
+address,5660 New Northside Dr
+city,Atlanta
+state,GEORGIA
+zip,30328
+dcfDiff,109.51
+dcf,99.47
+image,https://financialmodelingprep.com/image-stock/ICE.jpg
+ipoDate,2005-11-16
+defaultImage,True

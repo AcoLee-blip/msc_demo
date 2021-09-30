@@ -1,0 +1,33 @@
+,0
+symbol,PRTH
+price,3.235
+beta,-0.24072
+volAvg,166381
+mktCap,217286192
+lastDiv,0.0
+range,1.328-4.4
+changes,0.555
+companyName,Priority Technology Holdings Inc
+currency,USD
+cik,0001653558
+isin,US74275G1076
+cusip,74275G107
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,https://prth.com/
+description,"Priority Technology Holdings, Inc. is a provider of merchant acquiring and commercial payments solutions with a platform of microservices that activate and monetize vertically specialized merchant networks. The company is headquartered in Alpharetta, Georgia and currently employs 562 full-time employees. Inc is a B2C and B2B payment processing solution provider. The firm provides operating platforms for payments and payment enabled software companies. The company offers MX and CPX payment processing platforms. The MX platform is for B2C payments that provides merchants with a suite of business management solutions. The CPX platform is for B2B payments that includes CPX gateway provides businesses a complete suite of automation and electronic payment options to digitize commercial payments."
+ceo,Mr. Thomas Charles Priore
+sector,Technology
+country,US
+fullTimeEmployees,588
+phone,18009355961
+address,2001 Westside Pkwy Ste 155
+city,Alpharetta
+state,GEORGIA
+zip,30004
+dcfDiff,
+dcf,2.88
+image,https://financialmodelingprep.com/image-stock/PRTH.png
+ipoDate,2016-09-14
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,SAVA
+price,8.225
+beta,1.7283
+volAvg,7730361
+mktCap,204362464
+lastDiv,0.0
+range,1.21-12.68
+changes,-2.955
+companyName,Cassava Sciences Inc
+currency,USD
+cik,0001069530
+isin,US14817C1071
+cusip,14817C107
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.cassavasciences.com/company
+description,"Cassava Sciences, Inc. engages in the development of novel drugs and diagnostics. The company is headquartered in Austin, Texas and currently employs 9 full-time employees. The firm is focused on developing drug for the treatment of nervous system disorders. The firm is ocused on the early detection and treatment of neurodegenerative diseases, such as Alzheimer’s. Its drug candidate, PTI-125, is a small molecule that targets an altered form of a scaffolding protein called filamin A (FLNA). The firm is also developing an experimental biomarker/diagnostic, PTI-125Dx. The company is developing PTI-125Dx to detect Alzheimer’s disease with a blood test."
+ceo,Mr. Remi Barbier
+sector,Healthcare
+country,US
+fullTimeEmployees,9
+phone,15125012444
+address,7801 N Capital of Texas Hwy Ste 260
+city,Austin
+state,TEXAS
+zip,78731
+dcfDiff,
+dcf,10.2356
+image,https://financialmodelingprep.com/image-stock/SAVA.png
+ipoDate,2000-07-14
+defaultImage,False

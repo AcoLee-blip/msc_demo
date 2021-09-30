@@ -1,0 +1,33 @@
+,0
+symbol,IMGN
+price,5.855
+beta,2.13353
+volAvg,2747773
+mktCap,1097976450
+lastDiv,0.0
+range,1.95-7.07
+changes,-0.01
+companyName,ImmunoGen Inc
+currency,USD
+cik,0000855654
+isin,US45253H1014
+cusip,45253H101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.immunogen.com
+description,"ImmunoGen, Inc. engages in the discovery and development of antibody-drug conjugates to improve outcomes for cancer patients. The company is headquartered in Waltham, Massachusetts and currently employs 296 full-time employees. An ADC with the Company's technology comprises an antibody that binds to a target found on tumor cells conjugated to one of its anti-cancer agents as a payload to kill the tumor cell once the ADC has bound to its target. Its product candidates include Mirvetuximab soravtansine; IMGN779; IMGN632; and Coltuximab ravtansine. Its portfolio is led by Mirvetuximab soravtansine, a first-in-class ADC targeting folate-receptor alpha (Fra), which is in a Phase III registrational trial called FORWARD I. Its FORWARD II trial consists of cohorts assessing Mirvetuximab soravtansine in combination with Avastin (bevacizumab), Keytruda (pembrolizumab) and carboplatin. The firm has developed tubulin-acting maytansinoid payload agents, which include DM1 and DM4, as well as deoxyribonucleic acid (DNA)-alkylating agents called IGNs."
+ceo,Mr. Mark Enyedy
+sector,Healthcare
+country,US
+fullTimeEmployees,75
+phone,17818950600
+address,830 WINTER ST
+city,Boston
+state,MASSACHUSETTS
+zip,02451
+dcfDiff,-12.95
+dcf,6.41804
+image,https://financialmodelingprep.com/image-stock/IMGN.png
+ipoDate,1989-11-17
+defaultImage,False

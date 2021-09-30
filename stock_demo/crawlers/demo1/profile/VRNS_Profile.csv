@@ -1,0 +1,33 @@
+,0
+symbol,VRNS
+price,119.2
+beta,1.18911
+volAvg,291115
+mktCap,3781846270
+lastDiv,0.0
+range,48.95-138.75
+changes,2.01
+companyName,Varonis Systems Inc
+currency,USD
+cik,0001361113
+isin,US9222801022
+cusip,922280102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.varonis.com/
+description,"Varonis Systems, Inc. engages in providing data security and analytics. The company is headquartered in New York City, New York and currently employs 1,460 full-time employees. The firm's products include DatAdvantage, DataPrivilege, Interface Data Unit Classification Framework, Data Transport Engine, DatAnywhere and DatAnswers. Its platform allows enterprises to analyze, secure, manage and migrate volumes of unstructured data. The company specializes in file and e-mail systems that store valuable spreadsheets, word processing documents, presentations, audio and video files, e-mails and text. Its Metadata Framework is a technology platform that extracts metadata from an enterprise's information technology (IT) infrastructure. Data often includes an enterprise's financial information, intellectual property, and confidential employee, customer or patient records. IT and business personnel deploy its software for a range of use cases, including data security, governance and compliance, user behavior analytics, archiving, search, and file synchronization and sharing."
+ceo,Mr. Yakov Faitelson
+sector,Technology
+country,US
+fullTimeEmployees,1574
+phone,18772928789
+address,"1250 Broadway, 29th Floor"
+city,New York City
+state,NEW YORK
+zip,10001
+dcfDiff,-119.4
+dcf,124.308
+image,https://financialmodelingprep.com/image-stock/VRNS.jpg
+ipoDate,2014-02-28
+defaultImage,True

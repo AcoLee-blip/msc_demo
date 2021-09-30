@@ -1,0 +1,33 @@
+,0
+symbol,PCG
+price,11.19
+beta,1.15846
+volAvg,20359516
+mktCap,22207336400
+lastDiv,0.0
+range,6.25-18.34
+changes,0.09
+companyName,PG&E Corp
+currency,USD
+cik,0001004980
+isin,US69331C1080
+cusip,69331C108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated Electric
+website,http://www.pgecorp.com
+description,"PG&E Corp. is a holding company, which engages in generation, transmission, and distribution of electricity and natural gas to customers. The company is headquartered in San Francisco, California and currently employs 24,000 full-time employees. The firm's primary operating subsidiary is Pacific Gas and Electric Company (the Utility), which operates in northern and central California. The Utility is engaged in the sale and delivery of electricity and natural gas to customers. The Utility generates electricity and provides electricity transmission and distribution services throughout its service territory in northern and central California to residential, commercial, industrial, and agricultural customers. The Utility provides bundled services (electricity, transmission and distribution services) to various customers in its service territory. As of December 31, 2016, the Utility owned approximately 18,400 circuit miles of interconnected transmission lines operating at voltages ranging from 60 kilovolt to 500 kilovolt. As of December 31, 2016, the Utility also operated 92 electric transmission substations with a capacity of approximately 64,600 megavolt ampere (MVA)."
+ceo,Mr. William Johnson
+sector,Utilities
+country,US
+fullTimeEmployees,23000
+phone,14159731000
+address,"77 Beale St, PO Box 770000"
+city,San Francisco
+state,CALIFORNIA
+zip,94177
+dcfDiff,-131.45
+dcf,13.8063
+image,https://financialmodelingprep.com/image-stock/PCG.png
+ipoDate,1919-07-24
+defaultImage,False

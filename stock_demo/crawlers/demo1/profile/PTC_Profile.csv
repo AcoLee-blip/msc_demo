@@ -1,0 +1,33 @@
+,0
+symbol,PTC
+price,96.38
+beta,1.21084
+volAvg,800160
+mktCap,11191452700
+lastDiv,0.0
+range,43.9-97.67
+changes,1.7
+companyName,PTC Inc
+currency,USD
+cik,0000857005
+isin,US69370C1009
+cusip,69370C100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.ptc.com/
+description,"PTC, Inc. engages in the development and provision of software-based product management and development solutions. The company is headquartered in Boston, Massachusetts and currently employs 6,055 full-time employees. The firm offers a portfolio of computer-aided design (CAD) modeling, product lifecycle management (PLM) and service lifecycle management (SLM) solutions for manufacturers to create, operate, and service products. The company offers a suite of Internet of Things (IoT) solutions that enables its customers to connect, manage and analyze data, and create applications. Its segments include the Solutions Group, the IoT Group and Professional Services. The Solutions Group segment includes its CAD, PLM and SLM products. The IoT Group segment includes its IoT, analytics and augmented reality (AR) solutions. The Professional Services segment includes consulting, implementation and training business. Its IoT products include ThingWorx, KEPServerEX, Vuforia Studio and Vuforia. Its CAD products include Creo and Mathcad. Its PLM products include Windchill, Integrity, Navigate and Creo View. Its SLM products include Servigistics and Arbortext."
+ceo,Mr. James Heppelmann
+sector,Technology
+country,US
+fullTimeEmployees,6055
+phone,17813705000
+address,121 Seaport Blvd
+city,Boston
+state,MASSACHUSETTS
+zip,02210
+dcfDiff,-98.2
+dcf,89.2699
+image,https://financialmodelingprep.com/image-stock/PTC.png
+ipoDate,1989-12-08
+defaultImage,False

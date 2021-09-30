@@ -1,0 +1,33 @@
+,0
+symbol,CELC
+price,8.5
+beta,0.443181
+volAvg,5992
+mktCap,87524496
+lastDiv,0.0
+range,4.03-13.759
+changes,1.52
+companyName,Celcuity Inc
+currency,USD
+cik,0001603454
+isin,US15102K1007
+cusip,15102K100
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://celcuity.com/
+description,"Celcuity, Inc. is cellular analysis company. The company is headquartered in Minneapolis, Minnesota and currently employs 26 full-time employees. The firm is focused on discovering new cancer sub-types and commercializing diagnostic tests designed to significantly improve the clinical outcomes of cancer patients treated with targeted therapies. The Company’s proprietary CELx diagnostic platform uses a patient’s living tumor cells to identify the specific abnormal cellular process driving a patient’s cancer and the targeted therapy that best treats it. CELx platform provides traditional molecular diagnostics, which provides a snapshot of the genetic mutations present in a patient’s tumor because they analyze dead cells. Using dead cells prevents molecular diagnostics from analyzing in real-time the dynamic cellular activities, known as cell signaling, that regulate cell proliferation or survival."
+ceo,Mr. Brian F. Sullivan
+sector,Healthcare
+country,US
+fullTimeEmployees,27
+phone,17633920767
+address,16305 36th Ave N Ste 100
+city,Minneapolis
+state,MINNESOTA
+zip,55446
+dcfDiff,
+dcf,7.29209
+image,https://financialmodelingprep.com/image-stock/CELC.jpg
+ipoDate,2017-09-20
+defaultImage,True

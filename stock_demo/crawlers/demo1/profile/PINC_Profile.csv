@@ -1,0 +1,33 @@
+,0
+symbol,PINC
+price,34.97
+beta,0.22228
+volAvg,639638
+mktCap,4269837060
+lastDiv,0.19
+range,27.11-39.7
+changes,0.45
+companyName,Premier Inc
+currency,USD
+cik,0001577916
+isin,US74051N1028
+cusip,74051N102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.premierinc.com/
+description,"Premier, Inc. operates as a holding company with interests in health services. The company is headquartered in Charlotte, North Carolina and currently employs 2,200 full-time employees. The firm is uniting an alliance of approximately 4,000 United States hospitals and health systems and approximately 175,000 other providers and organizations to transform healthcare. The firm operates through two reportable business segments: Supply Chain Services and Performance Services. Its Supply Chain Services segment operates healthcare group purchasing organizations (GPO) and direct sourcing activities. The Company’s performance Service segment provides integrated data and analytics, software as a service (SaaS) informatic products, consulting services, performance improvement collaborative, government services and insurance management services. The firm plays a role in the healthcare industry, collaborating with members to co-develop long-term innovations that reinvent and improve the way care is delivered to patients nationwide."
+ceo,Ms. Susan DeVore
+sector,Healthcare
+country,US
+fullTimeEmployees,2200
+phone,17043570022
+address,13034 Ballantyne Corporate Pl
+city,Charlotte
+state,NORTH CAROLINA
+zip,28277
+dcfDiff,65.4
+dcf,34.1033
+image,https://financialmodelingprep.com/image-stock/PINC.png
+ipoDate,2013-09-26
+defaultImage,False

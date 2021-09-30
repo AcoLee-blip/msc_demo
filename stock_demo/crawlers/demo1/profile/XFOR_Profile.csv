@@ -1,0 +1,33 @@
+,0
+symbol,XFOR
+price,6.44
+beta,0.0
+volAvg,91150
+mktCap,104885704
+lastDiv,0.0
+range,5.38-15.0
+changes,-0.19
+companyName,X4 Pharmaceuticals Inc
+currency,USD
+cik,0001501697
+isin,US98420X1037
+cusip,98420X103
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.x4pharma.com/
+description,"X4 Pharmaceuticals, Inc. operates as a biotechnology company, which engages in developing human antibodies for treating infectious diseases. The company is headquartered in Cambridge, Massachusetts and currently employs 15 full-time employees. The firm is focused on the discovery, development and commercialization of novel therapeutics for the treatment of rare diseases including primary immunodeficiencies and cancer. The Company’s oral small molecule drug candidates antagonize the CXCR4 pathway, which plays a central role in immune surveillance. Its product candidates include X4P-001, X4P-002 and X4P-003."
+ceo,Dr. Paula Ragan
+sector,Healthcare
+country,US
+fullTimeEmployees,58
+phone,18575298300
+address,955 Massachusetts Ave Ste 4
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,17.814
+image,https://financialmodelingprep.com/image-stock/XFOR.png
+ipoDate,2017-11-16
+defaultImage,False

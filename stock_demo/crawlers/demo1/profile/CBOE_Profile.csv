@@ -1,0 +1,33 @@
+,0
+symbol,CBOE
+price,86.18
+beta,0.5499
+volAvg,886695
+mktCap,9311060000
+lastDiv,1.5
+range,72.01-127.93
+changes,-1.89
+companyName,Cboe Global Markets Inc
+currency,USD
+cik,0001374310
+isin,US12503M1080
+cusip,12503M108
+exchange,Nasdaq Global Select
+exchangeShortName,ETF
+industry,Financial Data & Stock Exchanges
+website,http://www.cboe.com/
+description,"Cboe Global Markets, Inc. engages in the provision of trading and investment solutions to investors. The company is headquartered in Chicago, Illinois and currently employs 842 full-time employees. The firm provides trading and investment solutions to investors around the world. The company offers trading across a diverse range of products in multiple asset classes and geographies, including options, futures, United States and European equities, exchange-traded products (ETPs), global foreign exchange (FX) and multi-asset volatility products based on the Cboe Volatility Index (VIX Index). The Company’s trading venues include the options exchange in the United States and the stock exchange in Europe. Its products include VIX Index & Volatility, stock exchange options, options on single stocks and exchange traded products, Mini Options, Weeklys Options, Strategy Benchmark Indexes, Social Media Indexes, Contract Specs and Trading Hours and Trader Incentive Programs."
+ceo,Mr. Edward Tilly
+sector,Financial Services
+country,US
+fullTimeEmployees,823
+phone,13127867200
+address,400 S La Salle St
+city,Chicago
+state,ILLINOIS
+zip,60605
+dcfDiff,24768.7
+dcf,82.181
+image,https://financialmodelingprep.com/image-stock/CBOE.png
+ipoDate,2010-06-15
+defaultImage,False

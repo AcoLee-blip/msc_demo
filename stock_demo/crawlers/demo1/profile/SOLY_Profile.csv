@@ -1,0 +1,33 @@
+,0
+symbol,SOLY
+price,7.4
+beta,0.0
+volAvg,220983
+mktCap,156805264
+lastDiv,0.0
+range,5.69-15.5
+changes,0.1
+companyName,Soliton Inc
+currency,USD
+cik,0001548187
+isin,US8342511008
+cusip,834251100
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.soliton.com/
+description,"Soliton, Inc. is a medical development company. The company is headquartered in Houston, Texas and currently employs 7 full-time employees. The firm develops a Rapid Acoustic Pulse (RAP) device that works in partnership with a short pulse laser for tattoo removal. The RAP device in coordination with the pulsed laser removes ink pigment from the macrophages. The device also enables multiple passes in a single treatment that makes tattoo removal possible in two to three laser treatments. The RAP device uses an acoustic wave technology that creates audio waves, and provides electronic wave shaping to reduce frequencies that cause heat and pain."
+ceo,Dr. Christopher C. Capelli
+sector,Healthcare
+country,US
+fullTimeEmployees,9
+phone,18326613453
+address,5304 Ashbrook Dr
+city,Houston
+state,TEXAS
+zip,77081
+dcfDiff,
+dcf,9.40801
+image,https://financialmodelingprep.com/image-stock/SOLY.png
+ipoDate,2019-02-19
+defaultImage,False

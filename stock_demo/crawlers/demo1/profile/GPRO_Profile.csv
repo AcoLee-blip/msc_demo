@@ -1,0 +1,33 @@
+,0
+symbol,GPRO
+price,6.95
+beta,1.47129
+volAvg,3668258
+mktCap,1047705470
+lastDiv,0.0
+range,2.0-8.82
+changes,0.175
+companyName,GoPro Inc
+currency,USD
+cik,0001500435
+isin,US38268T1034
+cusip,38268T103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Consumer Electronics
+website,http://gopro.com
+description,"GoPro, Inc. engages in manufacturing and selling camera and camera accessories. The company is headquartered in San Mateo, California and currently employs 891 full-time employees. The firm's product offerings include HERO5, which is a line of cloud-connected cameras featuring image stabilization, telemetry, cloud connectivity and voice control; GoPro Plus, which is a cloud-based storage solution that enables subscribers to access, edit and share content; Quik, which is a mobile editing application that creates edits on a smartphone; Capture, which is a mobile application that allows users to preview and play back shots, control their GoPro cameras and share content on the fly using their smartphones; Karma, which is its compact and foldable drone and versatile stabilization solution that includes the Karma controller, and camera stabilizer, and it all fits in a custom backpack, and Karma Grip, which is a handheld, body-mountable camera stabilizer. The company also offers a full ecosystem of mountable, wearable and voice activated accessories."
+ceo,Mr. Nicholas Woodman
+sector,Technology
+country,US
+fullTimeEmployees,926
+phone,16503327600
+address,3000 Clearview Way
+city,San Mateo
+state,CALIFORNIA
+zip,94402
+dcfDiff,-6.18
+dcf,7.58734
+image,https://financialmodelingprep.com/image-stock/GPRO.png
+ipoDate,2014-06-26
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,MRKR
+price,1.3987
+beta,1.15853
+volAvg,187600
+mktCap,67172704
+lastDiv,0.0
+range,1.32-3.45
+changes,-0.0513
+companyName,Marker Therapeutics Inc
+currency,USD
+cik,0001094038
+isin,US57055L1070
+cusip,57055L107
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://markertherapeutics.com/
+description,"Marker Therapeutics, Inc. is a clinical-stage immuno-oncology company, which engages in the development and commercialization of novel cell-based immunotherapies and peptide-based vaccines for the treatment of hematological malignancies and solid tumor indications. The company is headquartered in Houston, Texas and currently employs 11 full-time employees. The firm specializes in the development of peptide and gene-based immunotherapeutics and vaccines for the treatment of cancer. The company is engaged in developing vaccines that target candidate breast cancers, colorectal cancers, ovarian cancers and non-small cell lung cancers. The company combines a set of licensed technologies, including peptide antigen technologies and deoxyribonucleic acid (DNA) expression technologies that improve the ability of the cellular immune system to recognize and destroy diseased cells. Its core technology platforms include TPIV 100/110, a vaccine for the treatment of Human Epidermal Growth Factor receptor 2 (HER2)/neu+ breast cancer that over-expresses HER2/neu; TPIV 200, a vaccine for treating breast and ovarian cancers that over-express Folate Receptor Alpha, and DNA expression vaccine technology (Polystart) for further treating various cancers or infectious disease."
+ceo,Mr. Peter L. Hoang MBA
+sector,Healthcare
+country,US
+fullTimeEmployees,28
+phone,17134006400
+address,3200 Southwest Fwy Ste 2240
+city,Houston
+state,TEXAS
+zip,77027
+dcfDiff,
+dcf,2.58298
+image,https://financialmodelingprep.com/image-stock/MRKR.png
+ipoDate,2016-11-08
+defaultImage,False

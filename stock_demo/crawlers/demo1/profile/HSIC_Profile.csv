@@ -1,0 +1,33 @@
+,0
+symbol,HSIC
+price,66.2
+beta,0.95894
+volAvg,1075107
+mktCap,9451770900
+lastDiv,0.0
+range,41.85-73.99
+changes,2.84
+companyName,Henry Schein Inc
+currency,USD
+cik,0001000228
+isin,US8064071025
+cusip,806407102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Distribution
+website,https://www.henryschein.com/
+description,"Henry Schein, Inc. engages in the provision of health care products and services to medical, dental, and veterinary office-based practitioners. The company is headquartered in Melville, New York and currently employs 18,000 full-time employees. The firm operates through two segments: healthcare distribution, and technology and value-added services. The healthcare distribution segment distributes consumable products, small equipment, laboratory products, large equipment, equipment repair services, branded and generic pharmaceuticals, vaccines, surgical products, diagnostic tests, infection-control products and vitamins. The technology and value-added services segment provides software, technology and other value-added services to healthcare practitioners. Its technology group offerings include practice management software systems for dental and medical practitioners. The firm provides its services to dental practitioners and laboratories, and physician practices, as well as government and institutional healthcare clinics."
+ceo,Mr. Stanley Bergman
+sector,Healthcare
+country,US
+fullTimeEmployees,19000
+phone,16318435500
+address,135 Duryea Rd
+city,Melville
+state,NEW YORK
+zip,11747
+dcfDiff,46.93
+dcf,64.3308
+image,https://financialmodelingprep.com/image-stock/HSIC.png
+ipoDate,1995-11-03
+defaultImage,False

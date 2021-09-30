@@ -1,0 +1,33 @@
+,0
+symbol,AGEN
+price,3.78
+beta,2.08
+volAvg,2555212
+mktCap,718763200
+lastDiv,0.0
+range,1.82-5.63
+changes,-0.26
+companyName,Agenus Inc
+currency,USD
+cik,0001098972
+isin,US00847G7051
+cusip,00847G705
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://agenusbio.com/
+description,"Agenus, Inc. is a clinical-stage immuno-oncology company, which engages in the development and commercialization of technologies to treat cancers and infectious diseases. The company is headquartered in Lexington, Massachusetts and currently employs 294 full-time employees. The firm focuses on the discovery and development of therapies that engage the body's immune system to fight cancer. The company is developing a I-O portfolio driven by platforms and programs, such as antibody discovery platforms, including Retrocyte Display, SECANT yeast display and phage display technologies designed to produce human antibodies; antibody candidate programs, including checkpoint modulator (CPM) programs; vaccine programs, including Prophage, AutoSynVax and PhosPhoSynVax, and saponin-based vaccine adjuvants, principally QS-21 Stimulon adjuvant (QS-21 Stimulon). The firm's discovery pipeline includes a range of checkpoint modulating (CPM) antibodies. The firm's vaccine platforms include its heat shock protein (HSP)-based Prophage vaccine candidates, and its synthetic vaccine candidates, ASV and PSV."
+ceo,DR. Garo Armen
+sector,Healthcare
+country,US
+fullTimeEmployees,328
+phone,17816744400
+address,3 Forbes Rd
+city,Lexington
+state,MASSACHUSETTS
+zip,02421
+dcfDiff,-619.94
+dcf,461.938
+image,https://financialmodelingprep.com/image-stock/AGEN.png
+ipoDate,2000-02-04
+defaultImage,False

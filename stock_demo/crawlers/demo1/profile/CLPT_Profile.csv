@@ -1,0 +1,33 @@
+,0
+symbol,CLPT
+price,8.0
+beta,0.98256
+volAvg,114010
+mktCap,127051200
+lastDiv,0.0
+range,2.86-8.91
+changes,0.07
+companyName,Clearpoint Neuro Inc
+currency,USD
+cik,0001285550
+isin,US18507C1036
+cusip,18507C103
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.clearpointneuro.com/
+description,"Clearpoint Neuro Inc, formerly MRI Interventions, Inc., MRI Interventions, Inc. is a medical device company. The Company develops and commercializes platforms for performing minimally invasive surgical procedures in the brain and heart under direct, intra-procedural magnetic resonance imaging (MRI) guidance. It has two product platforms: ClearPoint system, which is used to perform minimally invasive surgical procedures in the brain and ClearTrace system, which is under development, to be used to perform minimally invasive surgical procedures in the heart. Its ClearPoint system is a neuro-navigation system designed for placing catheters and electrodes to treat a range of neurological diseases and conditions and for performing biopsies. Its ClearTrace system is designed to deliver catheter-based therapies to treat certain cardiac diseases. Both systems utilize intra-procedural MRI to guide the procedures."
+ceo,Mr. Joseph Michael Burnett
+sector,Healthcare
+country,US
+fullTimeEmployees,33
+phone,19499006833
+address,5 Musick
+city,Irvine
+state,CALIFORNIA
+zip,92618
+dcfDiff,
+dcf,7.57296
+image,https://financialmodelingprep.com/image-stock/CLPT.jpg
+ipoDate,2019-07-03
+defaultImage,True

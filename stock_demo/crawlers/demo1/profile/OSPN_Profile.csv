@@ -1,0 +1,33 @@
+,0
+symbol,OSPN
+price,18.82
+beta,0.91903
+volAvg,436292
+mktCap,764731840
+lastDiv,0.0
+range,10.88-33.33
+changes,-0.23
+companyName,OneSpan Inc
+currency,USD
+cik,0001044777
+isin,US68287N1000
+cusip,68287N100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.onespan.com
+description,"OneSpan, Inc. engages in the design, development, and marketing of security solutions for identity, security, and business productivity that protect and facilitate transactions online, via mobile devices, and in-person. The company is headquartered in Chicago, Illinois and currently employs 732 full-time employees. The firm provides anti-fraud and digital transaction management solutions to financial institutions and other businesses. Its solutions secure access to data, assets, and applications for global enterprises; provide tools for application developers to easily integrate security functions into their Web-based and mobile applications, and facilitate digital transactions involving the signing, sending, and managing of documents. The company also provides tools for application developers to integrate security functions into their Web-based and mobile applications. The company facilitates digital transactions involving the signing, sending and managing of documents. Its security solutions include both open standards-based and solutions."
+ceo,Mr. Scott Clements
+sector,Technology
+country,US
+fullTimeEmployees,744
+phone,13127664001
+address,121 W Wacker Dr Ste 2050
+city,Chicago
+state,ILLINOIS
+zip,60601
+dcfDiff,
+dcf,26.4399
+image,https://financialmodelingprep.com/image-stock/OSPN.png
+ipoDate,1998-03-20
+defaultImage,False

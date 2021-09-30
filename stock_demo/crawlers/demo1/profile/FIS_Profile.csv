@@ -1,0 +1,33 @@
+,0
+symbol,FIS
+price,143.7
+beta,0.70135
+volAvg,3112096
+mktCap,89167143000
+lastDiv,1.4
+range,91.68-158.21
+changes,1.53
+companyName,Fidelity National Information Services Inc
+currency,USD
+cik,0001136893
+isin,US31620M1062
+cusip,31620M106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.fisglobal.com/
+description,"Fidelity National Information Services, Inc. engages in the business of technology, solutions and services for merchants, banks and capital markets businesses. The company is headquartered in Jacksonville, Florida and currently employs 47,000 full-time employees. The firm operates through three segments: Integrated Financial Solutions (IFS), Global Financial Solutions (GFS), and Corporate and Other. The IFS segment is focused on serving the North American clients for transaction and account processing, channel solutions, digital channels, risk and compliance solutions, and services. The GFS segment is focused on serving the financial institutions and international financial institutions with a range of capital markets and asset management and insurance solutions, as well as banking and payments solutions and consulting and transformation services. Its Corporate and Other segments include Global Commercial Services. Through its subsidiary, Worldpay, Inc., it provides enterprise banking, payments, capital markets and e-commerce capabilities to financial institutions and businesses."
+ceo,Mr. Gary Norcross
+sector,Technology
+country,US
+fullTimeEmployees,55000
+phone,19044386365
+address,601 Riverside Ave
+city,Jacksonville
+state,FLORIDA
+zip,32204
+dcfDiff,
+dcf,143.964
+image,https://financialmodelingprep.com/image-stock/FIS.png
+ipoDate,2001-06-20
+defaultImage,False

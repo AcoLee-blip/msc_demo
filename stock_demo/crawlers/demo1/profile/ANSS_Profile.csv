@@ -1,0 +1,33 @@
+,0
+symbol,ANSS
+price,323.64
+beta,1.24402
+volAvg,419255
+mktCap,27795529700
+lastDiv,0.0
+range,200.07-357.93
+changes,-5.32
+companyName,ANSYS Inc
+currency,USD
+cik,0001013462
+isin,US03662Q1058
+cusip,03662Q105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.ansys.com/
+description,"ANSYS, Inc. engages in the development and marketing of engineering simulation software and services. The company is headquartered in Canonsburg, Pennsylvania and currently employs 3,400 full-time employees. The firm focuses on the development of open and flexible solutions that enable users to analyze designs directly on the desktop, providing a common platform for product development, from design concept to final-stage testing and validation. The firm distributes its ANSYS suite of simulation technologies through a network of independent resellers and distributors, and direct sales offices in various locations. Its product portfolio consists of Simulation Platform: ANSYS Workbench, Structures, Fluids, Electronics, Semiconductors, Multiphysics, AIM, Embedded Software, Systems, Three Dimensional (3-D) Direct Modeling and Academic."
+ceo,Dr. Ajei Gopal
+sector,Technology
+country,US
+fullTimeEmployees,4100
+phone,18444626797
+address,2600 Ansys Dr
+city,Canonsburg
+state,PENNSYLVANIA
+zip,15317
+dcfDiff,
+dcf,338.009
+image,https://financialmodelingprep.com/image-stock/ANSS.png
+ipoDate,1996-06-20
+defaultImage,False

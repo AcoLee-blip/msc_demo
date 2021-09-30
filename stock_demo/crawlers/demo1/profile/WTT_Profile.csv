@@ -1,0 +1,33 @@
+,0
+symbol,WTT
+price,1.48
+beta,0.69667
+volAvg,22783
+mktCap,32038448
+lastDiv,0.0
+range,0.71-1.69
+changes,0.02
+companyName,Wireless Telecom Group Inc
+currency,USD
+cik,0000878828
+isin,US9765241081
+cusip,976524108
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Communication Equipment
+website,https://wirelesstelecomgroup.com/
+description,"Wireless Telecom Group, Inc. engages in the design and manufacture of radio frequency and microwave components, modules, systems, and instruments. The company is headquartered in Parsippany, New Jersey and currently employs 156 full-time employees. The firm markets its products and services under various brands including Boonton, Microlab, Noisecom and CommAgility. The company serves the customers in various industries, such as wireless, telecommunication, satellite, military, aerospace, semiconductor and medical. Its products include peak power meters, signal analyzers, signal processing modules, long term evolution (LTE) physical layer (PHY) and stack software, power splitters and combiners, global positioning system (GPS) repeaters, public safety monitors, noise sources, and programmable noise generators. The firm operates through three segments: network solutions, test and measurement and embedded solutions. The Company’s subsidiaries include Boonton Electronics Corporation, Microlab/FXR, Wireless Telecommunications Ltd and CommAgility Limited."
+ceo,Mr. Timothy Whelan
+sector,Technology
+country,US
+fullTimeEmployees,154
+phone,19733869696
+address,25 Eastmans Rd
+city,Parsippany
+state,NEW JERSEY
+zip,07054
+dcfDiff,-1.45
+dcf,1.59108
+image,https://financialmodelingprep.com/image-stock/WTT.png
+ipoDate,1991-10-21
+defaultImage,False

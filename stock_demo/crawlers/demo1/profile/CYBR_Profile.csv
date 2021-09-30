@@ -1,0 +1,33 @@
+,0
+symbol,CYBR
+price,103.71
+beta,1.28458
+volAvg,399789
+mktCap,4016833540
+lastDiv,0.0
+range,69.505-144.9
+changes,-0.04
+companyName,Cyberark Software Ltd
+currency,USD
+cik,0001598110
+isin,IL0011334468
+cusip,M2682V108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,http://www.cyberark.com
+description,"CyberArk Software Ltd. engages in the development, marketing, and sale of access security software solutions. The firm's software solutions are focused on protecting privileged accounts, which have become a critical target in the lifecycle of cyber-attacks. The firm's Privileged Account Security Solution consists of various products, such as Shares Technology Platform, Enterprise Password Vault, SSH Key Manager, Privileged Session Manager, Privileged Threat Analytics, Application Identity Manager, CyberArk-Conjur, Endpoint Privilege Manager and On-Demand Privileges Manager. The firm's products provide protection against external and internal cyber threats and enables detection and neutralization of attacks. The firm's Enterprise Password Vault provides customers with a tool to manage and protect all privileged accounts across an entire organization, including physical, virtual or cloud-based assets."
+ceo,Mr. Ehud Mokady
+sector,Technology
+country,IL
+fullTimeEmployees,1380
+phone,97239180000
+address,"9 Hapsagot St. Park Ofer 2, P.O. Box 3143"
+city,Petah Tikva
+state,
+zip,4951040
+dcfDiff,
+dcf,121.564
+image,https://financialmodelingprep.com/image-stock/CYBR.png
+ipoDate,2014-09-24
+defaultImage,False

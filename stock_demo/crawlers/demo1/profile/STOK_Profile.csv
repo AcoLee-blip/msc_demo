@@ -1,0 +1,33 @@
+,0
+symbol,STOK
+price,45.2
+beta,0.0
+volAvg,88590
+mktCap,1502497790
+lastDiv,0.0
+range,15.82-48.99
+changes,1.04
+companyName,Stoke Therapeutics Inc
+currency,USD
+cik,0001623526
+isin,US86150R1077
+cusip,86150R107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.stoketherapeutics.com/
+description,"Stoke Therapeutics, Inc. is a biotechnology company, which engages in the research and development of treatments for genetic diseases. The company is headquartered in Bedford, Massachusetts and currently employs 44 full-time employees. The firm develops antisense oligonucleotide medicines that target ribo-nucleic acid (RNA) splicing to increase gene expression for the treatment of severe genetic diseases. The company uses targeted augmentation of nuclear gene output (TANGO) to effect targeted enhancement of gene expression. The company provides TANGO, which is a precision medicine platform for treating a category of genetic diseases, such as autosomal dominant haploinsufficiency. TANGO is designed to address protein deficiency by upregulating target protein expression."
+ceo,Dr. Edward Kaye
+sector,Healthcare
+country,US
+fullTimeEmployees,44
+phone,17814308200
+address,3 Preston Ct
+city,Bedford
+state,MASSACHUSETTS
+zip,01730
+dcfDiff,
+dcf,50.3491
+image,https://financialmodelingprep.com/image-stock/STOK.png
+ipoDate,2019-06-19
+defaultImage,False

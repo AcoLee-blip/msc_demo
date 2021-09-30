@@ -1,0 +1,33 @@
+,0
+symbol,CTXS
+price,115.38
+beta,0.16278
+volAvg,1416301
+mktCap,14206047200
+lastDiv,1.4
+range,100.31-173.56
+changes,0.48
+companyName,Citrix Systems Inc
+currency,USD
+cik,0000877890
+isin,US1773761002
+cusip,177376100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.citrix.com/
+description,"Citrix Systems, Inc. engages in the design, development, and marketing of information technology solutions. The company is headquartered in Fort Lauderdale, Florida and currently employs 8,200 full-time employees. The firm's Enterprise and Service Provider products include Cloud Services solutions, and related license updates and maintenance, support and professional services. The firm's NetScaler nCore Technology is an architecture that enables execution of multiple packet engines in parallel. The firm's workspace services include Application Virtualization and virtual desktop infrastructure (VDI), Enterprise Mobility Management and Citrix Workspace Suite. The firm's NetScaler ADC is a software-defined application delivery controller (ADC) and load balancer. The firm's Cloud Services include ShareFile and Citrix Cloud. The company provides various ways for customers to receive upgrades, support and maintenance for products, which include Software Maintenance, Subscription Advantage, Technical Support Services and Hardware Maintenance."
+ceo,Mr. David Henshall
+sector,Technology
+country,US
+fullTimeEmployees,8400
+phone,19542673000
+address,851 W Cypress Creek Rd
+city,Fort Lauderdale
+state,FLORIDA
+zip,33309
+dcfDiff,-40.26
+dcf,140.388
+image,https://financialmodelingprep.com/image-stock/CTXS.png
+ipoDate,1995-12-01
+defaultImage,False

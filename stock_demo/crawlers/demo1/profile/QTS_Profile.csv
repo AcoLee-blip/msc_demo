@@ -1,0 +1,33 @@
+,0
+symbol,QTS
+price,63.405
+beta,0.60579
+volAvg,586015
+mktCap,4085532670
+lastDiv,1.8499999999999999
+range,42.64-72.6
+changes,0.595
+companyName,QTS Realty Trust Inc
+currency,USD
+cik,0001577368
+isin,US74736A1034
+cusip,74736A103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Industrial
+website,https://www.qtsdatacenters.com/
+description,"QTS Realty Trust, Inc. engages in the investments in multiple data centers solutions. The company is headquartered in Overland Park, Kansas and currently employs 606 full-time employees. The firm owns, develops and operates carrier-neutral and multi-tenant data centers. Its data centers are facilities that house the network and computer equipment of multiple customers and provide access to a range of communications carriers. The firm has an integrated platform through which it owns and operates its data centers and provides a range of information technology (IT) infrastructure solutions. Its spectrum of core data center products is referred to as 3Cs, which consists of Custom Data Center (C1), Colocation (C2), and Cloud and Managed Services (C3). Its 3C integrated technology platform provides information technology solutions for Web and information technology applications. Its data centers facilities are used by its customers to house, power and cool the networking equipment and computer systems that support their business processes."
+ceo,Mr. Chad Williams
+sector,Real Estate
+country,US
+fullTimeEmployees,612
+phone,19138149988
+address,12851 Foster St Ste 205
+city,Overland Park
+state,KANSAS
+zip,66213
+dcfDiff,230.96
+dcf,66.8754
+image,https://financialmodelingprep.com/image-stock/QTS.png
+ipoDate,2013-10-09
+defaultImage,False

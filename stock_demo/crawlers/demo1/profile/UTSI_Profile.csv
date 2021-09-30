@@ -1,0 +1,33 @@
+,0
+symbol,UTSI
+price,0.9172
+beta,1.29864
+volAvg,813004
+mktCap,32951054
+lastDiv,0.0
+range,0.82-3.05
+changes,-0.0028
+companyName,UTStarcom Holdings Corp
+currency,USD
+cik,0001030471
+isin,KYG9310A1141
+cusip,G9310A114
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.utstar.com
+description,"UTStarcom Holdings Corp. is a telecom infrastructure company, which develops technology for cloud-based services, mobile, streaming, and other applications. The company employs 461 full-time employees The firm delivers broadband transport and access (both wireless fidelity (Wi-Fi) and fixed line) products and solutions, optimized for mobile backhaul, metro aggregation, broadband access and Wi-Fi data offloading. Its segments include Equipment, which is focused on its equipment sales, including network infrastructure and application products, and Services, which is engaged in providing services and support of its equipment products and also the new operational support segment. The broadband product lines include family of packet transport network (PTN) products based on multi-protocol label switch transport profile (MPLS-TP) and carrier Ethernet (CE) technologies enhanced through in-house software-defined networking (SDN) platform to support the network evolution, and multi services access network (MSAN) platform. Wireless broadband access is represented by end-to-end Carrier Wi-Fi solution."
+ceo,Dr. Zhaochen Huang
+sector,Technology
+country,HK
+fullTimeEmployees,478
+phone,85239519757
+address,"6Th Floor, 28 Hennessy Road, Admiralty"
+city,
+state,
+zip,310053
+dcfDiff,
+dcf,2.91827
+image,https://financialmodelingprep.com/image-stock/UTSI.png
+ipoDate,2000-03-03
+defaultImage,False

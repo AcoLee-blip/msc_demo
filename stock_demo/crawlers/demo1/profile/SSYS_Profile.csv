@@ -1,0 +1,33 @@
+,0
+symbol,SSYS
+price,13.92
+beta,1.67658
+volAvg,879209
+mktCap,767159040
+lastDiv,0.0
+range,11.89-22.21
+changes,-0.23
+companyName,Stratasys Ltd
+currency,USD
+cik,0001517396
+isin,IL0011267213
+cusip,M85548101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,http://www.stratasys.com
+description,"Stratasys Ltd. engages in the provision of applied additive technology solutions for industries including aerospace, automotive, healthcare, consumer products and education. The company is headquartered in Eden Prairie, Minnesota and currently employs 2,400 full-time employees. The firm's solutions include products ranging from entry-level desktop 3D printers to systems for rapid prototyping (RP) and production systems for direct digital manufacturing (DDM). As of December 31, 2016, it offered 3D printing consumable materials, consisting of 15 fused deposition modeling (FDM), cartridge-based materials, 26 PolyJet cartridge-based materials, five smooth curvature printing (SCP) inkjet-based materials, 158 non-color digital materials, and over 1,500 color variations, as well as its four SolidScape non-toxic thermoplastic modeling materials. The firm's products and services are used in various industries, including aerospace, automotive, consumer electronics, consumer goods, education, dental, jewelry and others."
+ceo,Dr. Yoav Zeif
+sector,Technology
+country,US
+fullTimeEmployees,2268
+phone,19529373000
+address,7665 Commerce Way
+city,Eden Prairie
+state,MINNESOTA
+zip,
+dcfDiff,
+dcf,22.1846
+image,https://financialmodelingprep.com/image-stock/SSYS.png
+ipoDate,2012-12-03
+defaultImage,False

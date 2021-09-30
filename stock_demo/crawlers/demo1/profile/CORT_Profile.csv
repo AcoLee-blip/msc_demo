@@ -1,0 +1,33 @@
+,0
+symbol,CORT
+price,18.32
+beta,0.77579
+volAvg,2765529
+mktCap,2128289280
+lastDiv,0.0
+range,9.7-23.48
+changes,-0.67
+companyName,Corcept Therapeutics Inc
+currency,USD
+cik,0001088856
+isin,US2183521028
+cusip,218352102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.corcept.com/
+description,"Corcept Therapeutics, Inc. is a commercial-stage pharmaceutical company, which engages in the discovery, development and commercialization of medications to treat severe metabolic, oncologic and psychiatric disorders. The company is headquartered in Menlo Park, California and currently employs 166 full-time employees. The firm is developing mifepristone, a compound that modulates the effects of cortisol by acting as a competitive antagonist at the glucocorticoid receptor (GR). As of December 31, 2016, it had discovered three structurally distinct series of selective cortisol modulators, all of which share mifepristone's affinity for GR but, unlike mifepristone, do not bind to the progesterone receptor. The company is conducting two clinical trials of its selective cortisol modulator, CORT125134. One trial is investigating CORT125134 as a treatment for patients with Cushing syndrome. The second trial is investigating the combination of CORT125134 and nab-paclitaxel (Celgene Corporation's Abraxane) to treat patients with solid-tumor cancers."
+ceo,Dr. Joseph Belanoff
+sector,Healthcare
+country,US
+fullTimeEmployees,206
+phone,16503273270
+address,149 Commonwealth Dr
+city,Menlo Park
+state,CALIFORNIA
+zip,94025
+dcfDiff,
+dcf,17.6951
+image,https://financialmodelingprep.com/image-stock/CORT.png
+ipoDate,2004-04-15
+defaultImage,False

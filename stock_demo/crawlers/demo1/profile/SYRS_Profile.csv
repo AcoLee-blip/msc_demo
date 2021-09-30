@@ -1,0 +1,33 @@
+,0
+symbol,SYRS
+price,8.9
+beta,1.81154
+volAvg,492640
+mktCap,407715200
+lastDiv,0.0
+range,4.26-14.69
+changes,0.13
+companyName,Syros Pharmaceuticals Inc
+currency,USD
+cik,0001556263
+isin,US87184Q1076
+cusip,87184Q107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://syros.com/
+description,"Syros Pharmaceuticals, Inc. engages in the development of gene control therapies for cancer and diseases. The company is headquartered in Cambridge, Massachusetts and currently employs 76 full-time employees. The firm offers a gene control platform designed to analyze the unexploited region of deoxyribonucleic acid (DNA) in human disease tissue to identify and drug targets linked to genomically defined patient populations. The firm is focused on developing treatments for cancer and immune-mediated diseases and is building a pipeline of gene control medicines. The firm's drug programs include SY-1425 (retinoic acid receptor alpha (RARa) agonist) and SY-1365 (cyclin-dependent kinase 7 (CDK7) inhibitor). SY-1425 (tamibarotene) is an oral, potent and selective agonist, or activator, of the transcription factor RARa. SY-1365 is a small molecule inhibitor of the transcriptional kinase known as CDK7. The firm is using its platform to analyze gene expression programs across additional cancers, solid tumors, inflammatory diseases and other diseases to find optimal points of therapeutic intervention in patients."
+ceo,Dr. Nancy Simonian
+sector,Healthcare
+country,US
+fullTimeEmployees,83
+phone,16177441340
+address,35 CAMBRIDGE PARK DRIVE
+city,Cambridge
+state,MASSACHUSETTS
+zip,02140
+dcfDiff,-7.0
+dcf,8.2403
+image,https://financialmodelingprep.com/image-stock/SYRS.png
+ipoDate,2016-06-30
+defaultImage,False

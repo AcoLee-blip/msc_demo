@@ -1,0 +1,33 @@
+,0
+symbol,IEX
+price,192.88
+beta,1.05817
+volAvg,416056
+mktCap,14602135600
+lastDiv,2.0
+range,104.56-197.5
+changes,3.84
+companyName,IDEX Corp
+currency,USD
+cik,0000832101
+isin,US45167R1041
+cusip,45167R104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,http://www.idexcorp.com
+description,"IDEX Corp. engages in the provision of engineering solutions. The company is headquartered in Lake Forest, Illinois and currently employs 7,352 full-time employees. The firm operates through three segments: Fluid & Metering Technologies (FMT), Health & Science Technologies (HST) and Fire & Safety/Diversified Products (FSDP). Its FMT segment provides flow monitoring and other services for the food, chemical, water and wastewater, agricultural and energy industries. The HST segment designs and distributes precision fluidics, rotary lobe pumps, roll compaction and drying systems. Its FSDP segment produces firefighting pumps and controls, rescue tools, lifting bags and other components and systems; engineered stainless steel banding and clamping devices, and precision equipment. Its Fire & Safety platform provides Hurst Jaws of Life, which manufactures the rescue tools. The company provides Band-IT platform, which designs and manufactures engineered fastening solutions."
+ceo,Mr. Andrew Silvernail
+sector,Industrials
+country,US
+fullTimeEmployees,7439
+phone,18474987070
+address,"1925 W Field Ct, Suite 200"
+city,Lake Forest
+state,ILLINOIS
+zip,60045-4824
+dcfDiff,-85.32
+dcf,198.724
+image,https://financialmodelingprep.com/image-stock/IEX.png
+ipoDate,1989-06-02
+defaultImage,False

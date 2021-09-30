@@ -1,0 +1,33 @@
+,0
+symbol,TALO
+price,7.47
+beta,0.0
+volAvg,649793
+mktCap,545534080
+lastDiv,0.0
+range,5.0-31.34
+changes,0.4
+companyName,Talos Energy Inc
+currency,USD
+cik,0001724965
+isin,US87484T1088
+cusip,87484T108
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Oil & Gas E&P
+website,http://www.talosenergy.com
+description,"Talos Energy, Inc. operates as a holding company. The company is headquartered in Houston, Texas and currently employs 374 full-time employees. The firm leverages geology, geophysics and offshore operations towards the acquisition, exploration, exploitation and development of assets in geological trends that are present in many offshore basins around the world. The Company’s activities in offshore Mexico provides exploration opportunities in an oil basin. The Company’s focus in the United States Gulf of Mexico is the acquisition of deep-water assets with existing infrastructure and the exploration, exploitation and development of such assets."
+ceo,Mr. Timothy Duncan
+sector,Energy
+country,US
+fullTimeEmployees,440
+phone,17133283000
+address,333 Clay St Ste 3300
+city,Houston
+state,TEXAS
+zip,77002
+dcfDiff,
+dcf,8.26929
+image,https://financialmodelingprep.com/image-stock/TALO.jpg
+ipoDate,2018-05-10
+defaultImage,True

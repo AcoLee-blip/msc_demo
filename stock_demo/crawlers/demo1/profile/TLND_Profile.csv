@@ -1,0 +1,33 @@
+,0
+symbol,TLND
+price,41.45
+beta,0.93259
+volAvg,224240
+mktCap,1316588800
+lastDiv,0.0
+range,18.3-46.8
+changes,0.52
+companyName,Talend SA
+currency,USD
+cik,0001668105
+isin,US8742242071
+cusip,874224207
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://fr.talend.com/
+description,"Talend SA engages in the provision of data and cloud integration solutions. The company is headquartered in Suresnes, Ile-De-France and currently employs 1,240 full-time employees. The firm's platform enables users to connect data and applications on-premise or in the cloud, in real time or in batch, Big Data or reference data. Its commercial products are Data Fabric, Big Data Integration, Real-Time Big Data, Data Preparation, Data Integration, Cloud Integration, Data Quality, Application Integration, Master Data Management and metadata Manager. Its free products are Data Preparation and Talend Open Studio, including Open Studio for Big Data, Open Studio for Data Integration, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM. Its product, Talend Data Fabric, is a data platform. Talend Data Fabric combines big data, data integration, cloud, reference data management, data preparation and application integration in a single platform with a common development environment and management."
+ceo,Ms. Christal Bemont
+sector,Technology
+country,FR
+fullTimeEmployees,1238
+phone,33146250600
+address,9 rue Pages
+city,Suresnes
+state,ILE-DE-FRANCE
+zip,92150
+dcfDiff,-2729.86
+dcf,44.5038
+image,https://financialmodelingprep.com/image-stock/TLND.png
+ipoDate,2016-07-29
+defaultImage,False

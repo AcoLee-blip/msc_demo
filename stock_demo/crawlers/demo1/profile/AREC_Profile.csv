@@ -1,0 +1,33 @@
+,0
+symbol,AREC
+price,1.3
+beta,-22.919046
+volAvg,3102483
+mktCap,46283120
+lastDiv,0.0
+range,0.32-4.93
+changes,0.01
+companyName,American Resources Corp
+currency,USD
+cik,0001590715
+isin,US02927U2087
+cusip,02927U208
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Thermal Coal
+website,http://www.americanresourcescorp.com/
+description,"American Resources Corp. (Indiana) engages in the extraction, processing, transportation, and distribution of metallurgical coal to the steel industry. The company is headquartered in Fishers, Indiana and currently employs 147 full-time employees. The firm is involved in constructing conversion factories to convert NG to liquefied natural gas (LNG) and compressed natural gas (CNG), and constructing conversion factories to retrofit vehicles using gasoline or diesel fuel to also run on NG in the United States. The Company, through its subsidiary, Quest Energy Inc. (Quest Energy), is engaged in energy services, including mining, processing and logistics, with a primary focus on traditional energy sources such as coal and oil and gas. Quest Energy has four coal mining and processing operating subsidiaries: McCoy Elkhorn Coal LLC (doing business as McCoy Elkhorn Coal Company) (McCoy Elkhorn), Knott County Coal LLC (Knott County Coal), Deane Mining LLC (Deane Mining) and Quest Processing LLC (Quest Processing)."
+ceo,Mr. Mark Jensen
+sector,Energy
+country,US
+fullTimeEmployees,11
+phone,16066373740
+address,9002 Technology Ln
+city,Fishers
+state,INDIANA
+zip,46038
+dcfDiff,
+dcf,1.58014
+image,https://financialmodelingprep.com/image-stock/AREC.png
+ipoDate,2015-08-03
+defaultImage,False

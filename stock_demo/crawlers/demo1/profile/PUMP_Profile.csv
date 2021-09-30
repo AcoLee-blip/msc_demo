@@ -1,0 +1,33 @@
+,0
+symbol,PUMP
+price,4.86
+beta,3.3395
+volAvg,1333756
+mktCap,490437184
+lastDiv,0.0
+range,1.36-12.115
+changes,0.06
+companyName,ProPetro Holding Corp
+currency,USD
+cik,0001680247
+isin,US74347M1080
+cusip,74347M108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,https://www.propetroservices.com/
+description,"ProPetro Holding Corp. is an oilfield services company, which engages in the provision of hydraulic fracturing and other complementary services. The company is headquartered in Midland, Texas and currently employs 1,579 full-time employees. The firm provides hydraulic fracturing and other complementary services to upstream oil and gas companies, which are engaged in the exploration and production (E&P) of North American unconventional oil and natural gas resources. The firm operates through seven segments: hydraulic fracturing, cementing, acidizing, coil tubing, flowback, surface drilling and Permian drilling. Its pressure pumping segment includes cementing and acidizing operations. The firm's operations are focused in the Permian Basin. As of December 31, 2016, the Company's fleet consisted of 10 hydraulic fracturing units with an aggregate of 420,000 hydraulic horsepower (HHP)."
+ceo,Mr. Phillip Gobe
+sector,Energy
+country,US
+fullTimeEmployees,2200
+phone,14326880012
+address,1706 S Midkiff Rd Ste B
+city,Midland
+state,TEXAS
+zip,79701
+dcfDiff,
+dcf,5.58649
+image,https://financialmodelingprep.com/image-stock/PUMP.png
+ipoDate,2017-03-17
+defaultImage,False

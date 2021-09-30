@@ -1,0 +1,33 @@
+,0
+symbol,MDLA
+price,30.69
+beta,0.0
+volAvg,1864187
+mktCap,4513977300
+lastDiv,0.0
+range,16.04-40.2
+changes,0.6
+companyName,Medallia Inc
+currency,USD
+cik,0001540184
+isin,US5840211099
+cusip,584021109
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.medallia.com/
+description,"Medallia, Inc. provides customer experience management software. The company is headquartered in San Francisco, California and currently employs 1,258 full-time employees. The Company’s platform, the Medallia Experience Cloud, captures experience data and expanding signal fields emitted by customers and employees on their daily journeys. The firm offers a range of products CX, BX, EX and PX. The firm utilizes its proprietary artificial intelligence (AI) technology to analyze structured and unstructured data from these signal fields across human, digital and Internet of things, (IoT) interactions at great scale to derive personalized and predictive insights that drive action with tremendous business results. Its technology reduces churn, turn detractors into promoters and buyers, and create in-the-moment cross-sell and up-sell opportunities, providing clear and potent returns on investment. Through its subsidiary, Zingle, Inc., the Company provides real-time customer engagement solution for hospitality, travel and retail verticals."
+ceo,Mr. Leslie Stretch
+sector,Technology
+country,US
+fullTimeEmployees,1579
+phone,16503213000
+address,575 Market St Ste 1850
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,
+dcf,32.7845
+image,https://financialmodelingprep.com/image-stock/MDLA.png
+ipoDate,2019-07-19
+defaultImage,False

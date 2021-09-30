@@ -1,0 +1,33 @@
+,0
+symbol,ON
+price,27.885
+beta,2.17669
+volAvg,6717696
+mktCap,11466981400
+lastDiv,0.0
+range,8.17-28.8
+changes,0.405
+companyName,ON Semiconductor Corp
+currency,USD
+cik,0001097864
+isin,US6821891057
+cusip,682189105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.onsemi.com
+description,"ON Semiconductor Corp. engages in the design, manufacture, and marketing of portfolio of semiconductor components. The company is headquartered in Phoenix, Arizona and currently employs 35,700 full-time employees. The firm's segments include Power Solutions Group, Analog Solutions Group and Image Sensor Group. The Power Solutions Group offers a range of discrete, module and integrated semiconductor products. The Analog Solutions Group designs and develops analog, mixed-signal and logic application specific integrated circuits (ASICs) and application specific standard products (ASSPs), and power solutions. The Image Sensor Group designs and develops complementary metal oxide semiconductor (CMOS) and charge-coupled device (CCD) image sensors, as well as proximity sensors, image signal processors, and actuator drivers for autofocus and image stabilization for various end users in the automotive, industrial, consumer, wireless, medical, and aerospace/defense markets."
+ceo,Mr. Keith Jackson
+sector,Technology
+country,US
+fullTimeEmployees,34800
+phone,16022446600
+address,5005 E McDowell Rd
+city,Phoenix
+state,ARIZONA
+zip,85008
+dcfDiff,8.99
+dcf,27.6795
+image,https://financialmodelingprep.com/image-stock/ON.png
+ipoDate,2012-11-16
+defaultImage,False

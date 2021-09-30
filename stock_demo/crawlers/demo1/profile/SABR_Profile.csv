@@ -1,0 +1,33 @@
+,0
+symbol,SABR
+price,9.505
+beta,1.71249
+volAvg,10038598
+mktCap,3015641860
+lastDiv,2.0314
+range,3.3-23.25
+changes,0.775
+companyName,Sabre Corp
+currency,USD
+cik,0001597033
+isin,US78573M1045
+cusip,78573M104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,http://www.sabre.com
+description,"Sabre Corp. is a technology solutions provider to the global travel and tourism industry. The company is headquartered in Southlake, Texas and currently employs 8,860 full-time employees. The firm provides software and services to a range of travel suppliers and travel buyers. The firm operates through two business segments: Travel Network, and Airline and Hospitality Solutions. Travel Network is its global business-to-business travel marketplace and consists primarily of its global distribution system (GDS) and a set of solutions that integrate with its GDS to serve travel suppliers and travel buyers. Its Airline and Hospitality Solutions business offers a portfolio of software technology products and solutions, through software-as-a-service (SaaS) and hosted delivery model, to airlines, hoteliers and other travel suppliers. The firm connects travel suppliers, including airlines, hotels, car rental brands, rail carriers, cruise lines and tour operators, with travel buyers in a travel marketplace."
+ceo,Mr. Sean Menke
+sector,Technology
+country,US
+fullTimeEmployees,9250
+phone,16826051000
+address,3150 Sabre Dr
+city,Southlake
+state,TEXAS
+zip,76092
+dcfDiff,102.46
+dcf,8.22911
+image,https://financialmodelingprep.com/image-stock/SABR.png
+ipoDate,2014-04-17
+defaultImage,False

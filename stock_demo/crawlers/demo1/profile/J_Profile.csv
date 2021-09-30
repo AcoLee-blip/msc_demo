@@ -1,0 +1,33 @@
+,0
+symbol,J
+price,101.96
+beta,0.9032
+volAvg,736604
+mktCap,13276007400
+lastDiv,0.76
+range,59.29-106.5
+changes,2.7
+companyName,Jacobs Engineering Group Inc
+currency,USD
+cik,0000052988
+isin,US4698141078
+cusip,469814107
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Engineering & Construction
+website,https://www.jacobs.com/
+description,"Jacobs Engineering Group, Inc. engages in the provision of a diverse range of technical, professional, and construction services to industrial, commercial, and governmental clients. The company is headquartered in Dallas, Texas and currently employs 48,000 full-time employees. The Company’s services include engineering, design, and architectural services; construction and construction management services; operations and maintenance services; and process, scientific, and systems consulting services. Its segments include Aerospace, Technology and Nuclear (ATN) and Buildings, Infrastructure and Advanced Facilities (BIAF). The ATN segment provide a range of scientific, engineering, construction, nuclear and technical support services to the aerospace, defense, technical and automotive industries in several countries. BIAF segment provides services to broad sectors, including buildings; water; transportation, such as roads, rail, aviation and ports; environmental and advanced facilities for life sciences, semiconductors, data centers, consumer products and other manufacturing operations."
+ceo,Mr. Steven Demetriou
+sector,Industrials
+country,US
+fullTimeEmployees,48000
+phone,12145838500
+address,1999 Bryan St Ste 1200
+city,Dallas
+state,TEXAS
+zip,75201
+dcfDiff,
+dcf,102.193
+image,https://financialmodelingprep.com/image-stock/J.jpg
+ipoDate,1989-12-15
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,HYRE
+price,5.8
+beta,0.0
+volAvg,193138
+mktCap,102614760
+lastDiv,0.0
+range,0.88-6.0
+changes,0.07
+companyName,HyreCar Inc
+currency,USD
+cik,0001713832
+isin,US44916T1079
+cusip,44916T107
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Rental & Leasing Services
+website,https://www.hyrecar.com/
+description,"HyreCar, Inc. engages in the operation of a peer-to-peer car-sharing marketplace. The company is headquartered in Los Angeles, California and currently employs 26 full-time employees. The platform allows owners and drivers to enroll, facilitate matching, log rental activity, and background checks."
+ceo,Mr. Joseph Furnar
+sector,Industrials
+country,US
+fullTimeEmployees,86
+phone,18886886769
+address,355 S Grand Ave Ste 1650
+city,Los Angeles
+state,CALIFORNIA
+zip,90071
+dcfDiff,
+dcf,4.74358
+image,https://financialmodelingprep.com/image-stock/HYRE.png
+ipoDate,2018-06-27
+defaultImage,False

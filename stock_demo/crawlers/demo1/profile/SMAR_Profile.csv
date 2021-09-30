@@ -1,0 +1,33 @@
+,0
+symbol,SMAR
+price,51.97
+beta,0.0
+volAvg,1587027
+mktCap,6268101600
+lastDiv,0.0
+range,30.91-60.8
+changes,-1.72
+companyName,Smartsheet Inc
+currency,USD
+cik,0001366561
+isin,US83200N1037
+cusip,83200N103
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.smartsheet.com/
+description,"Smartsheet, Inc. engages in the design and development of cloud-based platform for work management. The company is headquartered in Bellevue, Washington and currently employs 1,088 full-time employees. The firm provides cloud -application for project management and collaboration. Its work management tools enable to track and organize work, use a template, share with collaborators, set alerts and reminders, track discussions, view change history, create summary reports, customer information, sales pipelines, event schedules, and business processes. The firm's products include smartdashboards, smartportals, smartcards, smartgrids, smartprojects, smartcalendars, smartforms, smartautomation, smartintegrations, and connectors."
+ceo,Mr. Mark Mader
+sector,Technology
+country,US
+fullTimeEmployees,1588
+phone,18554202395
+address,10500 NE 8th St Ste 1300
+city,Bellevue
+state,WASHINGTON
+zip,98004
+dcfDiff,
+dcf,60.8761
+image,https://financialmodelingprep.com/image-stock/SMAR.png
+ipoDate,2018-04-27
+defaultImage,False

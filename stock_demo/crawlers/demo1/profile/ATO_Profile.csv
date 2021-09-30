@@ -1,0 +1,33 @@
+,0
+symbol,ATO
+price,98.72
+beta,0.26944
+volAvg,881784
+mktCap,12177605600
+lastDiv,2.3
+range,77.92-121.08
+changes,-2.02
+companyName,Atmos Energy Corp
+currency,USD
+cik,0000731802
+isin,US0495601058
+cusip,049560105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated Gas
+website,https://www.atmosenergy.com/
+description,"Atmos Energy Corp. engages in the regulated natural gas distribution and pipeline and storage businesses. The company is headquartered in Dallas, Texas and currently employs 4,776 full-time employees. The company operates through three segments: regulated distribution segment, which includes its regulated distribution and related sales operations; regulated pipeline segment, which includes pipeline and storage operations of its Atmos Pipeline-Texas Division, and nonregulated segment, which includes its nonregulated natural gas management, nonregulated natural gas transmission, storage and other services. Its nonregulated businesses provide natural gas management, transportation and storage services to local gas distribution companies, including certain of its natural gas distribution divisions and industrial customers in the Midwest and Southeast. The company also manages its natural gas pipeline and storage assets, including its intrastate natural gas pipeline systems in Texas."
+ceo,Mr. John Akers
+sector,Utilities
+country,US
+fullTimeEmployees,4776
+phone,19729349227
+address,"1800 Three Lincoln Ctr, 5430 Lbj Freeway"
+city,Dallas
+state,TEXAS
+zip,75240
+dcfDiff,
+dcf,95.749
+image,https://financialmodelingprep.com/image-stock/ATO.png
+ipoDate,1988-10-03
+defaultImage,False

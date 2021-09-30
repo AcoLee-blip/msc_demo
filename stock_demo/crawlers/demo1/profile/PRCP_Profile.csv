@@ -1,0 +1,33 @@
+,0
+symbol,PRCP
+price,6.93
+beta,1.19433
+volAvg,169256
+mktCap,67772280
+lastDiv,0.0
+range,2.34-7.29
+changes,0.0
+companyName,Perceptron Inc
+currency,USD
+cik,0000887226
+isin,US71361F1003
+cusip,71361F100
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,http://www.perceptron.com/
+description,"Perceptron, Inc. engages in the development, production, and trade of automated industrial metrology products and solutions. The company is headquartered in Plymouth, Michigan and currently employs 327 full-time employees. The firm's products include 3D machine vision solutions, robot guidance, coordinate measuring machines (CMMs), laser scanning and advanced analysis software. The firm's products are categorized as In-Line, Near-Line and Off-Line Measurement Solutions (Measurement Solutions); 3D Scanning Solutions, and Value Added Services. Its In-Line and Near-Line measurement solutions include AutoGauge, AutoFit, AutoScan, AutoGuide and Helix. Its Off-Line measurement solutions include Coord3 and TouchDMIS. Its 3D Scanning Solutions include ScanWorks, ScanR and WheelWorks. Its Value Added Services include training, field service, calibration, launch support services, maintenance agreements and repairs. The firm operates in the Americas, Europe and Asia."
+ceo,Mr. Jay Freeland
+sector,Technology
+country,US
+fullTimeEmployees,327
+phone,17344144816
+address,47827 Halyard Dr
+city,Plymouth
+state,MICHIGAN
+zip,48170
+dcfDiff,-4.7
+dcf,7.36701
+image,https://financialmodelingprep.com/image-stock/PRCP.png
+ipoDate,1992-08-21
+defaultImage,False

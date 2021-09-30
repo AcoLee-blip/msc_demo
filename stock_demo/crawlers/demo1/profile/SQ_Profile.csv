@@ -1,0 +1,33 @@
+,0
+symbol,SQ
+price,177.19
+beta,2.67847
+volAvg,9758276
+mktCap,79901524000
+lastDiv,0.0
+range,32.33-201.33
+changes,-1.32
+companyName,Square Inc
+currency,USD
+cik,0001512673
+isin,US8522341036
+cusip,852234103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://squareup.com/us/en
+description,"Square, Inc. engages in the provision of credit card payment processing solutions. The company is headquartered in San Francisco, California and currently employs 3,349 full-time employees. The firm enables its sellers start, run and grow their businesses. The company combines software with hardware to enable sellers to turn mobile devices and computing devices into payments and point-of-sale solutions. Once a seller downloads the Square Point of Sale mobile application, they can take their first payment. With its offering, a seller can accept payments in person via magnetic stripe (a swipe), Europay, MasterCard, and Visa (EMV) (a dip), or Near Field Communication (NFC) (a tap); or online via Square Invoices, Square Virtual Terminal, or the seller's Website. Once on its system, sellers gain access to technology and features, such as reporting and analytics, next-day settlements, digital receipts, payment dispute management and chargeback protection, and Payment Card Industry (PCI) compliance. On the consumer (buyer) side, Square Cash offers individuals access to a way to send and receive money."
+ceo,Mr. Jack Dorsey
+sector,Technology
+country,US
+fullTimeEmployees,3835
+phone,14153753176
+address,"1455 Market Street, Suite 600"
+city,San Francisco
+state,CALIFORNIA
+zip,94103
+dcfDiff,-81.5
+dcf,180.067
+image,https://financialmodelingprep.com/image-stock/SQ.jpg
+ipoDate,2015-11-19
+defaultImage,True

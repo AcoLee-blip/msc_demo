@@ -1,0 +1,33 @@
+,0
+symbol,VRNT
+price,54.37
+beta,0.83308
+volAvg,477375
+mktCap,3555808770
+lastDiv,0.0
+range,32.44-59.83
+changes,1.08
+companyName,Verint Systems Inc
+currency,USD
+cik,0001166388
+isin,US92343X1000
+cusip,92343X100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.verint.com/
+description,"Verint Systems, Inc. engages in providing actionable intelligence. The company is headquartered in Melville, New York and currently employs 6,400 full-time employees. The firm delivers its Actionable Intelligence solutions through two operating segments: Customer Engagement Solutions and Cyber Intelligence Solutions. The company is a provider of customer engagement software and services that can be deployed on-premises or in the cloud. Its Customer Engagement vision is powered by its Actionable Intelligence platform to generate intelligence from structured and unstructured data. The company offers solutions that help organizations empower their customers and employees through intelligence that can be shared enterprise-wide. The company is a provider of security and intelligence data mining software. Its solutions are used for a range of applications, including predictive intelligence, advanced and complex investigations, security threat analysis, and electronic data and physical assets protection, as well as for generating legal evidence and preventing criminal activity and terrorism."
+ceo,Mr. Dan Bodner
+sector,Technology
+country,US
+fullTimeEmployees,6300
+phone,18004837468
+address,175 Broadhollow Rd
+city,Melville
+state,NEW YORK
+zip,11747
+dcfDiff,
+dcf,57.2891
+image,https://financialmodelingprep.com/image-stock/VRNT.png
+ipoDate,2002-05-16
+defaultImage,False

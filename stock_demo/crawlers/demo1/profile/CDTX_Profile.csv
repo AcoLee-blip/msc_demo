@@ -1,0 +1,33 @@
+,0
+symbol,CDTX
+price,2.52
+beta,1.89093
+volAvg,223340
+mktCap,110723504
+lastDiv,0.0
+range,1.3-4.45
+changes,0.48
+companyName,Cidara Therapeutics Inc
+currency,USD
+cik,0001610618
+isin,US1717571079
+cusip,171757107
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.cidara.com/
+description,"Cidara Therapeutics, Inc. is a biotechnology company, which engages in the discovery, development, and commercialization of novel anti-infectives. The company is headquartered in San Diego, California and currently employs 68 full-time employees. The Company’s lead product candidate is rezafungin acetate, which is a molecule in the echinocandin class of antifungals for the treatment and prevention of serious invasive fungal infections, including candidemia and invasive candidiasis, fungal infections associated with high mortality rates. The firm is also leveraging its novel Cloudbreak platform to develop antibody-drug conjugates for the treatment of serious viral and Gram-negative bacterial infections. Cloudbreak is the immunotherapy discovery platform designed specifically to create compounds that directly kill pathogens and also direct a patient’s immune cells to attack and eliminate bacterial, fungal or viral pathogens."
+ceo,Dr. Jeffrey Stein
+sector,Healthcare
+country,US
+fullTimeEmployees,68
+phone,18587526170
+address,6310 Nancy Ridge Dr Ste 101
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-2.31
+dcf,4.70783
+image,https://financialmodelingprep.com/image-stock/CDTX.png
+ipoDate,2015-04-15
+defaultImage,False

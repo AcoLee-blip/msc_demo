@@ -1,0 +1,33 @@
+,0
+symbol,SFIX
+price,35.14
+beta,3.292971
+volAvg,2520273
+mktCap,3673605890
+lastDiv,0.0
+range,10.9-39.18
+changes,-0.86
+companyName,Stitch Fix Inc
+currency,USD
+cik,0001576942
+isin,US8608971078
+cusip,860897107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Specialty Retail
+website,https://www.stitchfix.com/
+description,"Stitch Fix, Inc. is an online personal styling service that delivers personalized Fixes of apparel and accessories to men, women and kids. The company is headquartered in San Francisco, California and currently employs 8,000 full-time employees. The firm offers apparel, shoes and accessories across categories, brands, product types and price points. The firm serves its clients in the following categories: Women’s, Petite, Maternity, Men’s and Plus. The firm also offers a wide variety of product types, including denim, dresses, blouses, skirts, shoes, jewelry and handbags. The Company’s data science capabilities fuel business consist of rich and growing set of detailed client and merchandise data and proprietary algorithms. The firm uses data science throughout its business, including prediction of purchase behavior, forecast demand, optimize inventory and design new apparel."
+ceo,Ms. Katrina Lake
+sector,Consumer Cyclical
+country,US
+fullTimeEmployees,8000
+phone,14158827765
+address,1 Montgomery St Ste 1500
+city,San Francisco
+state,CALIFORNIA
+zip,94104
+dcfDiff,-25.81
+dcf,37.6591
+image,https://financialmodelingprep.com/image-stock/SFIX.png
+ipoDate,2017-11-17
+defaultImage,False

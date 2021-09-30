@@ -1,0 +1,33 @@
+,0
+symbol,ELSE
+price,3.7
+beta,0.58533
+volAvg,398427
+mktCap,12563424
+lastDiv,0.0
+range,2.61-8.8
+changes,0.04
+companyName,Electro-Sensors Inc
+currency,USD
+cik,0000351789
+isin,US2852331022
+cusip,285233102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,http://www.electro-sensors.com
+description,"Electro-Sensors, Inc. engages in the manufacture and selling of industrial production monitoring and process control systems. The company is headquartered in Minnetonka, Minnesota and currently employs 31 full-time employees. The firm manufactures and sells monitoring systems that measure actual machine production and operation rates, as well as systems that regulate the speed of related machines in production processes. The firm's segments include Production Monitoring and Investments. The Production Monitoring division manufactures and markets production monitoring equipment, in particular speed monitoring and motor control systems for industrial machinery. The firm markets its products to various industries located throughout the United States, Canada, Mexico, Latin America, Europe and Asia. The speed monitoring systems compare revolutions per minute or speed against acceptable rates as determined by a customer. The speed monitoring systems also include a line of products that measure production counts or rates, such as parts, gallons, or board feet."
+ceo, David Klenk
+sector,Technology
+country,US
+fullTimeEmployees,31
+phone,19529300100
+address,6111 Blue Circle Dr
+city,Minnetonka
+state,MINNESOTA
+zip,55343
+dcfDiff,
+dcf,6.47532
+image,https://financialmodelingprep.com/image-stock/ELSE.png
+ipoDate,1981-06-09
+defaultImage,False

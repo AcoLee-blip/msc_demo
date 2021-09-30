@@ -1,0 +1,33 @@
+,0
+symbol,FISV
+price,107.01
+beta,0.73413
+volAvg,4776429
+mktCap,71743570000
+lastDiv,0.0
+range,73.5-125.05
+changes,1.31
+companyName,Fiserv Inc
+currency,USD
+cik,0000798354
+isin,US3377381088
+cusip,337738108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,https://www.fiserv.com/
+description,"Fiserv, Inc. engages in the provision of financial services technology. The company is headquartered in Brookfield, Wisconsin and currently employs 24,000 full-time employees. The firm provides account processing systems; electronic payments processing products and services, such as electronic bill payments, transaction processing, account-to-account transfers, and person-to-person payments; Internet and mobile banking systems, and related services, including document and payment card production and distribution, and lending and risk management products and services. The firm operates through two segments: Payments and Industry Products and the Financial Institution Services. The Payments segment services include electronic bill payment and presentment services, Internet and mobile banking software and services, and other electronic payments software and services. The Financial segment provides account processing services, item processing and source capture services, loan origination and servicing products, cash management and consulting services, and other products and services."
+ceo,Mr. Jeffery Yabuki
+sector,Technology
+country,US
+fullTimeEmployees,44000
+phone,14148795000
+address,"255 FISERV DR, PO Box 979"
+city,Brookfield
+state,WISCONSIN
+zip,53045
+dcfDiff,
+dcf,101.069
+image,https://financialmodelingprep.com/image-stock/FISV.png
+ipoDate,1986-09-25
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,PBIP
+price,12.09
+beta,-0.1048
+volAvg,11701
+mktCap,98497232
+lastDiv,0.71
+range,9.53-18.59
+changes,0.38
+companyName,Prudential Bancorp Inc
+currency,USD
+cik,0001578776
+isin,US74431A1016
+cusip,74431A101
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Banks Regional
+website,
+description,"Prudential Bancorp, Inc. is a bank holding company for Prudential Savings Bank, which engages in the provision of financial services. The company is headquartered in Philadelphia, Pennsylvania and currently employs 87 full-time employees. The Bank, through its subsidiary Polonia Bancorp and Polonia Bank, operates as a Pennsylvania-chartered, Federal Deposit Insurance Corporation (FDIC)-insured savings bank. The Bank is engaged in attracting deposits from the general public and using those funds to invest in loans and securities."
+ceo,Mr. Dennis Pollack
+sector,Financial Services
+country,US
+fullTimeEmployees,87
+phone,12157551500
+address,1834 W Oregon Ave
+city,Philadelphia
+state,PENNSYLVANIA
+zip,19145
+dcfDiff,-17.29
+dcf,17.0647
+image,https://financialmodelingprep.com/image-stock/PBIP.jpg
+ipoDate,2005-03-30
+defaultImage,True

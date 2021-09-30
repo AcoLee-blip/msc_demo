@@ -1,0 +1,33 @@
+,0
+symbol,CBIO
+price,6.02
+beta,2.37489
+volAvg,234181
+mktCap,133028752
+lastDiv,0.0
+range,3.43-8.94
+changes,0.13
+companyName,Catalyst Biosciences Inc
+currency,USD
+cik,0001124105
+isin,US14888D2080
+cusip,14888D208
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.catalystbiosciences.com/
+description,"Catalyst Biosciences, Inc. is a clinical-stage biopharmaceutical company. The company is headquartered in South San Francisco, California and currently employs 21 full-time employees. The firm is focused on creating and developing medicines to address serious medical conditions. The firm focuses its product development efforts in the fields of hemostasis, including the treatment of hemophilia and surgical bleeding, and inflammation, including prevention of delayed graft function (DGF) in renal transplants and the treatment of dry age-related macular degeneration (dry AMD), a condition that can cause visual impairment or blindness. The firm's advanced program is a coagulation Factor VIIa variant, CB 813d, that has completed a Phase I clinical trial in severe hemophilia A and B patients. In addition to its lead Factor VIIa program, it has approximately two other coagulation factors, a Factor IX variant, CB 2679d/ISU 304, that is in advanced preclinical development, and a Factor Xa variant that has reached the advanced lead preclinical-stage of development."
+ceo,Dr. Nassim Usman
+sector,Healthcare
+country,US
+fullTimeEmployees,21
+phone,16508710761
+address,611 Gateway Blvd Ste 710
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,-8.21
+dcf,6.30027
+image,https://financialmodelingprep.com/image-stock/CBIO.png
+ipoDate,2006-04-12
+defaultImage,False

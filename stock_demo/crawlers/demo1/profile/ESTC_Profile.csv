@@ -1,0 +1,33 @@
+,0
+symbol,ESTC
+price,102.95
+beta,0.0
+volAvg,1052570
+mktCap,8934453200
+lastDiv,0.0
+range,39.01-127.9
+changes,1.64
+companyName,Elastic NV
+currency,USD
+cik,0001707753
+isin,NL0013056914
+cusip,N14506104
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.elastic.co/
+description,"Elastic NV engages in the provision of open source search and analytics engine services. The company is headquartered in Amsterdam, Noord-Holland and currently employs 1,886 full-time employees. The firm offers developers the Elastic Stack, a set of software products for data search and management, namely Elasticsearch, a distributed, real-time search and analytics engine and datastore for all types of data; Kibana, the user interface and visualization layer for data stored in Elasticsearch; Logstash, a data processing pipeline for ingesting data into Elasticsearch or other storage systems from a multitude of sources simultaneously, and Beats, a family of lightweight, single-purpose data shippers for sending data from edge machines to Elasticsearch or Logstash. The Elastic Stack is designed to run on premises, in public or private clouds, and in hybrid environments. The firm's business model is based on a combination of open source and paid subscription, which includes access to additional features, as well as support. The firm is active in the United States and worldwide."
+ceo,Mr. Shay Banon
+sector,Technology
+country,NL
+fullTimeEmployees,1892
+phone,31207947300
+address,Keizersgracht 281
+city,AMSTERDAM
+state,NOORD-HOLLAND
+zip,94040
+dcfDiff,
+dcf,118.02
+image,https://financialmodelingprep.com/image-stock/ESTC.png
+ipoDate,2018-10-05
+defaultImage,False

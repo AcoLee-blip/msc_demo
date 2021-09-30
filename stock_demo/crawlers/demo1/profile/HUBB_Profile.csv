@@ -1,0 +1,33 @@
+,0
+symbol,HUBB
+price,155.44
+beta,1.24522
+volAvg,281098
+mktCap,8430521900
+lastDiv,3.64
+range,85.62-166.37
+changes,2.77
+companyName,Hubbell Inc
+currency,USD
+cik,0000048898
+isin,US4435106079
+cusip,443510607
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Electrical Equipment & Parts
+website,https://www.hubbell.com
+description,"Hubbell, Inc. engages in designing, manufacturing and sale of electrical and electronic products for non-residential and residential construction, industrial, and utility applications. The company is headquartered in Shelton, Connecticut and currently employs 19,700 full-time employees. The firm's segments include Electrical and the Power. The Electrical segment consists of businesses that sell stock and custom products, including standard and special application wiring device products, rough-in electrical products, lighting fixtures and controls, components and assemblies for the natural gas distribution market, as well as other electrical equipment. In addition, certain businesses design and manufacture a range of high voltage test and measurement equipment, industrial controls and communication systems used in the non-residential and industrial markets. The Power segment consists of operations that design and manufacture various distribution, transmission, substation and telecommunications products primarily used by the electrical utility industry."
+ceo,Mr. David Nord
+sector,Industrials
+country,US
+fullTimeEmployees,18800
+phone,12037994100
+address,40 Waterview Dr
+city,Shelton
+state,CONNECTICUT
+zip,06484
+dcfDiff,99.62
+dcf,150.617
+image,https://financialmodelingprep.com/image-stock/HUBB.png
+ipoDate,2009-10-29
+defaultImage,False

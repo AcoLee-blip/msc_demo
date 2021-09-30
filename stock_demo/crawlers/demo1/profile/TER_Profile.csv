@@ -1,0 +1,33 @@
+,0
+symbol,TER
+price,101.93
+beta,1.3103
+volAvg,2146987
+mktCap,16926088200
+lastDiv,0.39
+range,42.87-105.62
+changes,1.45
+companyName,Teradyne Inc
+currency,USD
+cik,0000097210
+isin,US8807701029
+cusip,880770102
+exchange,New York Stock Exchange
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.teradyne.com
+description,"Teradyne, Inc. engages in the development and sale of self automatic test systems. The company is headquartered in North Reading, Massachusetts and currently employs 4,900 full-time employees. The firm designs, develops, manufactures and sells automatic test systems used to test semiconductors, wireless products, data storage and complex electronics systems in the consumer electronics, wireless, automotive, industrial, communications, and aerospace and defense industries. Its segments include Semiconductor Test, which includes operations related to the design, manufacturing and marketing of semiconductor test products and services; System Test, which includes operations related to the design, manufacturing and marketing of products and services for defense/aerospace instrumentation test, storage test and circuit-board test; Wireless Test, which includes operations related to the design, manufacturing and marketing of wireless test products and services, and Industrial Automation, which includes operations related to the design, manufacturing and marketing of collaborative robots."
+ceo,Mr. Mark Jagiela
+sector,Technology
+country,US
+fullTimeEmployees,5400
+phone,19783702700
+address,600 Riverpark Dr
+city,North Reading
+state,MASSACHUSETTS
+zip,01864
+dcfDiff,
+dcf,96.3825
+image,https://financialmodelingprep.com/image-stock/TER.png
+ipoDate,1979-05-15
+defaultImage,False

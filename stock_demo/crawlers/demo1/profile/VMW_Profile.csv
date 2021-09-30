@@ -1,0 +1,33 @@
+,0
+symbol,VMW
+price,141.86
+beta,0.88019
+volAvg,1155329
+mktCap,59599217000
+lastDiv,0.0
+range,86.0-173.37
+changes,3.4
+companyName,VMware Inc
+currency,USD
+cik,0001124610
+isin,US9285634021
+cusip,928563402
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.vmware.com/
+description,"VMware, Inc. engages in the provision of cloud infrastructure and business mobility. The company is headquartered in Palo Alto, California and currently employs 24,200 full-time employees. The firm is engaged in development and application of virtualization technologies with x86 server-based computing, separating application software from the underlying hardware. The firm offers various products, which allow organizations to manage IT resources across private clouds and multi-cloud, multi-device environments by leveraging synergies across three product categories: Software-Defined Data Center (SDDC), Hybrid Cloud Computing and End-User Computing (EUC). The SDDC is designed to transform and modernize the data center into an on-demand service that addresses application requirements by abstracting, pooling and automating the services that are required from the underlying hardware. The firm provides many storage and availability products to offer data storage and protection options to all applications running on the vSphere platform. Its wholly owned subsidiary include Pivotal Software Inc."
+ceo,Mr. Patrick Gelsinger
+sector,Technology
+country,US
+fullTimeEmployees,31000
+phone,16504275000
+address,3401 Hillview Ave
+city,Palo Alto
+state,CALIFORNIA
+zip,94304
+dcfDiff,-56.91
+dcf,156.545
+image,https://financialmodelingprep.com/image-stock/VMW.png
+ipoDate,2007-08-14
+defaultImage,False

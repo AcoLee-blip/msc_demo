@@ -1,0 +1,33 @@
+,0
+symbol,IMV
+price,3.54
+beta,2.00795
+volAvg,337681
+mktCap,235704528
+lastDiv,0.0
+range,1.35-6.82
+changes,0.05
+companyName,IMV Inc
+currency,CAD
+cik,0001734768
+isin,CA44974L1031
+cusip,44974L103
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://imv-inc.com/
+description,"IMV, Inc. is a clinical-stage biopharmaceutical company, which engages in the research and development of immunotherapies for the treatment of infectious diseases. The company is headquartered in Dartmouth, Nova Scotia and currently employs 51 full-time employees. The Company’s drug delivery platform (DPX) enables the programming of immune cells in vivo. The Company’s lead candidate, DPX-Survivac, is a T cell-activating immunotherapy combining DPX with a specific tumor target: Survivin. DPX-Survivac is a monotherapy in ovarian cancer and in combination with Merck's Keytruda across multiple cancer indications."
+ceo,Mr. Frederic Ors
+sector,Healthcare
+country,CA
+fullTimeEmployees,62
+phone,19024921819
+address,130 Eileen Stubbs Ave Suite 19
+city,Dartmouth
+state,NOVA SCOTIA
+zip,B3B 2C4
+dcfDiff,
+dcf,3.72816
+image,https://financialmodelingprep.com/image-stock/IMV.png
+ipoDate,2007-10-24
+defaultImage,False

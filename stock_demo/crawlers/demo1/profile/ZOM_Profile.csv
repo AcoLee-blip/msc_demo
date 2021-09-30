@@ -1,0 +1,33 @@
+,0
+symbol,ZOM
+price,0.0947
+beta,-0.34477
+volAvg,23403523
+mktCap,53415632
+lastDiv,0.0
+range,0.063-0.499
+changes,0.0147
+companyName,Zomedica Pharmaceuticals Corp
+currency,USD
+cik,0001684144
+isin,CA98979F1071
+cusip,98979F107
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Drug Manufacturers General Specialty & Generic
+website,http://www.zomedica.com/
+description,"Zomedica Pharmaceuticals Corp. operates as a development stage veterinary diagnostic and pharmaceutical company. The company is headquartered in Ann Arbor, Michigan and currently employs 27 full-time employees. The firm is engaged in developing products for companion animals, such as canine, feline, and equine by focusing on needs of clinical veterinarians. The company is focused on developing three diagnostic platforms, a Bulk Acoustic Wave sensor-based veterinary point-of-care diagnostic platform for performing immunodiagnostic testing, a Raman spectroscopy-based point-of-care diagnostic platform for the detection of pathogens, and liquid biopsy assays for the detection of cancer, along with related consumables. The Company’s TRUFORMA product candidate is an investigational device being developed as a point-of-care biosensor platform. ZM-020 is its diagnostic platform being developed to screen for a range of pathogens in companion animal feces, urine, respiratory, and dermatological samples. The company is developing ZM-017 as a canine cancer liquid biopsy platform."
+ceo,Mr. Shameze Rampertab
+sector,Healthcare
+country,US
+fullTimeEmployees,28
+phone,17343692555
+address,"100 Phoenix Drive, Suite 180"
+city,Ann Arbor
+state,MICHIGAN
+zip,48108
+dcfDiff,-1.22
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/ZOM.png
+ipoDate,2013-10-28
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,BA
+price,176.72
+beta,1.35559
+volAvg,21676633
+mktCap,99763741000
+lastDiv,2.055
+range,89.0-375.6
+changes,-5.43
+companyName,Boeing Co
+currency,USD
+cik,0000012927
+isin,US0970231058
+cusip,097023105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Aerospace & Defense
+website,http://www.boeing.com/
+description,"The Boeing Co. is an aerospace company, which engages in the manufacture of commercial jetliners and defense, space and security systems. The company is headquartered in Chicago, Illinois and currently employs 153,000 full-time employees. The firm operates in four segments: Commercial Airplanes (BCA); Defense, Space & Security (BDS); Global Services (BGS), and Boeing Capital (BCC). BCA segment develops, produces and markets commercial jet aircraft and provides fleet support services, principally to the commercial airline industry worldwide. BDS segment is engaged in the research, development, production and modification of manned and unmanned military aircraft and weapons systems for strike, surveillance and mobility. BGS segment provides services to commercial and defense customers worldwide. BCC's segment portfolio consists of equipment under operating leases, finance leases, notes and other receivables and assets held for sale."
+ceo,Mr. David Calhoun
+sector,Industrials
+country,US
+fullTimeEmployees,161100
+phone,13125442000
+address,100 N Riverside Plz
+city,Chicago
+state,ILLINOIS
+zip,60606-1596
+dcfDiff,-202.56
+dcf,180.618
+image,https://financialmodelingprep.com/image-stock/BA.png
+ipoDate,1934-09-05
+defaultImage,False

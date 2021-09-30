@@ -1,0 +1,33 @@
+,0
+symbol,PLSE
+price,15.0
+beta,1.81174
+volAvg,96758
+mktCap,380122496
+lastDiv,0.0
+range,5.11-17.77
+changes,-0.38
+companyName,Pulse Biosciences Inc
+currency,USD
+cik,0001625101
+isin,US74587B1017
+cusip,74587B101
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Medical Instruments & Supplies
+website,http://www.pulsebiosciences.com/
+description,"Pulse Biosciences, Inc. operates as an immuno-oncology company developing a proprietary oncolytic electroceutical therapy based on its Nano Pulse Stimulation (NPS) technology. The company is headquartered in Hayward, California and currently employs 54 full-time employees. NPS is a non-thermal, precise, focal drug-free electroceutical treatment technology that initiates cell death within treated tissue. NPS provides treatment in a range of immuno-oncology, dermatology and aesthetic applications. The company offers treatment for minimally invasive applications, such as cardiac ablation, lung disease, Barret's esophagus, thyroid nodules, and ear, nose and throat (ENT) papillomas. The firm is developing PulseTx system (PulseTx), a system for the delivery of NPS treatments. The PulseTx system delivers NPS pulses through its tunable pulse generator and its planned suite of electrodes. The PulseTx system pulses are applied directly to tissue through electrodes, creating transient nanometer pores in cell and organelle membranes."
+ceo,Mr. Darrin R. Uecker
+sector,Healthcare
+country,US
+fullTimeEmployees,82
+phone,15109064600
+address,3957 Point Eden Way
+city,Hayward
+state,CALIFORNIA
+zip,94545
+dcfDiff,-16.93
+dcf,13.8325
+image,https://financialmodelingprep.com/image-stock/PLSE.png
+ipoDate,2016-05-18
+defaultImage,False

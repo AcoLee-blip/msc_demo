@@ -1,0 +1,33 @@
+,0
+symbol,GNCA
+price,2.03
+beta,2.48809
+volAvg,422623
+mktCap,104819656
+lastDiv,0.0
+range,1.1-5.75
+changes,-0.01
+companyName,Genocea Biosciences Inc
+currency,USD
+cik,0001457612
+isin,US3724274010
+cusip,372427401
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.genocea.com/
+description,"Genocea Biosciences, Inc. engages in the development and commercialization of cancer vaccines. The company is headquartered in Cambridge, Massachusetts and currently employs 61 full-time employees. The Company’s Antigen Lead Acquisition System (ATLAS) technology platform allows to identify targets based on each person’s tumor antigen-specific T cell responses. Using ATLAS, the Company can improve neoantigens for inclusion in its immunotherapies and exclude inhibitory antigens that exert an immunosuppressive effect on anti-tumor immune responses. The company provides GEN-009 program, which is a neoantigen vaccine candidate. The firm is conducting a Phase 1/2a clinical trial across a range of solid tumor types. The company also provides GEN-011, which is a neoantigen-specific adoptive T cell therapy."
+ceo,Mr. William Clark
+sector,Healthcare
+country,US
+fullTimeEmployees,59
+phone,16178768191
+address,100 Acorn Park Dr
+city,Cambridge
+state,MASSACHUSETTS
+zip,02140
+dcfDiff,
+dcf,4.26376
+image,https://financialmodelingprep.com/image-stock/GNCA.png
+ipoDate,2014-02-05
+defaultImage,False

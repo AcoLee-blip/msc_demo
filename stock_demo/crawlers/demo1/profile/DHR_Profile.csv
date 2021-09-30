@@ -1,0 +1,33 @@
+,0
+symbol,DHR
+price,234.52
+beta,0.87998
+volAvg,2201966
+mktCap,166597624000
+lastDiv,0.7100000000000001
+range,119.6-248.32
+changes,1.53
+companyName,Danaher Corp
+currency,USD
+cik,0000313616
+isin,US2358511028
+cusip,235851102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.danaher.com/
+description,"Danaher Corp. operates as a medical company, which designs, manufactures, and markets professional, medical, industrial and commercial products and services. The company is headquartered in Washington, Washington Dc and currently employs 71,000 full-time employees. The firm operates through three segments: Life Sciences, which offers a range of research tools that scientists use to study the basic building blocks of life, including genes, proteins, metabolites and cells, in order to understand the causes of disease, identify new therapies and test new drugs and vaccines; Diagnostics; which offers analytical instruments, reagents, consumables, software and services; and Environmental & Applied Solutions, which consists of various lines of business, including water quality and product identification. Danaher's research and development, manufacturing, sales, distribution, service and administrative facilities were located in over 60 countries."
+ceo,Mr. Thomas Joyce
+sector,Healthcare
+country,US
+fullTimeEmployees,60000
+phone,12028280850
+address,2200 Pennsylvania Ave NW Ste 800w
+city,WASHINGTON
+state,WASHINGTON DC
+zip,20037-1701
+dcfDiff,-98.14
+dcf,253.996
+image,https://financialmodelingprep.com/image-stock/DHR.jpg
+ipoDate,1969-12-10
+defaultImage,True

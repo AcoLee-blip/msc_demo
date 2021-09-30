@@ -1,0 +1,33 @@
+,0
+symbol,FSLY
+price,77.2935
+beta,0.0
+volAvg,10893989
+mktCap,8772812800
+lastDiv,0.0
+range,10.63-136.5
+changes,1.0535
+companyName,Fastly Inc
+currency,USD
+cik,0001517413
+isin,US31188V1008
+cusip,31188V100
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.fastly.com/
+description,"Fastly, Inc. provides real-time content delivery network services. The company is headquartered in San Francisco, California and currently employs 595 full-time employees. The firm provides services in the areas of delivery, security, streaming media, e-commerce and private CDN. With Fastly, the user can manage traffic spikes and mitigate security threats. Fastly works with Google Cloud Platform to extend the user's infrastructure and application logic for content delivery, backend workload, infrastructure costs and scalability. Fastly’s streaming media services offer global delivery of video content, whether it’s live or video on demand (VOD). The Company’s edge cloud platform, designed from the ground up to be programmable and support agile software development. Its platform consists of key components: a programmable edge and a software-defined modern network. The programmable edge provides developers with real-time visibility and control, where they can write and deploy code to push application logic to the edge."
+ceo,Mr. Joshua Bixby
+sector,Technology
+country,US
+fullTimeEmployees,685
+phone,14155253481
+address,475 Brannan St Ste 300
+city,San Francisco
+state,CALIFORNIA
+zip,94107
+dcfDiff,
+dcf,79.4862
+image,https://financialmodelingprep.com/image-stock/FSLY.png
+ipoDate,2019-05-17
+defaultImage,False

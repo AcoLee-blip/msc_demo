@@ -1,0 +1,33 @@
+,0
+symbol,SELB
+price,3.32
+beta,1.27126
+volAvg,2659304
+mktCap,358659584
+lastDiv,0.0
+range,1.3-4.83
+changes,0.23
+companyName,Selecta Biosciences Inc
+currency,USD
+cik,0001453687
+isin,US8162121045
+cusip,816212104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://selectabio.com/
+description,"Selecta Biosciences, Inc. operates as a clinical-stage biopharmaceutical company, which engages in the research and development of nanoparticle immunomodulatory drugs for the treatment and prevention of human diseases. The company is headquartered in Watertown, Massachusetts and currently employs 39 full-time employees. The firm using its synthetic vaccine particle (SVP) technology to discover and develop targeted therapies that are designed to modulate the immune system to treat rare and serious diseases. The firm is engaged in the research and development of nanoparticle immunomodulatory drugs for the treatment and prevention of human diseases. Its product candidates are in various stages of clinical and preclinical development. Its SVP technology encapsulates an immunomodulator in biodegradable nanoparticles to induce antigen-specific immune tolerance to mitigate the formation of anti-drug antibodies (ADAs) in response to life-sustaining biologic drugs. The firm's lead product candidate, SEL-212, is a combination of a therapeutic enzyme and its SVP technology designed to be the biologic treatment for gout."
+ceo,Dr. Carsten Brunn
+sector,Healthcare
+country,US
+fullTimeEmployees,27
+phone,16179231400
+address,65 Grove Street
+city,Watertown
+state,MASSACHUSETTS
+zip,02472
+dcfDiff,
+dcf,4.57357
+image,https://financialmodelingprep.com/image-stock/SELB.png
+ipoDate,2016-06-22
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,SIMO
+price,37.06
+beta,1.09532
+volAvg,273352
+mktCap,1302525700
+lastDiv,1.4
+range,26.72-53.04
+changes,0.3
+companyName,Silicon Motion Technology Corp
+currency,USD
+cik,0001329394
+isin,US82706C1080
+cusip,82706C108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.siliconmotion.com
+description,"Silicon Motion Technology Corp. engages in the development, manufacture and supply of semiconductor products for the electronics market. The company is headquartered in Jhubei, Hsinchu and currently employs 1,307 full-time employees. The firm is mainly engaged in the design, development and sale of low-power semiconductor solutions for original equipment manufacturers (OEMs) and other customers in the mobile storage market. The firm is mainly engaged in the development of NAND flash controller integrated circuits (ICs) for solid-state storage devices, as well as specialty radio frequency (RF) ICs for mobile devices. In the mobile storage market, the Company's products are controllers used in SSDs, Embedded Multimedia Cards (eMMCs) and other embedded storage products, as well as flash memory cards, universal serial bus (USB) flash drives and other expandable storage products. The firm's products are used in smartphones, tablets, personal computers (PCs) and other devices."
+ceo,Mr. Wallace Kou
+sector,Technology
+country,TW
+fullTimeEmployees,1237
+phone,88635526888
+address,"8F-1, No.36, Taiyuan Street"
+city,Zhubei
+state,HSINCHU
+zip,
+dcfDiff,51.99
+dcf,41.6054
+image,https://financialmodelingprep.com/image-stock/SIMO.png
+ipoDate,2005-06-30
+defaultImage,False

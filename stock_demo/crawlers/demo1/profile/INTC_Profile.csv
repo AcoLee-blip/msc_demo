@@ -1,0 +1,33 @@
+,0
+symbol,INTC
+price,45.265
+beta,0.67973
+volAvg,33297686
+mktCap,185495962000
+lastDiv,1.32
+range,43.61-69.29
+changes,0.315
+companyName,Intel Corp
+currency,USD
+cik,0000050863
+isin,US4581401001
+cusip,458140100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.intel.com/
+description,"Intel Corp. engages in the design, manufacture, and sale of computer products and technologies. The company is headquartered in Santa Clara, California and currently employs 107,400 full-time employees. The firm's segments are Client Computing Group (CCG), Data Center Group (DCG), Internet of Things Group (IOTG), Non-Volatile Memory Solutions Group (NSG), Intel Security Group (ISecG), Programmable Solutions Group (PSG), All Other and New Technology Group (NTG). The company delivers computer, networking and communications platforms to a set of customers, including original equipment manufacturers (OEMs), original design manufacturers (ODMs), cloud and communications service providers, as well as industrial, communications and automotive equipment manufacturers. The company offers platforms to integrate various components and technologies, including a microprocessor and chipset, a stand-alone System-on-Chip (SoC), or a multichip package. The CCG operating segment includes platforms that integrates in notebook, two in one systems, desktop computers for consumers and businesses, tablets, and phones."
+ceo,Mr. Robert Swan
+sector,Technology
+country,US
+fullTimeEmployees,110800
+phone,14087658080
+address,2200 Mission College Blvd
+city,Santa Clara
+state,CALIFORNIA
+zip,95054-1549
+dcfDiff,78.39
+dcf,54.4376
+image,https://financialmodelingprep.com/image-stock/INTC.png
+ipoDate,1971-10-13
+defaultImage,False

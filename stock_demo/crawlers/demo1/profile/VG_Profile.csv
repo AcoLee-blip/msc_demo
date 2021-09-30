@@ -1,0 +1,33 @@
+,0
+symbol,VG
+price,12.87
+beta,0.54446
+volAvg,2429538
+mktCap,3196045570
+lastDiv,0.0
+range,4.18-13.24
+changes,0.21
+companyName,Vonage Holdings Corp
+currency,USD
+cik,0001272830
+isin,US92886T2015
+cusip,92886T201
+exchange,New York Stock Exchange
+exchangeShortName,NASDAQ
+industry,Telecom Services
+website,https://www.vonage.com/
+description,"Vonage Holdings Corp. engages in the provision of communication services through cloud-connected devices. The company is headquartered in Holmdel, New Jersey and currently employs 2,248 full-time employees. The firm operates through two segments: Business and Consumer. For business services customers, the Company provides cloud-based unified communications as a service (UCaaS) solutions, consisting of integrated voice, text, video, data, collaboration, and mobile applications over its scalable session initiation protocol (SIP) based voice over Internet protocol (VoIP) network. The company serves a range of the business market, including the small and medium business (SMB), mid-market and enterprise segments. Through its cloud-based middleware solution, gUnify, the Company provides customers the ability to integrate its cloud communications platform with various cloud-based productivity and customer relationship management (CRM) solutions, including Google's G Suite, Zendesk, Salesforce's Sales Cloud, Oracle and Clio."
+ceo,Mr. Alan Masarek
+sector,Communication Services
+country,US
+fullTimeEmployees,2264
+phone,17325282600
+address,23 Main St
+city,Holmdel
+state,NEW JERSEY
+zip,07733
+dcfDiff,3.25
+dcf,11.0576
+image,https://financialmodelingprep.com/image-stock/VG.png
+ipoDate,2006-05-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,STRO
+price,17.3
+beta,0.0
+volAvg,384863
+mktCap,667852610
+lastDiv,0.0
+range,6.0-17.85
+changes,0.7
+companyName,Sutro Biopharma Inc
+currency,USD
+cik,0001382101
+isin,US8693671021
+cusip,869367102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.sutrobio.com/
+description,"Sutro Biopharma Inc. engages in the drug discovery, development, and manufacturing of pharmaceutical products. The company is headquartered in South San Francisco, California and currently employs 169 full-time employees. The firm is focused on using its integrated cell-free protein synthesis platform, XpressCF, to create a variety of protein therapeutics for cancer and autoimmune disorders. The company focuses to design therapeutics using potent modalities, including cytokine-based immuno-oncology (I/O) therapeutics, antibody-drug conjugates (ADCs) and bispecific antibodies that are directed primarily against clinically validated targets. Its product candidate includes STRO-001 and STRO-002. STRO-001 is an ADC directed against the cancer target CD74, for patients with multiple myeloma and non-Hodgkin lymphoma (NHL). STRO-002 is an ADC directed against folate receptor-alpha (FolRa), for patients with ovarian and endometrial cancers. STRO-001 and STRO-002 are designed and optimized for therapeutic index by placing linker-warheads at specific locations within the antibody using its XpressCF Platform."
+ceo,Mr. William Newell
+sector,Healthcare
+country,US
+fullTimeEmployees,177
+phone,16503928412
+address,310 Utah Ave Ste 150
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,12.266
+image,https://financialmodelingprep.com/image-stock/STRO.png
+ipoDate,2018-09-27
+defaultImage,False

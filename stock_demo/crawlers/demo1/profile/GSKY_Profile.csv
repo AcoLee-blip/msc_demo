@@ -1,0 +1,33 @@
+,0
+symbol,GSKY
+price,3.54
+beta,0.0
+volAvg,786107
+mktCap,646340290
+lastDiv,0.0
+range,3.05-9.84
+changes,0.08
+companyName,GreenSky Inc
+currency,USD
+cik,0001712923
+isin,US39572G1004
+cusip,39572G100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,
+description,"GreenSky, Inc. is a technology company. The company is headquartered in Atlanta, Georgia and currently employs 1,088 full-time employees. The firm provides technology payments and financing solutions to patients of healthcare providers, from small solo and multi-provider practices to large national provider groups. The firm's platform enables merchants, consumers and bank partner to benefit from enhanced access to each other and to technology, resulting in a virtuous cycle of increasing engagement and value creation. The payments and financing solutions enables its merchants to extend a diverse set of payment and credit products to their customers. Its sales and account management teams work directly with merchants and prospective merchants to identify financing products for their customers, including financing products with promotional features, such as low or deferred interest, and with varying maturities and annual percentage rates. The financing products include deferred interest loans and reduced rate loans."
+ceo,Mr. David Zalik
+sector,Technology
+country,US
+fullTimeEmployees,1174
+phone,16782646105
+address,5565 Glenridge Connector Ste 700
+city,Atlanta
+state,GEORGIA
+zip,30342
+dcfDiff,
+dcf,6.2709
+image,https://financialmodelingprep.com/image-stock/GSKY.jpg
+ipoDate,2018-05-24
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,ALRN
+price,1.07
+beta,3.62939
+volAvg,807553
+mktCap,42666040
+lastDiv,0.0
+range,0.25-2.47
+changes,-0.05
+companyName,Aileron Therapeutics Inc
+currency,USD
+cik,0001420565
+isin,US00887A1051
+cusip,00887A105
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.aileronrx.com/
+description,"Aileron Therapeutics, Inc. is a clinical stage biopharmaceutical company, which engages in the development and commercialization of novel class of therapeutics for the treatment of cancer and other diseases. The company is headquartered in Watertown, Massachusetts and currently employs 23 full-time employees. The firm is focused on developing and commercializing a class of therapeutics called stapled peptides. The company is also developing a pipeline of stapled peptide drugs across a range of therapeutic areas, including cancer, endocrine and metabolic diseases and inflammation. The firm is advancing its lead oncology program to deliver efficacy and safety in a spectrum of solid and hematological malignancies. Its lead product candidate, ALRN-6924, targets the tumor suppressor protein p53 for the treatment of a range of cancers. The firm is conducting an ongoing Phase I clinical trial of ALRN-6924 in adult patients with solid tumors or lymphomas expressing non-mutated or wild-type p53 that are refractory to or intolerant of standard therapy. ALRN-6924 may reactivate p53-mediated cell death by targeting both of the natural p53 suppressor proteins, Mouse double minute 2 homolog (MDM2) and MDMX."
+ceo,Dr. Manuel Aivado
+sector,Healthcare
+country,US
+fullTimeEmployees,13
+phone,16179950900
+address,490 Arsenal Way
+city,Watertown
+state,MASSACHUSETTS
+zip,02472
+dcfDiff,
+dcf,2.24146
+image,https://financialmodelingprep.com/image-stock/ALRN.jpg
+ipoDate,2017-06-29
+defaultImage,True

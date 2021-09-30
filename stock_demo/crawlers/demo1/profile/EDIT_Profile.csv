@@ -1,0 +1,33 @@
+,0
+symbol,EDIT
+price,29.0424
+beta,2.11106
+volAvg,851798
+mktCap,1810334850
+lastDiv,0.0
+range,14.01-39.96
+changes,1.2424
+companyName,Editas Medicine Inc
+currency,USD
+cik,0001650664
+isin,US28106W1036
+cusip,28106W103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.editasmedicine.com/
+description,"Editas Medicine, Inc. engages in the development and commercialization of genome editing technology. The company is headquartered in Cambridge, Massachusetts and currently employs 133 full-time employees. The company is engaged in treating patients with genetically defined diseases by correcting their disease-causing genes. The company operates through developing and commercializing genome editing technology segment. The company is developing a genome editing platform based on clustered, regularly interspaced short palindromic repeats (CRISPR) technology. CRISPR uses a protein-ribonucleic acid (RNA) complex composed of an enzyme, including either CRISPR associated protein 9 (Cas9) or CRISPR from Prevotella and Francisella 1 (Cpf1), bound to a guide RNA molecule designed to recognize a particular deoxyribonucleic acid (DNA) sequence. Its platform consists of four components: nuclease engineering, delivery, control and specificity, and directed editing. Its programs include Eye Diseases, Engineered T Cell Therapies for Immuno-Oncology and additional research programs. The company is developing a genome editing therapeutic for Leber Congenital Amaurosis type 10 (LCA10)."
+ceo,Ms. Cynthia Collins
+sector,Healthcare
+country,US
+fullTimeEmployees,208
+phone,16174019000
+address,11 Hurley St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02141
+dcfDiff,-27.09
+dcf,35.0352
+image,https://financialmodelingprep.com/image-stock/EDIT.png
+ipoDate,2016-02-03
+defaultImage,False

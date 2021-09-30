@@ -1,0 +1,33 @@
+,0
+symbol,LMNX
+price,22.21
+beta,0.51348
+volAvg,628563
+mktCap,1033331330
+lastDiv,0.36
+range,19.6-41.69
+changes,0.21
+companyName,Luminex Corp
+currency,USD
+cik,0001033905
+isin,US55027E1029
+cusip,55027E102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Instruments & Supplies
+website,http://www.luminexcorp.com/
+description,"Luminex Corp. develops, manufactures and markets proprietary biological testing technologies and products with applications throughout the life sciences and diagnostics industries. The company is headquartered in Austin, Texas and currently employs 1,141 full-time employees. The firm's products are focused on the molecular diagnostic testing market, which includes human genetics, personalized medicine and infectious disease segments. The firm has a range of instruments using its xMAP technology, which includes its LUMINEX 100/200 systems offer 100-plex testing; the Company's FLEXMAP 3D system is its high-throughput, 500-plex testing system, and its MAGPIX system provides 50-plex testing using imaging rather than flow cytometry. By using its xMAP technology, the end users are able to generate multiple simultaneous results per sample. The firm primarily serves the diagnostics, pharmaceutical and life sciences industries by marketing products, including its testing equipment and assays, to a range of testing laboratories."
+ceo,Mr. Nachum Shamir
+sector,Healthcare
+country,US
+fullTimeEmployees,1247
+phone,15122494741
+address,"12212 Technology Blvd, 512-219-8020"
+city,Austin
+state,TEXAS
+zip,78727
+dcfDiff,11.88
+dcf,22.5081
+image,https://financialmodelingprep.com/image-stock/LMNX.png
+ipoDate,2000-03-30
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,EPIX
+price,6.37
+beta,1.67459
+volAvg,137856
+mktCap,184784144
+lastDiv,0.0
+range,3.0-8.309
+changes,0.03
+companyName,ESSA Pharma Inc
+currency,USD
+cik,0001633932
+isin,CA29668H7085
+cusip,29668H708
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.essapharma.com/
+description,"ESSA Pharma, Inc. engages in the development of small molecule drugs for prostate cancer. The company is headquartered in Vancouver, British Columbia and currently employs 11 full-time employees. The firm is focused on developing therapies for the treatment of castration-resistant prostate cancer (CRPC). The company is developing EPI-7386 for the treatment of metastatic CRPC (mCRPC). The company is also developing EPI-7386 combination therapy for mCRPC. Its pipeline also includes antinen for triple negative androgen receptor (AR+) breast cancer. Its proprietary aniten compounds bind to the N-terminal domain of the androgen receptor (AR), inhibiting ARdriven transcription and the AR signaling pathway in a manner which bypasses the drug resistance mechanisms associated with current anti-androgens."
+ceo,Dr. David Parkinson
+sector,Healthcare
+country,CA
+fullTimeEmployees,11
+phone,17783310962
+address,999 Broadway W Suite 720
+city,Vancouver
+state,BRITISH COLUMBIA
+zip,V5Z 1K5
+dcfDiff,-2.13
+dcf,9.79147
+image,https://financialmodelingprep.com/image-stock/EPIX.jpg
+ipoDate,2014-12-22
+defaultImage,True

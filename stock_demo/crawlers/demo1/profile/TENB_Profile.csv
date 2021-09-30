@@ -1,0 +1,33 @@
+,0
+symbol,TENB
+price,34.7
+beta,0.0
+volAvg,889535
+mktCap,3578090500
+lastDiv,0.0
+range,16.28-42.39
+changes,-0.31
+companyName,Tenable Holdings Inc
+currency,USD
+cik,0001660280
+isin,US88025T1025
+cusip,88025T102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.tenable.com/
+description,"Tenable Holdings, Inc. engages in the development of security software solutions. The company is headquartered in Columbia, Maryland and currently employs 1,401 full-time employees. The firm provides software as a service and is focused on building on its deep technology expertise in the traditional vulnerability assessment and management market to provide analytics that translate vulnerability data into business insight. Its enterprise platform offerings include Tenable.io and SecurityCenter. Its cyber-security platform Tenable.io manages and measures cyber exposure across a range of traditional information technology (IT) assets, such as networking infrastructure, desktops and on-premises servers and modern IT assets, such as cloud workloads, containers, web applications, internet of things (IoT) and operational technology (OT) assets. SecurityCenter is built to manage and measure cyber exposure across traditional IT assets and can be run on-premises, in the cloud or in a hybrid environment."
+ceo,Mr. Amit Yoran
+sector,Technology
+country,US
+fullTimeEmployees,1493
+phone,14108720555
+address,7021 Columbia Gateway Dr Ste 500
+city,Columbia
+state,MARYLAND
+zip,21046
+dcfDiff,
+dcf,37.1045
+image,https://financialmodelingprep.com/image-stock/TENB.png
+ipoDate,2018-07-26
+defaultImage,False

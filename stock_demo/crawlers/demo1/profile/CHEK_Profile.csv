@@ -1,0 +1,33 @@
+,0
+symbol,CHEK
+price,0.2941
+beta,0.18185
+volAvg,1654338
+mktCap,13597213
+lastDiv,0.0
+range,0.243-2.37
+changes,-0.0159
+companyName,Check Cap Ltd
+currency,USD
+cik,0001610590
+isin,IL0011336851
+cusip,M2361E203
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://www.check-cap.com
+description,"Check-Cap Ltd. is a clinical stage medical diagnostics company engaging in the development of ingestible imaging capsule system for colorectal cancer screening. The company employs 56 full-time employees The firm is engaged in the development of an ingestible imaging capsule that utilizes low-dose X-rays for the detection and imaging of colonic polyps and colorectal cancers, or CRC. The firm's system consists of main components, such as ingestible scanning capsule; Capsule Positioning System (CPS), a recorder worn on the patient's back, and a personal computer (PC)-based work station for data reconstruction and image processing. The firm's scanning capsule will be swallowed and propelled by natural motility through the gastrointestinal tract and excreted naturally with no need for retrieval for data collection. Its scanning capsule employs low-dose X-rays, which allow the system to image the interior lining of the colon even when surrounded by intestinal content. Its capsule transmits information to a receiving device worn on the patient's body that stores the information for off-line analysis."
+ceo,Mr. Alex Ovadia
+sector,Healthcare
+country,IL
+fullTimeEmployees,64
+phone,97248303401
+address,"29 Abba Hushi Ave.,  Isfiya, P.O.Box 1271"
+city,
+state,
+zip,30090
+dcfDiff,-2.58
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/CHEK.png
+ipoDate,2015-02-19
+defaultImage,False

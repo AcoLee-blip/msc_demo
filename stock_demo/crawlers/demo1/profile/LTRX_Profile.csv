@@ -1,0 +1,33 @@
+,0
+symbol,LTRX
+price,4.55
+beta,2.23233
+volAvg,142733
+mktCap,129939816
+lastDiv,0.0
+range,1.58-5.48
+changes,-0.28
+companyName,Lantronix Inc
+currency,USD
+cik,0001114925
+isin,US5165482036
+cusip,516548203
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.lantronix.com/
+description,"Lantronix, Inc. engages in the provision of secure data access and management solutions for internet of things. The company is headquartered in Irvine, California and currently employs 210 full-time employees. The firm organizes its products and solutions into three product lines, including IoT, IT Management and Other. Its IoT products consist of IoT Gateways and IoT Building Blocks. The firm's IT Management product line includes console management, power management and keyboard video mouse (KVM), products that provide remote out-of-band management (OOBM) access to IT and networking infrastructure deployed in test labs, data centers and server rooms. Its Other product line includes non-focus products, such as the xPrintServer, xSenso and WiBox. Its connectivity solutions serves a range of industries, including data center, medical, security, environmental and government. The firm conducts its business in approximately three geographic regions, including the Americas; Europe, Middle East and Africa (EMEA), and Asia Pacific Japan (APJ)."
+ceo,Mr. Paul Pickle
+sector,Technology
+country,US
+fullTimeEmployees,210
+phone,19494533990
+address,7535 Irvine Center Dr Ste 100
+city,Irvine
+state,CALIFORNIA
+zip,92618
+dcfDiff,-3.81
+dcf,5.03422
+image,https://financialmodelingprep.com/image-stock/LTRX.png
+ipoDate,2000-08-04
+defaultImage,False

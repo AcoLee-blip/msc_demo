@@ -1,0 +1,33 @@
+,0
+symbol,CVET
+price,25.0
+beta,0.0
+volAvg,960935
+mktCap,3187899900
+lastDiv,0.0
+range,4.045-30.13
+changes,-0.68
+companyName,Covetrus Inc
+currency,USD
+cik,0001752836
+isin,US22304C1009
+cusip,22304C100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://covetrus.com/
+description,"Covetrus, Inc. engages in developing technologies and services for animal health industry. The company is headquartered in Portland, Maine and currently employs 5,000 full-time employees. The firm provides service and technology platform to animal veterinary markets. The company combines practice management software, prescription management, multi-channel client engagement services and supply chain infrastructure to promote connectivity between veterinarians and clients. The firm is also focused on providing inventory management, specialty pharmacy services, solutions to chronic care disease management, veterinary practice management software and client communication tools."
+ceo,Mr. Benjamin Wolin
+sector,Healthcare
+country,US
+fullTimeEmployees,5100
+phone,18882802221
+address,7 Custom House St
+city,Portland
+state,MAINE
+zip,04101
+dcfDiff,
+dcf,28.255
+image,https://financialmodelingprep.com/image-stock/CVET.jpg
+ipoDate,2019-02-04
+defaultImage,True

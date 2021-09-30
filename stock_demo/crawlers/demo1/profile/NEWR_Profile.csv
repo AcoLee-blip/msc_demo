@@ -1,0 +1,33 @@
+,0
+symbol,NEWR
+price,54.92
+beta,1.19234
+volAvg,753853
+mktCap,3348774400
+lastDiv,0.0
+range,33.49-74.2
+changes,0.05
+companyName,New Relic Inc
+currency,USD
+cik,0001448056
+isin,US64829B1008
+cusip,64829B100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://newrelic.com/
+description,"ew Relic, Inc., is a software-as-a-service company, provides various digital products worldwide. The company is headquartered in San Francisco, California and currently employs 1,949 full-time employees. The firm's cloud-based platform and range of products enable organizations to collect, store and analyze software data in real time. The firm's New Relic Software Analytics Cloud consists of an integrated suite of products, a data database and an open platform. New Relic offers an integrated suite of products, namely, New Relic APM, for application performance management; New Relic Mobile, for mobile application performance management; New Relic Servers, for server monitoring for cloud and data centers; New Relic Browser, for end user experience monitoring and performance monitoring; New Relic Synthetics, for software testing through simulated usage; New Relic Plugins, plugins to extend its functionality into other applications; New Relic Alerts, for policy management and delivering alerts across entire suite of products, and New Relic Insights, for real-time big data analytics for business managers."
+ceo,Mr. Lewis Cirne
+sector,Technology
+country,US
+fullTimeEmployees,2131
+phone,16507777600
+address,"188 SPEAR STREET, STE. 1000"
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,-449.13
+dcf,67.9518
+image,https://financialmodelingprep.com/image-stock/NEWR.png
+ipoDate,2014-12-12
+defaultImage,False

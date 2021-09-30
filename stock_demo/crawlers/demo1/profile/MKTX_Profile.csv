@@ -1,0 +1,33 @@
+,0
+symbol,MKTX
+price,527.3
+beta,0.51676
+volAvg,210956
+mktCap,20018153500
+lastDiv,2.4
+range,275.5-606.45
+changes,-7.51
+companyName,Marketaxess Holdings Inc
+currency,USD
+cik,0001278021
+isin,US57060D1081
+cusip,57060D108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Capital Markets
+website,https://www.marketaxess.com/
+description,"MarketAxess Holdings, Inc. operates as an electronic trading platform that allows investment industry professionals to trade corporate bonds and other types of fixed-income instruments. The company is headquartered in New York City, New York and currently employs 454 full-time employees. Institutional investor and broker-dealer firms are users of trading platform, accessing global liquidity in the United States corporate bonds, emerging markets and high-yield bonds, European bonds, the United States agency bonds, municipal bonds, credit default swaps and other fixed-income securities. Through Open Trading protocols, it executes trades in certain bonds between and among institutional investor and broker-dealer clients in a trading environment on a matched principal basis. The company offers trading-related products and services, including market data to assist clients with trading decisions; connectivity solutions that facilitate straight-through processing; technology services to optimize trading environments, and execution services for exchange-traded fund managers."
+ceo,Mr. Richard McVey
+sector,Financial Services
+country,US
+fullTimeEmployees,527
+phone,12128316000
+address,55 Hudson Yards Fl 15
+city,New York City
+state,NEW YORK
+zip,10001
+dcfDiff,-264.69
+dcf,565.197
+image,https://financialmodelingprep.com/image-stock/MKTX.png
+ipoDate,2004-11-05
+defaultImage,False

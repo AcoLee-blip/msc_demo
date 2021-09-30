@@ -1,0 +1,33 @@
+,0
+symbol,EIGR
+price,10.4
+beta,1.66795
+volAvg,506447
+mktCap,338329664
+lastDiv,0.0
+range,4.55-15.82
+changes,0.14
+companyName,Eiger BioPharmaceuticals Inc
+currency,USD
+cik,0001305253
+isin,US28249U1051
+cusip,28249U105
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.eigerbio.com/
+description,"Eiger BioPharmaceuticals, Inc is a clinical-stage biopharmaceutical company. The company is headquartered in Palo Alto, California and currently employs 24 full-time employees. The firm is focused on the development and commercialization of products for the treatment of orphan diseases. Its pipeline includes Sarasar (lonafarnib) for hepatitis delta virus (HDV), exendin (9-39) for severe hypoglycemia, and Bestatin (ubenimex) for pulmonary arterial hypertension (PAH) and lymphedema. Lonafarnib is an orally active inhibitor of farnesyl transferase that inhibits the prenylation step of HDV replication inside liver cells and blocks the ability of the virus to multiply. The company is conducting over three Phase II clinical trials, which include LOnafarnib With and without Ritonavir (LOWR) HDV-2 (Ankara, Turkey), LOWR HDV-3 (NIH) and LOWR HDV-4 (Hannover, Germany). Exendin is in Phase II clinical studies for the treatment of hypoglycemia associated with bariatric surgery. Ubenimex is in Phase II clinical studies for the treatment of PAH and lymphedema."
+ceo,Mr. David Cory
+sector,Healthcare
+country,US
+fullTimeEmployees,27
+phone,16502799845
+address,2155 Park Blvd
+city,Palo Alto
+state,CALIFORNIA
+zip,94306
+dcfDiff,
+dcf,11.508
+image,https://financialmodelingprep.com/image-stock/EIGR.png
+ipoDate,2014-01-30
+defaultImage,False

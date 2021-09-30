@@ -1,0 +1,33 @@
+,0
+symbol,VEEV
+price,264.92
+beta,0.92865
+volAvg,820018
+mktCap,39956824000
+lastDiv,0.0
+range,118.11-313.99
+changes,-9.15
+companyName,Veeva Systems Inc
+currency,USD
+cik,0001393052
+isin,US9224751084
+cusip,922475108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Health Information Services
+website,https://www.veeva.com/
+description,"Veeva Systems, Inc. provides industry-specific, cloud-based software solutions for the life sciences industry. The company is headquartered in Pleasanton, California and currently employs 2,553 full-time employees. The firm offers solutions for a range of requirements within life sciences companies, including multichannel customer relationship management, regulated content and information management, master data management and customer data. The firm offers solutions to areas, including the Veeva CRM family of applications for multichannel customer relationship management to enable coordinated and personalized customer engagement through multiple touch points; Veeva Vault for regulated content management and information management solutions to enable the management of content-centric processes; the Veeva Network master data management solutions for the management of customer master and product master data, and Veeva's data and data services offerings, including Veeva OpenData for customer reference data and Veeva KOL Data for data."
+ceo,Mr. Peter Gassner
+sector,Healthcare
+country,US
+fullTimeEmployees,3501
+phone,19252648887
+address,4280 Hacienda Dr
+city,Pleasanton
+state,CALIFORNIA
+zip,94588
+dcfDiff,-120.57
+dcf,297.842
+image,https://financialmodelingprep.com/image-stock/VEEV.png
+ipoDate,2013-10-16
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,PWFL
+price,6.9
+beta,1.84206
+volAvg,103147
+mktCap,214679008
+lastDiv,0.0
+range,2.55-8.5
+changes,0.11
+companyName,Powerfleet Inc
+currency,USD
+cik,0001774170
+isin,US73931J1097
+cusip,73931J109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.powerfleet.com/
+description,"PowerFleet, Inc. engages in the provision of fleet management solutions for logistics, industrial, and vehicles. The company is headquartered in Woodcliff Lake, New Jersey and currently employs 138 full-time employees. The firm focuses on three types business fleets: PowerFleet for Logistics, PowerFleet for industrial and PowerFleet for Automotive. The company provides technologies to control, track, analyze, and optimize various assets like forklifts, cargo, trailers and connected cars. Its PowerFleet IQ integrates the database of its kind, encompassing various forklift activity data points from different kind of material handling activity, across various industries."
+ceo,Mr. Chris Adam Wolfe
+sector,Technology
+country,US
+fullTimeEmployees,840
+phone,12019969000
+address,123 Tice Blvd
+city,Woodcliff Lake
+state,NEW JERSEY
+zip,07677
+dcfDiff,
+dcf,7.31069
+image,https://financialmodelingprep.com/image-stock/PWFL.png
+ipoDate,1999-06-30
+defaultImage,False

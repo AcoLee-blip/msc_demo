@@ -1,0 +1,33 @@
+,0
+symbol,CMCSA
+price,47.98
+beta,0.91033
+volAvg,17659820
+mktCap,219523858000
+lastDiv,0.9
+range,31.71-48.23
+changes,0.31
+companyName,Comcast Corp
+currency,USD
+cik,0001166691
+isin,US20030N1019
+cusip,20030N101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Entertainment
+website,https://corporate.comcast.com/
+description,"Comcast Corp. is a media, entertainment, and communications company, which engages in the provision of video, Internet, and phone services. The company is headquartered in Philadelphia, Pennsylvania and currently employs 184,000 full-time employees. The firm has two primary businesses: Comcast Cable and NBCUniversal. Its Comcast Cable business operates in the Cable Communications segment. Its NBCUniversal business operates in four business segments: Cable Networks, Broadcast Television, Filmed Entertainment and Theme Parks. Its Cable Communications segment consists of the operations of Comcast Cable, which provides video, high-speed Internet and voice services to residential customers under the XFINITY brand. Its Cable Networks segment consists of a portfolio of national cable networks. Its Broadcast Television segment operates the NBC and Telemundo broadcast networks. Its Filmed Entertainment segment primarily produces, acquires, markets and distributes filmed entertainment across the world, and it also develops, produces and licenses live stage plays. Its Theme Parks segment consists primarily of its Universal theme parks in Orlando, Florida and Hollywood, California."
+ceo,Mr. Brian Roberts
+sector,Communication Services
+country,US
+fullTimeEmployees,190000
+phone,12152861700
+address,1 Comcast Ctr
+city,Philadelphia
+state,PENNSYLVANIA
+zip,19103
+dcfDiff,89.99
+dcf,45.7131
+image,https://financialmodelingprep.com/image-stock/CMCSA.png
+ipoDate,2001-12-07
+defaultImage,False

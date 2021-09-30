@@ -1,0 +1,33 @@
+,0
+symbol,COMM
+price,9.86
+beta,1.7324
+volAvg,2835869
+mktCap,1958639620
+lastDiv,0.0
+range,5.5-15.21
+changes,0.065
+companyName,CommScope Holding Company Inc
+currency,USD
+cik,0001517228
+isin,US20337X1090
+cusip,20337X109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.commscope.com
+description,"CommScope Holding Co., Inc. engages in the provision of infrastructure solutions for communications networks. The company is headquartered in Hickory, North Carolina and currently employs 20,000 full-time employees. The firm operates through five segments: Connectivity Solutions (Connectivity), Mobility Solutions (Mobility), Customer Premises Equipment (CPE), Network & Cloud (N&C) and Ruckus Networks (Ruckus). The Connectivity segment provides fiber optic, copper cable and connectivity solutions. The Mobility segment provides the integral building blocks for cellular base station sites and related connectivity. The CPE segment offers broadband and video products. The N&C segment’s product solutions include cable modem termination system, video infrastructure, distribution and transmission equipment, and cloud solutions. The Ruckus segment provides converged wired and wireless local area network (LAN) networks for enterprises and service providers. Through its ARRIS International plc, it provides broadband, video and wireless technology."
+ceo,Mr. Marvin Edwards
+sector,Technology
+country,US
+fullTimeEmployees,30000
+phone,18283242200
+address,1100 Commscope Pl SE
+city,Hickory
+state,NORTH CAROLINA
+zip,28602
+dcfDiff,
+dcf,12.4283
+image,https://financialmodelingprep.com/image-stock/COMM.png
+ipoDate,2013-10-25
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,BOTJ
+price,10.67
+beta,1.12256
+volAvg,2806
+mktCap,46301824
+lastDiv,0.31
+range,8.0-16.15
+changes,0.01
+companyName,Bank of the James
+currency,USD
+cik,0001275101
+isin,US4702991088
+cusip,470299108
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Banks
+website,http://www.bankofthejames.com
+description,"Bank of the James Financial Group, Inc. is a bank holding company, which engages in the provision of general retail and commercial banking services. The company is headquartered in Lynchburg, Virginia and currently employs 121 full-time employees. The Bank is a Virginia banking corporation engaged in general retail and commercial banking business. The firm conducts two principal activities: general retail and commercial banking through the Bank and mortgage origination services through Bank of the James Mortgage, a division of the Bank. In addition, the Company provides securities brokerage services through BOTJ Investment, a division of the Bank and acts as an agent for insurance and annuity products through BOTJ Insurance, Inc. (BOTJ Insurance), a subsidiary of the Bank. Other services offered by the Bank include safe deposit boxes, traveler's checks, direct deposit of payroll and social security checks, automatic drafts for various accounts, treasury management services and credit card merchant services. The company also provides brokerage and investment services through the Bank's Investment division."
+ceo,Mr. Robert Chapman
+sector,Financial Services
+country,US
+fullTimeEmployees,155
+phone,14348462000
+address,828 Main St
+city,Lynchburg
+state,VIRGINIA
+zip,
+dcfDiff,-14.79
+dcf,19.1462
+image,https://financialmodelingprep.com/image-stock/BOTJ.png
+ipoDate,2000-07-14
+defaultImage,False

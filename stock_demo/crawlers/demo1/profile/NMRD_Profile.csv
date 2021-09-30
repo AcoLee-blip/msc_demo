@@ -1,0 +1,33 @@
+,0
+symbol,NMRD
+price,4.015
+beta,-0.55396
+volAvg,52030
+mktCap,91918200
+lastDiv,0.0
+range,2.5-16.5
+changes,0.175
+companyName,Nemaura Medical Inc
+currency,USD
+cik,0001602078
+isin,US6404422080
+cusip,640442208
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,http://www.nemauramedical.com/
+description,"Nemaura Medical, Inc. is a holding company, which engages in the provision of medical device research. The company is headquartered in New York City, New York and currently employs 8 full-time employees. The firm owns a diagnostic medical device company specializing in discovering, developing and commercializing specialty medical devices. The firm's focus is on the development of a continuous glucose monitoring (CGM) device, which consists of a disposable patch containing a sensor, and a non-disposable miniature electronic watch with a re-chargeable power source. CGM through a non-invasive patch can enable early detection of subtle changes in blood glucose levels. The Company, through its operating subsidiaries, performs medical device research and manufacturing of a CGM, named sugarBEAT. The sugarBEAT device is a non-invasive, wireless device for use by persons with Type I and Type II diabetes, and may also be used to screen pre-diabetic patients. The sugarBEAT device extracts analytes, such as glucose, to the surface of the skin in a non-invasive manner where it is measured using sensors and interpreted using an algorithm."
+ceo,Dr. Dewan Chowdhury
+sector,Healthcare
+country,US
+fullTimeEmployees,8
+phone,
+address,57 W 57th St
+city,New York City
+state,NEW YORK
+zip,10019
+dcfDiff,-1.03
+dcf,3.6351
+image,https://financialmodelingprep.com/image-stock/NMRD.png
+ipoDate,2014-11-04
+defaultImage,False

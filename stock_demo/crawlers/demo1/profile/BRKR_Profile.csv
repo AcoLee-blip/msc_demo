@@ -1,0 +1,33 @@
+,0
+symbol,BRKR
+price,47.33
+beta,1.23713
+volAvg,493413
+mktCap,7246601700
+lastDiv,0.16
+range,30.78-54.49
+changes,0.96
+companyName,Bruker Corp
+currency,USD
+cik,0001109354
+isin,US1167941087
+cusip,116794108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.bruker.com/
+description,"Bruker Corp. engages in the development, manufacture, and distribution of scientific instruments, and analytical and diagnostic solutions that enable customers to explore life and materials at microscopic, molecular, and cellular levels. The company is headquartered in Billerica, Massachusetts and currently employs 6,870 full-time employees. Its segments include the Bruker BioSpin Group; the Bruker Chemicals, Applied Markets, Life Science, In-Vitro Diagnostics, Detection (CALID) Group; the Bruker Nano Group, and the Bruker Energy & Supercon Technologies (BEST) Segment. The Bruker BioSpin Group segment designs, manufactures and distributes enabling life science tools. The Bruker CALID segment designs, manufactures and distributes life science mass spectrometry instruments that can be integrated and used along with other sample preparation or chromatography instruments, as well as chemical, biological, radiological, nuclear and explosive detection products. The Bruker Nano segment designs, manufactures and distributes spectroscopy and microscopy instruments. The BEST segment develops and manufactures superconducting and non-superconducting materials and devices. The company also focuses on nanomechanical testing instruments."
+ceo,Dr. Frank Laukien
+sector,Healthcare
+country,US
+fullTimeEmployees,7230
+phone,19786633660
+address,40 MANNING RD
+city,Billerica
+state,MASSACHUSETTS
+zip,01821
+dcfDiff,-25.47
+dcf,45.6314
+image,https://financialmodelingprep.com/image-stock/BRKR.png
+ipoDate,2000-08-04
+defaultImage,False

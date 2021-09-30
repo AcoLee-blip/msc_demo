@@ -1,0 +1,33 @@
+,0
+symbol,TCON
+price,7.62
+beta,1.09936
+volAvg,1731530
+mktCap,104278176
+lastDiv,0.0
+range,0.95-7.95
+changes,0.68
+companyName,TRACON Pharmaceuticals Inc
+currency,USD
+cik,0001394319
+isin,US89237H2094
+cusip,89237H209
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.traconpharma.com/
+description,"TRACON Pharmaceuticals, Inc. engages in the development and commercialization of targeted therapies for cancer, ophthalmic, and fibrotic diseases. The company is headquartered in San Diego, California and currently employs 26 full-time employees. The firm is focused on the development and commercialization of therapeutics for cancer, wet age-related macular degeneration (wet AMD) and fibrotic diseases. The firm's research focuses on antibodies that bind to the endoglin receptor, which is essential to angiogenesis (the process of new blood vessel formation) and a contributor to fibrosis (tissue scarring). The firm's lead product candidate, TRC105, is an endoglin antibody that is being developed for the treatment of multiple solid tumor types in combination with inhibitors of the vascular endothelial growth factor (VEGF) pathway. TRC205 is being developed for the treatment of fibrotic disease. The firm is also developing TRC102, a small molecule that is in clinical development for the treatment of lung cancer and glioblastoma."
+ceo,DR. Charles Theuer
+sector,Healthcare
+country,US
+fullTimeEmployees,19
+phone,18585500780
+address,4350 La Jolla Village Dr Ste 800
+city,San Diego
+state,CALIFORNIA
+zip,92122
+dcfDiff,-11.49
+dcf,9.78883
+image,https://financialmodelingprep.com/image-stock/TCON.png
+ipoDate,2015-01-30
+defaultImage,False

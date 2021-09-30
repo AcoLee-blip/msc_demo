@@ -1,0 +1,33 @@
+,0
+symbol,CCI
+price,166.95
+beta,0.27243
+volAvg,1706320
+mktCap,72005198000
+lastDiv,4.8
+range,114.18-180.0
+changes,2.31
+companyName,Crown Castle International Corp
+currency,USD
+cik,0001051470
+isin,US22822V1017
+cusip,22822V101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Specialty
+website,http://www.crowncastle.com/
+description,"Crown Castle International Corp. is a real estate investment trust company, which engages in the provision of access to wireless infrastructure via long-term contacts. The company is headquartered in Houston, Texas and currently employs 5,000 full-time employees. The firm's segments include towers and small cells. As of December 31, 2016, it had approximately 40,000 towers and other structures, such as rooftops (collectively towers) and approximately 26,500 route miles of fiber (collectively small cells, and together with towers, wireless infrastructure). The towers segment provides access, including space or capacity to its towers, which are geographically dispersed throughout the United States. The towers segment also reflects certain network services relating to its towers. As of December 31, 2016, the small cells segment provided access, including space or capacity, to the Company's approximately 17,000 route miles of fiber primarily supporting small cell networks. The small cells segment also offers fiber-based solutions."
+ceo,Mr. Jay Brown
+sector,Real Estate
+country,US
+fullTimeEmployees,5100
+phone,17135703000
+address,1220 Augusta Dr Ste 600
+city,Houston
+state,TEXAS
+zip,77057
+dcfDiff,576.39
+dcf,164.259
+image,https://financialmodelingprep.com/image-stock/CCI.png
+ipoDate,2001-04-25
+defaultImage,False

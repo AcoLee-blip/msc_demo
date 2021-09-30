@@ -1,0 +1,33 @@
+,0
+symbol,ONVO
+price,9.31
+beta,0.95317
+volAvg,129727
+mktCap,62675760
+lastDiv,0.0
+range,3.8-18.6
+changes,0.16
+companyName,Organovo Holdings Inc
+currency,USD
+cik,0001497253
+isin,US68620A1043
+cusip,68620A104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://organovo.com/
+description,"Organovo Holdings, Inc. engages in the development of bioprinted human tissues that emulate human biology and disease. The company is headquartered in San Diego, California and currently employs 61 full-time employees. The firm focuses on the generation of three-dimensional (3D) human tissues, by utilizing its platform technology to create human tissue constructs in 3D. The company is focused on development of products, including 3D human tissues used for the preclinical assessment of drug effects, including applications in predictive toxicology, absorption, distribution, metabolism, excretion (ADME), and drug metabolism and pharmacokinetics (DMPK); customized human tissues as living, dynamic models of human biology or disease, for use in drug discovery and development, and three-dimensional human tissues for clinical applications, such as blood vessels for bypass grafting, nerve grafts for nerve damage repair and functional tissue patches for the repair or replacement of damaged tissues and organs."
+ceo,Mr. Taylor Crouch
+sector,Healthcare
+country,US
+fullTimeEmployees,6
+phone,18582241000
+address,"440 Stevens Avenue, Suite 200"
+city,Solana Beach
+state,CALIFORNIA
+zip,92075
+dcfDiff,-1.01
+dcf,11.0212
+image,https://financialmodelingprep.com/image-stock/ONVO.png
+ipoDate,2013-08-02
+defaultImage,False

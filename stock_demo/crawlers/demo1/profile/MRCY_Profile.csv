@@ -1,0 +1,33 @@
+,0
+symbol,MRCY
+price,69.27
+beta,1.00126
+volAvg,288829
+mktCap,3879389950
+lastDiv,0.0
+range,52.24-96.29
+changes,0.94
+companyName,Mercury Systems Inc
+currency,USD
+cik,0001049521
+isin,US5893781089
+cusip,589378108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Aerospace & Defense
+website,https://www.mrcy.com/
+description,"Mercury Systems, Inc. engages in the provision of secure sensor and safety critical mission processing subsystems. The company is headquartered in Andover, Massachusetts and currently employs 1,756 full-time employees. The firm's solutions support a range of defense and intelligence programs. Its technologies include embedded processing modules and subsystems, radio frequency (RF) and microwave multi-function assemblies, as well as subsystems, and RF and microwave components. The company designs and builds RF and microwave components and subsystems for the electronic warfare (EW), signals intelligence (SIGINT) and other communications requirements and applications. The company offers analyst services and systems engineering support, consulting, maintenance and other support, testing and installation. The company designs, markets and sells software and middleware environments for the development and execution of signal and image processing applications on a range of heterogeneous and multi-computing platforms. The company also offers solutions in mission computing, safety-critical avionics and platform management."
+ceo,Mr. Mark Aslett
+sector,Industrials
+country,US
+fullTimeEmployees,1884
+phone,19782561300
+address,50 Minuteman Rd
+city,Andover
+state,MASSACHUSETTS
+zip,01810
+dcfDiff,-54.71
+dcf,80.6057
+image,https://financialmodelingprep.com/image-stock/MRCY.png
+ipoDate,1998-01-30
+defaultImage,False

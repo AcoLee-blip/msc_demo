@@ -1,0 +1,33 @@
+,0
+symbol,FIT
+price,7.125
+beta,0.75792
+volAvg,4456778
+mktCap,1941334530
+lastDiv,0.0
+range,5.85-7.15
+changes,0.035
+companyName,Fitbit Inc
+currency,USD
+cik,0001447599
+isin,US33812L1026
+cusip,33812L102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Scientific & Technical Instruments
+website,https://www.fitbit.com
+description,"Fitbit, Inc. engages in the development of wearable device which tracks data of an individual's health. The company is headquartered in San Francisco, California and currently employs 1,625 full-time employees. The firm's platform combines connected health and fitness devices with software and services, including an online dashboard and mobile applications, data analytics, motivational and social tools, personalized insights and virtual coaching through customized fitness plans and interactive workouts. The company offers various fitness devices, including Fitbit Zip, Fitbit One, Fitbit Flex, Fitbit Flex 2, Fitbit Charge, Fitbit Charge 2, Fitbit Blaze, Fitbit Charge HR, Fitbit Surge, Fitbit Accessories and Aria. Its platform includes wearable connected health and fitness trackers, which are wrist-based and clippable devices that automatically track users daily steps, calories burned, distance traveled, and active minutes and display real-time feedback. Its trackers also measure sleep duration and quality, and its products track heart rate and global positioning system-based information. The company also offers a wireless fidelity connected scale."
+ceo,Mr. James Park
+sector,Technology
+country,US
+fullTimeEmployees,1714
+phone,14155131000
+address,199 Fremont St Fl 14
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,
+dcf,8.25895
+image,https://financialmodelingprep.com/image-stock/FIT.jpg
+ipoDate,2015-06-18
+defaultImage,True

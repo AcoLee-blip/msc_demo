@@ -1,0 +1,33 @@
+,0
+symbol,QLYS
+price,92.42
+beta,0.73765
+volAvg,370189
+mktCap,3605914110
+lastDiv,0.0
+range,63.37-125.22
+changes,1.95
+companyName,Qualys Inc
+currency,USD
+cik,0001107843
+isin,US74758T3032
+cusip,74758T303
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.qualys.com/
+description,"Qualys, Inc. engages in the provision of cloud security and compliance solutions. The company is headquartered in Foster City, California and currently employs 1,194 full-time employees. The firm's solutions enable organizations to identify security risks to their information technology (IT) infrastructures, help protect their IT systems and applications from cyber-attacks. Its suite of security and compliance solutions delivered on its Qualys Cloud Platform enables its customers to identify their IT assets, collect and analyze IT security data, discover and prioritize vulnerabilities, recommend remediation actions and verify the implementation of such actions. Its Qualys Cloud Platform consists of a suite of IT security and compliance solutions. The Qualys Cloud Suite includes solutions, such as Vulnerability Management, Continuous Monitoring, Cloud Agent, AssetView, ThreatPROTECT, Policy Compliance, Payment Card Industry Compliance, Security Assessment Questionnaire, Web Application Scanning and Web Application Firewall. The company provides its solutions through a software-as-a-service model."
+ceo,Mr. Philippe Courtot
+sector,Technology
+country,US
+fullTimeEmployees,1289
+phone,16508016100
+address,919 E Hillsdale Blvd
+city,Foster City
+state,CALIFORNIA
+zip,94404
+dcfDiff,
+dcf,100.598
+image,https://financialmodelingprep.com/image-stock/QLYS.png
+ipoDate,2012-09-28
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,DNB
+price,27.29
+beta,0.889694
+volAvg,1000813
+mktCap,11544734700
+lastDiv,0.0
+range,23.585-29.548
+changes,0.27
+companyName,Dun & Bradstreet Holdings Inc
+currency,USD
+cik,0001799208
+isin,US26484T1060
+cusip,26484T106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Business Services
+website,
+description,"Dun & Bradstreet Holdings Inc. is a global provider of business decisioning data and analytics. The Company’s clients embed its end-to-end solutions into their daily workflows to inform commercial credit decisions, confirm suppliers are financially viable and compliant with laws and regulations and gain visibility into key markets. Its solutions support its clients' mission critical business operations by providing curated data and analytics to help drive informed decisions and improved outcomes. It offers Finance and Risk, and Sales and Marketing solutions. The Company provides access to longitudinal curated data and is a trusted source for reliable information about both public and private businesses. It has established an identifier that creates a single thread connecting related corporate entities allowing its clients to form a holistic view of an enterprise. The identifier is referred as the D-U-N-S Number and is a corporate fingerprint or Social Security Number of businesses."
+ceo,None
+sector,Industrials
+country,US
+fullTimeEmployees,4037
+phone,19739215500
+address,103 Jfk Parkway
+city,Short Hills
+state,NEW JERSEY
+zip,
+dcfDiff,-137.89
+dcf,26.9472
+image,https://financialmodelingprep.com/image-stock/DNB.jpg
+ipoDate,2020-06-30
+defaultImage,True

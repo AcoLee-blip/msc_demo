@@ -1,0 +1,33 @@
+,0
+symbol,CEF
+price,18.59
+beta,0.19473
+volAvg,852661
+mktCap,3621945340
+lastDiv,0.0
+range,11.95-21.47
+changes,0.04
+companyName,Sprott Physical Gold and Silver Trust
+currency,USD
+cik,0001726122
+isin,CA85208R1010
+cusip,85208R101
+exchange,NYSE Arca
+exchangeShortName,NYSE
+industry,Asset Management
+website,http://www.sprott.com/investment-strategies/physical-bullion-trusts/gold-and-silver/
+description,"Sprott Physical Gold and Silver Trust is a Canada-based closed-end mutual fund trust. The Trust invest and hold substantially assets in physical gold and silver bullion. The investment objective of the Trust is a provision of secure, convenient and exchange-traded investment alternative for investors interested in holding physical gold and silver bullion."
+ceo,None
+sector,Financial Services
+country,CA
+fullTimeEmployees,0
+phone,14169453279
+address,"Royal Bank Plaza, South Tower, 200 Bay Street, Suite 2700"
+city,TORONTO
+state,ONTARIO
+zip,
+dcfDiff,
+dcf,19.2107
+image,https://financialmodelingprep.com/image-stock/CEF.png
+ipoDate,2018-01-18
+defaultImage,False

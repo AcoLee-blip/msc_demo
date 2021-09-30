@@ -1,0 +1,33 @@
+,0
+symbol,CONE
+price,71.87
+beta,0.55453
+volAvg,940163
+mktCap,8654800900
+lastDiv,2.01
+range,43.72-86.77
+changes,-0.71
+companyName,CyrusOne Inc
+currency,USD
+cik,0001553023
+isin,US23283R1005
+cusip,23283R100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,REIT Specialty
+website,http://investor.cyrusone.com/
+description,"CyrusOne, Inc. is a real estate investment trust, which specializes in the enterprise-class, carrier-neutral data center properties. The company is headquartered in Dallas, Texas and currently employs 448 full-time employees. The firm is an owner, operator and developer of enterprise-class, carrier-neutral, multi-tenant data center properties. The firm's data centers are generally purpose-built facilities with redundant power and cooling. The CyrusOne National IX Platform (the National IX Platform) delivers interconnection across states and between metro-enabled sites within its footprint and beyond. The firm has data centers in the United States, London and Singapore. As of December 31, 2016, the Company provided mission-critical data center facilities for 932 customers in 35 data centers and two recovery centers in 11 distinct markets (nine cities in the United States, London and Singapore) with approximately 3,904,000 net rentable square feet (NRSF). The firm provides round the clock security guard monitoring with customizable security features. As of December 31, 2016, the Company had approximately 1,657,000 NRSF under development."
+ceo,Mr. Venkatesh Durvasula
+sector,Real Estate
+country,US
+fullTimeEmployees,452
+phone,19723500060
+address,"2850 N HARWOOD ST, SUITE 2200"
+city,Dallas
+state,TEXAS
+zip,75201
+dcfDiff,
+dcf,76.9891
+image,https://financialmodelingprep.com/image-stock/CONE.png
+ipoDate,2013-01-16
+defaultImage,False

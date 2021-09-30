@@ -1,0 +1,33 @@
+,0
+symbol,NYMT
+price,2.935
+beta,1.86236
+volAvg,3205289
+mktCap,1121572100
+lastDiv,0.325
+range,0.98-6.47
+changes,0.035
+companyName,New York Mortgage Trust Inc
+currency,USD
+cik,0001273685
+isin,US6496045013
+cusip,649604501
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,REIT Mortgage
+website,http://www.nymtrust.com/
+description,"New York Mortgage Trust, Inc. is a real estate investment trust, which engages in the acquisition, investment, finance and management of mortgage-related and residential housing-related assets. The company is headquartered in New York City, New York and currently employs 36 full-time employees. The firm is engaged in the business of acquiring, investing in, financing and managing primarily mortgage-related assets and financial assets. The firm's investment portfolio includes residential mortgage loans, including second mortgages and loans sourced from distressed markets, non-agency residential mortgage-backed securities (RMBS), multi-family commercial mortgage-backed securities, preferred equity and joint venture equity investments in, and mezzanine loans to, owners of multi-family properties, equity and debt securities issued by entities that invest in residential and commercial real estate and agency RMBS. The company may acquire and manage various other types of mortgage-related and financial assets, including, without limitation, collateralized mortgage obligations and securities issued by newly originated residential securitizations, including credit sensitive securities from these securitizations."
+ceo,Mr. Steven Mumma
+sector,Real Estate
+country,US
+fullTimeEmployees,55
+phone,12127920107
+address,90 Park Ave
+city,New York City
+state,NEW YORK
+zip,10016
+dcfDiff,-85.76
+dcf,3.28845
+image,https://financialmodelingprep.com/image-stock/NYMT.jpg
+ipoDate,2004-06-24
+defaultImage,True

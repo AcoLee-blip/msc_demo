@@ -1,0 +1,33 @@
+,0
+symbol,AIRG
+price,12.96
+beta,1.43998
+volAvg,61333
+mktCap,126592760
+lastDiv,0.0
+range,5.63-14.96
+changes,-0.29
+companyName,Airgain Inc
+currency,USD
+cik,0001272842
+isin,US00938A1043
+cusip,00938A104
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.airgain.com/
+description,"Airgain, Inc. provides embedded antenna products, integration support and test services. The company is headquartered in San Diego, California and currently employs 118 full-time employees. The firm's antennas are found in devices deployed in carrier, enterprise and residential wireless networks and systems, including set top boxes, access points, routers, gateways and digital televisions. The company offers six product lines, including MaxBeam High Gain Embedded Antennas, Profile Embedded Antennas, Profile Contour Embedded Antennas, Ultra Embedded Antennas, OmniMax High Performance External Antennas and MaxBeam Carrier Class Antennas. The Company, through its design, integration and testing of embedded antenna technology, provides its technology to the residential wireless local area network, wireless fidelity and antenna market, and also supplies to carriers, original equipment manufacturers, original design manufacturers and system designers. The firm supplies its products in the United States, Europe, Canada and Asia."
+ceo,Mr. Jacob Suen
+sector,Technology
+country,US
+fullTimeEmployees,126
+phone,17605790200
+address,3611 Valley Centre Dr Ste 150
+city,San Diego
+state,CALIFORNIA
+zip,92130
+dcfDiff,-16.21
+dcf,14.657
+image,https://financialmodelingprep.com/image-stock/AIRG.png
+ipoDate,2016-08-11
+defaultImage,False

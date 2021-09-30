@@ -1,0 +1,33 @@
+,0
+symbol,AXTI
+price,7.69
+beta,1.95664
+volAvg,732786
+mktCap,317596992
+lastDiv,0.0
+range,1.85-7.9
+changes,0.59
+companyName,AXT Inc
+currency,USD
+cik,0001051627
+isin,US00246W1036
+cusip,00246W103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.axt.com/
+description,"AXT, Inc. engages in the design, development, manufacture, and distribution of compound and single element semiconductor substrates. The company is headquartered in Fremont, California and currently employs 781 full-time employees. The dominant substrates used in producing semiconductor chips and other electronic circuits are made from silicon. The firm is engaged in the design, development, manufacture and distribution of compound semiconductor substrates and sale of materials. The firm provides alternative or specialty materials in the form of substrates or wafers, including compound and single element substrates. It's compound substrates combine indium with phosphorous (InP) or gallium with arsenic (GaAs). Its single element substrates are made from germanium (Ge). The firm uses its Vertical Gradient Freeze (VGF) technique for growing single crystal Indium Phosphide (InP), Gallium Arsenide (GaAs) and Germanium (Ge) ingots used to produce wafers for diverse electronic and optoelectronic device and circuit applications."
+ceo,Dr. Morris Young
+sector,Technology
+country,US
+fullTimeEmployees,731
+phone,15104384734
+address,4281 Technology Dr
+city,Fremont
+state,CALIFORNIA
+zip,94538
+dcfDiff,
+dcf,6.74103
+image,https://financialmodelingprep.com/image-stock/AXTI.jpg
+ipoDate,1998-05-21
+defaultImage,True

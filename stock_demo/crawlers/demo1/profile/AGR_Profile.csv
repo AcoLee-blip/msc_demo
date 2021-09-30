@@ -1,0 +1,33 @@
+,0
+symbol,AGR
+price,50.51
+beta,0.31808
+volAvg,585384
+mktCap,15607841800
+lastDiv,1.76
+range,35.62-57.24
+changes,-0.93
+companyName,Avangrid Inc
+currency,USD
+cik,0001634997
+isin,US05351W1036
+cusip,05351W103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated Electric
+website,https://www.avangrid.com/
+description,"Avangrid, Inc. engages in the energy transmission and gas distribution. The company is headquartered in Orange, Connecticut and currently employs 6,449 full-time employees. The firm operates through two segments: Networks and Renewables. The Networks segment includes all the energy transmission and distribution activities, and any other regulated activity originating in New York and Maine, and regulated electric distribution, electric transmission and gas distribution activities originating in Connecticut and Massachusetts. The Renewables segment owns, develops, constructs and operates electricity generation, including renewable and thermal generators, and associated transmission facilities. The Renewables segment includes activities relating to renewable energy, mainly wind energy generation and trading related with such activities."
+ceo,Mr. Robert Kump
+sector,Utilities
+country,US
+fullTimeEmployees,6597
+phone,12076291128
+address,180 Marsh Hill Rd
+city,Orange
+state,CONNECTICUT
+zip,06477
+dcfDiff,
+dcf,50.8751
+image,https://financialmodelingprep.com/image-stock/AGR.png
+ipoDate,2015-12-17
+defaultImage,False

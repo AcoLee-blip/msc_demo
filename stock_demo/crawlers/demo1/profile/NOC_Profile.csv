@@ -1,0 +1,33 @@
+,0
+symbol,NOC
+price,312.04
+beta,0.75887
+volAvg,821681
+mktCap,52022063000
+lastDiv,5.54
+range,263.31-385.01
+changes,5.81
+companyName,Northrop Grumman Corp
+currency,USD
+cik,0001133421
+isin,US6668071029
+cusip,666807102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Aerospace & Defense
+website,http://www.northropgrumman.com/
+description,"Northrop Grumman Corp. engages in the provision of security businesses. The company is headquartered in Falls Church, Virginia and currently employs 85,000 full-time employees. The firm provides products, systems and solutions in autonomous systems; cyber; command, control, communications and computers, intelligence, surveillance and reconnaissance (C4ISR); strike, and logistics and modernization. The firm's segments include Aerospace Systems, Mission Systems and Technology Services. The firm's Aerospace Systems segment is engaged in the design, development, integration and production of manned aircraft, autonomous systems, spacecraft, high-energy laser systems, microelectronics and other systems/subsystems. The Mission Systems segment offers mission solutions and multifunction systems for Department of Defense (DoD), intelligence community, international, federal civil and commercial customers. The Technology Services segment provides logistics solutions supporting the full life cycle of platforms and systems for global defense and federal-civil customers."
+ceo,Ms. Kathy Warden
+sector,Industrials
+country,US
+fullTimeEmployees,90000
+phone,17032802900
+address,2980 Fairview Park Dr
+city,Falls Church
+state,VIRGINIA
+zip,22042
+dcfDiff,48.55
+dcf,321.576
+image,https://financialmodelingprep.com/image-stock/NOC.png
+ipoDate,1951-12-10
+defaultImage,False

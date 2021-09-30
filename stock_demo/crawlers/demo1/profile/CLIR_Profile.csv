@@ -1,0 +1,33 @@
+,0
+symbol,CLIR
+price,2.38
+beta,1.04004
+volAvg,164607
+mktCap,69778744
+lastDiv,0.0
+range,0.35-4.11
+changes,0.05
+companyName,Clearsign Technologies Corp
+currency,USD
+cik,0001434524
+isin,US1850641028
+cusip,185064102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Pollution & Treatment Controls
+website,https://www.clearsign.com/
+description,"ClearSign Technologies Corp. engages in the design and development of technologies for the combustion systems. The company is headquartered in Tukwila, Washington and currently employs 16 full-time employees. The firm's Duplex and Electrodynamic Combustion Control (ECC) platform technologies manage the performance of combustion systems in a range of markets, including the energy (upstream oil production and down-stream refining), commercial/industrial boiler, chemical, petrochemical, and power industries. The firm's Duplex technology uses a porous ceramic tile above a standard burner to reduce flame length and achieve low emissions without the need for external flue gas recirculation, catalytic reduction, or air systems. The firm's ECC technology offers a computer-controlled voltage electric field into a combustion volume in order to control gas-phase chemical reactions and manage system performance."
+ceo,Dr. Colin Deller
+sector,Industrials
+country,US
+fullTimeEmployees,15
+phone,12066734848
+address,12870 Interurban Ave S
+city,Tukwila
+state,WASHINGTON
+zip,98168
+dcfDiff,-1.06
+dcf,2.76029
+image,https://financialmodelingprep.com/image-stock/CLIR.png
+ipoDate,2012-04-25
+defaultImage,False

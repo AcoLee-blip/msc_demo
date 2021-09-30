@@ -1,0 +1,33 @@
+,0
+symbol,EXC
+price,42.7
+beta,0.50123
+volAvg,5906286
+mktCap,41656922000
+lastDiv,1.8945
+range,29.28-50.54
+changes,0.3825
+companyName,Exelon Corp
+currency,USD
+cik,0001109357
+isin,US30161N1019
+cusip,30161N101
+exchange,New York Stock Exchange
+exchangeShortName,NASDAQ
+industry,Utilities Diversified
+website,http://www.exeloncorp.com/
+description,"Exelon Corp. operates as a utility services holding company, which engages in the energy generation, power marketing, and energy delivery business. The company is headquartered in Chicago, Illinois and currently employs 33,383 full-time employees. The Company, through its subsidiary, Exelon Generation Company, LLC (Generation), is engaged in the energy generation business. The Company, through its subsidiaries, Commonwealth Edison Company (ComEd), PECO Energy Company (PECO), Baltimore Gas and Electric Company (BGE), Pepco Holdings LLC (PHI), Potomac Electric Power Company (Pepco), Delmarva Power & Light Company (DPL) and Atlantic City Electric Company (ACE), is engaged in the energy delivery businesses. The company operates through 12 segments: Generation's six segments: Mid-Atlantic, Midwest, New England, New York, ERCOT and Other Power Regions; ComEd; PECO; BGE, and PHI's three utility segments: Pepco, DPL and ACE. Generation's integrated business consists of the generation, physical delivery and marketing of power across geographical regions through its customer-facing business, Constellation, which sells electricity and natural gas to both wholesale and retail customers."
+ceo,Mr. Christopher Crane
+sector,Utilities
+country,US
+fullTimeEmployees,32713
+phone,13123947399
+address,PO Box 805398
+city,Chicago
+state,ILLINOIS
+zip,60680
+dcfDiff,
+dcf,42.7427
+image,https://financialmodelingprep.com/image-stock/EXC.png
+ipoDate,1943-07-06
+defaultImage,False

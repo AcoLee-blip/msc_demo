@@ -1,0 +1,33 @@
+,0
+symbol,OMER
+price,11.55
+beta,1.63827
+volAvg,1132430
+mktCap,712084100
+lastDiv,0.0
+range,8.5-25.46
+changes,0.5
+companyName,Omeros Corp
+currency,USD
+cik,0001285819
+isin,US6821431029
+cusip,682143102
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.omeros.com
+description,"Omeros Corp. operates as a biopharmaceutical company. The company is headquartered in Seattle, Washington and currently employs 236 full-time employees. The firm is engaged in discovering, developing and commercializing small-molecule and protein therapeutics for large-market as well as orphan indications targeting inflammation, complement-mediated diseases and disorders of the central nervous system. The Company’s drug product OMIDRIA (phenylephrine and ketorolac intraocular solution) is used during cataract surgery or intraocular lens (IOL) replacement. The Company’s clinical-stage development programs are focused on complement-associated thrombotic microangiopathies, complement-mediated glomerulonephropathies, Huntington’s disease and cognitive impairment, and addictive and compulsive disorders. The company also offers a diverse group of preclinical programs and platforms that are used to unlock new G protein-coupled receptor (GPCR) drug targets and to generate antibodies."
+ceo,Dr. Gregory Demopulos
+sector,Healthcare
+country,US
+fullTimeEmployees,258
+phone,12066765000
+address,201 Elliott Ave W
+city,Seattle
+state,WASHINGTON
+zip,98119
+dcfDiff,
+dcf,11.2126
+image,https://financialmodelingprep.com/image-stock/OMER.png
+ipoDate,2009-10-08
+defaultImage,False

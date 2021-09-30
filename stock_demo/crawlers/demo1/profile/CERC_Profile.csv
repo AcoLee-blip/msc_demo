@@ -1,0 +1,33 @@
+,0
+symbol,CERC
+price,2.22
+beta,1.6769
+volAvg,305275
+mktCap,169091184
+lastDiv,0.0
+range,1.52-6.19
+changes,0.04
+companyName,Cerecor Inc
+currency,USD
+cik,0001534120
+isin,US15671L1098
+cusip,15671L109
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.cerecor.com
+description,"Cerecor, Inc. engages in the development and commercialization of treatments for rare pediatric and orphan diseases. The company is headquartered in Rockville, Maryland and currently employs 64 full-time employees. The firm is engaged in developing drug candidates for patients with neurological and psychiatric disorders. The firm has a portfolio of clinical and preclinical compounds that it is developing for a range of indications, including CERC-301, which is an adjunctive treatment for major depressive disorder (MDD); CERC-501, which is for substance use disorders and adjunctive treatment of MDD, and CERC-406, which is for the treatment of cognitive impairment. The firm owns the rights to its COMTi platform. Catechol O methyltransferase (COMT) is an enzyme critical for the inactivation and metabolism of dopamine and its inhibition in the brain has applicability in treating subjects with neuropsychiatric conditions, including MDD, schizophrenia, Parkinson's disease and pathological gambling. Its COMTi platform comprises COMT inhibitors with selectivity for membrane bound COMT, which is the dominant form of COMT."
+ceo,Mr. Michael Cola
+sector,Healthcare
+country,US
+fullTimeEmployees,18
+phone,14105228707
+address,540 Gaither Rd Ste 400
+city,Rockville
+state,MARYLAND
+zip,20850
+dcfDiff,-5.7
+dcf,2.38396
+image,https://financialmodelingprep.com/image-stock/CERC.png
+ipoDate,2015-11-13
+defaultImage,False

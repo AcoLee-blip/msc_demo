@@ -1,0 +1,33 @@
+,0
+symbol,WORX
+price,1.1
+beta,3.49569
+volAvg,2902067
+mktCap,10439638
+lastDiv,0.0
+range,1.0-14.88
+changes,-0.01
+companyName,Scworx Corp
+currency,USD
+cik,0001674227
+isin,US78396V1098
+cusip,78396V109
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.scworx.com/
+description,"SCWorx Corp. develops software for healthcare providers. The company is headquartered in New York City, New York and currently employs 2 full-time employees. Its platform provides data content and services related to the repair, normalization and interoperability of information for healthcare providers and big data analytics. The company has developed and markets health information technology solutions and associated services that improve healthcare processes and information flow within hospitals. Its software platform enables healthcare providers to simplify, repair, and organize its data, allows the data to be utilized across multiple internal software applications and provides the basis for sophisticated data analytics. Its software modules are engaged in performing various functions, which includes virtualized item master file repair, expansion and automation, contract management, request for proposal automation, rdata integration and warehousing, and charge description master (CDM) management."
+ceo,Mr. Marc S. Schessel
+sector,Healthcare
+country,US
+fullTimeEmployees,4
+phone,12127397825
+address,590 Madison Ave
+city,New York City
+state,NEW YORK
+zip,10022
+dcfDiff,
+dcf,1.4179
+image,https://financialmodelingprep.com/image-stock/WORX.png
+ipoDate,2016-10-06
+defaultImage,False

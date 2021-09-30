@@ -1,0 +1,33 @@
+,0
+symbol,TRMB
+price,58.07
+beta,1.43948
+volAvg,1027990
+mktCap,14527720400
+lastDiv,0.0
+range,20.01-60.32
+changes,1.18
+companyName,Trimble Inc
+currency,USD
+cik,0000864749
+isin,US8962391004
+cusip,896239100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,https://www.trimble.com/
+description,"Trimble, Inc. engages in the provision of positioning technology solutions. The company is headquartered in Sunnyvale, California and currently employs 11,287 full-time employees. The Company’s solutions are used across a range of industries, including agriculture, architecture, civil engineering, survey and land administration, construction, geospatial, government, natural resources, transportation and utilities. The firm's business segments include Building and Infrastructure, Geospatial, Resource and utilities and Transportation. The Buildings and Infrastructure segment serves customers working in architecture, engineering, construction and operations and maintenance. The Geospatial segment primarily serves customers working in surveying, engineering, government and land management. The Resources and Utilities segment serves customers working in agriculture, forestry, and utilities. The Transportation segment serves customers working in transportation."
+ceo,Mr. Robert Painter
+sector,Technology
+country,US
+fullTimeEmployees,11484
+phone,14084818000
+address,935 Stewart Dr
+city,Sunnyvale
+state,CALIFORNIA
+zip,94085
+dcfDiff,
+dcf,51.4881
+image,https://financialmodelingprep.com/image-stock/TRMB.png
+ipoDate,1990-07-20
+defaultImage,False

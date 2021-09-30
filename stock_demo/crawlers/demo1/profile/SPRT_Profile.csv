@@ -1,0 +1,33 @@
+,0
+symbol,SPRT
+price,1.91
+beta,0.82696
+volAvg,173849
+mktCap,37012936
+lastDiv,1.0
+range,0.93-2.45
+changes,-0.04
+companyName,Support.com Inc
+currency,USD
+cik,0001104855
+isin,US86858W2008
+cusip,86858W200
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.support.com
+description,"Support.com, Inc. engages in the provision of technical support services and cloud-based software. The company is headquartered in Wilmington, Delaware and currently employs 2,035 full-time employees. The firm offers outsourced support services for service providers, retailers, Internet of Things (IoT) solution providers and technology companies. The company offers technology support services programs for both the consumer and small business markets, and includes computer and mobile device set-up, security and support, virus and malware removal, wireless network set-up, and home security and automation system support. Its cloud-based offering, Nexus, is a software-as-a-service solution for companies to support interactions with their customers. Its end user software products are designed to maintain, optimize and secure computers and mobile devices. Its principal software products include products designed for malware protection and removal (SUPERAntiSpyware); personal computer (PC), smartphone and tablet maintenance and optimization (Cosmos), and PC registry cleaning and repair (ARO)."
+ceo, Joshua Pickus
+sector,Technology
+country,US
+fullTimeEmployees,1231
+phone,16505569440
+address,1521 Concord Pike Ste 301
+city,Wilmington
+state,DELAWARE
+zip,94089
+dcfDiff,
+dcf,532.279
+image,https://financialmodelingprep.com/image-stock/SPRT.png
+ipoDate,2000-07-19
+defaultImage,False

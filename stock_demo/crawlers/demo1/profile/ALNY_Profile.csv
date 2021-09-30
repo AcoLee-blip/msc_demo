@@ -1,0 +1,33 @@
+,0
+symbol,ALNY
+price,132.44
+beta,1.5163
+volAvg,490264
+mktCap,15387012100
+lastDiv,0.0
+range,84.97-167.33
+changes,3.35
+companyName,Alnylam Pharmaceuticals Inc
+currency,USD
+cik,0001178670
+isin,US02043Q1076
+cusip,02043Q107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.alnylam.com/
+description,"Alnylam Pharmaceuticals, Inc. operates as biopharmaceutical company, which engages in the discovery, development and commercialization of RNAi therapeutics. The company is headquartered in Cambridge, Massachusetts and currently employs 1,065 full-time employees. The firm is engaged in the discovery, development and commercialization of ribonucleic acid (RNA) interference (RNAi) therapeutics. The firm is focused on the use of its N-acetylgalactosamine (GalNAc)-conjugate platform for delivery of small interfering RNAs (siRNAs). Its pipeline of investigational RNAi therapeutics focuses on three Strategic Therapeutic Areas (STArs): Genetic Medicines, with multiple product candidates for the treatment of rare diseases; Cardio-Metabolic Diseases, with product candidates directed toward genetically validated, liver-expressed disease targets for unmet needs in cardiovascular and metabolic diseases, and Hepatic Infectious Diseases, with product candidates designed to address the global health challenges of hepatic infectious diseases, beginning with hepatitis B and hepatitis D viral infections. The firm's lead product, Patisiran, is formulated utilizing lipid nanoparticles (LNPs)."
+ceo,Dr. John Maraganore
+sector,Healthcare
+country,US
+fullTimeEmployees,1323
+phone,16175518200
+address,675 W Kendall St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,141.488
+image,https://financialmodelingprep.com/image-stock/ALNY.png
+ipoDate,2004-05-28
+defaultImage,False

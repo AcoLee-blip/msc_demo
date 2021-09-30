@@ -1,0 +1,33 @@
+,0
+symbol,SLDB
+price,3.21
+beta,1.769883
+volAvg,3954100
+mktCap,194042256
+lastDiv,0.0
+range,1.93-6.1
+changes,0.03
+companyName,Solid Biosciences Inc
+currency,USD
+cik,0001707502
+isin,US83422E1055
+cusip,83422E105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Drug Manufacturers General Specialty & Generic
+website,https://www.solidbio.com/
+description,"Solid Biosciences, Inc. engages in the development of treatments for patients with Duchenne muscular dystrophy. The company is headquartered in Cambridge, Massachusetts and currently employs 111 full-time employees. The firm is focused on developing therapies for duchenne muscular dystrophy (DMD). The company is developing gene therapies, disease modifying therapies and assistive devices, all targeting the various facets of the DMD. Its corrective therapies platform is engaged in the development of gene therapy candidates for DMD. Its lead program, SGT-001, is an adeno-associated virus (AAV) microdystrophin gene therapy candidate, which focuses on enabling the systemic delivery of a shortened yet functional version of the dystrophin gene. The firm is examining small molecule and biologic candidates that may help manage the secondary disorders associated with DMD. The company is developing Wearable support for patients with DMD. The hardware of its assistive devices is composed of three technologies: force generating actuators (or motors), electrically controlled clutches, and harness technology called Flex Grip."
+ceo,Mr. Ilan Ganot
+sector,Healthcare
+country,US
+fullTimeEmployees,121
+phone,16173374680
+address,141 Portland St Fl 5
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,5.40742
+image,https://financialmodelingprep.com/image-stock/SLDB.png
+ipoDate,2018-01-26
+defaultImage,False

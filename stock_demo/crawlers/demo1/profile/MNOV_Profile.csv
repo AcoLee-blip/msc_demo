@@ -1,0 +1,33 @@
+,0
+symbol,MNOV
+price,6.03
+beta,1.53653
+volAvg,477655
+mktCap,270913440
+lastDiv,0.0
+range,2.79-13.25
+changes,0.04
+companyName,MediciNova Inc
+currency,USD
+cik,0001226616
+isin,US58468P2065
+cusip,58468P206
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://medicinova.com/
+description,"MediciNova, Inc. is a biopharmaceutical company, which engages in the acquisition and development of small molecule therapeutics for the treatment of serious diseases for the treatment of diseases with unmet medical need. The company is headquartered in La Jolla, California and currently employs 9 full-time employees. The firm focuses on acquiring and developing small molecule therapeutics for the treatment of diseases with unmet medical needs and a commercial focus on the United States market. Its pipeline includes MN-166 (ibudilast), MN-001 (tipelukast), MN-221 (bedoradrine) and MN-029 (denibulin). MN-166 is an oral, anti-inflammatory and neuroprotective agent. MN-166 is in development for the treatment of several neurological diseases, such as progressive multiple sclerosis, amyotrophic lateral sclerosis, and substance dependence and addiction. MN-001 (tipelukast) is an orally bioavailable small molecule compound, which is used for the treatment of fibrotic diseases, such as nonalcoholic steatohepatitis and idiopathic pulmonary fibrosis. MN-221 treats acute exacerbations of asthma through intravenous infusion, bypassing constricted airways to deliver the drug to the lungs. MN-029 is used for the treatment of solid tumor cancers."
+ceo,Dr. Yuichi Iwaki
+sector,Healthcare
+country,US
+fullTimeEmployees,8
+phone,18583731500
+address,4275 Executive Sq Ste 300
+city,La Jolla
+state,CALIFORNIA
+zip,92037
+dcfDiff,-11.17
+dcf,6.82809
+image,https://financialmodelingprep.com/image-stock/MNOV.jpg
+ipoDate,2006-12-01
+defaultImage,True

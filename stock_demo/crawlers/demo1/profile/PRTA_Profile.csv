@@ -1,0 +1,33 @@
+,0
+symbol,PRTA
+price,12.2
+beta,1.86178
+volAvg,268133
+mktCap,487041088
+lastDiv,0.0
+range,7.1-17.63
+changes,-0.16
+companyName,Prothena Corporation PLC
+currency,USD
+cik,0001559053
+isin,IE00B91XRN20
+cusip,G72800108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.prothena.com/
+description,"Prothena Corp. Plc is a clinical-stage neuroscience company. The company is headquartered in Dublin, Dublin and currently employs 59 full-time employees. The firm is focused on the discovery, development and commercialization of immunotherapies for the treatment of diseases that involve protein misfolding or cell adhesion. The firm's clinical pipeline of antibody-based product candidates targets a range of indications, including Amyloid Light-chain (AL) amyloidosis (NEOD001), Parkinson's disease and other related synucleinopathies (PRX002), and inflammatory diseases, including psoriasis and psoriatic arthritis (PRX003) and ATTR amyloidosis (PRX004). The firm has generated monoclonal antibodies that selectively bind to amyloidogenic (diseased) forms of the Transthyretin (TTR)-mediated amyloidosis (ATTR) protein. The firm's pipeline also includes late discovery-stage programs for which the Company is testing the efficacy of antibodies in preclinical models of diseases related to amyloid or cell adhesion."
+ceo,Dr. Gene Kinney
+sector,Healthcare
+country,IE
+fullTimeEmployees,51
+phone,35312362500
+address,"Dublin 1, 25-28 North Wall Quay"
+city,DUBLIN
+state,DUBLIN
+zip,2
+dcfDiff,
+dcf,21.3709
+image,https://financialmodelingprep.com/image-stock/PRTA.png
+ipoDate,2012-12-21
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,NPTN
+price,7.84
+beta,1.19414
+volAvg,1028420
+mktCap,393148576
+lastDiv,0.0
+range,4.65-10.34
+changes,-0.03
+companyName,NeoPhotonics Corp
+currency,USD
+cik,0001227025
+isin,US64051T1007
+cusip,64051T100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Semiconductors
+website,https://www.neophotonics.com/
+description,"NeoPhotonics Corp. engages in the design, manufacture, and sale of hybrid photonic integrated optoelectronic modules and subsystems for bandwidth-intensive communications networks. The company is headquartered in San Jose, California and currently employs 1,769 full-time employees. The firm develops and manufactures Transmitter Products, Receiver Products and Switch Products that are used in ultra-high speed digital optical communications, high speed switching and provisioning, and access connections for wireless and fiber-to-the-home communications networks. The firm's products are categorized into groups, including High Speed Products and Network Products and Solutions. The High Speed Products includes products designed for 100G and beyond for telecommunication and datacenter or content provider networks and applications. Its Network Products and Solutions consist of various products designed for applications below 100G, and include 40G products. The firm combines its transmitter and receiver products into Transceiver modules."
+ceo,Mr. Timothy Jenks
+sector,Technology
+country,US
+fullTimeEmployees,1690
+phone,14082329200
+address,2911 Zanker Rd
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-3.91
+dcf,8.20966
+image,https://financialmodelingprep.com/image-stock/NPTN.png
+ipoDate,2011-02-02
+defaultImage,False

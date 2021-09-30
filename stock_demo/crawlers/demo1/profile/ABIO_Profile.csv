@@ -1,0 +1,33 @@
+,0
+symbol,ABIO
+price,3.98
+beta,2.96693
+volAvg,675564
+mktCap,37099452
+lastDiv,0.0
+range,2.21-22.0
+changes,0.16
+companyName,ARCA Biopharma Inc
+currency,USD
+cik,0000907654
+isin,US00211Y5069
+cusip,00211Y506
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://arcabio.com/
+description,"ARCA biopharma, Inc. is a biopharmaceutical company, which develops genetically targeted therapies for heart failure and other cardiovascular diseases. The company is headquartered in Westminster, Colorado and currently employs 15 full-time employees. The firm is principally focused on developing genetically-targeted therapies for cardiovascular diseases. The firm's lead product candidate is Gencaro (bucindolol hydrochloride), a beta-blocker and mild vasodilator that the Company is evaluating in a clinical trial for the treatment of atrial fibrillation (AF) in patients with heart failure with reduced left ventricular ejection fraction (HFREF). Gencaro is considered part of the beta-blocker class of compounds because of its property of blocking both beta-1 and beta-2, receptors in the heart. The blocking of these receptors prevents the receptor from binding with other molecules, primarily the neurotransmitter norepinephrine (NE), which activate these receptors. The firm is conducting a Phase IIB/III clinical trial of Gencaro, known as GENETIC-AF."
+ceo,Dr. Michael Bristow
+sector,Healthcare
+country,US
+fullTimeEmployees,9
+phone,17209402200
+address,11080 Circle Point Rd Ste 140
+city,Westminster
+state,COLORADO
+zip,80020
+dcfDiff,-5.62
+dcf,10.4097
+image,https://financialmodelingprep.com/image-stock/ABIO.jpg
+ipoDate,2000-07-21
+defaultImage,True

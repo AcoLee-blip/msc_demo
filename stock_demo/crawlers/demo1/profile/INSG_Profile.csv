@@ -1,0 +1,33 @@
+,0
+symbol,INSG
+price,9.29
+beta,1.85403
+volAvg,2109021
+mktCap,918598020
+lastDiv,0.0
+range,3.91-15.25
+changes,-0.08
+companyName,Inseego Corp
+currency,USD
+cik,0001022652
+isin,US45782B1044
+cusip,45782B104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.inseego.com/
+description,"Inseego Corp. engages in the design and development of fixed and mobile wireless solutions. The company is headquartered in San Diego, California and currently employs 819 full-time employees. The firm serves service providers, distributors, consumers, and the enterprise. Its fourth generation (4G) Long-Term Evolution (LTE) Advanced and 5G New Radio (NR) hardware products are powered by MiFi technology and include mobile hotspots, industrial gateways and routers, home and enterprise routers, industrial universal serial bus (USB) modems, and telematics and mobile tracking hardware devices supported by applications software and cloud services. Its software as a service (SaaS) platforms include Ctrack, an asset tracking and management solution that provides business intelligence for fleets used in various verticals, including aviation, construction, government, and transport; and Device Management Solutions, a hosted subscription management platform that enables organizations to manage the selection, deployment, and spend of their wireless assets."
+ceo,Mr. Dan Mondor
+sector,Technology
+country,US
+fullTimeEmployees,938
+phone,18588123400
+address,"9710 SCRANTON ROAD, SUITE 200"
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-8.12
+dcf,10.0342
+image,https://financialmodelingprep.com/image-stock/INSG.png
+ipoDate,2000-11-16
+defaultImage,False

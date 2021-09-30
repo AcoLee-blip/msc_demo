@@ -1,0 +1,33 @@
+,0
+symbol,ECHO
+price,30.22
+beta,1.19735
+volAvg,151338
+mktCap,804093760
+lastDiv,0.0
+range,14.17-31.23
+changes,0.74
+companyName,Echo Global Logistics Inc
+currency,USD
+cik,0001426945
+isin,US27875T1016
+cusip,27875T101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Integrated Freight & Logistics
+website,https://www.echo.com/
+description,"Echo Global Logistics, Inc. engages in the provision of technology enabled transportation and supply chain management services. The company is headquartered in Chicago, Illinois and currently employs 2,595 full-time employees. The firm utilizes a technology platform to compile and analyze data from its multi-modal network of transportation providers to facilitate its transportation and logistics services. The firm focuses primarily on arranging transportation by truckload (TL) and less than truckload (LTL) carriers. The company also offers intermodal (which involves moving a shipment by rail and truck), small parcel, domestic air, expedited and international transportation services. The firm's core logistics services include rate negotiation, shipment execution and tracking, carrier selection and management, routing compliance freight bill payment and audit, payment and performance management and reporting functions."
+ceo,Mr. Douglas Waggoner
+sector,Industrials
+country,US
+fullTimeEmployees,2539
+phone,18003547993
+address,600 W Chicago Ave Ste 725
+city,Chicago
+state,ILLINOIS
+zip,60654
+dcfDiff,
+dcf,28.9109
+image,https://financialmodelingprep.com/image-stock/ECHO.png
+ipoDate,2009-10-02
+defaultImage,False

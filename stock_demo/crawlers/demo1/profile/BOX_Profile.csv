@@ -1,0 +1,33 @@
+,0
+symbol,BOX
+price,16.71
+beta,1.23847
+volAvg,2035701
+mktCap,2615866620
+lastDiv,0.0
+range,8.64-22.09
+changes,0.08
+companyName,Box Inc
+currency,USD
+cik,0001372612
+isin,US10316T1043
+cusip,10316T104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.box.com
+description,"Box, Inc. engages in the provision of enterprise content platform that enables organizations to securely manage enterprise content while allowing easy, secure access and sharing of this content from anywhere, on any device. The company is headquartered in Redwood City, California and currently employs 1,980 full-time employees. With the Company's Software-as-a-Service (SaaS) cloud-based platform, users can collaborate on content both internally and with external parties, automate content-driven business processes, develop custom applications, and implement data protection, security and compliance features to comply with internal policies and industry regulations. Its platform enables people to view, share and collaborate on content, across various file formats and media types. The software integrates with enterprise business applications, and is compatible with various application environments, operating systems and devices, ensuring that workers have access to their business content. The company offers individuals a free basic version of the Box platform that allows them to experience its solution."
+ceo,Mr. Aaron Levie
+sector,Technology
+country,US
+fullTimeEmployees,2046
+phone,18777294269
+address,900 Jefferson Ave
+city,Redwood City
+state,CALIFORNIA
+zip,94063
+dcfDiff,-110.29
+dcf,17.7537
+image,https://financialmodelingprep.com/image-stock/BOX.png
+ipoDate,2015-01-23
+defaultImage,False

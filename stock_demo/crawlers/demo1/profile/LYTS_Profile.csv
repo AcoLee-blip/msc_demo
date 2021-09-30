@@ -1,0 +1,33 @@
+,0
+symbol,LYTS
+price,7.24
+beta,2.03694
+volAvg,86952
+mktCap,190813808
+lastDiv,0.25
+range,2.5-7.62
+changes,0.11
+companyName,LSI Industries Inc
+currency,USD
+cik,0000763532
+isin,US50216C1080
+cusip,50216C108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Electronic Components
+website,http://www.lsi-industries.com/
+description,"LSI Industries, Inc. engages in the provision a variety of lighting solutions. The company is headquartered in Cincinnati, Ohio and currently employs 1,065 full-time employees. The firm designs and develops aspects of the solid-state light emitting diode (LED) lighting, from the electronic circuit board, to the software to drive and control the LEDs, to the structure of the LED product. The company operates through three segments: Lighting, Graphics and Technology. The Lighting Segment manufactures and markets outdoor and indoor lighting and lighting controls for the commercial, industrial and multi-site retail markets, including the quick-service and automotive markets. The Graphics Segment manufactures and sells exterior and interior visual image elements related to signage and graphics, including integrated digital solutions. The Technology Segment designs, engineers, and manufactures electronic circuit boards, assemblies, lighting controls and large format solid state LED video displays. The firm provides a range of lighting control solutions."
+ceo,Mr. James Clark
+sector,Technology
+country,US
+fullTimeEmployees,1065
+phone,15135796411
+address,"10000 Alliance Rd, PO Box 42728"
+city,Cincinnati
+state,OHIO
+zip,45242
+dcfDiff,-1.1
+dcf,7.26285
+image,https://financialmodelingprep.com/image-stock/LYTS.png
+ipoDate,1985-03-13
+defaultImage,False

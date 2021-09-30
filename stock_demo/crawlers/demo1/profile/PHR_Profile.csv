@@ -1,0 +1,33 @@
+,0
+symbol,PHR
+price,41.44
+beta,0.0
+volAvg,483983
+mktCap,1811868670
+lastDiv,0.0
+range,16.01-43.34
+changes,0.4
+companyName,Phreesia Inc
+currency,USD
+cik,0001412408
+isin,US71944F1066
+cusip,71944F106
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Health Information Services
+website,https://www.phreesia.com
+description,"Phreesia, Inc. is a healthcare software company. The company is headquartered in New York City, New York and currently employs 436 full-time employees. The firm provides healthcare organizations a suite of applications to manage the patient intake process and payment solution for patient payments. The firm provides software as a service platform which enables organizations to capture patient records and engage with patients. The Company’s software products enable appointments, registration, revenue cycle, patient surveys, patient activation, analytics and reports, and integration."
+ceo,Mr. Chaim Indig
+sector,Healthcare
+country,US
+fullTimeEmployees,532
+phone,16467479959
+address,432 Park Ave S Fl 12
+city,New York City
+state,NEW YORK
+zip,10016
+dcfDiff,
+dcf,40.7288
+image,https://financialmodelingprep.com/image-stock/PHR.png
+ipoDate,2019-07-18
+defaultImage,False

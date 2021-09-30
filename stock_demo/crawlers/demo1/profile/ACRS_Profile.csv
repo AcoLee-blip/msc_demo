@@ -1,0 +1,33 @@
+,0
+symbol,ACRS
+price,3.77
+beta,1.45233
+volAvg,421544
+mktCap,161805760
+lastDiv,0.0
+range,0.7-5.04
+changes,0.1
+companyName,Aclaris Therapeutics Inc
+currency,USD
+cik,0001557746
+isin,US00461U1051
+cusip,00461U105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.aclaristx.com/
+description,"Aclaris Therapeutics, Inc. operates as a dermatologist-led biopharmaceutical company, which engages in identifying, developing, and commercializing novel drugs to address the needs in medical and aesthetic dermatology and immunology. The company is headquartered in Wayne, Pennsylvania and currently employs 169 full-time employees. The firm is focused on identifying, developing and commercializing differentiated drugs for the treatment of dermatological indications. The firm is also focused on the discovery and development of kinase inhibitors to treat inflammatory and immunological disorders and cancer. The Company’s drug discovery platform KINect technology is a kinase-focused drug discovery engine utilizing computational chemistry to integrate proprietary compound collections and highly experienced biologists and medicinal chemists to identify and advance potential candidates into preclinical and clinical development."
+ceo,Dr. Neal Walker
+sector,Healthcare
+country,US
+fullTimeEmployees,77
+phone,14843247933
+address,640 Lee Rd Ste 200
+city,Wayne
+state,PENNSYLVANIA
+zip,19087
+dcfDiff,-6.4
+dcf,5.11964
+image,https://financialmodelingprep.com/image-stock/ACRS.png
+ipoDate,2015-10-07
+defaultImage,False

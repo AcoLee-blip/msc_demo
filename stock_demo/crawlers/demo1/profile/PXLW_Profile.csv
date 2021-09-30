@@ -1,0 +1,33 @@
+,0
+symbol,PXLW
+price,2.2965
+beta,2.22736
+volAvg,421227
+mktCap,99487136
+lastDiv,0.0
+range,1.85-5.23
+changes,0.0065
+companyName,Pixelworks Inc
+currency,USD
+cik,0001040161
+isin,US72581M3051
+cusip,72581M305
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.pixelworks.com/
+description,"Pixelworks, Inc. engages in the design and development integrated circuits for use in electronic display devices. The company is headquartered in San Jose, California and currently employs 215 full-time employees. The firm is engaged in the design and development of integrated circuits (ICs) for use in electronic display devices. The company provides its customers with software development tools and with software that provides basic functionality for its ICs and enables connectivity of its customers' products. Its primary target markets include digital projection systems, Ultrabook devices, tablets and smartphones. Its video display processing technologies include Halo Free Motion Estimation and Motion Compensation (MEMC), Advanced Scaling, Mobile Video Display Processing, and Vuemagic and Networked Displays. Its primary video display processor product categories include ImageProcessor ICs, Video Co-Processor ICs and Transcoder ICs."
+ceo,Mr. Todd DeBonis
+sector,Technology
+country,US
+fullTimeEmployees,229
+phone,14082009200
+address,226 Airport Pkwy Ste 595
+city,San Jose
+state,CALIFORNIA
+zip,95110
+dcfDiff,-4.77
+dcf,2.43173
+image,https://financialmodelingprep.com/image-stock/PXLW.png
+ipoDate,2000-05-19
+defaultImage,False

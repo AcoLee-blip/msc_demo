@@ -1,0 +1,33 @@
+,0
+symbol,IQV
+price,173.04
+beta,1.4502
+volAvg,988143
+mktCap,33176266800
+lastDiv,0.0
+range,81.79-180.77
+changes,5.24
+companyName,IQVIA Holdings Inc
+currency,USD
+cik,0001478242
+isin,US46266C1053
+cusip,46266C105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.iqvia.com/
+description,"IQVIA Holdings, Inc. operates as a biotechnology company. The company is headquartered in Durham, North Carolina and currently employs 58,000 full-time employees. The firm operates through segments, including Commercial Solutions; Research & Development Solutions, and Integrated Engagement Services. The Commercial Solutions segment offerings include national information offerings, sub-national information offerings, technology solutions, and workflow analytics and consulting services. The Research & Development Solutions segment provides biopharmaceutical development services. The company offers project management and clinical monitoring, clinical trial support services, Q2 solutions, and strategic planning and design. The Integrated Engagement Services segment offerings include healthcare provider engagement services, patient engagement services, and scientific strategy and medical affairs services. The firm has its operations in the Americas, Europe and Africa, and the Asia-Pacific."
+ceo,Mr. Ari Bousbib
+sector,Healthcare
+country,US
+fullTimeEmployees,67000
+phone,19199982000
+address,4820 Emperor Blvd
+city,Durham
+state,NORTH CAROLINA
+zip,27703
+dcfDiff,-55.75
+dcf,173.443
+image,https://financialmodelingprep.com/image-stock/IQV.png
+ipoDate,2013-05-09
+defaultImage,False

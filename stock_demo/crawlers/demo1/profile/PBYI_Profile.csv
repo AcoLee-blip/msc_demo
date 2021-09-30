@@ -1,0 +1,33 @@
+,0
+symbol,PBYI
+price,8.85
+beta,1.14016
+volAvg,587103
+mktCap,351897248
+lastDiv,0.0
+range,5.5-15.0
+changes,0.06
+companyName,Puma Biotechnology Inc
+currency,USD
+cik,0001401667
+isin,US74587V1070
+cusip,74587V107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.pumabiotechnology.com/
+description,"Puma Biotechnology, Inc. is a development stage biopharmaceutical company. The company is headquartered in Los Angeles, California and currently employs 272 full-time employees. The firm focuses on in-licensing the development and commercialization rights to over three drug candidates, including PB272 (neratinib (oral)), PB272 (neratinib (intravenous)) and PB357. Neratinib is a potent irreversible tyrosine kinase inhibitor (TKI) that blocks signal transduction through the epidermal growth factor receptors (EGFRs), HER1, HER2 and HER4. Its initial focus is on the development of neratinib as an oral treatment of patients with HER2 positive metastatic breast cancer. The company focuses on developing neratinib as an intravenously administered agent. The intravenous version of neratinib resulted in exposure levels of neratinib in pre-clinical models. Its product candidate, PB357, is an orally administered agent that is an irreversible TKI that blocks signal transduction through the epidermal growth factor receptors."
+ceo,Mr. Alan Auerbach
+sector,Healthcare
+country,US
+fullTimeEmployees,269
+phone,14242486500
+address,10880 Wilshire Blvd Ste 2150
+city,Los Angeles
+state,CALIFORNIA
+zip,90024
+dcfDiff,-34.0
+dcf,10.9076
+image,https://financialmodelingprep.com/image-stock/PBYI.jpg
+ipoDate,2012-03-21
+defaultImage,True

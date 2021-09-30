@@ -1,0 +1,33 @@
+,0
+symbol,NFLX
+price,481.43
+beta,0.99775
+volAvg,6132126
+mktCap,212693369000
+lastDiv,0.0
+range,287.57-575.37
+changes,-5.34
+companyName,Netflix Inc
+currency,USD
+cik,0001065280
+isin,US64110L1061
+cusip,64110L106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Entertainment
+website,https://www.netflix.com/
+description,"Netflix, Inc. is a streaming entertainment service company, which provides subscription service streaming movies and television episodes over the Internet and sending DVDs by mail. The company is headquartered in Los Gatos, California and currently employs 7,100 full-time employees. The firm operates through three segments: Domestic streaming, International streaming and Domestic DVD. The Domestic streaming segment includes services that streams content to its members in the United States. The International streaming segment includes services that streams content to its members outside the United States. The Domestic DVD segment includes services, such as digital optical disc (DVD)-by-mail. The firm's members can watch original series, documentaries, feature films, as well as television shows and movies directly on their Internet-connected screen, televisions, computers and mobile devices. The company offers its streaming services both domestically and internationally. In the United States, its members can receive DVDs delivered to their homes. The firm had members streaming in over 190 countries, as of December 31, 2016."
+ceo,Mr. Reed Hastings
+sector,Communication Services
+country,US
+fullTimeEmployees,8600
+phone,14085403700
+address,100 Winchester Cir
+city,Los Gatos
+state,CALIFORNIA
+zip,95032
+dcfDiff,-320.42
+dcf,500.159
+image,https://financialmodelingprep.com/image-stock/NFLX.png
+ipoDate,2002-05-29
+defaultImage,False

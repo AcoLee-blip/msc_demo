@@ -1,0 +1,33 @@
+,0
+symbol,UIS
+price,13.66
+beta,0.58483
+volAvg,586495
+mktCap,861097730
+lastDiv,0.0
+range,8.25-18.13
+changes,0.02
+companyName,Unisys Corp
+currency,USD
+cik,0000746838
+isin,US9092143067
+cusip,909214306
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,http://www.unisys.com/
+description,"Unisys Corp. engages in the provision of security-centric information technology solutions for clients across the government, financial services, and commercial markets. The company is headquartered in Blue Bell, Pennsylvania and currently employs 22,000 full-time employees. The firm operates through two segments: Services and Technology. The Services segment offers solutions including cloud and infrastructure services, application services and business process outsourcing services. The Technology segment designs and develops software and offers hardware and other related products to clients. The company provides a range of data-center, infrastructure management and cloud computing offerings to help clients virtualize and automate their data-center environments. Its technology products include ClearPath Forward and the Unisys Stealth security software. The ClearPath Forward operating environment provides a tested, integrated stack of software products that runs on a range of Intel x86 server platforms and select virtualization environments. Unisys Stealth security software enables trusted identities to access micro-segmented critical assets and communicate through secure, encrypted channels."
+ceo,Mr. Peter Altabef
+sector,Technology
+country,US
+fullTimeEmployees,21000
+phone,12159864011
+address,801 Lakeview Dr Ste 100
+city,Blue Bell
+state,PENNSYLVANIA
+zip,19422
+dcfDiff,
+dcf,21.4881
+image,https://financialmodelingprep.com/image-stock/UIS.png
+ipoDate,1981-05-22
+defaultImage,False

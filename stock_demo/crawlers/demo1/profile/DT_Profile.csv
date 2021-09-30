@@ -1,0 +1,33 @@
+,0
+symbol,DT
+price,36.05
+beta,0.0
+volAvg,2752160
+mktCap,10169595900
+lastDiv,0.0
+range,17.1-48.85
+changes,0.64
+companyName,Dynatrace Inc
+currency,USD
+cik,0001773383
+isin,US2681501092
+cusip,268150109
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,
+description,"Dynatrace, Inc. offers software intelligence platform, purpose-built for the enterprise cloud. The company is headquartered in Waltham, Massachusetts and currently employs 1,981 full-time employees. The firm has designed its software intelligence platform to allow customers to modernize and automate information technology (IT) operations. Its product Dynatrace is able to provide real-time actionable insights about the performance of customers’ entire software ecosystem by integrating high fidelity, Web-scale data mapping its dependencies in real-time, and analyzing them with an open, deterministic artificial intelligence (AI) engine. Dynatrace has designed to maximize flexibility and control of the rich monitoring data captured and analyzed by platform. In also provides updates and enhancements automatically on a monthly basis while allowing customers the flexibility and control to adhere to their own data security and sovereignty requirements."
+ceo,Mr. John W. Van Siclen
+sector,Technology
+country,US
+fullTimeEmployees,2243
+phone,17815301000
+address,1601 Trapelo Rd Ste 116
+city,Waltham
+state,MASSACHUSETTS
+zip,02451
+dcfDiff,
+dcf,43.7246
+image,https://financialmodelingprep.com/image-stock/DT.jpg
+ipoDate,2019-08-01
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,DXCM
+price,343.31
+beta,0.85457
+volAvg,972663
+mktCap,32967235600
+lastDiv,0.0
+range,182.07-456.23
+changes,6.61
+companyName,DexCom Inc
+currency,USD
+cik,0001093557
+isin,US2521311074
+cusip,252131107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://www.dexcom.com
+description,"DexCom, Inc. is a medical device manufacturing company. The company is headquartered in San Diego, California and currently employs 2,800 full-time employees. The firm is focused on the design, development and commercialization of continuous glucose monitoring (CGM) systems for ambulatory use by people with diabetes and for use by healthcare providers. The firm's products consist of DexCom G4 PLATINUM and DexCom G5 Mobile. The firm is commercializing its fifth generation CGM system. The firm's markets DexCom G4 PLATINUM under a Conformite Europeenne Marking (CE Mark), in the European Union, Australia, New Zealand and the countries in Asia and Latin America, and in the United States with approval from the United States Food and Drug Administration (FDA). The DexCom G4 PLATINUM with Share remote monitoring system uses a wireless connection between a patient's receiver and an application on the patient's iPhone, iPod touch, or iPad to transmit glucose information to applications on the mobile devices of designated recipients (followers)."
+ceo,Mr. Kevin Sayer
+sector,Healthcare
+country,US
+fullTimeEmployees,3900
+phone,18582000200
+address,6340 Sequence Dr
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-214.9
+dcf,392.674
+image,https://financialmodelingprep.com/image-stock/DXCM.png
+ipoDate,2005-04-14
+defaultImage,False

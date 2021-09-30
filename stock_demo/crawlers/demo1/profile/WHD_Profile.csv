@@ -1,0 +1,33 @@
+,0
+symbol,WHD
+price,23.21
+beta,1.214327
+volAvg,361755
+mktCap,1749221630
+lastDiv,0.36
+range,8.16-35.28
+changes,0.63
+companyName,Cactus Inc
+currency,USD
+cik,0001699136
+isin,US1272031071
+cusip,127203107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,http://cactuswellhead.com/
+description,"Cactus, Inc. is a holding company, which engages in the design, manufacture and sale of wellhead and pressure control equipment. The company is headquartered in Houston, Texas and currently employs 1,200 full-time employees. Its principal products, include Cactus SafeDrill wellhead systems, frac stacks, zipper manifolds and production trees. The Cactus SafeDrill wellhead systems employ technology traditionally associated with deepwater applications, which allows technicians to land and secure casing strings safely from the rig floor without the need to descend into the well cellar. The Company’s products are sold and rented principally for onshore unconventional oil and gas wells and are utilized during the drilling, completion (including fracturing) and production Phases of its customers' wells."
+ceo,Mr. Scott Bender
+sector,Energy
+country,US
+fullTimeEmployees,1100
+phone,17136268800
+address,920 Memorial City Way Ste 300
+city,Houston
+state,TEXAS
+zip,77024
+dcfDiff,-37.57
+dcf,21.1287
+image,https://financialmodelingprep.com/image-stock/WHD.jpg
+ipoDate,2018-02-08
+defaultImage,True

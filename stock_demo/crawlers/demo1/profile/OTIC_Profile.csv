@@ -1,0 +1,33 @@
+,0
+symbol,OTIC
+price,4.14
+beta,2.09265
+volAvg,333270
+mktCap,199662672
+lastDiv,0.0
+range,1.53-4.89
+changes,0.14
+companyName,Otonomy Inc
+currency,USD
+cik,0001493566
+isin,US68906L1052
+cusip,68906L105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.otonomy.com/
+description,"Otonomy, Inc. is a biopharmaceutical company, which engages in the development of therapeutics for neurotology. The company is headquartered in San Diego, California and currently employs 49 full-time employees. The firm focuses on the development and commercialization of therapeutics for diseases and disorders of the ear. The firm's product candidates include OTIPRIO, OTO-104 and OTO-311. OTIPRIO is a single-dose, physician-administered antibacterial, which is used for the treatment of pediatric patients with bilateral otitis media with effusion undergoing tympanostomy tube placement (TTP) surgery and is available for commercial purchase. OTO-104 is a sustained-exposure formulation of the steroid dexamethasone in development for the treatment of Meniere's disease and other inner ear conditions. OTO-311 is a sustained-exposure formulation of the N-Methyl-D-Aspartate (NMDA) receptor antagonist gacyclidine in development for the treatment of tinnitus. The company also has various other product candidates, which target sensorinerual hearing loss, including age-related hearing loss, also known as presbycusis."
+ceo,Dr. David Weber
+sector,Healthcare
+country,US
+fullTimeEmployees,49
+phone,16193232200
+address,4796 Executive Dr
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-2.59
+dcf,4.52994
+image,https://financialmodelingprep.com/image-stock/OTIC.png
+ipoDate,2014-08-13
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,WEC
+price,102.14
+beta,0.21459
+volAvg,1130992
+mktCap,32218531800
+lastDiv,3.1214999999999997
+range,68.01-109.53
+changes,-0.31
+companyName,WEC Energy Group Inc
+currency,USD
+cik,0000783325
+isin,US92939U1060
+cusip,92939U106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated Electric
+website,https://www.wecenergygroup.com/
+description,"WEC Energy Group, Inc. is a holding company, which engages in the generation and distribution of electricity and natural gas. The company is headquartered in Milwaukee, Wisconsin and currently employs 7,878 full-time employees. Its segments include Wisconsin; Illinois; Other States; Electric Transmission; We Power, and Corporate and Other. Wisconsin includes the electric and natural gas utility operations of Wisconsin Electric Power Company, Wisconsin Gas LLC, and Wisconsin Public Service Corporation, including WE's and WPS's electric and natural gas operations in the state of Michigan. Illinois includes the natural gas utility and non-utility operations of The Peoples Gas Light and Coke Company and North Shore Gas Company. Other states includes the natural gas utility and non-utility operations of Minnesota Energy Resources Corporation and Michigan Gas Utilities Corporation."
+ceo,Mr. J. Kevin Fletcher
+sector,Utilities
+country,US
+fullTimeEmployees,7509
+phone,14142212345
+address,"231 W Michigan St, PO Box 1331"
+city,Milwaukee
+state,WISCONSIN
+zip,53203
+dcfDiff,10001.8
+dcf,101.208
+image,https://financialmodelingprep.com/image-stock/WEC.png
+ipoDate,1947-11-21
+defaultImage,False

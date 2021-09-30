@@ -1,0 +1,33 @@
+,0
+symbol,MEDS
+price,4.92
+beta,1.09423
+volAvg,583744
+mktCap,39818544
+lastDiv,0.0
+range,1.02-11.6
+changes,-0.15
+companyName,Trxade Group Inc
+currency,USD
+cik,0001382574
+isin,US89846A2078
+cusip,89846A207
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Pharmaceutical Retailers
+website,https://www.trxadegroup.com/
+description,"Trxade Group, Inc. is an integrated pharmaceutical services company that combines a Web-based purchasing platform for transactions between independent pharmacists and drug manufacturers. The Company provides specialty pharmacy, warehouse and drug delivery services for consumers. It provides e-commerce technology platform with buyer/seller pricing algorithms, product availability and data analytics features. It operates a specialty pharmacy for consumers throughout the United States, as well as a Delivmeds mobile application (delivmeds.com), and telemedicine portal (bonumhealth.com) that enables home delivery."
+ceo,Mr. Surendra K. Ajjarapu
+sector,Healthcare
+country,US
+fullTimeEmployees,29
+phone,18002610281
+address,3840 Land O Lakes Blvd
+city,LAND O LAKES
+state,FLORIDA
+zip,34639
+dcfDiff,
+dcf,6.41434
+image,https://financialmodelingprep.com/image-stock/MEDS.png
+ipoDate,2009-01-26
+defaultImage,False

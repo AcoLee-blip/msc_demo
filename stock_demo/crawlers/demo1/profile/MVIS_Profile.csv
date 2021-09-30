@@ -1,0 +1,33 @@
+,0
+symbol,MVIS
+price,1.8319
+beta,3.33725
+volAvg,5440741
+mktCap,268201152
+lastDiv,0.0
+range,0.15-3.45
+changes,-0.0381
+companyName,MicroVision Inc
+currency,USD
+cik,0000065770
+isin,US5949603048
+cusip,594960304
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,http://www.microvision.com/
+description,"MicroVision, Inc. engages in the development of laser beam scanning technology. The company is headquartered in Redmond, Washington and currently employs 107 full-time employees. The firm markets its technology under the brand name PicoP. The company has developed scanning technology that can be used in products for interactive projection, consumer light detection and ranging (LiDAR), automotive LiDAR, and augmented and mixed reality. PicoP scanning technology that can be adopted by its customers to create high-resolution miniature projection, and three-dimensional sensing and image capture solutions that use laser diodes as the light source. The firm offers key components for inclusion in a scanning engine, including its Micro-Electrical Mechanical Systems and Application-Specific Integrated Circuits. The firm's PicoP scanning technology incorporates its expertise in two-dimensional MEMS, lasers, optics, and electronics to create a small form factor scanning engine with lower power needs than many other technologies that projects video and still image to capture three-dimensional data."
+ceo,Mr. Sumit Sharma
+sector,Technology
+country,US
+fullTimeEmployees,30
+phone,14259366847
+address,6244 185th Ave NE Ste 100
+city,Redmond
+state,WASHINGTON
+zip,98052
+dcfDiff,
+dcf,2.45245
+image,https://financialmodelingprep.com/image-stock/MVIS.png
+ipoDate,1996-08-27
+defaultImage,False

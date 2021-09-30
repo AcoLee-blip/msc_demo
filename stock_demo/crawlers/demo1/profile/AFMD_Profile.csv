@@ -1,0 +1,33 @@
+,0
+symbol,AFMD
+price,4.44
+beta,2.40314
+volAvg,933873
+mktCap,392167456
+lastDiv,0.0
+range,1.42-4.91
+changes,0.0
+companyName,Affimed NV
+currency,EUR
+cik,0001608390
+isin,NL0010872420
+cusip,N01045108
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.affimed.com/
+description,"Affimed NV engages in discovering and developing of targeted cancer immunotherapies. The company is headquartered in Heidelberg, Baden-Wuerttemberg and currently employs 110 full-time employees. The firm's product candidates are developed in the field of immuno-oncology, which represents an approach to cancer research that seeks to harness the body's own immune system to fight tumor cells. Its pipeline includes FM13, AFM11, AFM21, AFM22, AFM24, TandAb and Trispecific Abs. The company has started recruitment for Phase IIa clinical trial of AFM13 in patients with Hodgkin Lymphoma. The company has initiated a Phase I clinical trial of AFM11 in patients with non-Hodgkin Lymphoma. AFM21 is in preclinical development. AFM22, which is an Epidermal Growth Factor Receptor variant III (EGFRvIII)/CD16A NK-cell TandAb is in preclinical development. AFM24 is an additional CD16A NK-cell TandAb targeting a validated solid tumor target, EGFR-wild type. The company is developing Trispecific Abs for treating multiple myeloma, and CD33/CD3-specific T-cell TandAb to treat acute myeloid leukemia."
+ceo,Dr. Adi Hoess
+sector,Healthcare
+country,DE
+fullTimeEmployees,128
+phone,496221674360
+address,Im Neuenheimer Feld 582
+city,Heidelberg
+state,BADEN-WUERTTEMBERG
+zip,69120
+dcfDiff,
+dcf,4.82705
+image,https://financialmodelingprep.com/image-stock/AFMD.png
+ipoDate,2014-09-12
+defaultImage,False

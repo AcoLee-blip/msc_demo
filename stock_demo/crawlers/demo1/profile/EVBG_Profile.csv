@@ -1,0 +1,33 @@
+,0
+symbol,EVBG
+price,120.38
+beta,0.53101
+volAvg,494064
+mktCap,4207991040
+lastDiv,0.0
+range,76.52-165.79
+changes,1.88
+companyName,Everbridge Inc
+currency,USD
+cik,0001437352
+isin,US29978A1043
+cusip,29978A104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.everbridge.com/
+description,"Everbridge, Inc. engages in the development of software solutions for critical event management and enterprise safety applications that automate and accelerate an organizations operational response to critical events. The company is headquartered in Burlington, Massachusetts and currently employs 928 full-time employees. The firm provides enterprise software applications that automate and accelerate organizations' operational response to critical events in order to keep people safe and businesses running. During public safety threats, such as active shooter situations, terrorist attacks or severe weather conditions, as well as critical business events, such as information technology (IT) outages, cyber-attacks or other incidents, such as product recalls or supply-chain interruptions, its Software as a Service (SaaS)-based platform enables its customers to aggregate and assess threat data, locate people at risk and responders able to assist, automate the execution of pre-defined communications processes, and track progress on executing response plans. Its platform provides organizations with the ability to send and receive notifications based on the last known locations of people, not just based on a static office or home address."
+ceo,Mr. David Meredith
+sector,Technology
+country,US
+fullTimeEmployees,1031
+phone,18182309700
+address,25 Corporate Dr Ste 400
+city,Burlington
+state,MASSACHUSETTS
+zip,01803
+dcfDiff,-93.97
+dcf,140.8
+image,https://financialmodelingprep.com/image-stock/EVBG.png
+ipoDate,2016-09-16
+defaultImage,False

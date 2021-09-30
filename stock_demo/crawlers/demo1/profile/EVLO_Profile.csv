@@ -1,0 +1,33 @@
+,0
+symbol,EVLO
+price,4.5
+beta,0.0
+volAvg,148458
+mktCap,207851392
+lastDiv,0.0
+range,3.01-7.39
+changes,-0.12
+companyName,Evelo Biosciences Inc
+currency,USD
+cik,0001694665
+isin,US2997341035
+cusip,299734103
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://evelobio.com/
+description,"Evelo Biosciences, Inc. operates as a clinical stage biotechnology company. The company is headquartered in Cambridge, Massachusetts and currently employs 75 full-time employees. The firm develops monoclonal microbes that are orally-delivered compositions of specific strains of naturally occurring microbes derived from a single clone. Its principal product candidates include EDP1066, EDP1815, and EDP1503 that are in the pre-clinical development stage. EDP1066 and EDP1815 are monoclonal microbial product candidates that are developed to treat inflammatory diseases that include psoriasis, atopic dermatitis, rheumatoid arthritis, and ulcerative colitis. EDP1503 is the Company's product candidate developed under oncology portfolio to treat diseases, such as colorectal cancer, renal cell carcinoma, and melanoma among others."
+ceo,Dr. Balkrishan Gill
+sector,Healthcare
+country,US
+fullTimeEmployees,98
+phone,16178708281
+address,620 Memorial Dr Ste 200
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,7.04986
+image,https://financialmodelingprep.com/image-stock/EVLO.png
+ipoDate,2018-05-09
+defaultImage,False

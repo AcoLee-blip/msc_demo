@@ -1,0 +1,33 @@
+,0
+symbol,VSTM
+price,1.54
+beta,0.76515
+volAvg,2849996
+mktCap,261451952
+lastDiv,0.0
+range,0.83-4.67
+changes,0.03
+companyName,Verastem Inc
+currency,USD
+cik,0001526119
+isin,US92337C1045
+cusip,92337C104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.verastem.com/
+description,"Verastem, Inc., operating as Verastem Oncology, is a biopharmaceutical company focusing on developing and commercializing medicines to improve the survival and quality of life of cancer patients. The company is headquartered in Needham, Massachusetts and currently employs 169 full-time employees. The company markets COPIKTRA (duvelisib), an oral inhibitor of phosphoinositide 3-kinase (PI3K) and dual inhibitor of PI3K-delta and PI3K-gamma, which is indicated for the treatment of adult patients with relapsed or refractory chronic lymphocytic leukemia/small lymphocytic lymphoma. The company is also developing a dual inhibitor of PI3K-delta and PI3K-gamma, which has completed Phase 2 study in indolent non-hodgkin lymphoma. In addition, it is developing the focal adhesion kinase inhibitor defactinib, which is being evaluated in three separate clinical collaborations in combination with immunotherapeutic agents for the treatment of various different cancer types, including pancreatic cancer, ovarian cancer, non-small cell lung cancer (NSCLC), and mesothelioma."
+ceo,Mr. Brian Stuglik
+sector,Healthcare
+country,US
+fullTimeEmployees,135
+phone,17812924200
+address,117 Kendrick St Ste 500
+city,Needham
+state,MASSACHUSETTS
+zip,02494
+dcfDiff,-2.13
+dcf,1.80347
+image,https://financialmodelingprep.com/image-stock/VSTM.png
+ipoDate,2011-11-08
+defaultImage,False

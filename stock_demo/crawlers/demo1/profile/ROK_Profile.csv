@@ -1,0 +1,33 @@
+,0
+symbol,ROK
+price,239.18
+beta,1.51962
+volAvg,584310
+mktCap,27787692000
+lastDiv,4.13
+range,115.38-267.48
+changes,5.17
+companyName,Rockwell Automation Inc
+currency,USD
+cik,0001024478
+isin,US7739031091
+cusip,773903109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,https://www.rockwellautomation.com/
+description,"Rockwell Automation, Inc. engages in the provision of industrial automation and information services. The company is headquartered in Milwaukee, Wisconsin and currently employs 23,000 full-time employees. The firm operates through two segments: Architecture & Software and Control Products & Solutions. The Architecture & Software segment contains various hardware, software and communication components of the Company's integrated control and information architecture capable of controlling the customer's industrial processes and connecting with their manufacturing enterprise. Architecture & Software has a portfolio of products, including Control platforms that perform multiple control disciplines and monitoring of applications, including discrete, batch and continuous process, drives control, motion control and machine safety control. The Control Products & Solutions segment portfolio includes low and medium voltage electro-mechanical and electronic motor starters, signaling devices, termination and protection devices, relays and timers."
+ceo,Mr. Blake Moret
+sector,Industrials
+country,US
+fullTimeEmployees,23000
+phone,14143822000
+address,1201 S 2nd St
+city,Milwaukee
+state,WISCONSIN
+zip,53204
+dcfDiff,
+dcf,245.356
+image,https://financialmodelingprep.com/image-stock/ROK.png
+ipoDate,1956-08-29
+defaultImage,False

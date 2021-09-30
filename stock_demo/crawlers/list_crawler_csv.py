@@ -7,7 +7,7 @@ import csv
 from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 
-with open('//data//opt//users//destiny//resource//Stock_List.csv', 'w', newline='') as stocklist:
+with open('.//Stock_List.csv', 'w', newline='') as stocklist:
 
     fields = ['Ticket', 'Company Name']
     writer = csv.DictWriter(stocklist, fields)
@@ -19,7 +19,7 @@ with open('//data//opt//users//destiny//resource//Stock_List.csv', 'w', newline=
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
 
-    driver = webdriver.Chrome(executable_path="/data/opt/users/destiny/chromedriver", chrome_options=options)
+    driver = webdriver.Chrome(executable_path="/data/opt/users/s161707/chromedriver", chrome_options=options)
     driver.get("https://www.nyse.com/listings_directory/stock")
 
     ############################################# Preparation is done above #############################################

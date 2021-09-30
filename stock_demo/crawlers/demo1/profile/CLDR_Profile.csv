@@ -1,0 +1,33 @@
+,0
+symbol,CLDR
+price,10.5
+beta,1.07168
+volAvg,4949540
+mktCap,3281932290
+lastDiv,0.0
+range,4.76-14.198
+changes,0.16
+companyName,Cloudera Inc
+currency,USD
+cik,0001535379
+isin,US18914U1007
+cusip,18914U100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.cloudera.com/
+description,"Cloudera, Inc. engages in the provision of enterprise-grade, global data management platforms, services and solutions. The company is headquartered in Palo Alto, California and currently employs 2,947 full-time employees. The firm allows enterprises to operate, manage and move workloads across multiple architectures, mixing on premises and cloud environments, including all major public cloud infrastructure providers. The company operates through two operating segments: subscription and services. Its products include Cloudera Enterprise Data Hub, Cloudera Analytic BD, Cloudera Operational DB, Cloudera Data Science & Engineering, and Cloud Essentials. The firm offers Cloudera Data Science for programmatic preparation, predictive modeling and machine learning; Cloudera Real Time for online, streaming and rea ltime applications; and Cloudera Analytics for business intelligence and structured query language (SQL) analytics. The company has developed the hybrid open source software (HOSS) development model, which helps customers in managing, operating and securing their data and data architectures."
+ceo,Mr. Robert Bearden
+sector,Technology
+country,US
+fullTimeEmployees,2765
+phone,16506443950
+address,395 Page Mill Rd
+city,Palo Alto
+state,CALIFORNIA
+zip,94306
+dcfDiff,
+dcf,10.4734
+image,https://financialmodelingprep.com/image-stock/CLDR.png
+ipoDate,2017-04-28
+defaultImage,False

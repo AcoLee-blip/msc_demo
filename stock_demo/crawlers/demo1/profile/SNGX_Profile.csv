@@ -1,0 +1,33 @@
+,0
+symbol,SNGX
+price,1.785
+beta,1.29218
+volAvg,389873
+mktCap,53277428
+lastDiv,0.0
+range,0.9-3.54
+changes,0.065
+companyName,Soligenix Inc
+currency,USD
+cik,0000812796
+isin,US8342233074
+cusip,834223307
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.soligenix.com/
+description,"Soligenix, Inc. is a late-stage biopharmaceutical company, which engages in the development and commercialization of products to treat rare disease. The company is headquartered in Princeton, New Jersey and currently employs 14 full-time employees. The firm is focused on developing and commercializing products to treat rare diseases. The firm operates through two segments: BioTherapeutics and Vaccines/BioDefense. Its BioTherapeutics segment is developing a photodynamic therapy (SGX301) utilizing topical synthetic hypericin activated with safe visible light for the treatment of cutaneous T-cell lymphoma (CTCL), formulations of oral beclomethasone 17,21-dipropionate (BDP) for the prevention/treatment of gastrointestinal (GI) disorders characterized by severe inflammation, and its innate defense regulator (IDR) technology, dusquetide (SGX942) for the treatment of oral mucositis in head and neck cancer. Its Vaccines/BioDefense business segment includes active development programs for RiVax, its ricin toxin vaccine candidate, OrbeShield, its GI acute radiation syndrome (GI ARS) therapeutic candidate, and SGX943, its melioidosis therapeutic candidate."
+ceo,Dr. Christopher Schaber
+sector,Healthcare
+country,US
+fullTimeEmployees,15
+phone,16095388200
+address,29 Emmons Dr Ste B10
+city,Princeton
+state,NEW JERSEY
+zip,08540
+dcfDiff,-28.63
+dcf,1.92976
+image,https://financialmodelingprep.com/image-stock/SNGX.png
+ipoDate,1994-04-04
+defaultImage,False

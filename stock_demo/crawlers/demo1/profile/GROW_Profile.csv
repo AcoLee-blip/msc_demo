@@ -1,0 +1,33 @@
+,0
+symbol,GROW
+price,3.22
+beta,2.64146
+volAvg,70860
+mktCap,48579176
+lastDiv,0.0355
+range,0.8-3.9
+changes,0.1025
+companyName,U.S. Global Investors Inc
+currency,USD
+cik,0000754811
+isin,US9029521005
+cusip,902952100
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Asset Management
+website,http://www.usfunds.com/
+description,"U.S.Global Investors, Inc. engages in the provision of investment advisory services. The company is headquartered in San Antonio, Texas and currently employs 48 full-time employees. Global Investors, Inc. is an investment advisor. The Company, with principal operations located in San Antonio, Texas, manages three business segments. The Investment Management Services segment, through the United States Global Investors Funds (USGIF), offers offshore clients, and an exchange traded fund (ETF) client, a range of investment management products and services to meet the needs of individual and institutional investors. The Investment Management Services-Canada segment owns a controlling interest in Galileo Global Equity Advisors Inc. (Galileo), a Toronto-based asset management firm, which offers investment management products and services in Canada. The Corporate Investments segment invests for its own account. As part of its investment management businesses, the Company provides investment advisory services and administrative services to the mutual funds advised by the Company."
+ceo,Mr. Frank Holmes
+sector,Financial Services
+country,US
+fullTimeEmployees,48
+phone,12103081234
+address,7900 Callaghan Rd
+city,San Antonio
+state,TEXAS
+zip,78229
+dcfDiff,-0.5
+dcf,2.72814
+image,https://financialmodelingprep.com/image-stock/GROW.png
+ipoDate,1985-04-24
+defaultImage,False

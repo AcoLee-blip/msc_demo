@@ -1,0 +1,33 @@
+,0
+symbol,GRTS
+price,2.71
+beta,0.0
+volAvg,294696
+mktCap,102340712
+lastDiv,0.0
+range,2.54-12.96
+changes,0.01
+companyName,Gritstone Oncology Inc
+currency,USD
+cik,0001656634
+isin,US39868T1051
+cusip,39868T105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://gritstoneoncology.com/
+description,"Gritstone Oncology, Inc. clinical-stage biotechnology company, which engages in developing the next generation of cancer immunotherapies to fight multiple cancer types. The company is headquartered in Emeryville, California and currently employs 164 full-time employees. The firm focuses to identify and deploy therapeutic neo-antigens from individual patients' tumors to develop treatments for lung cancer. The company provides Gritstone EDGE, which is a tumor-specific neo-antigen (TSNA) prediction platform that predicts the presence of a patient’s TSNA on tumor cells. The company also develops and manufactures a patient-specific therapeutic to direct a robust thymus (T) cell response to those TSNA predicted to be presented on the patient’s tumor. In its GRANITE-001 product candidate each of the viral prime and RNA boost immunizations contain a patient-specific set of predicted TSNA, and the viral prime and RNA boost in its SLATE product candidate series contains a fixed TSNA cassette that is designed for the subset of patients with tumor neoantigens."
+ceo,Dr. Andrew Allen
+sector,Healthcare
+country,US
+fullTimeEmployees,176
+phone,15108716100
+address,5858 Horton St Ste 210
+city,Emeryville
+state,CALIFORNIA
+zip,94608
+dcfDiff,
+dcf,4.56087
+image,https://financialmodelingprep.com/image-stock/GRTS.png
+ipoDate,2018-09-28
+defaultImage,False

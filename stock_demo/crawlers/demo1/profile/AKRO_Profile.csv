@@ -1,0 +1,33 @@
+,0
+symbol,AKRO
+price,29.0
+beta,0.0
+volAvg,178093
+mktCap,1006323200
+lastDiv,0.0
+range,10.78-41.16
+changes,0.23
+companyName,Akero Therapeutics Inc
+currency,USD
+cik,0001744659
+isin,US00973Y1082
+cusip,00973Y108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.akerotx.com/
+description,"Akero Therapeutics, Inc. operates as a biotechnology company. The company is headquartered in South San Francisco, California and currently employs 10 full-time employees. The firm is engaged in nonalcoholic steatohepatitis (NASH), a disease without any approved therapies. NASH is a severe form of nonalcoholic fatty liver disease, or NAFLD, characterized by inflammation and fibrosis in the liver that can progress to cirrhosis, liver failure, cancer and death. The Company’s lead product candidate, AKR-001, which the Company is developing as a treatment for patients with NASH, is an analog of fibroblast growth factor 21 (FGF21). FGF21 is an endogenously-expressed hormone that regulates metabolism of lipids, carbohydrates and proteins throughout the body."
+ceo,Dr. Andrew Cheng
+sector,Healthcare
+country,US
+fullTimeEmployees,13
+phone,16504876488
+address,170 Harbor Way
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,30.0989
+image,https://financialmodelingprep.com/image-stock/AKRO.png
+ipoDate,2019-06-20
+defaultImage,False

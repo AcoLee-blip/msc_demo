@@ -1,0 +1,33 @@
+,0
+symbol,ARWR
+price,69.23
+beta,1.84251
+volAvg,1547230
+mktCap,7081675300
+lastDiv,0.0
+range,19.51-73.72
+changes,-0.33
+companyName,Arrowhead Pharmaceuticals Inc
+currency,USD
+cik,0000879407
+isin,US04280A1007
+cusip,04280A100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://arrowheadpharma.com/
+description,"Arrowhead Pharmaceuticals, Inc. operates as a biopharmaceutical company. The company is headquartered in Pasadena, California and currently employs 134 full-time employees. Using a portfolio of ribonucleic acid (RNA) chemistries and modes of delivery, the Company's therapies trigger the RNA interference mechanism to induce knockdown of target genes. The firm is focused on developing drugs for diseases with a genetic basis, characterized by the overproduction of one or more proteins. The firm's preclinical pipeline of RNA interference (RNAi) therapeutics includes both subcutaneously administered liver-targeted candidates and extra-hepatic candidates. The firm's pre-clinical-stage drug candidates include ARO-HBV, ARO-AAT, ARO-LPA, ARO-AMG1, ARO-F12 and ARO-HIF2. ARO-HBV is an RNAi therapeutic candidate for the treatment of chronic hepatitis B infection. ARO-AAT is a therapeutic candidate for the treatment of liver disease associated with Alpha-1 Antitrypsin Deficiency."
+ceo,Dr. Christopher Anzalone
+sector,Healthcare
+country,US
+fullTimeEmployees,134
+phone,16266964702
+address,"177 E Colorado Blvd, Suite 700"
+city,Pasadena
+state,CALIFORNIA
+zip,91105
+dcfDiff,-18.95
+dcf,58.9694
+image,https://financialmodelingprep.com/image-stock/ARWR.png
+ipoDate,1993-12-14
+defaultImage,False

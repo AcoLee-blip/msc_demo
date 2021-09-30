@@ -1,0 +1,33 @@
+,0
+symbol,PLAN
+price,62.79
+beta,0.0
+volAvg,2279673
+mktCap,8776284200
+lastDiv,0.0
+range,26.04-66.1
+changes,0.69
+companyName,Anaplan Inc
+currency,USD
+cik,0001540755
+isin,US03272L1089
+cusip,03272L108
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,http://www.anaplan.com/
+description,"Anaplan, Inc. engages in the provision of cloud-based connected planning platform that helps connect organizations and people to make better and faster decisions. The company is headquartered in San Francisco, California and currently employs 1,299 full-time employees. The Company’s platform enables connect organizations and people to make decisions. The company offers its application over the Internet as a subscription service using a software-as-a-service (SaaS) model. Its Hyperblock technology is designed for Connected Planning. The company enables users to manage sales performance, including incentive compensation, territory and quota planning, sales forecasting, account segmentation and scoring, and sales capacity planning. Users can manage financial and enterprise performance, including financial budgeting, planning, and forecasting. Marketing team can manage marketing performance, including trade promotion planning, pricing optimization, and marketing performance management. The company provides professional services, including consulting, implementation, and training. The company serves various industries, such as architecture, engineering and construction and automotive and manufacturing."
+ceo,Mr. Frank Calderoni
+sector,Technology
+country,US
+fullTimeEmployees,1601
+phone,14157428199
+address,50 Hawthorne St
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,
+dcf,61.4775
+image,https://financialmodelingprep.com/image-stock/PLAN.png
+ipoDate,2018-10-12
+defaultImage,False

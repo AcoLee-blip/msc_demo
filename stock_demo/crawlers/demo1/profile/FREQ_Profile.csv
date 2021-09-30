@@ -1,0 +1,33 @@
+,0
+symbol,FREQ
+price,24.98
+beta,0.0
+volAvg,163753
+mktCap,840474560
+lastDiv,0.0
+range,14.5-28.78
+changes,0.09
+companyName,Frequency Therapeutics Inc
+currency,USD
+cik,0001703647
+isin,US35803L1089
+cusip,35803L108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.frequencytx.com/
+description,"Frequency Therapeutics, Inc. engages in the development of small molecule drugs that activate progenitor cells within the body to restore healthy tissue. The company is headquartered in Woburn, Massachusetts and currently employs 37 full-time employees. The firm is focused on developing small molecule drugs that activate progenitor cells within the body to restore healthy tissue. The company uses its PCA technology to develop a pipeline of progenitor cell activators. The company focuses on various therapeutic areas, such as hearing loss, skin disorders, muscle regeneration, and gastrointestinal diseases. Its lead program, FX-322, activates the regrowth of sensory cells in the inner ear to treat chronic noise induced hearing loss."
+ceo,Mr. David Lucchino
+sector,Healthcare
+country,US
+fullTimeEmployees,47
+phone,17813154600
+address,19 Presidential Way Ste 203
+city,Woburn
+state,MASSACHUSETTS
+zip,01801
+dcfDiff,
+dcf,44.2117
+image,https://financialmodelingprep.com/image-stock/FREQ.png
+ipoDate,2019-10-03
+defaultImage,False

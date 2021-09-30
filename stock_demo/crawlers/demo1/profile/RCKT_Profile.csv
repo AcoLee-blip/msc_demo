@@ -1,0 +1,33 @@
+,0
+symbol,RCKT
+price,32.14
+beta,2.14784
+volAvg,273213
+mktCap,1775214340
+lastDiv,0.0
+range,9.01-34.0
+changes,1.19
+companyName,Rocket Pharmaceuticals Inc
+currency,USD
+cik,0001281895
+isin,US77313F1066
+cusip,77313F106
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.rocketpharma.com/
+description,"Rocket Pharmaceuticals, Inc. is a clinical-stage biotechnology company, which engages in the development of gene therapy treatment options for rare and devastating pediatric diseases. The company is headquartered in New York City, New York and currently employs 41 full-time employees. The firm is focused on developing gene therapy treatment options for rare, devastating diseases. The Company’s multi-platform development approach applies the well-established lentiviral vector (LVV) and adeno-associated viral vector (AAV) gene therapy platforms. The Company’s lead clinical program is a LVV-based gene therapy for the treatment of Fanconi Anemia (FA), a genetic disease that leads to bone marrow failure and potentially cancer. Its additional pipeline programs for bone marrow-derived disorders are for Pyruvate Kinase Deficiency (PKD), Leukocyte Adhesion Deficiency-I (LAD-I) and Infantile Malignant Osteopetrosis (IMO). The firm is also developing an AAV-based gene therapy program for pediatric heart failure indication, Danon disease."
+ceo,Dr. Gaurav Shah
+sector,Healthcare
+country,US
+fullTimeEmployees,72
+phone,16464409100
+address,350 5th Ave Ste 7530
+city,New York City
+state,NEW YORK
+zip,10118
+dcfDiff,-18.25
+dcf,31.2825
+image,https://financialmodelingprep.com/image-stock/RCKT.png
+ipoDate,2015-02-18
+defaultImage,False

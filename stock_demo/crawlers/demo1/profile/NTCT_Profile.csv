@@ -1,0 +1,33 @@
+,0
+symbol,NTCT
+price,22.49
+beta,1.01412
+volAvg,399232
+mktCap,1629517440
+lastDiv,0.0
+range,19.11-29.62
+changes,0.39
+companyName,Netscout Systems Inc
+currency,USD
+cik,0001078075
+isin,US64115T1043
+cusip,64115T104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,http://www.netscout.com/
+description,"NetScout Systems, Inc. engages in the provision of application and network performance management solutions. The company is headquartered in Westford, Massachusetts and currently employs 2,585 full-time employees. The firm's solutions are used in various service provider, enterprise and government networks. Its nGenius and Infinistream technologies, along with certain product lines from the acquired businesses, enable information technology (IT) organizations to manage service delivery quality, and identify and address business service performance issues and security threats. The firm's manufacturing operations consist of final product assembly, configuration and testing. The firm's nGeniusONE Service Assurance Solution is used to support NetScout's enterprise, service provider and government customers. The firm's Intelligent Data Sources, marketed under the Infinistream brand, provide collection and analysis of high-volume packet-flow data from across the network that is displayed through the nGeniusONE Service Assurance Solution."
+ceo,Mr. Anil Singhal
+sector,Technology
+country,US
+fullTimeEmployees,2502
+phone,19786144000
+address,310 Littleton Rd
+city,Westford
+state,MASSACHUSETTS
+zip,01886
+dcfDiff,
+dcf,27.6735
+image,https://financialmodelingprep.com/image-stock/NTCT.png
+ipoDate,1999-08-12
+defaultImage,False

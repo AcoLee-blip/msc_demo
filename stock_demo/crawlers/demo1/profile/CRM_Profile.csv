@@ -1,0 +1,33 @@
+,0
+symbol,CRM
+price,249.42
+beta,1.25764
+volAvg,7746823
+mktCap,226972205000
+lastDiv,0.0
+range,115.29-284.5
+changes,-4.76
+companyName,Salesforce.Com Inc
+currency,USD
+cik,0001108524
+isin,US79466L3024
+cusip,79466L302
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.salesforce.com/
+description,"salesforce.com, inc. engages in the design and development of cloud-based enterprise software for customer relationship management. The company is headquartered in San Francisco, California and currently employs 35,000 full-time employees. The firm focuses on cloud, mobile, social, Internet of Things (IoT) and artificial intelligence technologies. The firm's service offerings are configured and integrated with other platforms and enterprise applications. The firm delivers its service offerings via Internet browsers and on mobile devices. Its Customer Success Platform is a portfolio of service offerings providing sales force automation, customer service and support, marketing automation, digital commerce, community management, analytics, application development, IoT integration, collaborative productivity tools and its professional cloud services. Its cloud service offerings include Sales Cloud, Service Cloud, Marketing Cloud, Commerce Cloud, Community Cloud, Analytics Cloud, Salesforce Quip and Salesforce Platform."
+ceo,Mr. Marc Benioff
+sector,Technology
+country,US
+fullTimeEmployees,49000
+phone,14159017000
+address,415 Mission St Fl 3
+city,San Francisco
+state,CALIFORNIA
+zip,
+dcfDiff,-118.96
+dcf,259.106
+image,https://financialmodelingprep.com/image-stock/CRM.jpg
+ipoDate,2004-06-23
+defaultImage,True

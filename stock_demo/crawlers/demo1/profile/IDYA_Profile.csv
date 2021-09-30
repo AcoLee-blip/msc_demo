@@ -1,0 +1,33 @@
+,0
+symbol,IDYA
+price,13.1
+beta,0.0
+volAvg,176646
+mktCap,380273376
+lastDiv,0.0
+range,2.95-19.97
+changes,0.26
+companyName,IDEAYA Biosciences Inc
+currency,USD
+cik,0001676725
+isin,US45166A1025
+cusip,45166A102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.ideayabio.com/
+description,"IDEAYA Biosciences, Inc. engages in the research and development of oncology-focused precision medicine. The company is headquartered in South San Francisco, California and currently employs 50 full-time employees. The firm focuses on the discovery and development of targeted therapeutics for patient populations selected using molecular diagnostics. The Company’s product candidate is IDE196, a protein kinase C (PKC), inhibitor for genetically defined cancers having GNAQ or GNA11 gene mutations. Its preclinical pipeline includes multiple synthetic lethality programs, including against methionine adenosyltransferase 2a (MAT2A) in tumor cells having methylthioadenosine phosphorylase (MTAP) gene deletion; Pol-theta, in tumors with genetic mutations in homologous recombination deficiency (HRD), including breast carcinoma (BRCA ) mutations; poly adenosine diphosphate-ribose glycohydrolase (PARG), in tumors with genetic mutations in BRCA or base excision repair, and WRN, in high microsatellite instability tumors (MSI) tumors."
+ceo,Mr. Yujiro Hata
+sector,Healthcare
+country,US
+fullTimeEmployees,43
+phone,16504436209
+address,7000 Shoreline Ct Ste 350
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,15.666
+image,https://financialmodelingprep.com/image-stock/IDYA.jpg
+ipoDate,2019-05-23
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,XCUR
+price,1.72
+beta,0.0
+volAvg,177081
+mktCap,150033200
+lastDiv,0.0
+range,0.957-3.84
+changes,-0.04
+companyName,Exicure Inc
+currency,USD
+cik,0001698530
+isin,US30205M1018
+cusip,30205M101
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.exicuretx.com/
+description,"Exicure, Inc. is a clinical-stage biotechnology company, which engages in the discovery, research, and development of treatments based on spherical nucleic acid technology (SNA). The company is headquartered in Skokie, Illinois and currently employs 33 full-time employees. The firm is focused on developing gene regulatory and immuno-oncology therapeutics-based on its proprietary spherical nucleic acid (SNA) technology. SNAs are nanoscale constructs consisting of densely packed synthetic nucleic acid sequences that are radially arranged in three dimensions. The Company’s intellectual property portfolio includes 125 pending patent applications and 45 allowed or issued patents. These filings impact numerous jurisdictions worldwide, and they cover a range of inventions, including fundamental nanoparticle manufacturing breakthroughs and numerous application-specific improvements."
+ceo,Dr. David Giljohann
+sector,Healthcare
+country,US
+fullTimeEmployees,43
+phone,18476731700
+address,8045 Lamon Ave Ste 410
+city,Skokie
+state,ILLINOIS
+zip,60077
+dcfDiff,
+dcf,2.53027
+image,https://financialmodelingprep.com/image-stock/XCUR.png
+ipoDate,2018-05-09
+defaultImage,False

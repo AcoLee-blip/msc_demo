@@ -1,0 +1,33 @@
+,0
+symbol,FIX
+price,51.12
+beta,1.06883
+volAvg,266606
+mktCap,1860502140
+lastDiv,0.425
+range,27.54-58.14
+changes,1.49
+companyName,Comfort Systems USA Inc
+currency,USD
+cik,0001035983
+isin,US1999081045
+cusip,199908104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Engineering & Construction
+website,https://comfortsystemsusa.com/
+description,"Comfort Systems USA, Inc. engages in the provision of mechanocal and electrical contracting services. The company is headquartered in Houston, Texas and currently employs 9,900 full-time employees. The firm has 38 operating units in 72 cities and 86 locations throughout the United States. The firm operates primarily in the commercial, industrial and institutional HVAC markets and offers services in the industrial, healthcare, education, office, technology, retail and government facilities. The firm provides a range of construction, renovation, expansion, maintenance, repair and replacement services for mechanical and related systems in commercial, industrial and institutional properties. The firm also provides remote monitoring of temperature, pressure, humidity and air flow for HVAC systems."
+ceo,Mr. Brian Lane
+sector,Industrials
+country,US
+fullTimeEmployees,12000
+phone,17138309600
+address,675 Bering Dr Ste 400
+city,Houston
+state,TEXAS
+zip,77057
+dcfDiff,-17.72
+dcf,56.2678
+image,https://financialmodelingprep.com/image-stock/FIX.jpg
+ipoDate,1997-06-27
+defaultImage,True

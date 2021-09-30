@@ -1,0 +1,33 @@
+,0
+symbol,EPAM
+price,334.98
+beta,1.44506
+volAvg,289607
+mktCap,18755162100
+lastDiv,0.0
+range,151.97-356.98
+changes,2.25
+companyName,Epam Systems Inc
+currency,USD
+cik,0001352010
+isin,US29414B1044
+cusip,29414B104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.epam.com/
+description,"EPAM Systems, Inc. engages in the provision of software product development and digital platform engineering services. The company is headquartered in Newtown, Pennsylvania and currently employs 26,760 full-time employees. The firm's service offerings cover the full software product development lifecycle from digital strategy and customer experience design to enterprise application platforms implementation and program management services and from complex software development services to maintenance, support, custom application development, application testing, and infrastructure management. Its service offerings include Software Product Development Services, Custom Application Development Services, Application Testing Services, Enterprise Application Platforms, Application Maintenance and Support, and Infrastructure Management Services. The company offers its solutions and services to industries, such as financial services, media and entertainment, travel and consumer, software and hi-tech, and life sciences and healthcare."
+ceo,Mr. Arkadiy Dobkin
+sector,Technology
+country,US
+fullTimeEmployees,32561
+phone,12677599000
+address,41 University Dr Ste 202
+city,Newtown
+state,PENNSYLVANIA
+zip,18940
+dcfDiff,-109.65
+dcf,363.6
+image,https://financialmodelingprep.com/image-stock/EPAM.png
+ipoDate,2012-02-08
+defaultImage,False

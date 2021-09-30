@@ -41,7 +41,7 @@ def parse_args(argv=None):
         print("usage: spark-submit etl.py <data_dir>")
         exit(0)
     # default
-    data_dir = "/data/opt/msc2020/demo/demo1"
+    data_dir = "file:///data/opt/msc_big_data/demo/demo1"
     if len(argv) > 1:
         data_dir = argv[1]
     args = Args(data_dir)

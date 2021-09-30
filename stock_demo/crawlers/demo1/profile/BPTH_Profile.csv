@@ -1,0 +1,33 @@
+,0
+symbol,BPTH
+price,3.59
+beta,2.15293
+volAvg,1016620
+mktCap,16305277
+lastDiv,0.0
+range,2.92-11.78
+changes,0.21
+companyName,Bio Path Holdings Inc
+currency,USD
+cik,0001133818
+isin,US09057N3008
+cusip,09057N300
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.biopathholdings.com/
+description,"Bio-Path Holdings, Inc. is a biotechnology company, which engages in the develpment of therapies for acute myeloid leukemia (AML) and chronic myeloid leukemia (CML). The company is headquartered in Bellaire, Texas and currently employs 9 full-time employees. The firm utilizes a technology that achieves systemic delivery for target specific protein inhibition for any gene product that is over-expressed in disease. Its drug delivery and antisense technology, DNAbilize, is a platform that uses P-ethoxy, a deoxyribonucleic acid backbone modification. Its lead drug candidate, Liposomal Grb2 (BP1001), targets the protein Growth factor receptor-bound protein 2 (Grb2). Its other liposome delivered antisense drug candidate, Liposomal Bcl2 (BP1002), targets the protein B-cell lymphoma 2 (Bcl2). BP1001 is in Phase II clinical trials for acute myeloid leukemia, and for blast phase and accelerated phase chronic myelogenous leukemia. BP1002 is intended to target the lymphoma and certain solid tumor markets. BP1001 is also in preclinical studies for solid tumors, including triple negative breast cancer and inflammatory breast cancer."
+ceo,Mr. Peter Nielsen
+sector,Healthcare
+country,US
+fullTimeEmployees,9
+phone,18327421357
+address,4710 Bellaire Blvd Ste 210
+city,Bellaire
+state,TEXAS
+zip,77401
+dcfDiff,
+dcf,11.7976
+image,https://financialmodelingprep.com/image-stock/BPTH.png
+ipoDate,2006-01-11
+defaultImage,False

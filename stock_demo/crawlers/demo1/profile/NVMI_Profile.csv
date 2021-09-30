@@ -1,0 +1,33 @@
+,0
+symbol,NVMI
+price,60.875
+beta,1.08386
+volAvg,164524
+mktCap,1710076160
+lastDiv,0.0
+range,25.7-65.0
+changes,0.365
+companyName,Nova Measuring Instruments Ltd
+currency,USD
+cik,0001109345
+isin,IL0010845571
+cusip,M7516K103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.novami.com/
+description,"Nova Measuring Instruments Ltd. engages in the provision of metrology solutions for the semiconductor manufacturing industry. The firm offers in-line Optical and x-ray stand-alone metrology systems, as well as integrated optical metrology systems, which are attached directly to wafer fabrication process equipment. Its metrology systems measure various film thickness and composition properties, as well as critical-dimension (CD) variables during various front-end and back-end of line steps in the semiconductor wafer fabrication process. Its product portfolio includes a set of in-situ, integrated and stand-alone metrology platforms suited for dimensional, films and material metrology measurements for process control across multiple semiconductor manufacturing process steps. Its products include NovaScan 2040, NovaScan 3090Next, Nova i500, Nova T500, Nova T600, Nova V2600 TSV metrology system, NovaMars, Nova Hybrid Metrology solution, Nova Fleet Management, VeraFlex II, VeraFlex III XF and QED."
+ceo,Mr. Eitan Oppenhaim
+sector,Technology
+country,IL
+fullTimeEmployees,646
+phone,972732295600
+address,"5 David Fikes Street, P.O. Box 266"
+city,REHOVOT
+state,
+zip,7610201
+dcfDiff,
+dcf,70.0527
+image,https://financialmodelingprep.com/image-stock/NVMI.png
+ipoDate,2000-04-11
+defaultImage,False

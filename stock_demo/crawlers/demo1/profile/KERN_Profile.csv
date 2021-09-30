@@ -1,0 +1,33 @@
+,0
+symbol,KERN
+price,3.0597
+beta,0.0
+volAvg,1024595
+mktCap,60232948
+lastDiv,0.0
+range,2.17-13.5
+changes,0.2597
+companyName,Akerna Corp
+currency,USD
+cik,0001755953
+isin,US00973W1027
+cusip,00973W102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,
+description,"Akerna Corp. is cannabis compliance, inventory tracking technology company. The company is headquartered in Denver, Colorado and currently employs 93 full-time employees. Its products enable cannabis businesses and government agencies across multiple industries and geographies to compliantly manage the cannabis supply chain from seed-to-sale and collect and synthesize valuable data to enable visibility and operations management at scale. The firm provides its regulatory software platform, Leaf Data Systems, to state government regulatory agencies, and its business software platform, MJ Platform, to state-licensed businesses. Its core products, Leaf Data Systems and MJ Platform, are versatile platforms that provide its clients with a central data management system for tracking regulated products from seed to initial plant growth to product throughout the complete supply chain. Its platforms also provide clients with integrated security, transparency and scalability capabilities."
+ceo,Ms. Jessica Billingsley
+sector,Healthcare
+country,US
+fullTimeEmployees,93
+phone,18889326537
+address,"1630 WELTON STREET, FLOOR 4"
+city,Denver
+state,COLORADO
+zip,80202
+dcfDiff,
+dcf,7.30719
+image,https://financialmodelingprep.com/image-stock/KERN.jpg
+ipoDate,2018-02-21
+defaultImage,True

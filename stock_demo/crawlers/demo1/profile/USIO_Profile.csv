@@ -1,0 +1,33 @@
+,0
+symbol,USIO
+price,1.56
+beta,1.66983
+volAvg,96918
+mktCap,38478180
+lastDiv,0.0
+range,0.75-3.72
+changes,0.07
+companyName,Usio Inc
+currency,USD
+cik,0001088034
+isin,US9173131080
+cusip,917313108
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,http://www.paymentdata.com/
+description,"USIO, Inc. engages in providing integrated payment solutions. The company is headquartered in San Antonio, Texas and currently employs 43 full-time employees. The firm is an integrated payment solutions provider offering a range of services to merchants, billers, banks, service bureaus, and card issuers. The company operates through two operating entities: Payment Data Systems, Inc. and FiCentive, Inc. Payment Data Systems, Inc. provides integrated electronic payment processing services to merchants and businesses, including credit and debit card-based processing services and transaction processing through the ACH network. Its ACH processing services enable businesses to both disburse and collect funds electronically using e-checks to transfer funds instead of traditional paper checks. The company provides prepaid card processing services for merchants and consumers through its subsidiary, FiCentive, Inc."
+ceo,Mr. Louis Hoch
+sector,Technology
+country,US
+fullTimeEmployees,51
+phone,12102494100
+address,3611 Paesanos Pkwy Ste 300
+city,San Antonio
+state,TEXAS
+zip,78231
+dcfDiff,
+dcf,1.71496
+image,https://financialmodelingprep.com/image-stock/USIO.png
+ipoDate,1999-12-09
+defaultImage,False

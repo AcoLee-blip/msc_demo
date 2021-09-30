@@ -1,0 +1,33 @@
+,0
+symbol,PDFS
+price,20.64
+beta,1.55585
+volAvg,138227
+mktCap,756041090
+lastDiv,0.0
+range,8.61-26.42
+changes,0.38
+companyName,PDF Solutions Inc
+currency,USD
+cik,0001120914
+isin,US6932821050
+cusip,693282105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.pdf.com/
+description,"PDF Solutions, Inc. engages in the provision of an end-to-end analytics platform that empowers engineers and data scientists across the semiconductor ecosystem and data analytics for process-design optimization and yield enhancement. The company is headquartered in Santa Clara, California and currently employs 365 full-time employees. The firm's technologies and services focus on the IC manufacturing process life cycle. The company operates in the segment of licensing and implementation of yield improvement solutions for integrated circuit manufacturers. The firm's solutions combine software, test chips, an electrical wafer test system, methodologies and professional services. The firm has developed solutions for yield simulation, analysis, loss detection, and improvement. Its characterization vehicle infrastructure (CVi) enables customers to electrically characterize the manufacturing process, and establish fail-rate information needed to calibrate manufacturing yield models and prioritize yield improvement activities. Its Exensio YieldAware solution combines software and services to enable customers to collect and combine product test data and equipment signals during production."
+ceo,Dr. John Kibarian
+sector,Technology
+country,US
+fullTimeEmployees,353
+phone,14082807900
+address,2858 De La Cruz Blvd
+city,Santa Clara
+state,CALIFORNIA
+zip,95050
+dcfDiff,-13.15
+dcf,22.8215
+image,https://financialmodelingprep.com/image-stock/PDFS.png
+ipoDate,2001-07-26
+defaultImage,False

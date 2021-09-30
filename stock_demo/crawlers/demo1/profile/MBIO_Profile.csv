@@ -1,0 +1,33 @@
+,0
+symbol,MBIO
+price,3.01
+beta,2.152387
+volAvg,1566956
+mktCap,196367584
+lastDiv,0.0
+range,1.78-4.85
+changes,0.06
+companyName,Mustang Bio Inc
+currency,USD
+cik,0001680048
+isin,US62818Q1040
+cusip,62818Q104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.mustangbio.com/
+description,"Mustang Bio, Inc. is a clinical-stage biopharmaceutical company that focuses on the development and commercialization of a broad range of proprietary chimeric antigen receptor engineered T cell (CAR T) immunotherapies and gene therapies. The company is headquartered in New York, New York and currently employs 38 full-time employees. The firm is focused on the development and commercialization of cancer immunotherapy products designed to utilize the power of the patient’s own immune system to eliminate cancer cells. The company seeks to acquire rights to technologies by licensing or otherwise acquiring an ownership interest in the technologies, funding their research and development and eventually either out-licensing or bringing the technologies to market. The firm is developing its proprietary Chimeric Antigen Receptor (CAR) engineered T cells (CAR -T) technology, which uses the patient’s own T cells to engage and destroy specific tumors. The Company, through its agreement with City of Hope National Medical Center, is using three novel CAR T therapies in the development of cancer treatments, including human epidermal growth factor receptor 2 CAR T technology, CS1-specific CAR T technology, and prostate stem cell antigen CAR T technology."
+ceo,Dr. Manuel Litchman
+sector,Healthcare
+country,US
+fullTimeEmployees,51
+phone,17816524507
+address,2 Gansevoort St Fl 9
+city,New York City
+state,NEW YORK
+zip,10014
+dcfDiff,-5.68
+dcf,4.51299
+image,https://financialmodelingprep.com/image-stock/MBIO.png
+ipoDate,2017-08-22
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,PCTY
+price,188.785
+beta,1.54999
+volAvg,331672
+mktCap,10240775200
+lastDiv,0.0
+range,66.98-209.59
+changes,-3.445
+companyName,Paylocity Holding Corp
+currency,USD
+cik,0001591698
+isin,US70438V1061
+cusip,70438V106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.paylocity.com/
+description,"Paylocity Holding Corp. engages in the development and provision of cloud-based software solution. The company is headquartered in Schaumburg, Illinois and currently employs 3,050 full-time employees. The firm's services are provided in a software-as-a-service delivery model utilizing its cloud-based platform. The cloud-based platform provides a suite of applications using a multi-tenant architecture. The cloud-based platform features a suite of unified payroll and HCM applications. The Company, through cloud-based platform, offers various products, which include Paylocity Web Pay, Core HR (Web HR), Talent Management, Time and Labor (Web Time and Web Expense), Benefits (Web Benefits), and Third-Party Administrative (TPA) Services. The multi-tenant software platform is configurable and includes a unified suite of payroll and HCM applications, such as time and labor tracking, benefits and talent management."
+ceo,Mr. Steven Beauchamp
+sector,Technology
+country,US
+fullTimeEmployees,3050
+phone,18005202687
+address,1400 American Ln
+city,Schaumburg
+state,ILLINOIS
+zip,60173
+dcfDiff,
+dcf,191.125
+image,https://financialmodelingprep.com/image-stock/PCTY.png
+ipoDate,2014-03-19
+defaultImage,False

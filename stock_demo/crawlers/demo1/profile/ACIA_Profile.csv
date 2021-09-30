@@ -1,0 +1,33 @@
+,0
+symbol,ACIA
+price,68.45
+beta,0.82588
+volAvg,480038
+mktCap,2884756740
+lastDiv,0.0
+range,60.62-69.13
+changes,-0.33
+companyName,Acacia Communications Inc
+currency,USD
+cik,0001651235
+isin,US00401C1080
+cusip,00401C108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://acacia-inc.com/
+description,"Acacia Communications, Inc. is engaged in the development, manufacture, and sale of high-speed coherent optical interconnect products that are designed to transform communications networks through improvements in performance, capacity, and cost. The company is headquartered in Maynard, Massachusetts and currently employs 386 full-time employees. The firm's products include a series of low-power coherent digital signal processor application-specific integrated circuits (DSP ASICs), and silicon photonic integrated circuits (silicon PICs), which it has integrated into families of optical interconnect modules with transmission speeds ranging from 100 to 400 gigabits per second (Gbps) for use in long-haul, metro and inter-data center markets. The firm is also developing optical interconnect modules that will enable transmission speeds of one terabit (1,000 gigabits) per second and above. The firm's modules perform a majority of the digital signal processing and optical functions in optical interconnects. The firm's coherent DSP ASICs are manufactured using complementary metal oxide semiconductor (CMOS), and its silicon PICs are manufactured using a CMOS-compatible process."
+ceo,Mr. Murugesan Shanmugaraj
+sector,Technology
+country,US
+fullTimeEmployees,429
+phone,19789384896
+address,"Three Mill And Main Place, Suite 400"
+city,Maynard
+state,MASSACHUSETTS
+zip,01754
+dcfDiff,-60.36
+dcf,68.6992
+image,https://financialmodelingprep.com/image-stock/ACIA.png
+ipoDate,2016-05-13
+defaultImage,False

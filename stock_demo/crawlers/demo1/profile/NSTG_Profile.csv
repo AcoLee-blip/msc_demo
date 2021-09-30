@@ -1,0 +1,33 @@
+,0
+symbol,NSTG
+price,46.12
+beta,1.46823
+volAvg,617500
+mktCap,2032291580
+lastDiv,0.0
+range,13.85-47.555
+changes,-0.63
+companyName,NanoString Technologies Inc
+currency,USD
+cik,0001401708
+isin,US63009R1095
+cusip,63009R109
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.nanostring.com
+description,"NanoString Technologies, Inc. engages in the development and commercialization of instrument and services for profiling of genes and proteins from tissue sample. The company is headquartered in Seattle, Washington and currently employs 476 full-time employees. The firm is engaged in the development, manufacture and commercialization of instruments, consumables and services for profiling the activity of hundreds of genes and proteins simultaneously from a single tissue sample. The firm's nCounter Analysis System is an automated, multi-application, digital detection and counting system, which directly profiles hundreds of molecules simultaneously using a barcoding technology. The firm markets systems and related consumables to researchers in academic, government and biopharmaceutical laboratories for use in understanding fundamental biology and the molecular basis of diseases, such as cancer, and to clinical laboratories and medical centers for diagnostic use."
+ceo,Mr. R. Bradley Gray
+sector,Healthcare
+country,US
+fullTimeEmployees,551
+phone,12063786266
+address,530 Fairview Ave N
+city,Seattle
+state,WASHINGTON
+zip,98109
+dcfDiff,-160.43
+dcf,37.3194
+image,https://financialmodelingprep.com/image-stock/NSTG.png
+ipoDate,2013-06-26
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,AEMD
+price,1.53
+beta,0.37492
+volAvg,561309
+mktCap,18495098
+lastDiv,0.0
+range,0.76-4.34
+changes,0.06
+companyName,Aethlon Medical Inc
+currency,USD
+cik,0000882291
+isin,US00808Y3071
+cusip,00808Y307
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.aethlonmedical.com/
+description,"Aethlon Medical, Inc. is a therapeutic technology company, which focuses on addressing global health and biodefense needs. The company is headquartered in San Diego, California and currently employs 6 full-time employees. The firm operates through two segments: Aethlon, which represents its therapeutic business activities, and ESI, which represents its diagnostic business activities. The firm's lead product is the Aethlon Hemopurifier, which is a device that selectively targets the elimination of circulating viruses and tumor-secreted exosomes that promote cancer progression. The Aethlon Hemopurifier sheds glycoproteins to treat infectious viral pathogens. In oncology indications, the Hemopurifier targets the removal of circulating exosomes, which are released to promote cancer progression and to seed the spread of metastasis. Through its subsidiary, Exosome Sciences, Inc. (Exosome), the Company is also developing exosome-based product candidates to diagnose and monitor neurological disorders and cancer."
+ceo,Dr. Timothy Rodell
+sector,Healthcare
+country,US
+fullTimeEmployees,8
+phone,18584597800
+address,9635 Granite Ridge Dr Ste 100
+city,San Diego
+state,CALIFORNIA
+zip,92123
+dcfDiff,-1.02
+dcf,4.34266
+image,https://financialmodelingprep.com/image-stock/AEMD.png
+ipoDate,1994-03-09
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,MRNA
+price,88.85
+beta,0.0
+volAvg,9091081
+mktCap,35158835000
+lastDiv,0.0
+range,17.68-95.21
+changes,1.04
+companyName,Moderna Inc
+currency,USD
+cik,0001682852
+isin,US60770K1079
+cusip,60770K107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.modernatx.com/
+description,"Moderna, Inc. engages in the development of transformative medicines based on messenger ribonucleic acid (mRNA). The company is headquartered in Cambridge, Massachusetts and currently employs 760 full-time employees. The company has created a platform to improve the underlying pharmaceutical properties of our mRNA medicines. Its platform consists of three areas: mRNA technologies, delivery technologies, and manufacturing processes. The company is pursuing mRNA science to minimize the undesirable activation of the immune system by mRNA and to maximize the potency of mRNA once in the target cells. The company has advanced in parallel a diverse development pipeline of 21 programs, of which 10 have entered clinical studies and another three have open INDs. Its therapeutics and vaccine development programs span infectious diseases, oncology, cardiovascular diseases, and rare genetic diseases. The company has created six modalities prophylactic vaccines, cancer vaccines, intratumoral immmuno-oncology, localized regenerative therapeutics, systemic secreted therapeutics and systemic intracellular therapeutics."
+ceo,Mr. Stephane Bancel
+sector,Healthcare
+country,US
+fullTimeEmployees,830
+phone,16177146500
+address,200 Technology Sq
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,69.083
+image,https://financialmodelingprep.com/image-stock/MRNA.png
+ipoDate,2018-12-07
+defaultImage,False

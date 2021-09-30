@@ -1,0 +1,33 @@
+,0
+symbol,ATOM
+price,9.39
+beta,1.69073
+volAvg,542900
+mktCap,201465280
+lastDiv,0.0
+range,2.53-13.3
+changes,-0.43
+companyName,Atomera Inc
+currency,USD
+cik,0001420520
+isin,US04965B1008
+cusip,04965B100
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://atomera.com/
+description,"Atomera, Inc. engages in the development, commercializing, and licensing of proprietary processes and technologies for the semiconductor industry. The company is headquartered in Los Gatos, California and currently employs 16 full-time employees. The firm is engaged in the development, commercialization and licensing of processes and technologies for the semiconductor industry. The firm's technology, named Mears Silicon Technology (MST), is a thin film of reengineered silicon, typically 100 to 300 angstroms (or approximately 20 to 60 silicon atomic unit cells) thick. MST can be applied as a transistor channel enhancement to Complementary Metal-Oxide Semiconductor (CMOS)-type transistors. MST is its performance enhancement technology. The firm's MST is a silicon-on-silicon solution that provides multiple benefits through modification to the standard CMOS manufacturing flow. MST improvements are delivered through its silicon band engineering approach that is based on the quantum mechanics of modern deep sub-micron devices."
+ceo,Mr. Scott Bibaud
+sector,Technology
+country,US
+fullTimeEmployees,17
+phone,14084425248
+address,750 University Ave Ste 280
+city,Los Gatos
+state,CALIFORNIA
+zip,95032
+dcfDiff,-2.78
+dcf,10.3181
+image,https://financialmodelingprep.com/image-stock/ATOM.jpg
+ipoDate,2016-08-05
+defaultImage,True

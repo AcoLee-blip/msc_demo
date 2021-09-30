@@ -1,0 +1,33 @@
+,0
+symbol,ARDS
+price,6.85
+beta,0.0
+volAvg,11429
+mktCap,61125084
+lastDiv,0.0
+range,3.8-10.18
+changes,0.1
+companyName,Aridis Pharmaceuticals Inc
+currency,USD
+cik,0001614067
+isin,US0403341045
+cusip,040334104
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://aridispharma.com
+description,"Aridis Pharmaceuticals, Inc. engages in the discovery and development of targeted immunotherapy using fully human monoclonal antibodies, or mAbs, to treat life-threatening infections. The company is headquartered in San Jose, California and currently employs 23 full-time employees. mAbs represents treatment approach that enables the human immune system to fight infections and are designed to overcome the deficiencies associated with current therapies, such as rise in drug resistance, short duration of response, negative impact on the human microbiome, and lack of differentiation among the treatment alternatives. Its product pipeline comprises of human mAbs targeting specific pathogens associated with bacterial infections, primarily hospital-acquired pneumonia (HAP), and ventilator-associated pneumonia (VAP). Its lead product candidate, AR-301 targets the alpha toxin produced by gram-positive bacteria Staphylococcus aureus, a common pathogen associated with HAP and VAP. Its AR-101 (Aerumab) is a fully human immunoglobulin M, mAb targeting P. aeruginosa serotype O11."
+ceo,Dr. Vu L. Truong
+sector,Healthcare
+country,US
+fullTimeEmployees,25
+phone,14083851742
+address,5941 Optical Ct
+city,San Jose
+state,CALIFORNIA
+zip,95138
+dcfDiff,
+dcf,9.98095
+image,https://financialmodelingprep.com/image-stock/ARDS.jpg
+ipoDate,2018-08-14
+defaultImage,True

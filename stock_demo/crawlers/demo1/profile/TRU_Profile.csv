@@ -1,0 +1,33 @@
+,0
+symbol,TRU
+price,92.9875
+beta,1.20602
+volAvg,1192693
+mktCap,17695522800
+lastDiv,0.3
+range,52.5-101.16
+changes,3.6375
+companyName,TransUnion
+currency,USD
+cik,0001552033
+isin,US89400J1079
+cusip,89400J107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Consulting Services
+website,https://www.transunion.com
+description,"TransUnion engages in the provision of information and risk management solutions. The company is headquartered in Chicago, Illinois and currently employs 7,100 full-time employees. The firm provides consumer reports, risk scores, analytical services and decision capabilities to businesses. The firm operates through three segments: U.S. Information Services (USIS), International and Consumer Interactive. The USIS segment provides consumer reports, risk scores, analytical services and decisioning capabilities to businesses. The International segment provides services similar to its USIS segment to businesses in select regions outside the United States. The Consumer Interactive segment offers solutions that help consumers manage their personal finances and take precautions against identity theft. Businesses uses its solutions for their process workflows to assess consumer ability to pay for services, measure and manage debt portfolio risk, collect debt, verify consumer identities and investigate potential fraud."
+ceo,Mr. Christopher Cartwright
+sector,Industrials
+country,US
+fullTimeEmployees,7100
+phone,13129852000
+address,555 W Adams St
+city,Chicago
+state,ILLINOIS
+zip,60661
+dcfDiff,
+dcf,88.4791
+image,https://financialmodelingprep.com/image-stock/TRU.png
+ipoDate,2015-06-25
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,KLDO
+price,7.32
+beta,0.0
+volAvg,267970
+mktCap,263388976
+lastDiv,0.0
+range,2.82-11.89
+changes,0.03
+companyName,Kaleido Biosciences Inc
+currency,USD
+cik,0001751299
+isin,US4833471000
+cusip,483347100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://kaleido.com/
+description,"Kaleido Biosciences, Inc. engages in the provision of healthcare services. The company is headquartered in Bedford, Massachusetts and currently employs 118 full-time employees. The Company’s product candidates are Microbiome Metabolic Therapies (MMTs), which are designed to modulate the metabolic output and profile of the microbiome by driving the function and distribution of the organ’s existing microbes. Its proprietary product platform includes ex vivo screening of microbiome samples from healthy volunteers, ex vivo testing of patient microbiome samples and advancement of its MMT candidates into non- Investigational New Drug Application (IND) human clinical studies. Its ex vivo screening process combines advances in drug discovery with microbiome science."
+ceo,Mr. Mike Bonney
+sector,Healthcare
+country,US
+fullTimeEmployees,91
+phone,16176749000
+address,18 Crosby Dr
+city,Bedford
+state,MASSACHUSETTS
+zip,02421
+dcfDiff,
+dcf,9.75008
+image,https://financialmodelingprep.com/image-stock/KLDO.png
+ipoDate,2019-02-28
+defaultImage,False

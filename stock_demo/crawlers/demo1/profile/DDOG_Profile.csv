@@ -1,0 +1,33 @@
+,0
+symbol,DDOG
+price,86.105
+beta,0.0
+volAvg,5015267
+mktCap,26118662100
+lastDiv,0.0
+range,28.88-118.13
+changes,-3.905
+companyName,Datadog Inc
+currency,USD
+cik,0001561550
+isin,US23804L1035
+cusip,23804L103
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.datadoghq.com/
+description,"Datadog, Inc. engages in the development of monitoring and analytics platform for developers, information technology operations teams and business users. The company is headquartered in New York City, New York and currently employs 1,212 full-time employees. Its Software-as-a-Service (SaaS) platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide real-time observability of its customers’ entire technology stack. Datadog is used by organizations of all sizes and across a range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations and business teams, understand user behavior and track key business metrics. The Company’s platform provides visibility and insights into IT infrastructure, application performance and the real time events. Its platform is employed across public cloud, private cloud, on-premise and multi-cloud hybrid environments."
+ceo,Mr. Olivier Pomel
+sector,Technology
+country,US
+fullTimeEmployees,1403
+phone,18663294466
+address,620 8th Ave Fl 45
+city,New York City
+state,NEW YORK
+zip,10018
+dcfDiff,
+dcf,4368.58
+image,https://financialmodelingprep.com/image-stock/DDOG.png
+ipoDate,2019-09-19
+defaultImage,False

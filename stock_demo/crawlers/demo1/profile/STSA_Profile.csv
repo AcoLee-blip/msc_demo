@@ -1,0 +1,33 @@
+,0
+symbol,STSA
+price,4.195
+beta,0.0
+volAvg,2406289
+mktCap,73065576
+lastDiv,0.0
+range,3.5-36.105
+changes,0.155
+companyName,Satsuma Pharmaceuticals Inc
+currency,USD
+cik,0001692830
+isin,US80405P1075
+cusip,80405P107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.satsumarx.com/
+description,"Satsuma Pharmaceuticals, Inc. is a clinical-stage biopharmaceutical company. The company is headquartered in South San Francisco, California and currently employs 16 full-time employees. The firm is focused on developing a therapeutic product for the treatment of migraine. The Company’s product candidate STS101, is a drug-device combination of a proprietary dry-powder formulation of dihydroergotamine mesylate (DHE), which can be self-administered with a proprietary pre-filled, single-use, nasal delivery device."
+ceo,Mr. John Kollins
+sector,Healthcare
+country,US
+fullTimeEmployees,20
+phone,14155050809
+address,400 Oyster Point Blvd Ste 221
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,7.74002
+image,https://financialmodelingprep.com/image-stock/STSA.png
+ipoDate,2019-09-13
+defaultImage,False

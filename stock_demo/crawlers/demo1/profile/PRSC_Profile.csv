@@ -1,0 +1,33 @@
+,0
+symbol,PRSC
+price,128.39
+beta,0.78659
+volAvg,94895
+mktCap,1821032450
+lastDiv,0.0
+range,40.4-138.68
+changes,-1.79
+companyName,Providence Service Corp
+currency,USD
+cik,0001220754
+isin,US7438151026
+cusip,743815102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Care Facilities
+website,http://www.provcorp.com/
+description,"Providence Service Corp. engages in the provision of home and community-based social services and non-emergency transportation services. The company is headquartered in Stamford, Connecticut and currently employs 4,000 full-time employees. The Company, through its subsidiaries, is engaged in the provision of healthcare and workforce development services for public and private sector entities. The firm's segments include Non-Emergency Transportation Services (NET Services) and Matrix Investment. NET Services segment includes nationwide provider of non-emergency medical transportation programs for state governments and managed care organizations. Matrix Investment segment includes minority interest in nationwide provider of in-home care optimization and management solutions, including comprehensive health assessments (CHAs), to members of managed care organizations, accounted for as an equity method investment."
+ceo,Mr. R. Carter Pate
+sector,Healthcare
+country,US
+fullTimeEmployees,3800
+phone,12033072800
+address,700 Canal St
+city,Stamford
+state,CONNECTICUT
+zip,06902
+dcfDiff,-1170.43
+dcf,114.245
+image,https://financialmodelingprep.com/image-stock/PRSC.jpg
+ipoDate,2003-08-19
+defaultImage,True

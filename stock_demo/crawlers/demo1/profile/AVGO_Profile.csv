@@ -1,0 +1,33 @@
+,0
+symbol,AVGO
+price,370.2
+beta,0.98823
+volAvg,1818376
+mktCap,149746270000
+lastDiv,13.0
+range,155.67-393.89
+changes,-5.72
+companyName,Broadcom Inc
+currency,USD
+cik,0001730168
+isin,US11135F1012
+cusip,11135F101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.broadcom.com/
+description,"Broadcom, Inc. is a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions. The company is headquartered in San Jose, California and currently employs 19,000 full-time employees. The firm operates through four segments: Wired Infrastructure, Wireless Communications, Enterprise Storage, and Industrial & Other. The company offers a range of products that are used in end-products, such as enterprise and data center networking, home connectivity, set-top boxes, telecommunication equipment, smartphones, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays. Its product portfolio ranges from discrete devices to complex sub-systems that include multiple device types, and also includes firmware for interfacing between analog and digital systems. Its products include mechanical hardware that interfaces with optoelectronic or capacitive sensors."
+ceo,Mr. Hock Tan
+sector,Technology
+country,US
+fullTimeEmployees,19000
+phone,14084338000
+address,1320 Ridder Park Dr
+city,San Jose
+state,CALIFORNIA
+zip,95131
+dcfDiff,-247.65
+dcf,384.114
+image,https://financialmodelingprep.com/image-stock/AVGO.png
+ipoDate,2016-02-01
+defaultImage,False

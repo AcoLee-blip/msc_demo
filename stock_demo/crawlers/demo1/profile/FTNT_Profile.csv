@@ -1,0 +1,33 @@
+,0
+symbol,FTNT
+price,115.5
+beta,1.10346
+volAvg,1272090
+mktCap,18749345800
+lastDiv,0.0
+range,70.2-151.95
+changes,1.9
+companyName,Fortinet Inc
+currency,USD
+cik,0001262039
+isin,US34959E1091
+cusip,34959E109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.fortinet.com/
+description,"Fortinet, Inc. provides cybersecurity solutions to variety of business, such as enterprises, communication service providers and small businesses. The company is headquartered in Sunnyvale, California and currently employs 5,845 full-time employees. The firm provides cyber security solutions to a range of enterprises, service providers and government organizations across the world. Its network security solution consists of FortiGate physical, virtual machine and cloud platforms, which provide integrated security and networking functions to protect data, applications and users from network-and content-level security threats. The firm's product offerings consist of its FortiGate product family, along with its FortiManager central management and FortiAnalyzer central logging and reporting product families. Its cybersecurity platform includes a range of products, which include its FortiMail e-mail security, FortiSandbox advanced threat protection (ATP), FortiWeb Web application firewall, FortiDDos and FortiDB database security appliances, as well as its FortiClient endpoint security software, FortiAP secure wireless access points and FortiSwitch secure switch connectivity products."
+ceo,Mr. Ken Xie
+sector,Technology
+country,US
+fullTimeEmployees,7448
+phone,14082357700
+address,899 Kifer Rd
+city,Sunnyvale
+state,CALIFORNIA
+zip,94086
+dcfDiff,
+dcf,136.966
+image,https://financialmodelingprep.com/image-stock/FTNT.png
+ipoDate,2009-06-08
+defaultImage,False

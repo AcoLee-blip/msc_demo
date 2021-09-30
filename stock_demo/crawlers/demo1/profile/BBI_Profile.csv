@@ -1,0 +1,33 @@
+,0
+symbol,BBI
+price,0.5376
+beta,-0.13904
+volAvg,2542523
+mktCap,27786232
+lastDiv,0.0
+range,0.47-3.98
+changes,-0.0005
+companyName,Brickell Biotech Inc
+currency,USD
+cik,0000819050
+isin,US10802T1051
+cusip,10802T105
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://brickellbio.com/
+description,"Brickell Biotech, Inc. engages in the development of prescription therapeutics for the treatment of skin diseases. The company is headquartered in Boulder, Colorado and currently employs 30 full-time employees. The Company’s pipeline consists of molecular entities targeting the treatment of the indications, such as hyperhidrosis, cutaneous T-cell lymphoma, allergic contact dermatitis, psoriasis and androgenic alopecia. The Company’s product candidates include BBI-3000, BBI-6000 and Sofpironium Bromide. Sofpironium Bromide is a topical soft anticholinergic for axillary hyperhidrosis. BBI-3000 is an oral rexinoid for cutaneous T-cell lymphoma. BBI-6000 is a retinoic acid-related orphan nuclear receptor gamma antagonist, which is develops for psoriasis."
+ceo,Mr. Robert Brown
+sector,Healthcare
+country,US
+fullTimeEmployees,15
+phone,17205054755
+address,5777 Central Ave Ste 102
+city,Boulder
+state,COLORADO
+zip,80301
+dcfDiff,
+dcf,3.44231
+image,https://financialmodelingprep.com/image-stock/BBI.jpg
+ipoDate,1993-03-10
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,SURF
+price,8.78
+beta,0.0
+volAvg,1014856
+mktCap,357142304
+lastDiv,0.0
+range,1.38-10.25
+changes,-0.5
+companyName,Surface Oncology Inc
+currency,USD
+cik,0001718108
+isin,US86877M2098
+cusip,86877M209
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.surfaceoncology.com/
+description,"Surface Oncology, Inc. operates as a clinical-stage immuno-oncology company. The company is headquartered in Cambridge, Massachusetts and currently employs 76 full-time employees. The firm is engaged in the development of cancer immunotherapies. To unlock the potential of cancer immunotherapy, the Company is targeting a set of immune processes by which cancer cells evade immune recognition and attack. Its programs are built upon insights about how to improve the immune system’s recognition and elimination of cancer cells. These include approaches to improve the effectiveness of antigen presentation to the adaptive immune system, to block the activity of a range of suppressor cells in the tumor microenvironment, and to counter the immunosuppressive environment that selectively accumulates in and around the tumor. By targeting the interface of innate and adaptive immunity, it hopes to expand the reach of cancer immunotherapy to patients in need of treatment."
+ceo,Mr. J. Jeffrey Goater
+sector,Healthcare
+country,US
+fullTimeEmployees,49
+phone,16177144096
+address,50 Hampshire St Fl 8
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,
+dcf,10.5685
+image,https://financialmodelingprep.com/image-stock/SURF.png
+ipoDate,2018-04-19
+defaultImage,False

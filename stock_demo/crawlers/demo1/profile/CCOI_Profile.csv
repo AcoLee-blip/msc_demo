@@ -1,0 +1,33 @@
+,0
+symbol,CCOI
+price,59.15
+beta,0.02996
+volAvg,431975
+mktCap,2794914560
+lastDiv,3.4150000000000005
+range,53.2-92.96
+changes,-0.03
+companyName,Cogent Communications Holdings Inc
+currency,USD
+cik,0001158324
+isin,US19239V3024
+cusip,19239V302
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Telecom Services
+website,
+description,"Cogent Communications Holdings, Inc. engages in the provision of internet access and Internet Protocol communications services. The company is headquartered in Washington, Washington Dc and currently employs 978 full-time employees. The firm's network is designed and optimized to transmit data using IP. The firm delivers its services to small and medium-sized businesses, communications service providers and other bandwidth-intensive organizations in North America, Europe and Asia. The firm offers on-net Internet access services through its own facilities, which run from its network to its customers' premises. The company offers its on-net services to customers located in buildings that are physically connected to its network. Its on-net service consists of Internet access and IP connectivity ranging from 100 Megabits per second to 100 Gigabits per second of bandwidth. The company provides its on-net Internet access services to its net-centric and corporate customers. Its network consists of in-building riser facilities, metropolitan optical networks and inter-city transport facilities."
+ceo,Mr. David Schaeffer
+sector,Communication Services
+country,US
+fullTimeEmployees,1051
+phone,12022954200
+address,2450 N St NW
+city,WASHINGTON
+state,WASHINGTON DC
+zip,20037
+dcfDiff,32.53
+dcf,66.8879
+image,https://financialmodelingprep.com/image-stock/CCOI.jpg
+ipoDate,2002-02-05
+defaultImage,True

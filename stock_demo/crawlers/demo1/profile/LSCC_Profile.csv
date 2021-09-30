@@ -1,0 +1,33 @@
+,0
+symbol,LSCC
+price,39.67
+beta,1.03431
+volAvg,988084
+mktCap,5401308200
+lastDiv,0.0
+range,13.54-41.48
+changes,0.22
+companyName,Lattice Semiconductor Corp
+currency,USD
+cik,0000855658
+isin,US5184151042
+cusip,518415104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.latticesemi.com/
+description,"Lattice Semiconductor Corp. designs, develops and markets programmable logic products and related software. The company is headquartered in Portland, Oregon and currently employs 754 full-time employees. The firm operates through two segments: the core Lattice (Core) business, which includes intellectual property (IP) and semiconductor devices, and Qterics, a discrete software-as-a-service business unit in the Lattice legal entity structure. The firm is a provider of customizable smart connectivity solutions based on its low power field programmable gate array (FPGA), video application specific standard product (ASSP), 60 gigahertz millimeter wave, and IP products to the consumer, communications, industrial, computing and automotive markets across the world. Its products include iCE40 Ultra/UltraLite, iCE40 LP/HX/LM, MachXO3, MachXO2, MachXO, HDMI Transmitters, HDMI Receivers, USB Type-C Port Controllers, Port Processors, Analog to HDMI/MHL Converters, MHL Transmitters, UltraGig 6400 and 802.11ad Chipsets."
+ceo,Mr. James Anderson
+sector,Technology
+country,US
+fullTimeEmployees,747
+phone,15032688000
+address,5555 NE MOORE CT
+city,Hillsboro
+state,OREGON
+zip,97124-6421
+dcfDiff,-12.31
+dcf,34.8002
+image,https://financialmodelingprep.com/image-stock/LSCC.png
+ipoDate,1989-11-09
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,BDR
+price,0.93
+beta,0.78804
+volAvg,2333561
+mktCap,9082259
+lastDiv,0.0
+range,0.38-3.8
+changes,-0.0277
+companyName,Blonder Tongue Laboratories Inc
+currency,USD
+cik,0001000683
+isin,US0936981085
+cusip,093698108
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Communication Equipment
+website,https://www.blondertongue.com/
+description,"Blonder Tongue Laboratories, Inc. operates as a technology development and manufacturing company, which engages in delivering television signal encoding, transcoding, digital transport, and broadband product solutions for applications. The company is headquartered in Old Bridge, New Jersey and currently employs 161 full-time employees. The firm delivers a range of products and services to the cable entertainment and media industry. Its products are deployed in a list of locations, including lodging/hospitality, multi-dwelling units/apartments, broadcast studios/networks, universities/schools, healthcare/hospitals and airports. Blonder Tongue's products are divided into three categories: Digital Video Headend, Analog Video Headend and Hybrid-Fiber Coax (HFC) Distribution. The Digital Video Headend products (including encoders) are used by a system operator for acquisition, processing, compression, encoding and management of digital video. The Analog Video Headend products are used by a system operator for signal acquisition, processing and manipulation. The HFC Distribution products are used to transport signals from the headend to their destination."
+ceo,Mr. Edward Grauch
+sector,Technology
+country,US
+fullTimeEmployees,161
+phone,19086794000
+address,"1 Jake Brown Rd, PO Box 1000"
+city,Old Bridge
+state,NEW JERSEY
+zip,08857
+dcfDiff,-3.04
+dcf,60.8385
+image,https://financialmodelingprep.com/image-stock/BDR.jpg
+ipoDate,1995-12-14
+defaultImage,True

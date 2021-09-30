@@ -1,0 +1,33 @@
+,0
+symbol,MCO
+price,274.67
+beta,1.19709
+volAvg,640238
+mktCap,51583029000
+lastDiv,2.74
+range,164.19-305.96
+changes,-1.67
+companyName,Moody's Corp
+currency,USD
+cik,0001059556
+isin,US6153691059
+cusip,615369105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Financial Data & Stock Exchanges
+website,https://www.moodys.com/
+description,"Moody's Corp. engages in the provision of credit ratings, research, tools and analysis to the global capital markets. The company is headquartered in New York City, New York and currently employs 13,725 full-time employees. The firm operates in two segments: Moody's Investors Service (MIS) and Moody's Analytics (MA). The MIS segment includes its ratings operations. The MA segment develops a range of products and services that support financial analysis and risk management activities of institutional participants in financial markets. The MIS segment includes corporate finance group; structured finance group; financial institutions group; public, project and infrastructure finance, and MIS Other. The MA segment consists of three lines of business: data and analytics business, enterprise risk solutions and professional service."
+ceo,Mr. Raymond McDaniel
+sector,Financial Services
+country,US
+fullTimeEmployees,11363
+phone,12125530300
+address,7 World Trade Ctr
+city,New York City
+state,NEW YORK
+zip,10007
+dcfDiff,-192.78
+dcf,286.722
+image,https://financialmodelingprep.com/image-stock/MCO.png
+ipoDate,1998-06-19
+defaultImage,False

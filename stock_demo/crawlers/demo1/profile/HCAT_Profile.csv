@@ -1,0 +1,33 @@
+,0
+symbol,HCAT
+price,34.5
+beta,0.0
+volAvg,533338
+mktCap,1466198270
+lastDiv,0.0
+range,17.48-41.26
+changes,-1.24
+companyName,Health Catalyst Inc
+currency,USD
+cik,0001636422
+isin,US42225T1079
+cusip,42225T107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.healthcatalyst.com/
+description,"Health Catalyst, Inc. engages in the provision of data and analytics technology and services to healthcare organizations. The company is headquartered in Salt Lake City, Utah and currently employs 728 full-time employees. Its solution comprises a cloud-based data platform, analytics software, and professional services expertise. Its cloud-based data operating system (DOS) is a healthcare-specific, open, flexible, and scalable data platform that provides customers a single comprehensive environment to integrate and organize data from their disparate software systems, enabling a broad range of analytics. Its software analytics application is build on top of its data platform to provide foundational or domain-specific insights that improve customers’ clinical, financial, and operational performance. The company serves the majority of customers through a subscription-based contract model. Its offered services include opportunity analysis and prioritization, data modeling and analysis, quality and process improvement strategy, and population health strategies. The company offers its services to healthcare providers."
+ceo,Mr. Daniel D. Burton
+sector,Healthcare
+country,US
+fullTimeEmployees,728
+phone,18017086800
+address,3165 E Millrock Dr Ste 400
+city,Salt Lake City
+state,UTAH
+zip,84121
+dcfDiff,
+dcf,32.8622
+image,https://financialmodelingprep.com/image-stock/HCAT.png
+ipoDate,2019-07-25
+defaultImage,False

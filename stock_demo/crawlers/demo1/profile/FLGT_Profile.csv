@@ -1,0 +1,33 @@
+,0
+symbol,FLGT
+price,44.53
+beta,1.65491
+volAvg,1046680
+mktCap,1080903420
+lastDiv,0.0
+range,6.7-52.47
+changes,6.08
+companyName,Fulgent Genetics Inc
+currency,USD
+cik,0001674930
+isin,US3596641098
+cusip,359664109
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.fulgentgenetics.com/
+description,"Fulgent Genetics, Inc. operates as a technology company, which provides genetic testing and next generation sequencing solutions. The company is headquartered in Temple City, California and currently employs 123 full-time employees. The firm offers genetic testing to provide physicians with clinically actionable diagnostic information to improve quality of patient care. The firm has developed a technology platform that integrates data comparison and suppression algorithms, adaptive learning software, advanced genetic diagnostics tools and integrated laboratory processes. As of December 31, 2015, the Company's test menu includes approximately 18,000 single-gene tests and over 200 pre-established, multi-gene, disease-specific panels that collectively test for approximately 7,500 genetic conditions, including various cancers, cardiovascular diseases and neurological disorders. The firm's gene probes are specifically engineered to generate genetic data that is optimized for its software, which enables to rapidly incorporate new genes into its test menu, develop new panels of disease-specific tests and customize tests for its customers."
+ceo,Mr. Ming Hsieh
+sector,Healthcare
+country,US
+fullTimeEmployees,139
+phone,16263500537
+address,4978 Santa Anita Ave Ste 205
+city,Temple City
+state,CALIFORNIA
+zip,91780
+dcfDiff,-7.36
+dcf,35.9295
+image,https://financialmodelingprep.com/image-stock/FLGT.jpg
+ipoDate,2016-09-28
+defaultImage,True

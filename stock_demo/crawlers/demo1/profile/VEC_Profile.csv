@@ -1,0 +1,33 @@
+,0
+symbol,VEC
+price,44.52
+beta,1.62118
+volAvg,88058
+mktCap,517527200
+lastDiv,0.0
+range,28.9-59.24
+changes,1.31
+companyName,Vectrus Inc
+currency,USD
+cik,0001601548
+isin,US92242T1016
+cusip,92242T101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Aerospace & Defense
+website,https://www.vectrus.com/
+description,"Vectrus, Inc. is a services company. The company is headquartered in Colorado Springs, Colorado and currently employs 6,700 full-time employees. The firm offers services, including infrastructure asset management, logistics and supply chain management, and information technology and network communication. Its infrastructure asset management services support the United States Army, Air Force and Navy, and include infrastructure services, security, warehouse management and distribution, ammunition management, civil engineering, air base maintenance and operations, communications, emergency services, transportation, and life support activities at various global military installations. Its logistics and supply chain management services support and maintain the vehicle and equipment stocks of the United States Army and Marine Corps. Its information technology and network communication services consist of sustainment of communications systems, network security, systems installation and life cycle management of information technology systems."
+ceo,Mr. Charles Prow
+sector,Industrials
+country,US
+fullTimeEmployees,7200
+phone,17195913600
+address,2424 Garden of the Gods Rd Ste 300
+city,Colorado Springs
+state,COLORADO
+zip,80919
+dcfDiff,-1.23
+dcf,43.4015
+image,https://financialmodelingprep.com/image-stock/VEC.jpg
+ipoDate,2014-09-16
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,EFX
+price,163.58
+beta,1.16566
+volAvg,845533
+mktCap,19898361900
+lastDiv,1.9500000000000002
+range,103.01-181.76
+changes,1.06
+companyName,Equifax Inc
+currency,USD
+cik,0000033185
+isin,US2944291051
+cusip,294429105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Consulting Services
+website,https://www.equifax.com/
+description,"Equifax, Inc. engages in the provision of information solutions and human resources business process outsourcing services. The company is headquartered in Atlanta, Georgia and currently employs 10,900 full-time employees. The company operates in four segments: U.S. Information Solutions, International, Workforce Solutions and Global Consumer Solutions. Its products and services are based on databases of consumer and business information derived from various sources, including credit, financial assets, telecommunications and utility payments, employment, income, demographic and marketing data. The company uses statistical techniques and software tools to analyze all available data, creating customized insights, decision-making solutions and processing services for its clients. The company helps consumers understand, manage and protect their personal information and make more informed financial decisions. The company also provides commercial credit risk underwriting and management solutions to online and alternative lenders, and commercial finance and leasing companies."
+ceo,Mr. Mark Begor
+sector,Industrials
+country,US
+fullTimeEmployees,11200
+phone,14048858000
+address,1550 Peachtree St NW
+city,Atlanta
+state,GEORGIA
+zip,30309
+dcfDiff,
+dcf,165.639
+image,https://financialmodelingprep.com/image-stock/EFX.png
+ipoDate,1971-05-11
+defaultImage,False

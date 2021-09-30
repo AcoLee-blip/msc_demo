@@ -1,0 +1,33 @@
+,0
+symbol,HAL
+price,14.1589
+beta,2.75877
+volAvg,13969404
+mktCap,12516567000
+lastDiv,0.45
+range,4.25-25.47
+changes,0.2389
+companyName,Halliburton Co
+currency,USD
+cik,0000045012
+isin,US4062161017
+cusip,406216101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,https://www.halliburton.com/en-US/default.html
+description,"Halliburton Co. engages in the provision of services and products to the energy industry related to the exploration, development, and production of oil and natural gas. The company is headquartered in Houston, Texas and currently employs 60,000 full-time employees. The company operates through two segments: the Completion and Production segment, and the Drilling and Evaluation segment. The Completion and Production segment delivers cementing, stimulation, intervention, pressure control, specialty chemicals, artificial lift and completion services. The Drilling and Evaluation segment provides field and reservoir modeling, drilling, evaluation and wellbore placement solutions that enable customers to model, measure, drill and optimize their well construction activities. The company serves national and independent oil and natural gas companies. As of December 31, 2016, it had conducted business in approximately 70 countries around the world."
+ceo,Mr. Jeffrey Miller
+sector,Energy
+country,US
+fullTimeEmployees,50000
+phone,12818712699
+address,3000 N Sam Houston Pkwy E
+city,Houston
+state,TEXAS
+zip,77032
+dcfDiff,-11.9
+dcf,15.262
+image,https://financialmodelingprep.com/image-stock/HAL.jpg
+ipoDate,1948-09-15
+defaultImage,True

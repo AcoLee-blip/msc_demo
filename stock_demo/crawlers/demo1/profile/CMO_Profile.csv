@@ -1,0 +1,33 @@
+,0
+symbol,CMO
+price,5.47
+beta,1.44319
+volAvg,562515
+mktCap,527749952
+lastDiv,0.6
+range,1.97-8.42
+changes,-0.06
+companyName,Capstead Mortgage Corp
+currency,USD
+cik,0000766701
+isin,US14067E5069
+cusip,14067E506
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Mortgage
+website,http://www.capstead.com
+description,"Capstead Mortgage Corp. operates as a self-managed real estate investment trust. The company is headquartered in Dallas, Texas and currently employs 15 full-time employees. The firm manages a leveraged portfolio of residential mortgage pass-through securities consisting of relatively short-duration adjustable-rate mortgage (ARM) securities issued and guaranteed by government-sponsored enterprises, either Federal National Mortgage Association (Fannie Mae) or the Federal Home Loan Mortgage Corporation (Freddie Mac), or by an agency of the federal government, the Government National Mortgage Association (Ginnie Mae). The firm finances its residential mortgage investments by leveraging its long-term investment capital with secured borrowings consisting primarily of borrowings under repurchase arrangements with commercial banks and other financial institutions. The firm's portfolio of residential mortgage investments includes residential mortgage investments."
+ceo,Mr. Phillip Reinsch
+sector,Real Estate
+country,US
+fullTimeEmployees,14
+phone,12148742323
+address,8401 N Central Expy Ste 800
+city,Dallas
+state,TEXAS
+zip,75225-4404
+dcfDiff,-130.76
+dcf,6.71795
+image,https://financialmodelingprep.com/image-stock/CMO.jpg
+ipoDate,1985-09-06
+defaultImage,True

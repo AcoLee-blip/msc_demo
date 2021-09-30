@@ -1,0 +1,33 @@
+,0
+symbol,BILL
+price,95.77
+beta,0.0
+volAvg,1493333
+mktCap,7773143600
+lastDiv,0.0
+range,23.61-120.77
+changes,0.07
+companyName,Bill.com Holdings Inc
+currency,USD
+cik,0001786352
+isin,US0900431000
+cusip,090043100
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,
+description,"Bill.com Holdings, Inc. is a holding company, which engages in the provision of cloud-based software solutions. The company is headquartered in Palo Alto, California and currently employs 544 full-time employees. The Company’s artificial-intelligence (AI)-enabled financial software platform enables users to generate and process invoices, streamline approvals, send and receive payments, sync with their accounting system, and manage their cash. Through its platform dashboard, users can view their cash in-flows and outflows as well as bills coming due. Its platform enables document management and bill capture. The company also offers various payment services, including automated clearing house (ACH) Payments, card payments, checks and cross-border payments. Its product offers solutions for accounts payable, accounts receivable and international payments."
+ceo,Mr. Ren A. Lacerte
+sector,Technology
+country,US
+fullTimeEmployees,544
+phone,16506217700
+address,1810 Embarcadero Road
+city,Palo Alto
+state,CALIFORNIA
+zip,94303
+dcfDiff,
+dcf,124.996
+image,https://financialmodelingprep.com/image-stock/BILL.jpg
+ipoDate,2019-12-12
+defaultImage,True

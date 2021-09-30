@@ -1,0 +1,33 @@
+,0
+symbol,TMDX
+price,14.29
+beta,0.0
+volAvg,169744
+mktCap,388127840
+lastDiv,0.0
+range,10.1-20.99
+changes,0.35
+companyName,Transmedics Group Inc
+currency,USD
+cik,0001756262
+isin,US89377M1099
+cusip,89377M109
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,
+description,"TransMedics Group, Inc. is a commercial stage medical technology company, which engages in the development and commercialization of organ care system platform. The company is headquartered in Andover, Massachusetts and currently employs 92 full-time employees. The company is focused on developing organ transplant therapy for end-stage organ failure patients across multiple disease states. The firm has designed and developed organ care system (OCS) a portable organ perfusion, optimization and monitoring system that utilizes customized technology to replicate near-physiologic conditions for donor organs outside of the human body. The company has developed three OCS products, one for each of lung, heart and liver transplantations. Its OCS clinical programs include OCS Lung INSPIRE Trial, OCS Lung Expand Trial, OCs Heart EXPAND and PROCEED II Trials. Its organ care system (OCS) technology platform to perfuse donor organs with warm, oxygenated, nutrient-enriched blood, while maintaining the organs in a living, functioning state; the lung is breathing, the heart is beating and the liver is producing bile. The company is also focused on developing additional OCS products for kidney transplantation."
+ceo,Dr. Waleed H. Hassanein
+sector,Healthcare
+country,US
+fullTimeEmployees,109
+phone,19785520900
+address,200 Minuteman Rd
+city,Boston
+state,MASSACHUSETTS
+zip,01810
+dcfDiff,
+dcf,14.3645
+image,https://financialmodelingprep.com/image-stock/TMDX.jpg
+ipoDate,2019-05-02
+defaultImage,True

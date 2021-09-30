@@ -1,0 +1,33 @@
+,0
+symbol,IBM
+price,116.235
+beta,1.24146
+volAvg,5205009
+mktCap,103572013000
+lastDiv,6.51
+range,90.56-158.75
+changes,1.735
+companyName,International Business Machines Corp
+currency,USD
+cik,0000051143
+isin,US4592001014
+cusip,459200101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.ibm.com/us-en/?ar=1
+description,"International Business Machines Corp. is an information technology company, which provides integrated solutions that leverage information technology and knowledge of business processes. The company is headquartered in Armonk, New York and currently employs 350,600 full-time employees. The firm operates through five segments: Cognitive Solutions, Global Business Services (GBS), Technology Services & Cloud Platforms, Systems and Global Financing. The Cognitive Solutions segment delivers a spectrum of capabilities, from descriptive, predictive and prescriptive analytics to cognitive systems. Cognitive Solutions includes Watson, a cognitive computing platform that has the ability to interact in natural language, process big data, and learn from interactions with people and computers. The GBS segment provides clients with consulting, application management services and global process services. The Technology Services & Cloud Platforms segment provides information technology infrastructure services. The Systems segment provides clients with infrastructure technologies. The Global Financing segment includes client financing, commercial financing, and remanufacturing and remarketing."
+ceo,Mrs. Virginia Rometty
+sector,Technology
+country,US
+fullTimeEmployees,352600
+phone,19144991900
+address,1 New Orchard Rd
+city,Armonk
+state,NEW YORK
+zip,
+dcfDiff,-4.81
+dcf,124.213
+image,https://financialmodelingprep.com/image-stock/IBM.png
+ipoDate,1915-11-11
+defaultImage,False

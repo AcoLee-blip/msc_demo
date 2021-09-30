@@ -1,0 +1,33 @@
+,0
+symbol,RCI
+price,45.915
+beta,0.26371
+volAvg,530096
+mktCap,23592550400
+lastDiv,1.5070000000000001
+range,32.2-51.29
+changes,0.005
+companyName,Rogers Communications Inc
+currency,CAD
+cik,0000733099
+isin,CA7751092007
+cusip,775109200
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Telecom Services
+website,https://www.rogers.com/
+description,"Rogers Communications, Inc. engages in the provision of wireless communications services. The company is headquartered in Toronto, Ontario and currently employs 26,100 full-time employees. The firm provides wireless communications services, and cable television, Internet, information technology (IT) and telephony services to consumers and businesses. Its segments include Wireless, Cable, Business Solutions and Media. The Wireless segment is engaged in wireless telecommunications operations for Canadian consumers and businesses. The Cable segment include cable telecommunications operations, including Internet, television and telephony (phone) services for Canadian consumers and businesses. The Business Solutions segment is engaged in network connectivity through its fiber network and data center assets to support a range of voice, data, networking, hosting, and cloud-based services for the enterprise, public sector and carrier wholesale markets. The Media segment has a portfolio of media properties, including sports media and entertainment, multi-platform shopping, digital media and publishing."
+ceo,Mr. Joseph Natale
+sector,Communication Services
+country,CA
+fullTimeEmployees,25300
+phone,14160353532
+address,333 Bloor St E 10th Floor
+city,TORONTO
+state,ONTARIO
+zip,M4W 1G9
+dcfDiff,250.75
+dcf,40.5867
+image,https://financialmodelingprep.com/image-stock/RCI.png
+ipoDate,1905-06-01
+defaultImage,False

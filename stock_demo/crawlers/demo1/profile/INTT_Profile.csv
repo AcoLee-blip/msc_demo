@@ -1,0 +1,33 @@
+,0
+symbol,INTT
+price,5.4
+beta,2.01121
+volAvg,25775
+mktCap,53294436
+lastDiv,0.0
+range,2.08-6.2
+changes,-0.06
+companyName,inTest Corp
+currency,USD
+cik,0001036262
+isin,US4611471008
+cusip,461147100
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Semiconductors
+website,http://www.intest.com/
+description,"inTEST Corp. engages in the supply of precision-engineered solutions for manufacturing and testing across a wide range of markets including automotive, defense, aerospace, electronics, fiber optic, machining, medical, telecom, and semiconductor. The company is headquartered in Mount Laurel, New Jersey and currently employs 209 full-time employees. The firm operates through three segments: Thermal Products, Mechanical Products and Electrical Products. Its thermal products are sold into the environmental test market encompassing a range of markets, including the ATE, automotive, consumer electronics, defense/aerospace, energy, industrial and telecommunications markets. The company offers three lines of manipulator products: the in2(R), the Aero Series and the Cobal Series. Its electrical products, which include various types of tester interfaces, provide the electrical connections between the tester and the wafer prober or IC handler to carry the electrical signals between the tester and the probe card on the prober or the test socket on the handler."
+ceo,Mr. James Pelrin
+sector,Technology
+country,US
+fullTimeEmployees,198
+phone,18565058800
+address,804 E Gate Dr Ste 200
+city,Mount Laurel
+state,NEW JERSEY
+zip,02048
+dcfDiff,9.62
+dcf,5.47249
+image,https://financialmodelingprep.com/image-stock/INTT.png
+ipoDate,1997-06-17
+defaultImage,False

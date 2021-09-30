@@ -1,0 +1,33 @@
+,0
+symbol,AYX
+price,113.39
+beta,1.13047
+volAvg,1986915
+mktCap,7549880300
+lastDiv,0.0
+range,75.17-185.75
+changes,-1.77
+companyName,Alteryx Inc
+currency,USD
+cik,0001689923
+isin,US02156B1035
+cusip,02156B103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.alteryx.com/
+description,"Alteryx, Inc. engages in the provision of self-service data analytics software. The company is headquartered in Irvine, California and currently employs 1,176 full-time employees. The firm provides a subscription-based platform, enabling organizations to prepare, blend and analyze data from a multitude sources and ease data-driven decisions. The firm democratizes access to data-driven insights to all data workers, business analysts, programmers and data scientists by expanding the capabilities and analytical sophistications. The Company’s platform allows business analysts to view underlying data, meta-data, and applied analytics at any stage during the process. The Company’s platform is designed to interact with a wide variety of traditional data sources. Its platform is also capable of processing data from cloud applications, such as Google Analytics, Marketo, NetSuite, Salesforce, and Workday, as well as social media platforms, such as Facebook and Twitter. The Company’s platform is comprised of Alteryx Designer, Alteryx Server, Alteryx Connect and Alteryx Promote."
+ceo,Mr. Dean Stoecker
+sector,Technology
+country,US
+fullTimeEmployees,1478
+phone,18888364274
+address,3345 Michelson Dr Ste 400
+city,Irvine
+state,CALIFORNIA
+zip,92612
+dcfDiff,-238.43
+dcf,143.191
+image,https://financialmodelingprep.com/image-stock/AYX.png
+ipoDate,2017-03-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,RAPT
+price,30.71
+beta,0.0
+volAvg,217638
+mktCap,751439870
+lastDiv,0.0
+range,10.52-51.21
+changes,0.52
+companyName,Rapt Therapeutics Inc
+currency,USD
+cik,0001673772
+isin,US75382E1091
+cusip,75382E109
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.rapt.com/
+description,"Rapt Therapeutics, Inc. operates as a clinical stage immunology-based biopharmaceutical company. The company is headquartered in South San Francisco, California and currently employs 64 full-time employees. The company is focused on discovering, developing and commercializing oral small molecule therapies for patients with unmet needs in oncology and inflammatory diseases. The company is developing selective small molecules designed to modulate the critical immune responses underlying these diseases. The company has discovered and advanced two drug candidates FLX475 and RPT193, which is engaged in targeting C-C motif chemokine receptor 4 (CCR4). Its drug discovery and development engine has identified CCR4 as a drug target that potentially has broad applicability in oncology and inflammatory diseases. Its lead oncology drug candidate FLX475, is designed to selectively inhibit the migration of immunosuppressive regulatory Treg cells into tumors. Its RPT193 drug candidate, is designed to selectively inhibit the migration of type 2 T helper cells (Th2 cells), into allergically-inflamed tissues."
+ceo,Dr. Brian Wong
+sector,Healthcare
+country,US
+fullTimeEmployees,68
+phone,16504899000
+address,561 Eccles Ave
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,51.1691
+image,https://financialmodelingprep.com/image-stock/RAPT.png
+ipoDate,2019-10-31
+defaultImage,False

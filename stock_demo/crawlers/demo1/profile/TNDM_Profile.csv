@@ -1,0 +1,33 @@
+,0
+symbol,TNDM
+price,99.7
+beta,0.4393
+volAvg,698929
+mktCap,6200801300
+lastDiv,0.0
+range,43.69-123.74
+changes,-2.31
+companyName,Tandem Diabetes Care Inc
+currency,USD
+cik,0001438133
+isin,US8753722037
+cusip,875372203
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.tandemdiabetes.com/
+description,"Tandem Diabetes Care, Inc. engages in the design, development, and commercialization of products for people with insulin-dependent diabetes. The company is headquartered in San Diego, California and currently employs 653 full-time employees. The firm is engaged in designing, developing and commercializing products for people with insulin-dependent diabetes. The firm manufactures and sells three insulin pump products, which include t:slim X2 Insulin Delivery System (t:slim), t:flex Insulin Delivery System (t:flex) and t:slim G4 Insulin Delivery System (t:slim G4). Its technology platform features Micro-Delivery Technology, a miniaturized pumping mechanism, which draws insulin from a flexible bag within the pump's cartridge rather than relying on a syringe and plunger mechanism. The company also features a software, which is a vivid color touch screen and a micro- universal serial bus (USB) connection that supports both a rechargeable battery and uploads to t:connect Diabetes Management Application (t:connect), its custom cloud-based data management application that provides display therapy management data from the pump and supported blood glucose meters."
+ceo,Mr. John Sheridan
+sector,Healthcare
+country,US
+fullTimeEmployees,1043
+phone,18583666900
+address,11075 Roselle St
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-478.4
+dcf,111.455
+image,https://financialmodelingprep.com/image-stock/TNDM.png
+ipoDate,2013-11-13
+defaultImage,False

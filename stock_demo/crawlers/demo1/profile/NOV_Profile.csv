@@ -1,0 +1,33 @@
+,0
+symbol,NOV
+price,10.81
+beta,1.95662
+volAvg,5295907
+mktCap,4197134080
+lastDiv,0.1
+range,7.7-25.81
+changes,0.31
+companyName,National Oilwell Varco Inc
+currency,USD
+cik,0001021860
+isin,US6370711011
+cusip,637071101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,http://www.nov.com
+description,"National Oilwell Varco, Inc. provides equipment and technology to the upstream oil and gas industry. The company is headquartered in Houston, Texas and currently employs 34,220 full-time employees. The firm operates through four segments: Rig Technologies, Wellbore Technologies and Completion & Production Solutions. The Rig Technologies segment designs, manufactures, sells, and supports land rigs, offshore drilling equipment packages, and drilling rig components. The Wellbore Technologies segment designs, manufactures, rents and sells a range of equipment and technologies used to perform drilling operations. The Completion & Production Solutions segment integrates technologies for well completions and oil and gas production."
+ceo,Mr. Clay Williams
+sector,Energy
+country,US
+fullTimeEmployees,35479
+phone,17133753700
+address,7909 PARKWOOD CIRCLE DR
+city,Houston
+state,TEXAS
+zip,77036-6565
+dcfDiff,-12.16
+dcf,12.0754
+image,https://financialmodelingprep.com/image-stock/NOV.png
+ipoDate,1996-10-29
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,NK
+price,7.92
+beta,2.60026
+volAvg,1086021
+mktCap,860056580
+lastDiv,0.0
+range,1.09-15.7
+changes,-0.16
+companyName,NantKwest Inc
+currency,USD
+cik,0001326110
+isin,US63016Q1022
+cusip,63016Q102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.nantkwest.com/
+description,"NantKwest, Inc. engages in the research and development of immunotherapies. The company is headquartered in San Diego, California and currently employs 147 full-time employees. The firm is focused on harnessing the power of the innate immune system by using the natural killer cell to treat cancer, infectious diseases and inflammatory diseases. Its immuno-oncology NK platform has multiple modes to induce cell death against the tumor or infected cell by direct killing by binding to stress ligands expressed by the diseased cell with the release of toxic granules directly into the tumor cell; antibody mediated killing by binding to antibodies administered in combination and enhancing the cancer killing effect of the administered antibody, enabling targeted cell killing through antibody dependent cellular cytotoxicity (ADCC), and target activated killing by binding to known or newly discovered tumor-specific antigens expressed on the surface of tumor cells and inducing cell death by the release of toxic granules directly into the tumor cell and by the release of cytokines and chemokines."
+ceo,Dr. Patrick Soon-Shiong
+sector,Healthcare
+country,US
+fullTimeEmployees,153
+phone,18586330300
+address,3530 John Hopkins Ct
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-1.1
+dcf,7.77461
+image,https://financialmodelingprep.com/image-stock/NK.png
+ipoDate,2015-07-28
+defaultImage,False

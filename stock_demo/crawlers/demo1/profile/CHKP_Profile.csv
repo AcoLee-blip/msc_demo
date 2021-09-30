@@ -1,0 +1,33 @@
+,0
+symbol,CHKP
+price,116.25
+beta,0.67546
+volAvg,976376
+mktCap,16298250200
+lastDiv,0.0
+range,80.06-130.98
+changes,-1.75
+companyName,Check Point Software Technologies Ltd
+currency,USD
+cik,0001015922
+isin,IL0010824113
+cusip,M22465104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.checkpoint.com
+description,"Check Point Software Technologies Ltd. engages in the development and market of software and hardware solutions for information technology security. The firm's products and services are sold to enterprises, service providers, small and medium sized businesses and consumers. The company offers enterprises a platform to deploy independent, modular and interoperable security applications (Software Blades), such as firewall, virtual private network (VPN), intrusion prevention system (IPS), Application Control, Anti-Bot, antivirus, data loss prevention (DLP), policy management, event analysis or multi-domain management. The firm offers Software Blades grouped into functional packages to address specific security issues. The company has product offerings under these packages, which include Next Generation Firewall, Next Generation Threat Prevention, Next Generation Secure Web Gateway and Next Generation Data Protection."
+ceo,Mr. Gil Shwed
+sector,Technology
+country,IL
+fullTimeEmployees,5258
+phone,97237534555
+address,5 Shlomo Kaplan Street
+city,TEL AVIV-YAFO
+state,
+zip,6789159
+dcfDiff,16.74
+dcf,135.475
+image,https://financialmodelingprep.com/image-stock/CHKP.png
+ipoDate,1996-06-28
+defaultImage,False

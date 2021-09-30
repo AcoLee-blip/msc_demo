@@ -1,0 +1,33 @@
+,0
+symbol,ST
+price,46.19
+beta,1.63013
+volAvg,1037852
+mktCap,7266148900
+lastDiv,0.0
+range,18.25-54.37
+changes,0.4
+companyName,Sensata Technologies Holding PLC
+currency,USD
+cik,0001477294
+isin,GB00BFMBMT84
+cusip,G8060N102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Scientific & Technical Instruments
+website,
+description,"Sensata Technologies Holding Plc engages in the designing, manufacturing, and marketing of electromechanical, electronic sensors and controls. The company is headquartered in Swindon, Wiltshire and currently employs 21,650 full-time employees. The firm conducts its business operations through its subsidiaries and operates in two businesses, such as Performance Sensing and Sensing Solutions. Through the Performance Sensing business, the Company offers automotive and heavy vehicle off-road (HVOR) sensors, including pressure sensors, speed and position sensors, temperature sensors, and pressure switches. Its Sensing Solutions business supplies bimetal electromechanical controls, industrial and aerospace sensors, power conversion and control products, thermal and magnetic-hydraulic circuit breakers, and interconnection products. The Company’s products are used in applications such as temperature, pressure, and speed and positions sensors in automotive systems, thermal circuit breakers in aircraft, and bimetal current and temperature control devices in electric motors."
+ceo,Mr. Jeffrey Cote
+sector,Technology
+country,GB
+fullTimeEmployees,21050
+phone,445082363800
+address,"Interface House, Interface Business Park, Bincknoll Lane"
+city,Swindon
+state,WILTSHIRE
+zip,02703
+dcfDiff,41.67
+dcf,52.2595
+image,https://financialmodelingprep.com/image-stock/ST.jpg
+ipoDate,2010-03-11
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,AXNX
+price,45.99
+beta,0.0
+volAvg,558636
+mktCap,1817662850
+lastDiv,0.0
+range,15.25-52.1
+changes,0.66
+companyName,Axonics Modulation Technologies Inc
+currency,USD
+cik,0001603756
+isin,US05465P1012
+cusip,05465P101
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.axonicsmodulation.com/
+description,"Axonics Modulation Technologies, Inc. operates as a medical technology company, which engages in the design, development, and commercialization of sacral neuromodulation solutions. The company is headquartered in Irvine, California and currently employs 87 full-time employees. The firm is focused on the design, development, and commercialization of sacral neuromodulation (SNM) solutions. SNM therapy is primarily used to treat patients with overactive bladder (OAB), fecal incontinence (FI), and urinary retention (UR). Its rechargeable SNM system (r-SNM System) delivers mild electrical pulses to the targeted sacral nerve in order to restore normal communication to and from the brain to reduce the symptoms of OAB, FI, and UR. The company has two clinical studies relating to its r-SNM System: a European study, RELAX-OAB, and a United States pivotal study, ARTISAN-SNM. SNM therapy consists of two phases: an evaluation period, also called the external trial period, which typically lasts a few days to a few weeks, and a permanent implant for those patients who experience a successful external trial period."
+ceo,Mr. Raymond Cohen
+sector,Healthcare
+country,US
+fullTimeEmployees,302
+phone,19493966322
+address,26 Technology Dr
+city,Irvine
+state,CALIFORNIA
+zip,92618
+dcfDiff,
+dcf,52.2787
+image,https://financialmodelingprep.com/image-stock/AXNX.png
+ipoDate,2018-10-31
+defaultImage,False

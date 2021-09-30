@@ -1,0 +1,33 @@
+,0
+symbol,MTC
+price,1.013
+beta,0.0
+volAvg,1183921
+mktCap,21090660
+lastDiv,0.0
+range,0.64-7.7
+changes,-0.017
+companyName,MMTEC Inc
+currency,USD
+cik,0001742518
+isin,VGG6181K1066
+cusip,G6181K106
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.51mm.com/
+description,"MMTec, Inc. engages in the provision of internet-based technology services and solutions to the Chinese language speaking hedge and mutual funds, registered investment advisors, proprietary trading groups, and brokerage firms involving in securities market transactions and settlements. The company is headquartered in Beijing, Beijing and currently employs 33 full-time employees. The firm is principally engaged in providing complete suite trading solutions, including fund creation, distribution, custody, trading and settlement services, to help these financial institutions accelerate their integration into overseas markets. The firm's systems include ETN counter business systems, PTN private equity investment management systems, personal mobile trading client systems, PC trading client systems, personal and institutional integrated account management systems, and quantitative investment trading platforms."
+ceo,Mr. Zhen Fan
+sector,Technology
+country,CN
+fullTimeEmployees,38
+phone,861056172312
+address,"Rm 608a Air China Cen Bldg 40, Xiaoyun Rd, Chaoyang District"
+city,Beijing
+state,BEIJING
+zip,100020
+dcfDiff,
+dcf,1.2
+image,https://financialmodelingprep.com/image-stock/MTC.png
+ipoDate,2018-12-27
+defaultImage,False

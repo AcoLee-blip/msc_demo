@@ -1,0 +1,33 @@
+,0
+symbol,BCE
+price,42.85
+beta,0.28274
+volAvg,981986
+mktCap,38867005000
+lastDiv,2.4419999999999997
+range,31.66-49.26
+changes,-0.29
+companyName,BCE Inc
+currency,CAD
+cik,0000718940
+isin,CA05534B7604
+cusip,05534B760
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Telecom Services
+website,http://www.bce.ca/
+description,"BCE, Inc. is a telecommunications and media company, which engages in the provision of communication services to residential, business, and wholesale customers. The company is headquartered in Verdun, Quebec and currently employs 52,790 full-time employees. The firm's segments include Bell Wireless, Bell Wireline and Bell Media. Its Bell Wireless segment provides wireless voice and data communications products and services to its residential, small and medium-sized business and large enterprise customers across Canada. Its Bell Wireline segment provides data, including Internet access and Internet protocol television (IPTV), local telephone, long distance, as well as other communications services and products to its residential, small and medium-sized business and large enterprise customers, primarily in Ontario, Quebec and the Atlantic provinces, while Satellite television (TV) service and connectivity to business customers are available nationally across Canada. Its Bell Media segment provides conventional, specialty and pay Television, digital media, and radio broadcasting services and out of home (OOH) advertising services to customers across Canada."
+ceo,Mr. Mirko Bibic
+sector,Communication Services
+country,CA
+fullTimeEmployees,52100
+phone,15147868424
+address,"Tour A-7, 1 Carref Alexander-Graham-Bell"
+city,Verdun
+state,QUEBEC
+zip,H3E 3B3
+dcfDiff,156.52
+dcf,42.333
+image,https://financialmodelingprep.com/image-stock/BCE.png
+ipoDate,1988-01-04
+defaultImage,False

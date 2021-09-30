@@ -1,0 +1,33 @@
+,0
+symbol,MSFT
+price,215.96
+beta,0.85519
+volAvg,31923007
+mktCap,1632765740000
+lastDiv,2.5999999999999996
+range,132.52-232.86
+changes,0.52
+companyName,Microsoft Corp
+currency,USD
+cik,0000789019
+isin,US5949181045
+cusip,594918104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.microsoft.com/en-us
+description,"Microsoft Corp. engages in the development and support of software, services, devices, and solutions. The company is headquartered in Redmond, Washington and currently employs 144,000 full-time employees. The firm develops, licenses, and supports a range of software products, services and devices. The firm's segments include Productivity and Business Processes, Intelligent Cloud and More Personal Computing. The firm's products include operating systems; cross-device productivity applications; server applications; business solution applications; desktop and server management tools; software development tools; video games, and training and certification of computer system integrators and developers. The company also designs, manufactures, and sells devices, including personal computers (PCs), tablets, gaming and entertainment consoles, phones, other intelligent devices, and related accessories, that integrate with its cloud-based offerings. The company offers an array of services, including cloud-based solutions that provide customers with software, services, platforms, and content, and it provides solution support and consulting services."
+ceo,Mr. Satya Nadella
+sector,Technology
+country,US
+fullTimeEmployees,144000
+phone,14258828080
+address,1 Microsoft Way
+city,Redmond
+state,WASHINGTON
+zip,98052
+dcfDiff,-60.78
+dcf,216.567
+image,https://financialmodelingprep.com/image-stock/MSFT.jpg
+ipoDate,1986-03-13
+defaultImage,True

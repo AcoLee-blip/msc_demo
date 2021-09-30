@@ -1,0 +1,33 @@
+,0
+symbol,AVLR
+price,155.91
+beta,0.0
+volAvg,651716
+mktCap,13185449000
+lastDiv,0.0
+range,55.5-175.67
+changes,1.01
+companyName,Avalara Inc
+currency,USD
+cik,0001348036
+isin,US05338G1067
+cusip,05338G106
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.avalara.com/us/en/index.html
+description,"Avalara, Inc. engages in the provision of cloud-based solutions. The company is headquartered in Seattle, Washington and currently employs 1,592 full-time employees. Avalara streamlines all of users' tax compliance documentation into a central repository for access and accountability. The company works within a customer’s own financial, billing, e-commerce or point of sale system to deliver tax calculations in real time via an Internet connection. Its products include Avalara AvaTax, which offers users an automated end-to-end tax compliance solution; Avalara CertCapture, which allows users to track, manage and justify non-taxable transactions, and Avalara Returns, which helps ensure end-to-end automation of users' sales tax compliance process. Avalara Returns manages sales tax notices and responds with the requested information. Avalara Returns automatically provides e-file, hard-copy, Streamlined Sales Tax and excise tax returns for businesses of all sizes."
+ceo,Mr. Scott McFarlane
+sector,Technology
+country,US
+fullTimeEmployees,2601
+phone,12068264900
+address,255 S King St Ste 1800
+city,Seattle
+state,WASHINGTON
+zip,98104
+dcfDiff,
+dcf,159.676
+image,https://financialmodelingprep.com/image-stock/AVLR.jpg
+ipoDate,2018-06-15
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,LLNW
+price,3.915
+beta,0.53109
+volAvg,4730540
+mktCap,481443200
+lastDiv,0.0
+range,3.43-8.19
+changes,-0.025
+companyName,Limelight Networks Inc
+currency,USD
+cik,0001391127
+isin,US53261M1045
+cusip,53261M104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.limelight.com
+description,"Limelight Networks, Inc. provides content delivery network services. The company is headquartered in Scottsdale, Arizona and currently employs 609 full-time employees. The firm is engaged in providing content delivery and related services and solutions for global businesses to help them deliver their digital content across Internet, mobile, and social channels. Its services include content delivery services, mobile delivery services, video content management services, performance services, cloud-based storage services and cloud-based content security services. Its solutions include software and device manufacturers, media and broadcasters, and gaming. Limelight services incorporate content and application security, file management, video transformation, distributed storage functionality, and the analytics and reporting associated with them. The firm operates in three geographic areas: Americas; Europe, the Middle East and Africa (EMEA), and Asia Pacific."
+ceo,Mr. Robert Lento
+sector,Technology
+country,US
+fullTimeEmployees,610
+phone,16028505000
+address,1465 N Scottsdale Rd Ste 400
+city,Scottsdale
+state,ARIZONA
+zip,85257
+dcfDiff,-2.87
+dcf,6.27821
+image,https://financialmodelingprep.com/image-stock/LLNW.png
+ipoDate,2007-06-08
+defaultImage,False

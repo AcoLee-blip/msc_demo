@@ -1,0 +1,33 @@
+,0
+symbol,CNST
+price,20.94
+beta,0.0
+volAvg,552144
+mktCap,996230980
+lastDiv,0.0
+range,17.0-59.49
+changes,-1.27
+companyName,Constellation Pharmaceuticals Inc
+currency,USD
+cik,0001434418
+isin,US2103731061
+cusip,210373106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.constellationpharma.com/
+description,"Constellation Pharmaceuticals, Inc. is a clinical-stage biopharmaceutical company, which engages in the development of novel therapeutics in the field of epigenetics. The company is headquartered in Cambridge, Massachusetts and currently employs 82 full-time employees. The firm has three clinical-stage oncology development programs: the first program is evaluating a compound, CPI-0610, other program is evaluating a compound, CPI-1205 and CPI-0209 is initiate Phase I clinical trial and targeting solid tumors. CPI-1205 is a small molecule designed to promote anti-tumor activity by specifically inhibiting EZH2, an enzyme that suppresses target gene expression. CPI-0610 is a potent and selective small molecule designed to promote anti-tumor activity by selectively inhibiting the function of BET proteins, which are proteins that normally enhance target gene expression. The firm is conducting the ProSTAR trial, which is an open-label Phase Ib/2 clinical trial of CPI-1205 for the treatment of mCRPC in combination with enzalutamide and abiraterone acetate."
+ceo,Mr. Jigar Raythatha
+sector,Healthcare
+country,US
+fullTimeEmployees,106
+phone,16177140555
+address,215 1st St Ste 200
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,34.8761
+image,https://financialmodelingprep.com/image-stock/CNST.png
+ipoDate,2018-07-19
+defaultImage,False

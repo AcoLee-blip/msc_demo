@@ -1,0 +1,33 @@
+,0
+symbol,QGEN
+price,47.81
+beta,0.36935
+volAvg,1184098
+mktCap,10936490000
+lastDiv,0.0
+range,30.23-55.27
+changes,0.83
+companyName,Qiagen NV
+currency,USD
+cik,0001015820
+isin,NL0012169213
+cusip,N72482123
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Diagnostics & Research
+website,https://www.qiagen.com/
+description,"QIAGEN NV is a holding company, which engages in the provision of sample and assay technology to transform biological samples into valuable molecular insights. The company is headquartered in Venlo, Limburg and currently employs 5,200 full-time employees. The firm is engaged in providing Sample to Insight solutions that transform biological samples into molecular insights. Its Sample to Insight solutions integrate sample and assay technologies, bioinformatics and automation systems. Its sample technologies are used for isolating and preparing deoxyribonucleic acid (DNA), ribonucleic acid (RNA) and proteins from blood or other liquids, tissue, plants or other materials. Its assay technologies make these biomolecules visible for analysis, such as identifying the genetic information of a pathogen or a gene mutation in a tumor. Its bioinformatics solutions interpret data to provide actionable insights. The firm's automation platforms based on polymerase chain reaction (PCR), next-generation sequencing (NGS) and other technologies tie these together in molecular testing workflows from Sample to Insight."
+ceo,Mr. Thierry Bernard
+sector,Healthcare
+country,NL
+fullTimeEmployees,5096
+phone,31773556600
+address,Hulsterweg 82
+city,Venlo
+state,LIMBURG
+zip,
+dcfDiff,
+dcf,56.7293
+image,https://financialmodelingprep.com/image-stock/QGEN.png
+ipoDate,1996-09-01
+defaultImage,False

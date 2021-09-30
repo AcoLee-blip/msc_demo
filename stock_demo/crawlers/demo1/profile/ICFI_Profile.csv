@@ -1,0 +1,33 @@
+,0
+symbol,ICFI
+price,72.46
+beta,0.58044
+volAvg,112860
+mktCap,1366820220
+lastDiv,0.56
+range,47.75-95.24
+changes,0.17
+companyName,ICF International Inc
+currency,USD
+cik,0001362004
+isin,US44925C1036
+cusip,44925C103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Consulting Services
+website,https://www.icf.com/
+description,"ICF International, Inc. engages in the provision of technology-based solutions and services to government and commercial clients. The company is headquartered in Fairfax, Virginia and currently employs 7,000 full-time employees. The firm's services address four markets: energy, environment and infrastructure; health, education and social programs; safety and security, and consumer and financial. Its services include research and analytic services, assessment and advisory services, design and management services, solution identification and implementation services, and engagement services. The firm researches policy, industry and stakeholder issues, trends and behavior. The firm collects and analyzes various data to understand issues and options for its clients. The firm measures and evaluates results and their impact and, based on those assessments, the Company provides advice to its clients on how to navigate societal, market, business, communication and technology challenges."
+ceo,Mr. John Wasson
+sector,Industrials
+country,US
+fullTimeEmployees,7000
+phone,17039343000
+address,9300 Lee Hwy
+city,Fairfax
+state,VIRGINIA
+zip,22031
+dcfDiff,96.8
+dcf,70.8172
+image,https://financialmodelingprep.com/image-stock/ICFI.png
+ipoDate,2006-09-28
+defaultImage,False

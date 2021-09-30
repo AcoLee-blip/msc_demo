@@ -1,0 +1,33 @@
+,0
+symbol,SEDG
+price,221.09
+beta,0.98621
+volAvg,1469372
+mktCap,11322328100
+lastDiv,0.0
+range,67.02-317.88
+changes,-6.11
+companyName,Solaredge Technologies Inc
+currency,USD
+cik,0001419612
+isin,US83417M1045
+cusip,83417M104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Solar
+website,https://www.solaredge.com/
+description,"SolarEdge Technologies, Inc. engages in the development of smart energy technology. The firm's products include SolarEdge Power Optimizer, SolarEdge Inverter, StorEdge Solutions and SolarEdge Monitoring Software. Its product roadmap consists of categories, including power optimizers, inverters, monitoring services, energy storage and smart energy management. The firm's power optimizers provide module-level maximum power point (MPP) tracking and real-time adjustments of current and voltage to the optimal working point of each individual PV module. The firm's solution consists of a direct current (DC) power optimizer, an inverter and a cloud-based monitoring platform that operates as a single integrated system."
+ceo,Mr. Zvi Lando
+sector,Technology
+country,IL
+fullTimeEmployees,2431
+phone,97299576620
+address,"1 HaMada St., POB 12001"
+city,Herzliya
+state,
+zip,4673335
+dcfDiff,-45.88
+dcf,286.601
+image,https://financialmodelingprep.com/image-stock/SEDG.png
+ipoDate,2015-03-26
+defaultImage,False

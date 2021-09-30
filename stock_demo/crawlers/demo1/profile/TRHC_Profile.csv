@@ -1,0 +1,33 @@
+,0
+symbol,TRHC
+price,34.42
+beta,1.06005
+volAvg,319450
+mktCap,820159740
+lastDiv,0.0
+range,30.12-69.72
+changes,-0.07
+companyName,Tabula Rasa HealthCare Inc
+currency,USD
+cik,0001651561
+isin,US8733791011
+cusip,873379101
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,http://www.tabularasahealthcare.com/
+description,"Tabula Rasa Healthcare, Inc. engages in the development of pharmaceutical software that optimizes medication regimens. The company is headquartered in Moorestown, New Jersey and currently employs 952 full-time employees. The firm delivers its solutions through a suite of technology-enabled products and services for medication risk management, which includes bundled prescription fulfillment and adherence packaging services for client populations with complex prescription needs. The company also provides risk adjustment services, which help its clients to properly characterize a patient's acuity, or severity of health condition, and optimize the associated payments for care. The firm serves approximately 100 healthcare organizations that focus on populations with complex healthcare needs and extensive medication requirements. Its products and services are built around the Medication Risk Mitigation Matrix, or MRM Matrix."
+ceo,Dr. Calvin Knowlton
+sector,Healthcare
+country,US
+fullTimeEmployees,1286
+phone,18666482767
+address,228 Strawbridge Dr Ste 100
+city,Moorestown
+state,NEW JERSEY
+zip,08057
+dcfDiff,-43.32
+dcf,41.0098
+image,https://financialmodelingprep.com/image-stock/TRHC.png
+ipoDate,2016-09-29
+defaultImage,False

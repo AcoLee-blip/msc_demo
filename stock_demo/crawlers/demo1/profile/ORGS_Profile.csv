@@ -1,0 +1,33 @@
+,0
+symbol,ORGS
+price,4.865
+beta,1.33957
+volAvg,42916
+mktCap,117519904
+lastDiv,0.0
+range,2.35-8.2
+changes,-0.015
+companyName,Orgenesis Inc
+currency,USD
+cik,0001460602
+isin,US68619K2042
+cusip,68619K204
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.orgenesis.com/
+description,"Orgenesis, Inc. is a biotechnology company, which engages in the development, manufacturing and provision of technologies and services in the cell and gene therapy industry. The company is headquartered in Germantown, Maryland and currently employs 231 full-time employees. The firm operates through two segments: Contract Development and Manufacturing Organization (CDMO) and Cellular Therapy Business (CTB). The CDMO activity is operated by the Company's subsidiary, MaSTherCell SA, which specializes in cell therapy development for advanced medicinal products. MaSTherCell is providing two types of services to its customers: process and assay development services and good manufacturing practice (GMP) contract manufacturing services. The CTB activity is based on its technology that demonstrates the capacity to induce a shift in the developmental fate of cells from the liver and differentiating (converting) them into pancreatic beta cell-like insulin producing cells for patients with Type I Diabetes. The company intends to advance a product that combines cell-based therapy and regenerative medicine, Autologous Insulin Producing (AIP) cells, into clinical development."
+ceo,Ms. Vered Caplan
+sector,Healthcare
+country,US
+fullTimeEmployees,309
+phone,14806596404
+address,20271 Goldenrod Ln
+city,Germantown
+state,MARYLAND
+zip,20876
+dcfDiff,-4.62
+dcf,6.22044
+image,https://financialmodelingprep.com/image-stock/ORGS.png
+ipoDate,2010-07-01
+defaultImage,False

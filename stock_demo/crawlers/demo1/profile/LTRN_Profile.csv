@@ -1,0 +1,33 @@
+,0
+symbol,LTRN
+price,15.46
+beta,0.0
+volAvg,47567
+mktCap,96123784
+lastDiv,0.0
+range,10.4-24.84
+changes,0.31
+companyName,Lantern Pharma Inc.
+currency,USD
+cik,0001763950
+isin,US51654W1018
+cusip,51654W101
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.lanternpharma.com/
+description,"Lantern Pharma Inc. is a clinical stage biotechnology company. The Company is focused on developing oncology therapies. It uses its artificial intelligence (AI) platform, RADR, which includes data points, and uses big data analytics to uncover biologically relevant genomic signatures correlated to drug response, and then identify the cancer patients that benefits from its compounds. Its portfolio consists of three compounds: LP-100, LP-300 and LP-184. The Company is developing LP-100 for metastatic, castration-resistant, prostate cancer (mCRPC). LP-300 is a small molecule with cysteine modifying activity on select protein. LP-184, is in a preclinical translational ex vivo study using fresh human biopsies. LP-184 is an alkylating agent with nanomolar potency that preferentially damages deoxyribonucleic acid (DNA) in cancer cells that overexpress certain biomarkers."
+ceo,Mr. Panna Sharma
+sector,Healthcare
+country,US
+fullTimeEmployees,4
+phone,19722771136
+address,"1920 MCKINNEY AVENUE, 7TH FLOOR"
+city,Dallas
+state,TEXAS
+zip,75201
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/LTRN.jpg
+ipoDate,2020-06-11
+defaultImage,True

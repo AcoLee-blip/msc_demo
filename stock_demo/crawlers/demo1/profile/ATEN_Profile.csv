@@ -1,0 +1,33 @@
+,0
+symbol,ATEN
+price,7.49
+beta,0.91627
+volAvg,812966
+mktCap,574546620
+lastDiv,0.0
+range,3.43-9.21
+changes,-0.13
+companyName,A10 Networks Inc
+currency,USD
+cik,0001580808
+isin,US0021211018
+cusip,002121101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.a10networks.com/
+description,"A10 Networks, Inc. engages in the provision of application networking solutions that help organizations ensure that their data center applications and networks remain highly available, accelerated, and secure. The company is headquartered in San Jose, California and currently employs 834 full-time employees. The firm's solutions enable its customers to secure and optimize the performance of their data center and cloud applications, and secure their users, applications and infrastructure from Internet, Web and network threats at scale. The firm offers a portfolio of hardware, software and cloud offerings. Its customers include cloud providers, Web-scale companies, service providers, government organizations and enterprises. The firm's portfolio consists of six application delivery and security products, including Application Delivery Controllers (ADC), Lightning Application Delivery Service (Lightning ADS), Carrier Grade Network Address Translation (CGN), Threat Protection System (TPS), SSL Insight (SSLi) and Convergent Firewall (CFW). The firm's products are available in a range of form factors, such as optimized hardware appliances, bare metal software, virtual appliances and cloud-native software."
+ceo,Mr. Dhrupad Trivedi
+sector,Technology
+country,US
+fullTimeEmployees,810
+phone,14083258668
+address,2300 ORCHARD PKWY
+city,San Jose
+state,CALIFORNIA
+zip,95131
+dcfDiff,
+dcf,7.69124
+image,https://financialmodelingprep.com/image-stock/ATEN.jpg
+ipoDate,2014-03-21
+defaultImage,True

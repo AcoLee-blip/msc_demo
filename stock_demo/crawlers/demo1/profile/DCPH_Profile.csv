@@ -1,0 +1,33 @@
+,0
+symbol,DCPH
+price,65.23
+beta,1.912247
+volAvg,346923
+mktCap,3713765890
+lastDiv,0.0
+range,33.1-71.11
+changes,0.01
+companyName,Deciphera Pharmaceuticals Inc
+currency,USD
+cik,0001654151
+isin,US24344T1016
+cusip,24344T101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.deciphera.com
+description,"Deciphera Pharmaceuticals, Inc. operates as a biotechnology company which develops and manufactures kinase inhibitor treatments for cancer by cutting off the ability of tumor cells to thrive and spread. The company is headquartered in Waltham, Massachusetts and currently employs 112 full-time employees. The firm is developing drugs to improve the lives of cancer patients. Its drug candidate includes DCC-2618, DCC-3014 and Rebastinib. Its proprietary kinase switch control inhibitor platform, inhibit the activation of kinases. DCC-2618, an orally administered kinase switch control inhibitor, for the treatment of gastrointestinal stromal tumors (GIST), advanced systemic mastocytosis (ASM), gliomas, including glioblastoma multiforme (GBM), and other solid tumors driven by pan-KIT or PDGFR alpha. DCC-3014 is an orally administered, potent and highly selective inhibitor of colony stimulating factor receptor 1 (CSF1R). Rebastinib is an orally administered, potent and selective inhibitor of the TIE2 immunokinase. Rebastinib binds potently into the switch pocket of TIE2, stabilizing the inhibitory switch and displacing the activation switch to block TIE2 signaling."
+ceo,Mr. Steven Hoerter
+sector,Healthcare
+country,US
+fullTimeEmployees,255
+phone,17812096400
+address,200 Smith St
+city,Waltham
+state,MASSACHUSETTS
+zip,02451
+dcfDiff,
+dcf,63.0067
+image,https://financialmodelingprep.com/image-stock/DCPH.png
+ipoDate,2017-09-28
+defaultImage,False

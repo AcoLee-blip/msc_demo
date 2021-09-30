@@ -1,0 +1,33 @@
+,0
+symbol,ARAY
+price,3.88
+beta,1.9531
+volAvg,770007
+mktCap,354141952
+lastDiv,0.0
+range,1.33-4.68
+changes,0.4
+companyName,Accuray Inc
+currency,USD
+cik,0001138723
+isin,US0043971052
+cusip,004397105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,http://www.accuray.com/
+description,"Accuray, Inc. is a radiation oncology company. The company is headquartered in Sunnyvale, California and currently employs 947 full-time employees. The firm develops, manufactures and markets medical devices used in radiation therapy for the treatment of cancer patients. Its products include the CyberKnife Systems, the TomoTherapy Systems, and the Radixact Delivery Treatment Platform. Its technologies, the CyberKnife and TomoTherapy Systems, are designed to deliver treatments, including stereotactic radiosurgery (SRS), stereotactic body radiation therapy (SBRT), intensity modulated radiation therapy (IMRT), image guided radiation therapy (IGRT) and adaptive radiation therapy. The CyberKnife Systems are robotic systems that are used to treat various types of cancer and tumors throughout the body. The CyberKnife Systems track, detect and correct for tumor and patient movement in real-time during the procedure. The TomoTherapy Systems include the TomoTherapy H Series with configuration options of TomoH, TomoHD and TomoHDA."
+ceo,Mr. Joshua Levine
+sector,Healthcare
+country,US
+fullTimeEmployees,947
+phone,14087164600
+address,1310 Chesapeake Ter
+city,Sunnyvale
+state,CALIFORNIA
+zip,94089
+dcfDiff,-4.83
+dcf,4.39734
+image,https://financialmodelingprep.com/image-stock/ARAY.jpg
+ipoDate,2007-02-08
+defaultImage,True

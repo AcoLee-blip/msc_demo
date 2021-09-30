@@ -1,0 +1,33 @@
+,0
+symbol,ABC
+price,106.1
+beta,0.55299
+volAvg,920373
+mktCap,21659465700
+lastDiv,2.1
+range,72.06-111.25
+changes,-1.23
+companyName,Amerisourcebergen Corp
+currency,USD
+cik,0001140859
+isin,US03073E1055
+cusip,03073E105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Distribution
+website,
+description,"AmerisourceBergen Corp. engages provision of pharmaceutical products and business solutions that improve access to care. The company is headquartered in Chesterbrook, Pennsylvania and currently employs 22,000 full-time employees. The firm's segments include Pharmaceutical Distribution and Other. The firm provides services to healthcare providers, and pharmaceutical and biotech manufacturers. As of June 30, 2016, the Pharmaceutical Distribution segment consists of two operating segments, including the operations of AmerisourceBergen Drug Corporation (ABDC) and AmerisourceBergen Specialty Group (ABSG), which distributes specialty drugs to their customers. Servicing healthcare providers in the pharmaceutical supply channel, the Pharmaceutical Distribution segment's operations provide drug distribution and related services. The Other segment consists of the operations of various segments, including the AmerisourceBergen Consulting Services (ABCS), the World Courier Group, Inc. and the MWI Veterinary Supply, Inc. ABSG operates distribution facilities that focus primarily on complex disease treatment regimens."
+ceo,Mr. Steven Collis
+sector,Healthcare
+country,US
+fullTimeEmployees,22000
+phone,16107277000
+address,1300 Morris Dr
+city,Chesterbrook
+state,PENNSYLVANIA
+zip,19087
+dcfDiff,60.11
+dcf,113.658
+image,https://financialmodelingprep.com/image-stock/ABC.jpg
+ipoDate,1993-12-16
+defaultImage,True

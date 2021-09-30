@@ -1,0 +1,33 @@
+,0
+symbol,SPXX
+price,14.02
+beta,1.09405
+volAvg,69243
+mktCap,241029040
+lastDiv,1.02
+range,8.64-16.97
+changes,0.11
+companyName,Nuveen S&P 500 Dynamic Overwrite Fund
+currency,USD
+cik,
+isin,US6706EW1000
+cusip,6706EW100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Asset Management
+website,https://www.nuveen.com/CEF/Product/Overview.aspx
+description,"Nuveen S&P 500 Dynamic Overwrite Fund (the Fund) is a closed-end fund. The Fund's investment objective is to seek attractive total return with less volatility than the S&P 500 Index. It pursues its investment strategy by emphasizing index call options on the S&P 500 Index, as well as a range of options, including index options on other broad-based indexes and options on custom baskets of stocks in addition to exchange-traded funds (ETFs). It uses a dynamic call option overwrite strategy within a range of approximately 35% to 75%, with a long-run target of 55% overwrite of the value of the Fund's equity portfolio, in seeking to enhance the portfolio's risk-adjusted returns. Its portfolio includes in industries, such as banks; pharmaceuticals; oil, gas and consumable fuels; Internet software and services; tobacco; household products; machinery, and food and staples retailing. The Fund's investment advisor is Nuveen Fund Advisors, LLC and sub-advisor is Nuveen Asset Management, LLC."
+ceo,
+sector,Financial Services
+country,US
+fullTimeEmployees,0
+phone,13129178146
+address,333 W Wacker Dr
+city,Boston
+state,MASSACHUSETTS
+zip,
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/SPXX.jpg
+ipoDate,2005-11-23
+defaultImage,True

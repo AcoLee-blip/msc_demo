@@ -1,0 +1,33 @@
+,0
+symbol,QCOM
+price,144.01
+beta,1.38043
+volAvg,8209823
+mktCap,162875310000
+lastDiv,2.54
+range,58.0-149.41
+changes,0.1
+companyName,Qualcomm Inc
+currency,USD
+cik,0000804328
+isin,US7475251036
+cusip,747525103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.qualcomm.com/
+description,"QUALCOMM, Inc. engages in the development, design, and provision of digital telecommunications products and services. The company is headquartered in San Diego, California and currently employs 37,000 full-time employees. The firm is engaged in the development, launch and expansion of technologies like fifth-generation (5G). The firm operates through three segments: QCT (Qualcomm CDMA Technologies) segment, QTL (Qualcomm Technology Licensing) segment and QSI (Qualcomm Strategic Initiatives) segment. The company is specialized in offering third-generation (3G), fourth-generation (4G) wireless technologies and 5G wireless technologies. Its offered technologies and products are used in mobile devices and other wireless products, including network equipment, broadband gateway equipment, consumer electronic devices and other connected devices. Its technologies and products are also used in industry segments and applications beyond mobile, including automotive, computing, Internet of Things (IoT) and networking."
+ceo,Mr. Steven Mollenkopf
+sector,Technology
+country,US
+fullTimeEmployees,37000
+phone,18585871121
+address,5775 Morehouse Dr
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-56.13
+dcf,138.254
+image,https://financialmodelingprep.com/image-stock/QCOM.png
+ipoDate,1991-12-01
+defaultImage,False

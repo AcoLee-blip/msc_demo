@@ -1,0 +1,33 @@
+,0
+symbol,EPM
+price,2.22
+beta,1.47643
+volAvg,110221
+mktCap,73157440
+lastDiv,0.25
+range,2.09-5.95
+changes,0.0
+companyName,Evolution Petroleum Corp
+currency,USD
+cik,0001006655
+isin,US30049A1079
+cusip,30049A107
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Oil & Gas E&P
+website,http://www.evolutionpetroleum.com
+description,"Evolution Petroleum Corp. is an oil and gas company. The company is headquartered in Houston, Texas and currently employs 4 full-time employees. The firm is engaged in the acquisition, exploitation and development of properties for the production of crude oil and natural gas, onshore in the United States. Its assets include interests in a carbon dioxide (CO2) enhanced oil recovery project (EOR) in Louisiana's Delhi field. Its artificial lift technology is Gas Assisted Rod Pump (GARP). The firm tested GARP technology on marginal producing wells that it owns and operates in the Giddings Field. Its mineral interests include Delhi Holt-Bryant Unit in the Delhi field (Unit) located in Northeast Louisiana. As of June 30, 2016, the Unit was approximately 13,636 acres in size. As of June 30, 2016, the Unit produced approximately 195 million barrels of oil through primary and limited secondary recovery operations. As of June 30, 2016, the Unit had produced over 11 million barrels of oil. The Unit is producing as an EOR project utilizing CO2 flood technology."
+ceo,Mr. Jason Brown
+sector,Energy
+country,US
+fullTimeEmployees,4
+phone,17139350122
+address,1155 Dairy Ashford Rd Ste 425
+city,Houston
+state,TEXAS
+zip,77079
+dcfDiff,30.09
+dcf,2.81524
+image,https://financialmodelingprep.com/image-stock/EPM.png
+ipoDate,1996-04-11
+defaultImage,False

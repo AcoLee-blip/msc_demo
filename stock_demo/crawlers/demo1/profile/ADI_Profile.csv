@@ -1,0 +1,33 @@
+,0
+symbol,ADI
+price,135.48
+beta,1.3131
+volAvg,3148160
+mktCap,50067988000
+lastDiv,2.4
+range,79.08-140.38
+changes,-1.9
+companyName,Analog Devices Inc
+currency,USD
+cik,0000006281
+isin,US0326541051
+cusip,032654105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.analog.com/
+description,"Analog Devices, Inc. engages in the design, development, manufacture, and marketing of integrated circuits (ICs). The company is headquartered in Norwood, Massachusetts and currently employs 16,400 full-time employees. Its products include Analog Products, Converters, Amplifiers/Radio Frequency, Other Analog, Power Management and Reference, and Digital Signal Processing Products. The firm is a supplier of data converter products. The firm is a supplier of high-performance amplifiers. Its analog product line also includes products of high performance radio frequency (RF) ICs. The firm's DSPs are used for high-speed numeric calculations. The firm offers its products for applications in various end markets, such as industrial, automotive, consumer and communications. The firm operates in the United States, Rest of North/South America, Europe, Japan and China."
+ceo,Mr. Vincent Roche
+sector,Technology
+country,US
+fullTimeEmployees,16400
+phone,17813294700
+address,1 Technology Way
+city,Norwood
+state,MASSACHUSETTS
+zip,02062
+dcfDiff,-93.11
+dcf,126.499
+image,https://financialmodelingprep.com/image-stock/ADI.png
+ipoDate,1979-04-03
+defaultImage,False

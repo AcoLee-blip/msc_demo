@@ -1,0 +1,33 @@
+,0
+symbol,IMUX
+price,18.65
+beta,2.20449
+volAvg,480023
+mktCap,386396288
+lastDiv,0.0
+range,4.19-23.39
+changes,-0.65
+companyName,Immunic Inc
+currency,USD
+cik,0001280776
+isin,US4525EP1011
+cusip,4525EP101
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://vitaltherapies.com/
+description,"Immunic, Inc. develops a pipeline of selective oral immunology therapies aimed at treating chronic inflammatory and autoimmune diseases. The company is headquartered in Planegg, Bayern and currently employs 10 full-time employees. The firm is focused on developing oral therapies for the treatment of chronic inflammatory and autoimmune diseases. The firm is developing three small molecule products: IMU-838 is a selective immune modulator that inhibits the intracellular metabolism of activated immune cells by blocking the enzyme DHODH; IMU-935 is an inverse agonist of RORyt, and IMU-856 targets the restoration of the intestinal barrier function. The Company’s lead development program, IMU-838, is in Phase II clinical development for ulcerative colitis and relapsing-remitting multiple sclerosis, with an additional Phase II trial in Crohn’s disease."
+ceo,Dr. Daniel Vitt
+sector,Healthcare
+country,DE
+fullTimeEmployees,26
+phone,4989250079460
+address,Am Klopferspitz 19
+city,Planegg
+state,BAYERN
+zip,92127
+dcfDiff,
+dcf,20.4282
+image,https://financialmodelingprep.com/image-stock/IMUX.png
+ipoDate,2014-04-17
+defaultImage,False

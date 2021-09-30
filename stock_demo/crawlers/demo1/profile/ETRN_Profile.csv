@@ -1,0 +1,33 @@
+,0
+symbol,ETRN
+price,6.97
+beta,0.0
+volAvg,4309267
+mktCap,3014316030
+lastDiv,0.8999999999999999
+range,3.75-13.82
+changes,0.23
+companyName,Equitrans Midstream Corp
+currency,USD
+cik,0001747009
+isin,US2946001011
+cusip,294600101
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Oil & Gas Midstream
+website,https://www.equitransmidstream.com
+description,"Equitrans Midstream Corp. has a premier asset footprint in the Appalachian Basin and is one of the largest natural gas gatherers in the United States. The company is headquartered in Canonsburg, Pennsylvania and currently employs 770 full-time employees. The firm provides midstream services to EQT Corporation and multiple third-parties in Pennsylvania, West Virginia, and Ohio. The firm operates through three business segments: Gathering, Transmission and Water. The company provides natural gas gathering, transmission and storage services under contracts. Its midstream assets are primarily located in the Appalachian Basin. The Company’s gathering system delivers natural gas from wells and other receipt points to transmission pipelines. Its transmission and storage system delivers gas to local demand users and interstate pipelines for access to demand markets. Its water services assets consist of water pipelines, impoundment facilities, pumping stations, take point facilities and measurement facilities that support well completion activities and collect flowback and produced water for recycling or disposal."
+ceo,Mr. Thomas Karam
+sector,Energy
+country,US
+fullTimeEmployees,800
+phone,
+address,"625 Liberty Avenue, Suite 2000"
+city,Pittsburgh
+state,PENNSYLVANIA
+zip,15317-0269
+dcfDiff,
+dcf,8.45652
+image,https://financialmodelingprep.com/image-stock/ETRN.png
+ipoDate,2018-10-31
+defaultImage,False

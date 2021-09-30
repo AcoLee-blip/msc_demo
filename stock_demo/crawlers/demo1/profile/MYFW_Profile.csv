@@ -1,0 +1,33 @@
+,0
+symbol,MYFW
+price,17.0
+beta,0.0
+volAvg,10153
+mktCap,135179744
+lastDiv,0.0
+range,10.75-18.98
+changes,0.49
+companyName,First Western Financial Inc
+currency,USD
+cik,0001327607
+isin,US33751L1052
+cusip,33751L105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Banks Regional
+website,https://myfw.gcs-web.com/
+description,"First Western Financial, Inc. operates as holding company, which engages in the provision of wealth managements services. The company is headquartered in Denver, Colorado and currently employs 245 full-time employees. The firm provides a fully integrated suite of wealth management services on the Bank platform. Its products and services include a comprehensive selection of deposit, loan, trust, wealth planning, and investment management. The company provides a range of deposit products and services, such as demand deposits, interest- bearing transaction accounts, money markets accounts, time and savings deposits, and certificate of deposits. The firm offers commercial lending products that include commercial loans, business term loans, and lines of credit to small and midsized businesses. The company also offers residential mortgage loans. The company also provides treasury management, risk management, philanthropic services, and retirement consulting."
+ceo,Mr. Scott Wylie
+sector,Financial Services
+country,US
+fullTimeEmployees,255
+phone,13035318100
+address,"1900 Sixteenth St, #1200"
+city,Denver
+state,COLORADO
+zip,80202
+dcfDiff,
+dcf,24.1754
+image,https://financialmodelingprep.com/image-stock/MYFW.jpg
+ipoDate,2018-07-19
+defaultImage,True

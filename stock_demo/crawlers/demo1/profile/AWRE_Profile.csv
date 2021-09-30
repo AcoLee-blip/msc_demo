@@ -1,0 +1,33 @@
+,0
+symbol,AWRE
+price,2.67
+beta,0.06193
+volAvg,24569
+mktCap,57264292
+lastDiv,0.0
+range,2.02-3.88
+changes,-0.03
+companyName,Aware Inc
+currency,USD
+cik,0001015739
+isin,US05453N1000
+cusip,05453N100
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.aware.com/
+description,"Aware, Inc. engages in the provision of software and services to the biometrics services. The company is headquartered in Bedford, Massachusetts and currently employs 67 full-time employees. The firm's software products are used in government and commercial biometrics systems to identify or authenticate people. Its products provide biometric functionality and are used to capture, verify, format, compress and decompress biometric images, as well as aggregate, analyze, process, match and transport those images within biometric systems. The company sells biometrics software products and services through systems integrators and original equipment manufacturers (OEMs), and directly to end user customers. Its software products enable functions in biometrics systems, including enrollment, analysis and processing of biometric images and data on workstations or mobile devices; integration of peripheral biometric capture devices; centralized workflow, transaction processing and subsystem integration, and matching of biometric samples against biometric databases to authenticate or verify identities."
+ceo,Mr. Robert Eckel
+sector,Technology
+country,US
+fullTimeEmployees,71
+phone,16172764000
+address,40 Middlesex Tpke
+city,Bedford
+state,MASSACHUSETTS
+zip,01730
+dcfDiff,-3.42
+dcf,4.85819
+image,https://financialmodelingprep.com/image-stock/AWRE.png
+ipoDate,1996-08-09
+defaultImage,False

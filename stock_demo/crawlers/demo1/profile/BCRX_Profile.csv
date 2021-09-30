@@ -1,0 +1,33 @@
+,0
+symbol,BCRX
+price,4.25
+beta,2.97166
+volAvg,5149216
+mktCap,750405500
+lastDiv,0.0
+range,1.58-6.29
+changes,-0.01
+companyName,BioCryst Pharmaceuticals Inc
+currency,USD
+cik,0000882796
+isin,US09058V1035
+cusip,09058V103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.biocryst.com/
+description,"BioCryst Pharmaceuticals, Inc. designs and develops novel, oral and small-molecule medicines. The company is headquartered in Durham, North Carolina and currently employs 100 full-time employees. The firm designs, optimizes and develops small molecule drugs that block enzymes involved in the pathogenesis of diseases. The firm focuses on the treatment of rare diseases. The company uses X-ray crystallography, computer modeling of molecular structures and chemistry techniques to focus on the three-dimensional molecular structure and active site characteristics of the enzymes that control cellular biology. The firm's drug candidates include RAPIVAB, RAPIACTA, ALPIVAB, PERAMIFLU, Avoralstat, BCX7353, other second generation hereditary angioedema (HAE) compounds, Galidesivir and Forodesine. Its product RAPIVAB contains peramivir. ALPIVAB is an intravenous neuraminidase inhibitor. Galidesivir is a broad-spectrum antiviral (BSAV) research program developed for the treatment of hemorrhagic fever viruses. Forodesine is a Purine Nucleoside Phosphorylase (PNP) inhibitor in development by Mundipharma as a treatment for cancer."
+ceo,Mr. Jon Stonehouse
+sector,Healthcare
+country,US
+fullTimeEmployees,140
+phone,19198591302
+address,4505 Emperor Blvd Ste 200
+city,Durham
+state,NORTH CAROLINA
+zip,27703
+dcfDiff,-22.7
+dcf,4.57765
+image,https://financialmodelingprep.com/image-stock/BCRX.jpg
+ipoDate,1994-03-04
+defaultImage,True

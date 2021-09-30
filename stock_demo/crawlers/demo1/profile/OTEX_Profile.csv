@@ -1,0 +1,33 @@
+,0
+symbol,OTEX
+price,41.98
+beta,0.73443
+volAvg,620740
+mktCap,11457307600
+lastDiv,0.875
+range,29.12-47.85
+changes,0.6
+companyName,Open Text Corp
+currency,USD
+cik,0001002638
+isin,CA6837151068
+cusip,683715106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.opentext.com/
+description,"Open Text Corp. engages in the design, development, marketing and sales of enterprise information management software and solutions. The company is headquartered in Waterloo, Ontario and currently employs 13,100 full-time employees. The firm provides a platform and suite of software products and services that assist organizations in finding, utilizing, and sharing business information from any device. The firm designs, develops, markets and sells Enterprise Information Management (EIM) software and solutions. Its EIM offerings include Enterprise Content Management (ECM), Business Process Management (BPM), Customer Experience Management (CEM), Business Network, Discovery and Analytics. Its software and services allow organizations to manage the information that flows into, out of, and throughout the enterprise as part of daily operations. Its solutions incorporate collaborative and mobile technologies and are delivered for on-premises deployment, as well as through cloud, hybrid and managed hosted services models."
+ceo,Mr. Mark Barrenechea
+sector,Technology
+country,CA
+fullTimeEmployees,13100
+phone,14169560322
+address,275 Frank Tompa Dr
+city,Waterloo
+state,ONTARIO
+zip,N2L 0A1
+dcfDiff,
+dcf,47.2479
+image,https://financialmodelingprep.com/image-stock/OTEX.png
+ipoDate,1998-06-26
+defaultImage,False

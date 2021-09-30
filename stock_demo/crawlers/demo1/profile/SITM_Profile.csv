@@ -1,0 +1,33 @@
+,0
+symbol,SITM
+price,95.25
+beta,0.0
+volAvg,133072
+mktCap,1613554050
+lastDiv,0.0
+range,13.0-112.69
+changes,0.85
+companyName,SiTime Corp
+currency,USD
+cik,0001451809
+isin,US82982T1060
+cusip,82982T106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.sitime.com/
+description,"SiTime Corp.is a micro-electromechanical system based silicon timing solutions. The company is headquartered in Santa Clara, California and currently employs 135 full-time employees. The Company’s silicon timing solutions are comprised of microelectromechanical systems (MEMS) resonators and Clock integrated circuits (ICs). The company supplies oscillator products that are comprised of a MEMS resonator and a clock IC that are integrated into a package. Its product portfolio includes low jitter oscillators, low power oscillators, spread spectrum oscillators, Stratum 3E DCOCXOs, Programmable OCXOs, 32.768 kilohertz kHz Oscillators, MegaHertZ (MHz) oscillators, ruggedized oscillators and embedded resonators. The company serves various industries, such as infrastructure, automotive, industrial, Internet of things (IoT), mobile and wearables, consumer and aerospace-defense."
+ceo,Mr. Rajesh Vashist
+sector,Technology
+country,US
+fullTimeEmployees,143
+phone,14083284400
+address,5451 Patrick Henry Dr
+city,Santa Clara
+state,CALIFORNIA
+zip,95054
+dcfDiff,
+dcf,88.16
+image,https://financialmodelingprep.com/image-stock/SITM.png
+ipoDate,2019-11-21
+defaultImage,False

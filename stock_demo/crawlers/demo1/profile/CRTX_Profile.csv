@@ -1,0 +1,33 @@
+,0
+symbol,CRTX
+price,47.47
+beta,0.0
+volAvg,101223
+mktCap,1399781120
+lastDiv,0.0
+range,23.0-73.84
+changes,-0.6
+companyName,Cortexyme Inc
+currency,USD
+cik,0001662774
+isin,US22053A1079
+cusip,22053A107
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.cortexyme.com/
+description,"Cortexyme, Inc. is a biopharmaceutical company, which develops therapeutics based on data supporting a new theory of the cause of Alzheimer's and other neurodegenerative disorders. The company is headquartered in South San Francisco, California and currently employs 19 full-time employees. The firm is focused on providing disease-modifying therapeutics to treat Alzheimer’s and other degenerative diseases. The firm is focused on a infectious pathogen tied to neurodegeneration in humans and animal models. The Company’s lead drug candidate, COR388, is an orally-administered, brain-penetrating small molecule gingipain inhibitor designed for the treatment of Alzheimer’s disease. COR388 is designed to target an upstream driver of multiple Alzheimer’s pathological pathways, including amyloid beta production, inflammation and neurodegeneration, in contrast to mechanisms of action targeting downstream effects, such as amyloid plaques and tau tangles."
+ceo,Ms. Casey Lynch
+sector,Healthcare
+country,US
+fullTimeEmployees,23
+phone,14159105717
+address,269 E Grand Ave
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,50.971
+image,https://financialmodelingprep.com/image-stock/CRTX.png
+ipoDate,2019-05-09
+defaultImage,False

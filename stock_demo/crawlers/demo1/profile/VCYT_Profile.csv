@@ -1,0 +1,33 @@
+,0
+symbol,VCYT
+price,46.635
+beta,0.47784
+volAvg,456493
+mktCap,2680682240
+lastDiv,0.0
+range,13.9-48.16
+changes,0.275
+companyName,Veracyte Inc
+currency,USD
+cik,0001384101
+isin,US92337F1075
+cusip,92337F107
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.veracyte.com/
+description,"Veracyte, Inc. engages in the research, development and commercialization of diagnostic products. The company is headquartered in South San Francisco, California and currently employs 270 full-time employees. The Company, through its scientific platform, which utilizes ribonucleic acid (RNA), whole-transcriptome sequencing combined with machine learning, produces genomic tests. The company provides various genomic tests, including Afirma Genomic Sequencing Classifier (GSC), Percepta Bronchial Genomic Classifier, Envisia Genomic Classifier and Afirma Xpression Atlas. The company provides GSC tests for thyroid cancer. The company provides Percepta Bronchial Genomic Classifier tests for lung cancer. The company provides Envisia Genomic Classifier tests for idiopathic pulmonary fibrosis (IPF). Its Afirma Xpression Atlas provides information on gene alterations associated with thyroid cancer, enabling physicians to tailor surgical and treatment decisions at time of diagnosis."
+ceo,Ms. Bonnie Anderson
+sector,Healthcare
+country,US
+fullTimeEmployees,354
+phone,16502436300
+address,6000 Shoreline Ct Ste 300
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,42.9027
+image,https://financialmodelingprep.com/image-stock/VCYT.png
+ipoDate,2013-10-30
+defaultImage,False

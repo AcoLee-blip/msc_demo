@@ -1,0 +1,33 @@
+,0
+symbol,MTSC
+price,32.6
+beta,1.75339
+volAvg,151415
+mktCap,628413890
+lastDiv,0.6
+range,13.15-60.57
+changes,0.71
+companyName,MTS Systems Corp
+currency,USD
+cik,0000068709
+isin,US5537771033
+cusip,553777103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,https://www.mts.com/
+description,"MTS Systems Corp. engages in the provision of test systems and sensors. The company is headquartered in Eden Prairie, Minnesota and currently employs 3,500 full-time employees. The firm operates through two segments: Test and Sensors. The Test segment provides testing solutions, including hardware, software and services to ground vehicles, materials and structures markets. The Sensors segment provides position sensors for a range of industrial and mobile hydraulic applications. The Sensors segment products are used by industrial machinery and mobile equipment manufacturers to automate the operation of their products for safety and end-user productivity. The Sensors segment manufactures products utilizing magnetostriction technology. Its technology, Temposonics, offers non-contact position sensing. Its Temposonics sensors provide position feedback for motion control systems. The company also provides various service offerings, including calibration, maintenance, training and consulting. The firm has its manufacturing facilities in North America, Europe and Asia."
+ceo,Dr. Jeffrey Graves
+sector,Technology
+country,US
+fullTimeEmployees,3500
+phone,16129374000
+address,14000 Technology Dr
+city,Eden Prairie
+state,MINNESOTA
+zip,55344
+dcfDiff,4.06
+dcf,27.0842
+image,https://financialmodelingprep.com/image-stock/MTSC.jpg
+ipoDate,1980-03-17
+defaultImage,True

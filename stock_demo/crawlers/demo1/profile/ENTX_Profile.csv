@@ -1,0 +1,33 @@
+,0
+symbol,ENTX
+price,1.08
+beta,0.0
+volAvg,123443
+mktCap,19692936
+lastDiv,0.0
+range,1.0-3.4
+changes,-0.02
+companyName,Entera Bio Ltd
+currency,USD
+cik,0001638097
+isin,IL0011429839
+cusip,M40527109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.enterabio.com/
+description,"Entera Bio Ltd. is a clinical-stage biopharmaceutical company, which focuses on the development and commercialization of orally delivered large molecule therapeutics. The firm conducts clinical trials on its proprietary technology, which allows oral delivery of large molecules and biologics while enhancing their absorption in the gastrointestinal (GI) tract. Entera Bio Ltd's technology addresses the major problems of oral drug delivery of large molecule active pharmaceutical ingredients (APIs). Most large molecules cannot be administered orally as they are not readily absorbed by the gastrointestinal tract and are rapidly degraded by a myriad of enzymes and acids in the gastrointestinal tract. The Company’s proprietary technologies act synergistically to transport and protect large molecules. The firm develops drugs for hypoparathyroidism, osteoporosis and bone healing."
+ceo,Mr. Adam Gridley
+sector,Healthcare
+country,IL
+fullTimeEmployees,21
+phone,97225327151
+address,"Kiryat Hadassah, Minrav Building, Fifth Floor"
+city,JERUSALEM
+state,
+zip,9112002
+dcfDiff,
+dcf,1.1
+image,https://financialmodelingprep.com/image-stock/ENTX.png
+ipoDate,2018-06-28
+defaultImage,False

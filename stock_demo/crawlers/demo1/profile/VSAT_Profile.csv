@@ -1,0 +1,33 @@
+,0
+symbol,VSAT
+price,34.59
+beta,1.24134
+volAvg,551823
+mktCap,2335962880
+lastDiv,0.0
+range,25.1-75.91
+changes,1.23
+companyName,ViaSat Inc
+currency,USD
+cik,0000797721
+isin,US92552V1008
+cusip,92552V100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.viasat.com/
+description,"ViaSat, Inc. provides communications technologies and services. The company is headquartered in Carlsbad, California and currently employs 5,600 full-time employees. The firm operates through three segments: satellite services, commercial networks and government systems. The satellite services segment provides satellite-based broadband services to consumers, enterprises, commercial airlines and mobile broadband customers primarily in the United States. The commercial networks segment develops and produces a range of end-to-end satellite and wireless communication systems, ground networking equipment and space-to-earth connectivity systems. The government systems segment develops and produces network-centric Internet Protocol (IP)-based fixed and mobile secure government communications systems, products, services and solutions, which are designed to enable the collection and dissemination of real-time digital information between command centers, communications nodes and air defense systems."
+ceo,Mr. Mark Dankberg
+sector,Technology
+country,US
+fullTimeEmployees,6100
+phone,17604762200
+address,6155 El Camino Real
+city,Carlsbad
+state,CALIFORNIA
+zip,92009
+dcfDiff,32.66
+dcf,39.6975
+image,https://financialmodelingprep.com/image-stock/VSAT.png
+ipoDate,1996-12-03
+defaultImage,False

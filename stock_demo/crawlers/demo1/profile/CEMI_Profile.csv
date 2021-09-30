@@ -1,0 +1,33 @@
+,0
+symbol,CEMI
+price,4.43
+beta,2.10402
+volAvg,2227272
+mktCap,89380120
+lastDiv,0.0
+range,2.25-15.89
+changes,-0.05
+companyName,Chembio Diagnostics Inc
+currency,USD
+cik,0001092662
+isin,US1635722093
+cusip,163572209
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://chembio.com/
+description,"Chembio Diagnostics, Inc. develops, manufactures, markets and licenses rapid point-of-care diagnostic tests that detect infectious diseases. The company is headquartered in Hauppauge, New York and currently employs 295 full-time employees. The firm's products available are rapid tests for the detection of human immunodeficiency virus (HIV) 1/2 antibodies, and a multiplex rapid test for the detection of HIV and Syphilis antibodies. The HIV 1/2 rapid tests employ in-licensed and lateral flow technologies that are used with all blood matrices as samples, and are manufactured in a standard cassette format, a dipstick format and a barrel format. Its HIV 1/2 rapid antibody detection test incorporates the Dual Path Platform (DPP) POCT technology. The DPP HIV 1/2 Assay detects antibodies to HIV 1 and 2 in oral fluid samples, as well as in all blood matrices. The firm's product pipeline includes a multiplex rapid test for earlier detection of HIV and a multiplex test that detects HIV and Syphilis specific antibodies."
+ceo,Ms. Gail Page
+sector,Healthcare
+country,US
+fullTimeEmployees,295
+phone,16319241135
+address,555 Wireless Blvd
+city,Hauppauge
+state,NEW YORK
+zip,11788
+dcfDiff,
+dcf,5.88769
+image,https://financialmodelingprep.com/image-stock/CEMI.png
+ipoDate,2000-10-18
+defaultImage,False

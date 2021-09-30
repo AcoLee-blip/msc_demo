@@ -1,0 +1,33 @@
+,0
+symbol,CDXC
+price,5.06
+beta,1.69474
+volAvg,344703
+mktCap,312645760
+lastDiv,0.0
+range,2.5-6.0
+changes,0.21
+companyName,Chromadex Corp
+currency,USD
+cik,0001386570
+isin,US1710774076
+cusip,171077407
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://chromadex.com/default.aspx
+description,"Chromadex Corp. is a nutraceutical company. The company is headquartered in Los Angeles, California and currently employs 100 full-time employees. The firm allows its business units to discover, acquire, develop and commercialize ingredient technologies that address the dietary supplement, food, beverage, skin care and pharmaceutical markets. The firm operates through three segments: Ingredients, which develops, supplies and commercializes ingredient technologies; Core standards and contract services, which supplies phytochemical reference standards, which are small quantities of plant-based compounds used to research an array of attributes, reference materials and related contract services, and Scientific and regulatory consulting, which provides scientific and regulatory consulting to the clients in the food, supplement and pharmaceutical industries to manage health and regulatory risks."
+ceo,Mr. Robert Fried
+sector,Healthcare
+country,US
+fullTimeEmployees,110
+phone,13103886706
+address,10900 Wilshire Blvd Ste 600
+city,Los Angeles
+state,CALIFORNIA
+zip,90024
+dcfDiff,-12.34
+dcf,334.661
+image,https://financialmodelingprep.com/image-stock/CDXC.jpg
+ipoDate,2007-06-25
+defaultImage,True

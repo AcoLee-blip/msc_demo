@@ -1,0 +1,33 @@
+,0
+symbol,ALLT
+price,10.41
+beta,0.851602
+volAvg,182332
+mktCap,366562112
+lastDiv,0.0
+range,6.44-13.05
+changes,0.08
+companyName,Allot Ltd
+currency,USD
+cik,
+isin,IL0010996549
+cusip,M0854Q105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.allot.com
+description,"Allot Ltd. engages in the development and provision of network intelligence and security solutions for mobile, fixed service providers, and enterprises. The firm has a global and diverse customer base composed of mobile and fixed broadband service providers, cable operators, private networks, data centers, governments and enterprises, such as financial and educational institutions. Its integrated solutions include analytics, traffic management, video caching and optimization, policy control and charging, service enablement and security solutions. The Allot Service Gateway platforms (including Allot Service Gateway Tera, and Allot Service Gateway 9500), as well as Allot NetEnforcer platforms are based on technology, designed for in-line deployment in a range of networks. Allot service Gateway platforms are designed for deployment both on traditional and virtualized network access infrastructure."
+ceo,Mr. Erez Antebi
+sector,Technology
+country,IL
+fullTimeEmployees,594
+phone,97297619200
+address,"22 Hangar Street, Industrial Zone B"
+city,HOD HASHARON
+state,
+zip,4501317
+dcfDiff,-8.61
+dcf,13.3042
+image,https://financialmodelingprep.com/image-stock/ALLT.png
+ipoDate,2006-11-16
+defaultImage,False

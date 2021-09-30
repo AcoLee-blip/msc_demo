@@ -1,0 +1,33 @@
+,0
+symbol,GH
+price,115.34
+beta,0.0
+volAvg,903970
+mktCap,11530816500
+lastDiv,0.0
+range,55.9-122.31
+changes,-0.64
+companyName,Guardant Health Inc
+currency,USD
+cik,0001576280
+isin,US40131M1099
+cusip,40131M109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://www.guardanthealth.com
+description,"Guardant Health, Inc. is a precision oncology company, which engages in treatment of cancer through use of proprietary blood-based tests, vast data sets, and advanced analytics. The company is headquartered in Redwood City, California and currently employs 454 full-time employees. The firm is focused on helping conquer cancer through use of its blood tests, data sets and analytics. The company provides Guardant Health Oncology Platform. The company provides liquid biopsy tests, such as Guardant360 and GuardantOMNI, for advanced stage cancer. Its liquid biopsy tests fuels its programs developing tests for recurrence and early detection, LUNAR-1 and LUNAR-2. Guardant360 is a molecular diagnostic test that measures 73 cancer-related genes from circulating tumor deoxyribonucleic acid (ctDNA). Its Guardant360 process includes blood collection, laboratory processing, analysis and reporting. Guardant360 is used for a range of applications, including translational science research and identifying target patient populations, drug development and commercialization post-drug approval."
+ceo,Mr. Helmy Eltoukhy
+sector,Healthcare
+country,US
+fullTimeEmployees,622
+phone,18556988887
+address,505 Penobscot Dr
+city,Redwood City
+state,CALIFORNIA
+zip,94063
+dcfDiff,
+dcf,101.541
+image,https://financialmodelingprep.com/image-stock/GH.png
+ipoDate,2018-10-04
+defaultImage,False

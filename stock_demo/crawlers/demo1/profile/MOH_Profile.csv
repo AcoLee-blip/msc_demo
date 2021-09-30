@@ -1,0 +1,33 @@
+,0
+symbol,MOH
+price,220.08
+beta,0.78009
+volAvg,380409
+mktCap,13050743800
+lastDiv,0.0
+range,102.85-224.0
+changes,4.28
+companyName,Molina Healthcare Inc
+currency,USD
+cik,0001179929
+isin,US60855R1005
+cusip,60855R100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Health Care Plans
+website,http://www.molinahealthcare.com
+description,"Molina Healthcare, Inc. engages in the provision of health care services. The company is headquartered in Long Beach, California and currently employs 11,000 full-time employees. The firm operates through two segments: Health Plans and Other, which includes its Pathways Health and Community Support LLC (Pathways) business. The company arranges healthcare services for persons served by Medicaid, Medicare, the Children's Health Insurance Program (CHIP) and the Marketplace, and products to assist government agencies in their administration of the Medicaid program. As of December 31, 2016, the Company's Health Plans segment consisted of health plans in 12 states and the Commonwealth of Puerto Rico, and its direct delivery business."
+ceo,Mr. Joseph Zubretsky
+sector,Healthcare
+country,US
+fullTimeEmployees,10000
+phone,15624353666
+address,200 Oceangate Ste 100
+city,Long Beach
+state,CALIFORNIA
+zip,90802
+dcfDiff,-123.7
+dcf,244.923
+image,https://financialmodelingprep.com/image-stock/MOH.png
+ipoDate,2003-07-02
+defaultImage,False

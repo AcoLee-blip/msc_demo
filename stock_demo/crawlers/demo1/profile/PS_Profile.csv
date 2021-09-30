@@ -1,0 +1,33 @@
+,0
+symbol,PS
+price,15.6
+beta,0.0
+volAvg,1396286
+mktCap,2272842240
+lastDiv,0.0
+range,6.59-22.69
+changes,0.58
+companyName,Pluralsight Inc
+currency,USD
+cik,0001725579
+isin,US72941B1061
+cusip,72941B106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://investors.pluralsight.com/
+description,"Pluralsight, Inc. engages in the provision of technology skill development solutions. The company is headquartered in Farmington, Utah and currently employs 1,100 full-time employees. The firm develops a cloud-based technology learning platform that provides a range of tools for skill assessments, library of courses, learning paths, and business analytics. Its platform uses machine-learning technologies to provide skill assessments and course recommendations. The Company’s platform provides a range of courses from beginner to advances skill levels with content specific to needs and can be accessed from anywhere. The firm provides its platform to businesses, individuals, small businesses and federal government. The platform is used by business to train its software developers, IT professionals, data scientists, data engineers, technical engineers, business users, and technology executives."
+ceo,Mr. Aaron Skonnard
+sector,Technology
+country,US
+fullTimeEmployees,1600
+phone,18017849007
+address,182 N Union Ave
+city,Farmington
+state,UTAH
+zip,84025
+dcfDiff,
+dcf,18.9677
+image,https://financialmodelingprep.com/image-stock/PS.png
+ipoDate,2018-05-17
+defaultImage,False

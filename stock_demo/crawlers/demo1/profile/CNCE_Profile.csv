@@ -1,0 +1,33 @@
+,0
+symbol,CNCE
+price,11.04
+beta,0.82925
+volAvg,131166
+mktCap,338367168
+lastDiv,0.0
+range,5.47-13.09
+changes,0.1
+companyName,Concert Pharmaceuticals Inc
+currency,USD
+cik,0001367920
+isin,US2060221056
+cusip,206022105
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.concertpharma.com/
+description,"Concert Pharmaceuticals, Inc. is a clinical stage biopharmaceutical company, which discovers and develops novel small molecule drugs through the use of deuterium technology. The company is headquartered in Lexington, Massachusetts and currently employs 71 full-time employees. The firm is engaged in the discovery and development of small molecule drugs. The firm operates through the development of pharmaceutical products on its own behalf or in collaboration with others. The firm's deuterated chemical entity platform (DCE Platform), has potential across various therapeutic areas. Its product candidates include AVP-786, CTP-656, CTP-730, CTP-543 and JZP-386. The firm's product candidate, CTP-656, is a next generation potentiator that it is initially developing for the treatment of cystic fibrosis in patients having gating mutations, including the G551D mutation. CTP-543 was discovered by applying Concert's deuterium chemistry technology to modify ruxolitinib. AVP-786 is a combination of a dextromethorphan and an ultra-low dose of quinidine. CTP-730 is a phosphodiesterase 4 (PDE4) inhibitor that has potential for the treatment of various inflammatory diseases."
+ceo,Dr. Roger Tung
+sector,Healthcare
+country,US
+fullTimeEmployees,70
+phone,17818600045
+address,65 Hayden Ave Ste 3000N
+city,Lexington
+state,MASSACHUSETTS
+zip,02421
+dcfDiff,-9.96
+dcf,13.6443
+image,https://financialmodelingprep.com/image-stock/CNCE.png
+ipoDate,2014-02-13
+defaultImage,False

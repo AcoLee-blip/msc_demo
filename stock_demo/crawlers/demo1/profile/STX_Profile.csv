@@ -1,0 +1,33 @@
+,0
+symbol,STX
+price,54.7
+beta,1.15036
+volAvg,2898981
+mktCap,14054180900
+lastDiv,2.6
+range,39.02-64.17
+changes,1.51
+companyName,Seagate Technology PLC
+currency,USD
+cik,0001137789
+isin,IE00B58JVZ52
+cusip,G7945M107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.seagate.com/
+description,"Seagate Technology Plc engages in the development, production, and distribution of data storage products and electronic data storage solutions. The company is headquartered in Dublin, Dublin and currently employs 40,500 full-time employees. The firm's principal products are hard disk drives (HDDs). In addition to HDDs, it produces a range of electronic data storage products, including solid state hybrid drives, solid state drives, peripheral component interconnect express (PCIe) cards and serial advanced technology architecture (SATA) controllers. Its storage technology portfolio also includes storage subsystems and high performance computing solutions. Its products are designed for applications in enterprise servers and storage systems, client compute applications and client non-compute applications. The company designs, fabricates and assembles various components found in its disk drives, including read/write heads and recording media. Its design and manufacturing operations are based on technology platforms that are used to produce various disk drive products that serve multiple data storage applications and markets."
+ceo,Mr. William Mosley
+sector,Technology
+country,IE
+fullTimeEmployees,40500
+phone,35312343136
+address,"38/39 Fitzwilliam Square, Dublin 2"
+city,DUBLIN
+state,DUBLIN
+zip,2
+dcfDiff,
+dcf,58.1881
+image,https://financialmodelingprep.com/image-stock/STX.png
+ipoDate,2002-12-11
+defaultImage,False

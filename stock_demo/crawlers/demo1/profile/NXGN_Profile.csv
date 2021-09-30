@@ -1,0 +1,33 @@
+,0
+symbol,NXGN
+price,15.555
+beta,1.09918
+volAvg,301843
+mktCap,1038045820
+lastDiv,0.0
+range,5.1-18.49
+changes,0.125
+companyName,NextGen Healthcare Inc
+currency,USD
+cik,0000708818
+isin,US65343C1027
+cusip,65343C102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.nextgen.com/
+description,"NextGen Healthcare, Inc. engages in the development and marketing of electronic health records, practice management, revenue cycle management, and interoperability solutions. The company is headquartered in Irvine, California and currently employs 2,660 full-time employees. The firm is engaged in developing and marketing software and services that automate certain aspects of practice management (PM) and electronic health records (EHR) for medical and dental practices. The firm operates through three segments: the NextGen Division, the RCM Services Division and the QSI Dental Division. The company also provides implementation, training, support and maintenance for software and complementary services, such as revenue cycle management (RCM) and electronic data interchange (EDI). The firm's clients include single and small practice physicians, networks of practices, such as physician hospital organizations (PHOs), management service organizations (MSOs), accountable care organizations (ACOs), ambulatory care centers, community health centers, and medical and dental schools."
+ceo,Mr. John Frantz
+sector,Healthcare
+country,US
+fullTimeEmployees,2754
+phone,19492552600
+address,18111 Von Karman Ave Ste 800
+city,Irvine
+state,CALIFORNIA
+zip,92612
+dcfDiff,
+dcf,16.0535
+image,https://financialmodelingprep.com/image-stock/NXGN.png
+ipoDate,1982-12-02
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,WATT
+price,2.04
+beta,4.09933
+volAvg,1111576
+mktCap,90875264
+lastDiv,0.0
+range,0.61-4.58
+changes,-0.08
+companyName,Energous Corp
+currency,USD
+cik,0001575793
+isin,US29272C1036
+cusip,29272C103
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,http://energous.com/
+description,"Energous Corp. engages in the development of wireless charging technology. The company is headquartered in San Jose, California and currently employs 69 full-time employees. Its technology can be utilized in a range of devices, including wearables, Internet of Things (IoT) devices, smartphones, tablets, e-book readers, keyboards, mice, remote controls, rechargeable lights, cylindrical batteries and any other device with similar charging requirements that would otherwise need a battery or a connection to a power outlet. The firm is engaged in developing a solution that charges electronic devices by surrounding them with a contained three-dimensional (3D) RF energy pocket (RF energy pocket). The company is also engaged in developing its transmitter technology to mesh, to form a wire-free charging network."
+ceo,Mr. Stephen Rizzone
+sector,Technology
+country,US
+fullTimeEmployees,51
+phone,14089630200
+address,3590 N 1st St Ste 210
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-5.08
+dcf,3.21653
+image,https://financialmodelingprep.com/image-stock/WATT.png
+ipoDate,2014-03-28
+defaultImage,False

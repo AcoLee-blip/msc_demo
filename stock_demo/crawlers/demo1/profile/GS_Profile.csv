@@ -1,0 +1,33 @@
+,0
+symbol,GS
+price,219.13
+beta,1.40616
+volAvg,3388032
+mktCap,75395621000
+lastDiv,5.0
+range,130.85-250.46
+changes,4.62
+companyName,Goldman Sachs Group Inc
+currency,USD
+cik,0000886982
+isin,US38141G1040
+cusip,38141G104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Capital Markets
+website,https://www.goldmansachs.com/
+description,"Goldman Sachs Group, Inc. engages in global investment banking, securities, and investment management, which provides financial services. The company is headquartered in New York City, New York and currently employs 37,800 full-time employees. The firm operates in four business segments: Investment Banking, Institutional Client Services, Investing & Lending, and Investment Management. The Investment Banking segment consists of financial advisory and underwriting. The Institutional Client Services segment makes markets and facilitates client transactions in fixed income, equity, currency and commodity products. The investing and lending activities, which are typically longer-term, include its investing and relationship lending activities across various asset classes, primarily debt securities and loans, public and private equity securities, infrastructure and real estate. The Investment Management segment provides investment and wealth advisory services. As of December 2016, it had offices in over 30 countries."
+ceo,Mr. David Solomon
+sector,Financial Services
+country,US
+fullTimeEmployees,38500
+phone,12129021000
+address,200 West St
+city,New York City
+state,NEW YORK
+zip,10282
+dcfDiff,-200.57
+dcf,558.558
+image,https://financialmodelingprep.com/image-stock/GS.jpg
+ipoDate,1999-05-04
+defaultImage,True

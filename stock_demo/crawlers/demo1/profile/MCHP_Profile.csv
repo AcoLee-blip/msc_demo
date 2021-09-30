@@ -1,0 +1,33 @@
+,0
+symbol,MCHP
+price,125.935
+beta,1.63975
+volAvg,1972226
+mktCap,32790450200
+lastDiv,1.8384999999999998
+range,53.15-131.65
+changes,2.475
+companyName,Microchip Technology Inc
+currency,USD
+cik,0000827054
+isin,US5950171042
+cusip,595017104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.microchip.com
+description,"Microchip Technology, Inc. engages in the provision of semiconductor products. The company is headquartered in Chandler, Arizona and currently employs 18,286 full-time employees. The firm operates through two segments: semiconductor products and technology licensing. In the semiconductor products segment, the Company designs, develops, manufactures and markets microcontrollers, development tools and analog, interface, mixed signal and timing products. Its functional activities include sales, marketing, manufacturing, information technology, human resources, legal and finance. Its product portfolio comprises general purpose and specialized 8-bit, 16-bit, and 32-bit microcontrollers, a spectrum of linear, mixed-signal, power management, thermal management, radio frequency (RF), timing, safety, security, wired connectivity and wireless connectivity devices, as well as serial electrically erasable programmable read-only memories (EEPROMs) and serial flash memories."
+ceo,Mr. Steve Sanghi
+sector,Technology
+country,US
+fullTimeEmployees,18000
+phone,14807927200
+address,2355 W CHANDLER BLVD
+city,Chandler
+state,ARIZONA
+zip,85224-6199
+dcfDiff,
+dcf,112.045
+image,https://financialmodelingprep.com/image-stock/MCHP.png
+ipoDate,1993-03-19
+defaultImage,False

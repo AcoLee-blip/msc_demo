@@ -1,0 +1,33 @@
+,0
+symbol,HARP
+price,16.06
+beta,0.0
+volAvg,305663
+mktCap,407607616
+lastDiv,0.0
+range,10.27-25.02
+changes,-0.1
+companyName,Harpoon Therapeutics Inc
+currency,USD
+cik,0001708493
+isin,US41358P1066
+cusip,41358P106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.harpoontx.com/
+description,"Harpoon Therapeutics, Inc. is a clinical-stage immunotherapy company, which develops a novel class of T cell engagers that harness the power of the body's immune system to treat patients suffering from cancer and other diseases. The company is headquartered in South San Francisco, California and currently employs 55 full-time employees. The firm is engaged in a novel class of T cell engagers that harness the power of the body’s immune system to treat patients suffering from cancer and other diseases. T cell engagers are engineered proteins that direct a patient’s own T cells to kill target cells that express specific proteins, or antigens, carried by the target cells. Using its proprietary Tri-specific T cell Activating Construct, or TriTAC, platform, the Company is developing a pipeline of T cell engagers, or TriTACs, initially focused on the treatment of solid tumors and hematologic malignancies. Its TriTAC product candidate, HPN424, is focused on the treatment of metastatic castration-resistant prostate cancer, or mCRPC."
+ceo,Dr. Gerald McMahon
+sector,Healthcare
+country,US
+fullTimeEmployees,67
+phone,16504437400
+address,131 Oyster Point Blvd Ste 300
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,18.7605
+image,https://financialmodelingprep.com/image-stock/HARP.png
+ipoDate,2019-02-08
+defaultImage,False

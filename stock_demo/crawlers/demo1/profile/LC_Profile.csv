@@ -1,0 +1,33 @@
+,0
+symbol,LC
+price,5.485
+beta,1.19369
+volAvg,1119530
+mktCap,429106400
+lastDiv,0.0
+range,4.315-14.12
+changes,0.025
+companyName,LendingClub Corp
+currency,USD
+cik,0001409970
+isin,US52603A2087
+cusip,52603A208
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Credit Services
+website,https://www.lendingclub.com/
+description,"LendingClub Corp. engages in the operation of an online credit marketplace for borrowers and investors. The company is headquartered in San Francisco, California and currently employs 1,768 full-time employees. Consumers and small business owners borrow through Lending Club. Investors use Lending Club to earn risk-adjusted returns from an asset class that has been closed to many investors and only available on a limited basis to large institutional investors. Its technology automates aspects of operations, including the borrower application process, data gathering, credit decisioning and scoring, loan funding, investing and servicing, regulatory compliance and fraud detection. Its platform offers analytical tools and data to enable investors to make decisions and assess their portfolios. Its technology platform has allowed it to expand its offerings from personal loans to include small business loans, and to expand investor classes from individuals to institutions and create various investment vehicles."
+ceo,Mr. Scott Sanborn
+sector,Financial Services
+country,US
+fullTimeEmployees,1538
+phone,14156325600
+address,595 Market St Ste 200
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,0.48
+dcf,7.66311
+image,https://financialmodelingprep.com/image-stock/LC.png
+ipoDate,2014-10-22
+defaultImage,False

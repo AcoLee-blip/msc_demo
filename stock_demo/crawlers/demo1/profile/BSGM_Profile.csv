@@ -1,0 +1,33 @@
+,0
+symbol,BSGM
+price,3.69
+beta,1.55354
+volAvg,606166
+mktCap,111617704
+lastDiv,0.0
+range,2.36-12.43
+changes,0.09
+companyName,Biosig Technologies Inc
+currency,USD
+cik,0001530766
+isin,US09073N2018
+cusip,09073N201
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://biosigtech.com/
+description,"BioSig Technologies, Inc. is a medical technology company. The company is headquartered in Westport, Connecticut. The firm is developing a technology platform to manage noise and artifacts from cardiac recordings during electrophysiology studies and ablation. The company is engaged in developing the Precise Uninterrupted Real-time evaluation of Electrograms (PURE) electro-pneumatic (EP) System. PURE EP System is a surface electrocardiogram and intracardiac multichannel recording and analysis system that acquires, processes and displays electrocardiogram and electrograms required during electrophysiology studies and ablation procedures. The firm's PURE EP System is designed to assist electrophysiologists with real-time evaluations of electrocardiograms and electrograms, and helps in making clinical decisions in real-time. The company is also developing signal-processing tools, which will assist electrophysiologists in differentiating true signals from noise and provide guidance in identifying ablation targets within the PURE EP System."
+ceo,Mr. Kenneth Londoner
+sector,Healthcare
+country,US
+fullTimeEmployees,33
+phone,12034095444
+address,"54 WILTON ROAD, 2ND FLOOR"
+city,Westport
+state,CONNECTICUT
+zip,06880
+dcfDiff,
+dcf,5.64511
+image,https://financialmodelingprep.com/image-stock/BSGM.png
+ipoDate,2014-09-22
+defaultImage,False

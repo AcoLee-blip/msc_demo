@@ -1,0 +1,33 @@
+,0
+symbol,MKD
+price,1.1138
+beta,0.0
+volAvg,177927
+mktCap,144393040
+lastDiv,0.0
+range,0.57-5.82
+changes,-0.0062
+companyName,Molecular Data Inc
+currency,CNY
+cik,0001758736
+isin,US60852L1061
+cusip,60852L106
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Chemicals
+website,http://www.molbase.cn/
+description,"Molecular Data, Inc. operates a data-driven integrated platform in chemical e-commerce industry that provides database and business intelligence services, financing information services, and warehousing and logistics facilitation services. The company is headquartered in Shanghai, Shanghai and currently employs 505 full-time employees. The Company’s e-commerce solutions are mainly delivered through online platform, consisting of our two websites, molbase.com and molbase.cn, Moku Data Weixin account, Chemical Community App and other ancillary platforms, or, collectively, our Online Platform."
+ceo,Dr. Zheng Wang
+sector,Basic Materials
+country,CN
+fullTimeEmployees,505
+phone,862154365166
+address,
+city,Shanghai
+state,SHANGHAI
+zip,201109
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/MKD.png
+ipoDate,2019-12-30
+defaultImage,False

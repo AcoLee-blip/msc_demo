@@ -1,0 +1,33 @@
+,0
+symbol,ANET
+price,267.09
+beta,1.05354
+volAvg,764741
+mktCap,20208431100
+lastDiv,0.0
+range,156.63-270.51
+changes,1.88
+companyName,Arista Networks Inc
+currency,USD
+cik,0001596532
+isin,US0404131064
+cusip,040413106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Computer Hardware
+website,https://www.arista.com/en/
+description,"Arista Networks, Inc. engages in the development, marketing, and sale of cloud networking solutions. The company is headquartered in Santa Clara, California and currently employs 2,300 full-time employees. The company develops, markets and sells cloud networking solutions, which consist of its Gigabit Ethernet switches and related software. The firm's cloud networking solutions consist of its Extensible Operating System (EOS), a set of network applications and its Ethernet switching and routing platforms. The programmability of EOS has allowed it to create a set of software applications that address the requirements of cloud networking, including workflow automation, network visibility and analytics, and has also allowed it to integrate with a range of third-party applications for virtualization, management, automation, orchestration and network services. EOS supports cloud and virtualization solutions, including VMware NSX, Microsoft System Center and other cloud management frameworks."
+ceo,Ms. Jayshree Ullal
+sector,Technology
+country,US
+fullTimeEmployees,2300
+phone,14085475500
+address,5453 Great America Pkwy
+city,Santa Clara
+state,CALIFORNIA
+zip,95054
+dcfDiff,-155.22
+dcf,228.05
+image,https://financialmodelingprep.com/image-stock/ANET.png
+ipoDate,2014-06-06
+defaultImage,False

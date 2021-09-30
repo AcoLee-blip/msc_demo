@@ -1,0 +1,33 @@
+,0
+symbol,CAN
+price,2.64
+beta,0.0
+volAvg,2236829
+mktCap,413622048
+lastDiv,0.0
+range,1.76-13.0
+changes,0.02
+companyName,Canaan Inc
+currency,CNY
+cik,0001780652
+isin,US1347481020
+cusip,134748102
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://canaan-creative.com/
+description,"Canaan, Inc. designs and sells integrated circuits. The company is headquartered in Hangzhou, Zhejiang and currently employs 297 full-time employees. The firm provides a holistic AI (Artificial Intelligence) solution to customers, including AI chips, algorithm development and optimization, hardware module, end-product and software services."
+ceo,Mr. Nangeng Zhang
+sector,Technology
+country,CN
+fullTimeEmployees,333
+phone,8689995063
+address,
+city,Hangzhou
+state,ZHEJIANG
+zip,310016
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/CAN.png
+ipoDate,2019-11-21
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,QTRX
+price,49.04
+beta,1.344847
+volAvg,207507
+mktCap,1553008510
+lastDiv,0.0
+range,10.895-52.75
+changes,0.29
+companyName,Quanterix Corp
+currency,USD
+cik,0001503274
+isin,US74766Q1013
+cusip,74766Q101
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,https://www.quanterix.com/
+description,"Quanterix Corp. engages in the development of ultra-sensitive digital immunoassay platform that advances precision health for life sciences research and diagnostics. The company is headquartered in Billerica, Massachusetts and currently employs 177 full-time employees. The firm offers single molecule array (Simoa) platform, which uses single molecule measurements to detect protein biomarkers. The firm is also focusing to enable and develop novel therapies and diagnostics to facilitate in healthcare for earlier detection, monitoring, prognosis and, ultimately, prevention of disease. Simoa focuses on research and clinical testing applications and significantly advances enzyme-linked immunosorbent assay (ELISA) technology which is capable of unprecedented protein detection sensitivity. The company also focuses on research and diagnostics for brain injuries, heart disease, cancer and other infectious diseases with its technology. The firm offers Simoa HD-1 analyzer, which is an automated immunoassay platform with multiplexing and custom assay capability."
+ceo,Mr. E. Kevin Hrusovsky
+sector,Healthcare
+country,US
+fullTimeEmployees,248
+phone,16173019400
+address,900 Middlesex Tpke
+city,Billerica
+state,MASSACHUSETTS
+zip,01821
+dcfDiff,-22.2
+dcf,44.6904
+image,https://financialmodelingprep.com/image-stock/QTRX.png
+ipoDate,2017-12-07
+defaultImage,False

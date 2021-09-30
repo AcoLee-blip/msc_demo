@@ -1,0 +1,33 @@
+,0
+symbol,SENS
+price,0.3925
+beta,0.46827
+volAvg,1447866
+mktCap,96424304
+lastDiv,0.0
+range,0.357-1.78
+changes,-0.0024
+companyName,Senseonics Holdings Inc
+currency,USD
+cik,0001616543
+isin,US81727U1051
+cusip,81727U105
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Diagnostics & Research
+website,http://www.senseonics.com/
+description,"Senseonics Holdings, Inc. engages in the design, development, and commercialization of implantable continuous glucose monitoring system for people with diabetes. The company is headquartered in Germantown, Maryland and currently employs 192 full-time employees. The firm focuses on the design, development and commercialization of glucose monitoring systems. The firm operates through glucose monitoring systems segment. The company offers a continuous glucose monitoring (CGM) system, Eversense, which is designed an implantable CGM system designed to continually measure glucose levels in people with diabetes. The firm's Eversense system consists of components, such as a sensor, which is inserted subcutaneously in the upper arm by a healthcare provider; an external removable smart transmitter that receives, assesses and relays the data from the sensor and also provides vibratory alerts, and a mobile application that receives data from the transmitter and provides real-time glucose readings, alerts and other data on the user's mobile device, such as a smartphone, Apple Watch or tablet."
+ceo,Dr. Timothy Goodnow
+sector,Healthcare
+country,US
+fullTimeEmployees,191
+phone,13015157260
+address,20451 Seneca Meadows Pkwy
+city,Germantown
+state,MARYLAND
+zip,20876
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/SENS.png
+ipoDate,2015-03-04
+defaultImage,False

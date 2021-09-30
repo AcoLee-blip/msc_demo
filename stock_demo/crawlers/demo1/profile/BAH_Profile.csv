@@ -1,0 +1,33 @@
+,0
+symbol,BAH
+price,86.52
+beta,0.77081
+volAvg,789943
+mktCap,11931107300
+lastDiv,1.51
+range,54.37-89.45
+changes,0.49
+companyName,Booz Allen Hamilton Holding Corp
+currency,USD
+cik,0001443646
+isin,US0995021062
+cusip,099502106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Consulting Services
+website,http://www.boozallen.com
+description,"Booz Allen Hamilton Holding Corp. engages in the provision of management and technology consulting services. The company is headquartered in Mc Lean, Virginia and currently employs 27,000 full-time employees. The company provides management and technology consulting, analytics, digital solutions, engineering, mission operations, and cyber solutions. Its consulting service offering focuses on the talent needed to solve client problems and develop mission-oriented solutions for specific domains, business strategies, human capital, and operations through new approaches. Its analytics service offering focuses on providing solutions in the areas of decision analytics, including operations research; automation, and data science, including predictive modeling and machine learning. Its digital solutions offers digital strategy and experience, software development, Cloud and data platforms. Its focused areas in engineering include assured positioning, navigation and timing (PNT); unmanned systems. Its cybersecurity solutions include automated compliance, attack surface reduction, defensive cyber operations, incident response and weapon systems security."
+ceo,Mr. Horacio Rozanski
+sector,Industrials
+country,US
+fullTimeEmployees,27200
+phone,17039025000
+address,8283 Greensboro Dr
+city,MC LEAN
+state,VIRGINIA
+zip,22102
+dcfDiff,
+dcf,83.9828
+image,https://financialmodelingprep.com/image-stock/BAH.png
+ipoDate,2010-11-17
+defaultImage,False

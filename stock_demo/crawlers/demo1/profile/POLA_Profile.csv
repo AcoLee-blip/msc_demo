@@ -1,0 +1,33 @@
+,0
+symbol,POLA
+price,3.54
+beta,0.51163
+volAvg,4494209
+mktCap,40269976
+lastDiv,0.0
+range,0.95-6.56
+changes,0.71
+companyName,Polar Power Inc
+currency,USD
+cik,0001622345
+isin,US73102V1052
+cusip,73102V105
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Electrical Equipment & Parts
+website,https://polarpower.com/
+description,"Polar Power, Inc. engages in the design, manufacture, and sell of direct current (DC) power systems. The company is headquartered in Gardena, California and currently employs 179 full-time employees. Within the telecommunications market, the Company's DC power systems provide DC power to service applications that do not have access to the utility grid (such as off-grid applications) or have critical power needs and cannot be without power in the event of utility grid failure (such as back-up power applications). Its product offerings include DC base power systems, DC hybrid power systems and DC solar hybrid power systems. The firm's technologies include Permanent Magnet Homopolar Hybrid (PMHH) Technology and Supra Controller Technology. Its power and control system architecture is controlled by its digital control system, Supra Controller, which contains software configured to meet specific application needs."
+ceo,Mr. Arthur D. Sams
+sector,Industrials
+country,US
+fullTimeEmployees,132
+phone,13108309153
+address,249 E Gardena Blvd
+city,Gardena
+state,CALIFORNIA
+zip,90248
+dcfDiff,-4.6
+dcf,2.93049
+image,https://financialmodelingprep.com/image-stock/POLA.png
+ipoDate,2016-12-07
+defaultImage,False

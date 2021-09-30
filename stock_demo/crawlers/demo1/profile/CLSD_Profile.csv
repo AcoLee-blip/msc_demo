@@ -1,0 +1,33 @@
+,0
+symbol,CLSD
+price,1.66
+beta,0.97846
+volAvg,174827
+mktCap,80267640
+lastDiv,0.0
+range,0.962-4.13
+changes,0.2
+companyName,Clearside Biomedical Inc
+currency,USD
+cik,0001539029
+isin,US1850631045
+cusip,185063104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://clearsidebio.com/
+description,"Clearside Biomedical, Inc. is a clinical stage biopharmaceutical company, which engages in the development of drug therapies to treat blinding diseases of the eye. The company is headquartered in Alpharetta, Georgia and currently employs 50 full-time employees. The firm's product candidates focus on diseases affecting three components of the eye: the retina, which is the tissue that lines the inside of the eye and is primarily responsible for vision; the choroid, which is the layer adjacent to the retina that supplies the retina with blood, oxygen and nourishment, and the sclera, which is the outer protective layer of the eye. The Company’s lead product candidate, XIPERE, is a proprietary, preservative-free suspension of the corticosteroid triamcinolone acetonide formulated for administration via suprachoroidal injection."
+ceo,Dr. George Lasezkay
+sector,Healthcare
+country,US
+fullTimeEmployees,33
+phone,16782703631
+address,900 N Point Pkwy Ste 200
+city,Alpharetta
+state,GEORGIA
+zip,30005
+dcfDiff,-1.27
+dcf,2.02194
+image,https://financialmodelingprep.com/image-stock/CLSD.png
+ipoDate,2016-06-02
+defaultImage,False

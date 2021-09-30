@@ -1,0 +1,33 @@
+,0
+symbol,CUB
+price,65.05
+beta,0.98934
+volAvg,485446
+mktCap,2037951490
+lastDiv,0.27
+range,30.86-74.11
+changes,0.61
+companyName,Cubic Corp
+currency,USD
+cik,0000026076
+isin,US2296691064
+cusip,229669106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Aerospace & Defense
+website,http://www.cubic.com/
+description,"Cubic Corp. is a technology provider of integrated solutions. The company is headquartered in San Diego, California and currently employs 6,200 full-time employees. The firm operates in three business segments: Cubic Transportation Systems (CTS) , Cubic Global Defense (CGD) and Cubic Mission Solutions (CMS). The firm's CTS segment is a systems integrator of payment and information technology and services for travel solutions. The Company’s CGD segment provides live, virtual, constructive and game-based training solutions to the U.S. Department of Defense, other U.S. government agencies and allied nations. Its CMS segment provides networked C4ISR capabilities for defense, intelligence, security and commercial missions."
+ceo,Mr. Bradley Feldmann
+sector,Industrials
+country,US
+fullTimeEmployees,6200
+phone,18586230489
+address,9333 BALBOA AVE
+city,San Diego
+state,CALIFORNIA
+zip,92123
+dcfDiff,-44.87
+dcf,59.9713
+image,https://financialmodelingprep.com/image-stock/CUB.png
+ipoDate,1959-01-08
+defaultImage,False

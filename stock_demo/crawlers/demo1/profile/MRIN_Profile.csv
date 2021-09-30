@@ -1,0 +1,33 @@
+,0
+symbol,MRIN
+price,1.89
+beta,0.3889
+volAvg,5016901
+mktCap,16757212
+lastDiv,0.0
+range,0.77-5.7
+changes,0.01
+companyName,Marin Software Inc
+currency,USD
+cik,0001389002
+isin,US56804T2050
+cusip,56804T205
+exchange,New York Stock Exchange
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.marinsoftware.com/
+description,"Marin Software, Inc. is a cloud-based digital advertising management company. The company is headquartered in San Francisco, California and currently employs 292 full-time employees. The company offers unified software-as-a-service (SaaS), advertising management platform for advertisers and agencies. Its platform offers analytics, workflow and optimization solution for marketing professionals, allowing users to manage their digital advertising spend. Its software solution is designed to help customers to measure the effectiveness of their advertising campaigns; manage and execute campaigns through our intuitive user interface and underlying technology that streamlines and automates key functions, such as advertisement creation and bidding, across multiple publishers and channels; and optimize campaigns across multiple publishers and channels based on market and business data. Advertisers uses its platform to create, target and convert precise audiences based on recent buying signals from users’ search, social and eCommerce."
+ceo,Mr. Christopher Lien
+sector,Technology
+country,US
+fullTimeEmployees,229
+phone,14153992580
+address,123 Mission St Fl 27
+city,San Francisco
+state,CALIFORNIA
+zip,94105
+dcfDiff,91.89
+dcf,5.50706
+image,https://financialmodelingprep.com/image-stock/MRIN.png
+ipoDate,2013-03-22
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,RAMP
+price,60.115
+beta,1.61859
+volAvg,576461
+mktCap,3986382080
+lastDiv,0.0
+range,23.44-80.07
+changes,0.005
+companyName,Liveramp Holdings Inc
+currency,USD
+cik,0000733269
+isin,US53815P1084
+cusip,53815P108
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://liveramp.com/
+description,"LiveRamp Holdings, Inc. is a global technology company. The company is headquartered in San Francisco, California and currently employs 950 full-time employees. The Company’s platform connects people, data and devices across the digital and physical world. The company provides LiveRamp IdentityLink, which is an identity resolution service that ties data back to people and allows to onboard that data for people-based marketing initiatives across digital channels. Its IdentityLink serves brands and agencies, marketing technology providers, data owners and publishers. Its identity resolution service allows AbiliTec and identity graph to link all offline and online identifiers to a consumer. IdentityLink resolves first-party offline customer relationship management (CRM), direct marketing and point-of-sale data back to a consumer identifier. Its graph matches personally identifiable information (PII)-based data, such as e-mails, postal addresses and phone numbers with identifiers."
+ceo,Mr. Scott Howe
+sector,Technology
+country,US
+fullTimeEmployees,1150
+phone,18663523267
+address,225 Bush St Fl 17
+city,San Francisco
+state,CALIFORNIA
+zip,94104
+dcfDiff,
+dcf,70.7834
+image,https://financialmodelingprep.com/image-stock/RAMP.png
+ipoDate,2018-10-01
+defaultImage,False

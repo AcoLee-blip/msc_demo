@@ -1,0 +1,33 @@
+,0
+symbol,SAIC
+price,88.79
+beta,0.91493
+volAvg,476955
+mktCap,5164426200
+lastDiv,1.48
+range,45.45-96.8
+changes,2.86
+companyName,Science Applications International Corp
+currency,USD
+cik,0001571123
+isin,US8086251076
+cusip,808625107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,http://www.saic.com/
+description,"Science Applications International Corp. engages in the provision of technical, engineering, and enterprise information technology services. The company is headquartered in Reston, Virginia and currently employs 23,000 full-time employees. The firm provides its services primarily to the United States Government, including the Department of Defense (DoD), the intelligence community and federal civilian agencies. The firm provides engineering, systems integration and information technology offerings for government projects, and offers a range of services with a targeted emphasis on higher-end, differentiated technology services. The firm's offerings include engineering; technology and equipment platform integration; maintenance of ground and maritime systems; logistics; training and simulation; operation and program support services, and end-to-end services spanning the design, development, integration, deployment, management and operations, sustainment and security of its customers' entire IT infrastructure."
+ceo,Ms. Nazzic Keene
+sector,Technology
+country,US
+fullTimeEmployees,24000
+phone,17036764300
+address,12010 Sunset Hills Rd
+city,Reston
+state,VIRGINIA
+zip,20190
+dcfDiff,-36.91
+dcf,80.6164
+image,https://financialmodelingprep.com/image-stock/SAIC.png
+ipoDate,2013-09-16
+defaultImage,False

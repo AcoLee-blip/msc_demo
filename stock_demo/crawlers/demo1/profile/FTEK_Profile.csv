@@ -1,0 +1,33 @@
+,0
+symbol,FTEK
+price,1.085
+beta,1.85506
+volAvg,2671064
+mktCap,26800802
+lastDiv,0.0
+range,0.3-2.05
+changes,-0.155
+companyName,Fuel Tech Inc
+currency,USD
+cik,0000846913
+isin,US3595231073
+cusip,359523107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Pollution & Treatment Controls
+website,https://www.ftek.com/
+description,"Fuel Tech, Inc. engages in the development, commercialization and application of proprietary technologies for air pollution control, process optimization, water treatment and advanced engineering services. The company is headquartered in Warrenville, Illinois and currently employs 122 full-time employees. The firm is engaged in the development, commercialization and application of technologies for air pollution control, process optimization, combustion efficiency and engineering services. The company operates through two segments: Air Pollution Control technology and FUEL CHEM technology. The Air Pollution Control technology segment includes technologies to manage nitrogen oxides (NOx) emissions in flue gas from boilers, incinerators, furnaces and other stationary combustion sources. The FUEL CHEM technology segment uses chemical processes in combination with computational fluid dynamics (CFD) and chemical kinetics modeling (CKM) boiler modeling, for the control of slagging, fouling, corrosion, opacity and other sulfur trioxide-related issues in furnaces and boilers through the addition of chemicals into the furnace."
+ceo,Mr. Vincent Arnone
+sector,Industrials
+country,US
+fullTimeEmployees,82
+phone,16308454433
+address,27601 Bella Vista Pkwy
+city,Warrenville
+state,ILLINOIS
+zip,60555-1617
+dcfDiff,-3.25
+dcf,-0.56
+image,https://financialmodelingprep.com/image-stock/FTEK.jpg
+ipoDate,1993-09-07
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,DOX
+price,63.15
+beta,0.6846
+volAvg,683249
+mktCap,8400150000
+lastDiv,1.269
+range,44.05-77.29
+changes,1.04
+companyName,Amdocs Ltd
+currency,USD
+cik,0001062579
+isin,GB0022569080
+cusip,G02602103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.amdocs.com/
+description,"Amdocs Ltd. is a holding company, which engages in the provision of software and services solutions for communications, entertainment, and media industries. The company is headquartered in Chesterfield Missouri, Missouri and currently employs 24,516 full-time employees. The firm develops, implements and manages software and services associated with business support systems (BSS), operational support systems (OSS) and network operations to enable service providers to introduce new products and services, process orders, monetize data, support new business models and enhance their understanding of their customers. The firm's segment provides software products and services. Its services include strategic business consulting, systems integration and transformation, managed services and testing. Its managed services provide multi-year, flexible and tailored business processes and applications services, including application development and maintenance, information technology (IT) and infrastructure services, testing and professional services."
+ceo,Mr. Shuky Sheffer
+sector,Technology
+country,US
+fullTimeEmployees,24516
+phone,13142127000
+address,1390 Timberlake Manor Pkwy
+city,Chesterfield Missouri
+state,MISSOURI
+zip,63017
+dcfDiff,
+dcf,61.3715
+image,https://financialmodelingprep.com/image-stock/DOX.png
+ipoDate,1998-06-19
+defaultImage,False

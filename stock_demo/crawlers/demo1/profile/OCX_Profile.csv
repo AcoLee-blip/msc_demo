@@ -1,0 +1,33 @@
+,0
+symbol,OCX
+price,1.7771
+beta,2.31632
+volAvg,1032498
+mktCap,119511040
+lastDiv,0.0
+range,1.15-3.51
+changes,0.0971
+companyName,OncoCyte Corp
+currency,USD
+cik,0001642380
+isin,US68235C1071
+cusip,68235C107
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Biotechnology
+website,http://www.oncocyte.com/
+description,"OncoCyte Corp. is a pharmaceutical company. The company is headquartered in Alameda, California and currently employs 12 full-time employees. The firm is developing molecular cancer diagnostics utilizing a discovery platform that focuses on identifying genetic markers expressed in various types of cancer. The company operates through the research and development of diagnostic tests for the detection of cancer segment. Its initial focus will be confirmatory diagnostics, utilizing liquid biopsy technology, for use in conjunction with imaging to confirm initial diagnoses within certain oncology indications. In addition, it will be developing screening diagnostics as replacements for screening imaging procedures. For some indications, it will also be pursuing the probability of recurrence of a specific cancer through the development of prognostics or companion diagnostics that help a physician determine which therapy is the optimal treatment for the patient. The company offers diagnostic tests for lung, breast and bladder cancer."
+ceo,Mr. Ronald A. Andrews Jr.
+sector,Healthcare
+country,US
+fullTimeEmployees,33
+phone,19494097600
+address,15 CUSHING
+city,Irvine
+state,CALIFORNIA
+zip,92618
+dcfDiff,-4.42
+dcf,2.02029
+image,https://financialmodelingprep.com/image-stock/OCX.png
+ipoDate,2015-12-30
+defaultImage,False

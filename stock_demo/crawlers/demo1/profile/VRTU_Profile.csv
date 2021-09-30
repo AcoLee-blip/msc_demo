@@ -1,0 +1,33 @@
+,0
+symbol,VRTU
+price,50.3
+beta,1.38341
+volAvg,577486
+mktCap,1524567810
+lastDiv,0.0
+range,19.48-52.81
+changes,0.25
+companyName,Virtusa Corp
+currency,USD
+cik,0001207074
+isin,US92827P1021
+cusip,92827P102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Information Technology Services
+website,https://www.virtusa.com/
+description,"Virtusa Corp. engages in the provision of information technology consulting, technology implementation, and application outsourcing services. The company is headquartered in Southborough, Massachusetts and currently employs 22,411 full-time employees. The firm's services include information technology (IT) and business consulting, digital enablement services, user experience (UX) design, development of IT applications, maintenance and support services, systems integration, infrastructure and managed services. Its services enable its clients to accelerate business outcomes by consolidating, rationalizing and modernizing the clients' core customer-facing processes into one or more core systems. The company delivers solutions through a global delivery model, applying advanced methods, such as Agile, a technique designed to accelerate application development. The firm uses its consulting methodology, Accelerated Solution Design (ASD). The company supports the Chief Information Officers (CIOs) of its client organizations in solving their critical issues, including managing total cost of ownership, accelerating time-to-market and increasing productivity."
+ceo,Mr. Krishan Canekeratne
+sector,Technology
+country,US
+fullTimeEmployees,22830
+phone,15083897300
+address,132 Turnpike Rd
+city,Southborough
+state,MASSACHUSETTS
+zip,01772
+dcfDiff,46.72
+dcf,56.4465
+image,https://financialmodelingprep.com/image-stock/VRTU.png
+ipoDate,2007-08-03
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,VECO
+price,15.13
+beta,1.30684
+volAvg,549075
+mktCap,750632580
+lastDiv,0.0
+range,7.42-19.21
+changes,0.33
+companyName,Veeco Instruments Inc
+currency,USD
+cik,0000103145
+isin,US9224171002
+cusip,922417100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.veeco.com
+description,"Veeco Instruments, Inc. engages in the development, manufacture, sale and support of semiconductor process equipment. The company is headquartered in Plainview, New York and currently employs 1,043 full-time employees. The firm's geographical segments include the United States; China; Europe, Middle East and Africa (EMEA), and Rest of World (ROW). The firm's portfolio of technology solutions focus on market areas, including Lighting, Display & Power Electronics; Advanced Packaging, micro-electromechanical systems (MEMS) & radio frequency (RF); Scientific & Industrial, and Data Storage. The firm's equipment is used to make electronic devices, including light emitting diodes (LEDs), MEMS, wireless devices, power electronics, hard disk drives (HDDs) and semiconductor devices. The firm's System products include Metal Organic Chemical Vapor Deposition Systems, Precision Surface Processing Systems, Ion Beam Etch and Deposition Systems, Molecular Beam Epitaxy Systems, and Other Deposition and Industrial Products."
+ceo,Dr. William Miller
+sector,Technology
+country,US
+fullTimeEmployees,954
+phone,15166770200
+address,TERMINAL DRIVE
+city,Plainview
+state,NEW YORK
+zip,11803
+dcfDiff,
+dcf,15.723
+image,https://financialmodelingprep.com/image-stock/VECO.png
+ipoDate,1994-01-01
+defaultImage,False

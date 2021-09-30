@@ -1,0 +1,33 @@
+,0
+symbol,ADAP
+price,4.8
+beta,2.26812
+volAvg,1139721
+mktCap,742939260
+lastDiv,0.0
+range,0.709-13.4
+changes,-0.09
+companyName,Adaptimmune Therapeutics PLC
+currency,USD
+cik,0001621227
+isin,US00653A1079
+cusip,00653A107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.adaptimmune.com/
+description,"Adaptimmune Therapeutics Plc engages in the development of novel cancer immunotherapy products. The company is headquartered in Abingdon, Oxfordshire and currently employs 430 full-time employees. The firm is focused on cancer immunotherapy products based on its Specific Peptide Enhanced Affinity Receptor (SPEAR) T-cell platform. The firm has developed a platform that enables it to identify cancer targets, find and genetically engineer TCR, and produce TCR therapeutic candidates for administration to patients. The firm engineers TCRs to increase the affinity to cancer specific peptides in order to destroy cancer cells in patients. The firm is developing multiple SPEAR T-cells to different target peptides in selected disease indications to increase the probability of treating patients with a given disease indication and potentially the ability for re-treatment of patients with a different SPEAR T-cell. The company has three SPEAR T-cells in clinical trials, which are directed to cancer testis antigens, NY-ESO-1, MAGE-A4 and MAGE-A10."
+ceo,Mr. Adrian Rawcliffe
+sector,Healthcare
+country,GB
+fullTimeEmployees,400
+phone,441235430000
+address,60 Jubilee Avenue
+city,Abingdon
+state,OXFORDSHIRE
+zip,OX14 4RX
+dcfDiff,-4.24
+dcf,4.61004
+image,https://financialmodelingprep.com/image-stock/ADAP.png
+ipoDate,2015-05-06
+defaultImage,False

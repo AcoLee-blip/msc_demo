@@ -1,0 +1,33 @@
+,0
+symbol,CLFD
+price,23.06
+beta,0.97299
+volAvg,96209
+mktCap,314699808
+lastDiv,0.0
+range,8.32-25.97
+changes,-0.41
+companyName,Clearfield Inc
+currency,USD
+cik,0000796505
+isin,US18482P1030
+cusip,18482P103
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.seeclearfield.com/
+description,"Clearfield, Inc. designs, manufactures, and distributes fiber optic management, protection and delivery products for communications networks. The company is headquartered in Brooklyn Park, Minnesota and currently employs 240 full-time employees. The firm's products include Clearview Cassette, which is the building block of its product platform; Connectivity and Optical Components; FieldSmart, which is a series of panels, cabinets, wall boxes and other enclosures that house the Clearview components; FieldShield, which is a fiber delivery method for broadband deployment; CraftSmart, which is a line of optical protection field enclosures, and Cable Assemblies. Its products are sold across broadband service providers, including traditional telephone companies, competitive local exchange carriers, multiple service operators (cable television), wireless service providers, and municipal-owned utilities that utilize fiber in their service offerings to businesses and consumers."
+ceo,Ms. Cheryl Beranek
+sector,Technology
+country,US
+fullTimeEmployees,240
+phone,17634766866
+address,"7050 Winnetka Ave. N., Suite 100"
+city,Brooklyn Park
+state,MINNESOTA
+zip,55428
+dcfDiff,
+dcf,22.7195
+image,https://financialmodelingprep.com/image-stock/CLFD.png
+ipoDate,1986-08-06
+defaultImage,False

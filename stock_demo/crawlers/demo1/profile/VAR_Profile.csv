@@ -1,0 +1,33 @@
+,0
+symbol,VAR
+price,173.84
+beta,1.17573
+volAvg,1291340
+mktCap,15847479300
+lastDiv,0.0
+range,89.62-176.19
+changes,0.34
+companyName,Varian Medical Systems Inc
+currency,USD
+cik,0000203527
+isin,US92220P1057
+cusip,92220P105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Instruments & Supplies
+website,https://www.varian.com/
+description,"Varian Medical Systems, Inc. engages in the manufacture of medical devices and software for treating cancer and other medical conditions. The company is headquartered in Palo Alto, California and currently employs 10,062 full-time employees. The firm also has Varian Particle Therapy (VPT) and the operations of the Ginzton Technology Center (GTC). Its VPT business develops, designs, manufactures, sells and services products and systems for delivering proton therapy, another form of external beam radiotherapy using proton beams for the treatment of cancer. Its ProBeam system is capable of delivering intensity modulated proton therapy (IMPT) using pencil beam scanning technology. Its ProBeam Compact is a single room proton therapy product. Through its subsidiary, Cooperative CL Enterprises, the Company distributes radiotherapy equipments in Taiwan."
+ceo,Mr. Dow Wilson
+sector,Healthcare
+country,US
+fullTimeEmployees,10062
+phone,16504934000
+address,3100 Hansen Way Bldg 4A
+city,Palo Alto
+state,CALIFORNIA
+zip,94304
+dcfDiff,-57.41
+dcf,177.642
+image,https://financialmodelingprep.com/image-stock/VAR.png
+ipoDate,1959-09-14
+defaultImage,False

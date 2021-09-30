@@ -1,0 +1,33 @@
+,0
+symbol,VOLT
+price,1.4271
+beta,2.00821
+volAvg,177703
+mktCap,30971066
+lastDiv,0.0
+range,0.65-3.23
+changes,0.0089
+companyName,Volt Information Sciences Inc
+currency,USD
+cik,0000103872
+isin,US9287031077
+cusip,928703107
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Staffing & Employment Services
+website,http://www.volt.com/
+description,"Volt Information Sciences, Inc. engages in the provision of staffing services. The company is headquartered in Uniondale, New York and currently employs 20,100 full-time employees. The firm operates through North American Staffing; International Staffing; Technology Outsourcing Services and Solutions, and Corporate and Other segments. Its staffing services consist of workforce solutions, including providing contingent workers, personnel recruitment services and managed staffing services programs supporting light industrial, information technology and engineering positions. Its technology outsourcing services provides business intelligence and analytics for companies in various industries. Its managed service programs comprise managing the procurement and on-boarding of contingent workers. Its information technology infrastructure services offer server, network and desktop information technology hardware maintenance, data center and network monitoring and operations."
+ceo,Ms. Linda Perneau
+sector,Industrials
+country,US
+fullTimeEmployees,20100
+phone,15162286770
+address,50 Charles Lindbergh Blvd Ste 206
+city,Uniondale
+state,NEW YORK
+zip,11553
+dcfDiff,
+dcf,3.07764
+image,https://financialmodelingprep.com/image-stock/VOLT.png
+ipoDate,2014-08-26
+defaultImage,False

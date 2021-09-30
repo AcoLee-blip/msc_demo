@@ -1,0 +1,33 @@
+,0
+symbol,APPN
+price,94.4
+beta,1.02191
+volAvg,648187
+mktCap,6612615700
+lastDiv,0.0
+range,29.07-98.53
+changes,4.28
+companyName,Appian Corp
+currency,USD
+cik,0001441683
+isin,US03782L1017
+cusip,03782L101
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.appian.com/
+description,"Appian Corp. provides business process management (BPM) solutions. The company is headquartered in Tysons Corner, Virginia and currently employs 2,000 full-time employees. Through Company’s platform, organizations can design, build and implement, enterprise-grade custom applications. Decision makers can reimagine their products, services, processes and customer interactions. The Company’s platform automates the creation of forms, data flows, records, reports and other software elements. The Company’s SAIL technology allows developers to create an application once and deploy it everywhere. The Company’s products include business process management (BPM) software, case management, mobile application development and platform as a service. The firm provides its services to a range of industries including energy, insurance, health payers and providers, manufacturing, public sector, retail and transportation."
+ceo,Mr. Matthew Calkins
+sector,Technology
+country,US
+fullTimeEmployees,2000
+phone,17034428844
+address,7950 Jones Branch Dr
+city,Tysons Corner
+state,VIRGINIA
+zip,22102
+dcfDiff,
+dcf,82.4298
+image,https://financialmodelingprep.com/image-stock/APPN.png
+ipoDate,2017-05-25
+defaultImage,False

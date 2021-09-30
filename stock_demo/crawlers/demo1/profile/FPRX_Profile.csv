@@ -1,0 +1,33 @@
+,0
+symbol,FPRX
+price,22.36
+beta,1.95356
+volAvg,2000433
+mktCap,850523010
+lastDiv,0.0
+range,1.75-24.7
+changes,-0.07
+companyName,Five Prime Therapeutics Inc
+currency,USD
+cik,0001175505
+isin,US33830X1046
+cusip,33830X104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.fiveprime.com/
+description,"Five Prime Therapeutics, Inc. is a clinical-stage biotechnology company, which focuses on discovering and developing novel protein therapeutics. The company is headquartered in South San Francisco, California and currently employs 168 full-time employees. The Company’s primary focus is on researching and developing immuno-oncology and targeted cancer therapies. The Company’s pipeline includes Bemarituzumab (FPA144), which is an antibody that inhibits fibroblast growth factor receptor 2b, or FGFR2b, that it is studying in a clinical trial in combination with 5-fluorouracil (5-FU), leucovorin and oxaliplatin; FPA150, which is a CD8 T cell checkpoint inhibitor antibody that targets B7-H4; FPT155, which is a soluble CD80 fusion protein that enhances co-stimulation of T cells through CD28; Cabiralizumab (FPA008), which is an antibody that inhibits colony stimulating factor-1 receptor, that it is studying in clinical trials, and BMS-986258, which is an anti-T cell immunoglobulin and mucin domain-3, or TIM-3 antibody."
+ceo,Mr. William Ringo
+sector,Healthcare
+country,US
+fullTimeEmployees,87
+phone,14153655600
+address,111 Oyster Point Blvd
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,7.08565
+image,https://financialmodelingprep.com/image-stock/FPRX.png
+ipoDate,2013-09-18
+defaultImage,False

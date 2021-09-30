@@ -1,0 +1,33 @@
+,0
+symbol,XBIO
+price,0.8543
+beta,2.38755
+volAvg,233800
+mktCap,5378869
+lastDiv,0.0
+range,0.44-1.85
+changes,0.0243
+companyName,Xenetic Biosciences Inc
+currency,USD
+cik,0001534525
+isin,US9840155033
+cusip,984015503
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.xeneticbio.com/
+description,"Xenetic Biosciences, Inc. engages in the advancement of cell-based therapeutics to target the B-cell receptor on the surface of an individual patient's malignant tumor cells. The company is headquartered in Framingham, Massachusetts and currently employs 7 full-time employees. The firm is focused on progressing XCART, a personalized chimeric antigen receptor (CAR) T platform technology engineered to target patient-specific tumor neoantigens. The firm is advancing cell-based therapeutics targeting the B-cell receptor on the surface of an individual patient’s malignant tumor cells for the treatment of B-cell lymphomas. The firm is leveraging PolyXen, its drug delivery platform, by partnering with biotechnology and pharmaceutical companies. PolyXen enables biological drugs by modifying their half-life and other pharmacological properties."
+ceo,Mr. Jeffrey Eisenberg
+sector,Healthcare
+country,US
+fullTimeEmployees,4
+phone,17817787720
+address,40 Speen St Ste 102
+city,Framingham
+state,MASSACHUSETTS
+zip,01701
+dcfDiff,-1.54
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/XBIO.png
+ipoDate,2016-11-07
+defaultImage,False

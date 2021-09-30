@@ -1,0 +1,33 @@
+,0
+symbol,TEUM
+price,0.2926
+beta,1.82555
+volAvg,1747955
+mktCap,40618732
+lastDiv,0.0
+range,0.23-1.15
+changes,0.0136
+companyName,Pareteum Corp
+currency,USD
+cik,0001084384
+isin,US69946T2078
+cusip,69946T207
+exchange,NYSE American
+exchangeShortName,NASDAQ
+industry,Telecom Services
+website,https://www.pareteum.com/
+description,"Pareteum Corp. engages in the provision of mobile networking software and services. The company is headquartered in New York City, New York and currently employs 138 full-time employees. The firm provides mobility, messaging and security services and applications, with a single-sign-on, application program interface (API) and software development suite. Its platform hosts integrated information technology (IT)/Back Office and Core Network functionality for mobile network operators, and for enterprises implement and leverage mobile communications solutions on a outsourced Software as a Service, Platform as a Service and/or Infrastructure as a Service basis: made available either as an on-premise solution or as a hosted service in the Cloud depending on the needs of its customers. The company also delivers an Operational Support System (OSS) for channel partners, with APIs for integration with third party systems, workflows for complex application orchestration, customer support with branded portals and plug-ins for a multitude of other applications."
+ceo, Bart Weijermars
+sector,Communication Services
+country,US
+fullTimeEmployees,138
+phone,12129841096
+address,1185 Avenue of the Americas Fl 37
+city,New York City
+state,NEW YORK
+zip,10036
+dcfDiff,-8.17
+dcf,-4.1
+image,https://financialmodelingprep.com/image-stock/TEUM.png
+ipoDate,2011-12-05
+defaultImage,False

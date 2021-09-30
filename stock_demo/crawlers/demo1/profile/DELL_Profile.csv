@@ -1,0 +1,33 @@
+,0
+symbol,DELL
+price,65.265
+beta,0.82217
+volAvg,1950041
+mktCap,48734482000
+lastDiv,0.0
+range,25.51-71.45
+changes,0.845
+companyName,Dell Technologies Inc
+currency,USD
+cik,0001571996
+isin,US24703L2025
+cusip,24703L202
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Computer Hardware
+website,https://www.delltechnologies.com/
+description,"Dell Technologies, Inc. is a holding company, which engages in the provision of information technology hardware, software, and service solutions through its subsidiaries. The company is headquartered in Round Rock, Texas and currently employs 157,000 full-time employees. The firm operates through two segments: Client Solutions and Enterprise Solutions Group (ESG). The Client Solutions segment includes sales to commercial and consumer customers of desktops, thin client products and notebooks, as well as services and third-party software and peripherals closely tied to the sale of Client Solutions hardware. Its offerings include hardware, such as desktop personal computers, notebooks and tablets, and peripherals, such as monitors, printers and projectors, as well as third-party software and peripherals. The company also offers cloud-enabled data analytics and infrastructure management services. The ESG segment includes servers, networking and storage, as well as services and third-party software and peripherals that are closely tied to the sale of ESG hardware. The company designs, develops, manufactures, markets, sells and supports a range of products and services."
+ceo,Mr. Michael Dell
+sector,Technology
+country,US
+fullTimeEmployees,165000
+phone,18002893355
+address,ONE DELL WAY
+city,Round Rock
+state,TEXAS
+zip,78682
+dcfDiff,
+dcf,82.2161
+image,https://financialmodelingprep.com/image-stock/DELL.png
+ipoDate,2016-08-01
+defaultImage,False

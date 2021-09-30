@@ -1,0 +1,33 @@
+,0
+symbol,HPE
+price,10.045
+beta,1.23287
+volAvg,11136081
+mktCap,12921687000
+lastDiv,0.48
+range,7.43-17.58
+changes,0.375
+companyName,Hewlett Packard Enterprise Co
+currency,USD
+cik,0001645590
+isin,US42824C1099
+cusip,42824C109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Communication Equipment
+website,http://investors.hpe.com/
+description,"Hewlett Packard Enterprise Co. engages in the provision of information technology, technology and enterprise products, solutions, and services. The company is headquartered in San Jose, California and currently employs 61,600 full-time employees. The Company’s segments include: Enterprise Group, Software, Financial Services and Corporate Investments. The Enterprise Group segment provides its customers with the technology infrastructure they need to optimize traditional information technology (IT). The Software segment allows its customers to automate IT operations to simplify, accelerate and secure business processes and drives the analytics that turn raw data into actionable knowledge. The Financial Services segment enables flexible IT consumption models, financial architectures and customized investment solutions for its customers. The Corporate Investments segment includes Hewlett Packard Labs and certain business incubation projects, among others."
+ceo,Mr. Antonio Neri
+sector,Technology
+country,US
+fullTimeEmployees,61600
+phone,16508572246
+address,6280 America Center Dr
+city,San Jose
+state,CALIFORNIA
+zip,95002
+dcfDiff,-18.0
+dcf,12.0674
+image,https://financialmodelingprep.com/image-stock/HPE.png
+ipoDate,2015-10-19
+defaultImage,False

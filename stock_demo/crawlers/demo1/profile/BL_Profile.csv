@@ -1,0 +1,33 @@
+,0
+symbol,BL
+price,107.19
+beta,0.85771
+volAvg,555346
+mktCap,6137163800
+lastDiv,0.0
+range,38.32-114.3
+changes,-0.15
+companyName,Blackline Inc
+currency,USD
+cik,0001666134
+isin,US09239B1098
+cusip,09239B109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.blackline.com/
+description,"BlackLine, Inc. operates a cloud-based software platform which is designed to transform accounting and finance operations for organizations of all types and sizes. The company is headquartered in Woodland Hills, California and currently employs 1,006 full-time employees. The firm provides cloud-based software platform that is designed to automate and streamline accounting and finance operations. Its platform supports accounting processes, such as the financial close, account reconciliation, intercompany accounting and controls assurance. Its platform consists of seven core cloud-based products, including Account Reconciliation, Task Management, Transaction Matching, Journal Entry, Variance Analysis, Consolidation Integrity Manager and Daily Reconciliation. The firm's solutions include Reconciliation Management and Financial Close Management and Insights. The company operates through two geographical regions, which include the United States and International. As of December 31, 2016, its software integrated with, and obtained data from, more than 30 various enterprise resource planning (ERP) systems, including NetSuite, Oracle and Workday, as well as many other financial systems and applications."
+ceo,Ms. Therese Tucker
+sector,Technology
+country,US
+fullTimeEmployees,1109
+phone,18182239008
+address,21300 Victory Blvd Fl 12
+city,Woodland Hills
+state,CALIFORNIA
+zip,91367
+dcfDiff,-48.01
+dcf,99.8934
+image,https://financialmodelingprep.com/image-stock/BL.png
+ipoDate,2016-10-28
+defaultImage,False

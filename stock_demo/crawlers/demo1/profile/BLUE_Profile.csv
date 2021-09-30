@@ -1,0 +1,33 @@
+,0
+symbol,BLUE
+price,45.41
+beta,2.2684
+volAvg,820413
+mktCap,3007186430
+lastDiv,0.0
+range,38.95-99.36
+changes,-0.07
+companyName,bluebird bio Inc
+currency,USD
+cik,0001293971
+isin,US09609G1004
+cusip,09609G100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.bluebirdbio.com
+description,"bluebird bio, Inc. is a clinical-stage biotechnology company, which engages in the development of potential gene therapies for severe genetic diseases and cancer. The company is headquartered in Cambridge, Massachusetts and currently employs 1,012 full-time employees. The firm is focused on developing gene therapies for severe diseases and cancer. With its lentiviral-based gene therapy and gene editing capabilities, it has built an integrated product platform with various applications in these areas. The firm's clinical programs in severe genetic diseases include its LentiGlobin product candidate to treat transfusion-dependent b-thalassemia and to treat severe sickle cell disease (SCD) and its Lenti-D product candidate to treat cerebral adrenoleukodystrophy (CALD). Its programs in oncology focuses on developing T cell-based immunotherapies, including chimeric antigen receptor (CAR) and T cell receptor (TCR) T cell therapies. bb2121, its lead product candidate in oncology, is a CAR T cell product candidate for the treatment of multiple myeloma. The company also has discovery research programs utilizing megaTALs/homing endonuclease gene editing technologies for use across its pipeline."
+ceo,Mr. Nick Leschly
+sector,Healthcare
+country,US
+fullTimeEmployees,1153
+phone,13394999300
+address,60 Binney St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,-1565.26
+dcf,60.2688
+image,https://financialmodelingprep.com/image-stock/BLUE.png
+ipoDate,2013-06-19
+defaultImage,False

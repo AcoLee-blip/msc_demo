@@ -1,0 +1,33 @@
+,0
+symbol,PHAS
+price,3.68
+beta,0.0
+volAvg,223384
+mktCap,107981872
+lastDiv,0.0
+range,2.6-8.49
+changes,0.01
+companyName,PhaseBio Pharmaceuticals Inc
+currency,USD
+cik,0001169245
+isin,US7172241090
+cusip,717224109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://phasebio.com/
+description,"PhaseBio Pharmaceuticals, Inc. is a clinical-stage biopharmaceutical company, which engages in the development and commercialization of novel therapies for cardiopulmonary diseases. The company is headquartered in Malvern, Pennsylvania and currently employs 32 full-time employees. The firm is focused on the development and commercialization of therapies to treat orphan diseases, with an initial focus on cardiopulmonary indications. The Company’s lead product candidate, PB2452, is a novel reversal agent for the antiplatelet drug ticagrelor, which the Company is developing for the treatment of patients on ticagrelor who are experiencing a major bleeding event or those who require urgent surgery. Its product candidate, PB1046, is a once-weekly fusion protein for the treatment of pulmonary arterial hypertension, or PAH. PB1046 utilizes its proprietary elastin-like polypeptide (ELP), technology, which also serves as the engine for its preclinical pipeline. Its ELP biopolymer technology utilizes a mechanism of slow absorption through a reversible phase transition and a prolonged circulatory half-life."
+ceo,Mr. Jonathan Mow
+sector,Healthcare
+country,US
+fullTimeEmployees,40
+phone,16109816500
+address,1 Great Valley Pkwy Ste 30
+city,Malvern
+state,PENNSYLVANIA
+zip,19355
+dcfDiff,
+dcf,6.14245
+image,https://financialmodelingprep.com/image-stock/PHAS.png
+ipoDate,2018-10-18
+defaultImage,False

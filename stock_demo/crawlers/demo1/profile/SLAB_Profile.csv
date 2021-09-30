@@ -1,0 +1,33 @@
+,0
+symbol,SLAB
+price,112.755
+beta,1.0779
+volAvg,249478
+mktCap,4941758500
+lastDiv,0.0
+range,65.09-122.9
+changes,-0.645
+companyName,Silicon Laboratories Inc
+currency,USD
+cik,0001038074
+isin,US8269191024
+cusip,826919102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.silabs.com/
+description,"Silicon Laboratories, Inc. designs and develops analog-intensive and mixed-signal integrated circuits. The company is headquartered in Austin, Texas and currently employs 1,505 full-time employees. The firm operates through mixed-signal analog intensive products segment. The company provides analog-intensive, mixed-signal solutions for use in a range of electronic products in various applications for the IoT market. The company provides a range of timing and isolation products for infrastructure applications, including clocks and oscillators for networking equipment, data centers and wireless base stations, as well as digital isolators and current sensors for industrial power supplies and hybrid-electric vehicles. The company provides broadcast products, such as television tuners and demodulators and automotive radio tuners, and access products, including subscriber line interface circuits for voice over Internet Protocol, embedded modems, and Power over Ethernet power source equipment and powered device integrated circuits."
+ceo,Mr. George Tuttle
+sector,Technology
+country,US
+fullTimeEmployees,1545
+phone,15124168500
+address,400 W Cesar Chavez St
+city,Austin
+state,TEXAS
+zip,78701
+dcfDiff,-64.51
+dcf,108.139
+image,https://financialmodelingprep.com/image-stock/SLAB.png
+ipoDate,2000-03-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,CRVS
+price,4.13
+beta,2.02478
+volAvg,894093
+mktCap,115895648
+lastDiv,0.0
+range,1.01-6.88
+changes,0.01
+companyName,Corvus Pharmaceuticals Inc
+currency,USD
+cik,0001626971
+isin,US2210151005
+cusip,221015100
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.corvuspharma.com/
+description,"Corvus Pharmaceuticals, Inc. is a clinical stage biopharmaceutical company, which engages in the development and commercialization of oncology therapies. The company is headquartered in Burlingame, California and currently employs 49 full-time employees. The firm is focused on the development and commercialization of immuno-oncology therapies. The firm is developing drugs and antibodies that block crucial immune checkpoints and reprogram immune T-cells. The firm has a pipeline of four immuno-oncology programs, three of which focus on the adenosine-cancer axis to modulate an immune response. The firm's lead product candidate, CPI-444, is an oral, small molecule antagonist of the A2A receptor for adenosine, an immune checkpoint. Its other products include adenosine production inhibitor (a monoclonal anti-CD73 antibody); adenosine A2B antagonist, and interleukin-2 (IL-2)-inducible T cell kinase (ITK) inhibitors. As of September 30, 2016, the Company had not generated any revenue."
+ceo,Mr. Richard Miller
+sector,Healthcare
+country,US
+fullTimeEmployees,52
+phone,16509004520
+address,863 Mitten Rd Ste 102
+city,Burlingame
+state,CALIFORNIA
+zip,94010
+dcfDiff,-4.57
+dcf,4.09552
+image,https://financialmodelingprep.com/image-stock/CRVS.png
+ipoDate,2016-03-23
+defaultImage,False

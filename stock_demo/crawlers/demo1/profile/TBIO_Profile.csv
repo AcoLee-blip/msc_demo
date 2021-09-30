@@ -1,0 +1,33 @@
+,0
+symbol,TBIO
+price,16.0
+beta,0.0
+volAvg,1013190
+mktCap,1189148800
+lastDiv,0.0
+range,6.8-28.09
+changes,-0.14
+companyName,Translate Bio Inc
+currency,USD
+cik,0001693415
+isin,US89374L1044
+cusip,89374L104
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://translate.bio/
+description,"Translate Bio, Inc. engages in the research and development of therapeutic drugs. The company is headquartered in Lexington, Massachusetts and currently employs 81 full-time employees. The firm is developing medicines to treat diseases caused by protein or gene dysfunction. The firm is using its proprietary mRNA therapeutic platform, or MRT platform, and it create mRNA that encodes functional proteins. The mRNA is delivered to the target cell where the cell’s own machinery recognizes it and translates it, restoring or augmenting protein function to treat or prevent disease. The MRT product candidate for the lung, MRT5005, is designed to address the underlying cause of CF by delivering mRNA encoding fully functional CFTR protein to the lung epithelial cells through nebulization."
+ceo,Mr. Ronald Renaud
+sector,Healthcare
+country,US
+fullTimeEmployees,93
+phone,16179457361
+address,29 Hartwell Ave
+city,Lexington
+state,MASSACHUSETTS
+zip,02421
+dcfDiff,
+dcf,15.3641
+image,https://financialmodelingprep.com/image-stock/TBIO.png
+ipoDate,2018-06-28
+defaultImage,False

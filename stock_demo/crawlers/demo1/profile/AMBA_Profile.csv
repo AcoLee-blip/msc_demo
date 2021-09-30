@@ -1,0 +1,33 @@
+,0
+symbol,AMBA
+price,58.04
+beta,1.23903
+volAvg,523387
+mktCap,2009014020
+lastDiv,0.0
+range,36.02-73.59
+changes,-1.7
+companyName,Ambarella Inc
+currency,USD
+cik,0001280263
+isin,KYG037AX1015
+cusip,G037AX101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.ambarella.com/
+description,"Ambarella, Inc. engages in the development and sale of video compression, image processing, and computer vision solutions. The company is headquartered in Santa Clara, California and currently employs 750 full-time employees. Its products are used in a variety of human and computer vision applications, including security camera, advanced driver assistance (ADAS), electronic mirror, drive recorder, driver/cabin monitoring, autonomous driving, and other robotic applications. Its low-power, high-resolution video compression, image processing, and neural network processors and software enables cameras to extract data from high-resolution video streams. The company provides driver assistance systems, smart electronic mirrors, drive recorders and autonomous vehicles. Its CVflow architecture supports a variety of computer vision algorithms, including stereo obstacle detection and terrain mapping technology, and allows customers to differentiate their products by porting their own algorithms and neural networks to its CVflow-based chips."
+ceo,Dr. Feng-Ming Wang
+sector,Technology
+country,US
+fullTimeEmployees,761
+phone,14087348888
+address,3101 Jay St
+city,Santa Clara
+state,CALIFORNIA
+zip,95054
+dcfDiff,
+dcf,61.8045
+image,https://financialmodelingprep.com/image-stock/AMBA.png
+ipoDate,2012-10-10
+defaultImage,False

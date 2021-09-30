@@ -1,0 +1,33 @@
+,0
+symbol,CHNG
+price,15.9
+beta,0.0
+volAvg,2290995
+mktCap,4840786400
+lastDiv,0.0
+range,6.18-17.57
+changes,-0.68
+companyName,Change Healthcare Inc
+currency,USD
+cik,0001756497
+isin,US15912K1007
+cusip,15912K100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.changehealthcare.com/
+description,"Change Healthcare, Inc. operates as a healthcare technology company. The company is headquartered in Nashville, Tennessee and currently employs 14,000 full-time employees. The company operates through three reportable segments: software and analytics, network solutions and technology-enabled services. Its software and analytics segment provides solutions for revenue cycle management, provider network management, payment accuracy, value-based payments, clinical decision support, consumer engagement, risk adjustment and quality performance, and imaging and clinical workflow. Its network solutions segment provides solutions for financial, administrative and clinical transactions, electronic payments and aggregation and analytics of clinical and financial data. Its technology-enabled services segment provided solutions for revenue cycle and practice management, value-based care enablement, communications and payments, pharmacy benefits administration and consulting."
+ceo,Mr. Neil E. de Crescenzo IV
+sector,Healthcare
+country,US
+fullTimeEmployees,15000
+phone,16159323000
+address,3055 Lebanon Pike Ste 1000
+city,Nashville
+state,TENNESSEE
+zip,37214
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/CHNG.jpg
+ipoDate,2019-06-27
+defaultImage,True

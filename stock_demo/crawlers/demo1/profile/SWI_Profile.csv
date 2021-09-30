@@ -1,0 +1,33 @@
+,0
+symbol,SWI
+price,22.27
+beta,0.0
+volAvg,502698
+mktCap,6993715200
+lastDiv,0.0
+range,11.5-22.88
+changes,0.14
+companyName,SolarWinds Corp
+currency,USD
+cik,0001739942
+isin,US83417Q1058
+cusip,83417Q105
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,
+description,"SolarWinds Corp. engages in the provision of information technology (IT)infrastructure management software. The company is headquartered in Austin, Texas and currently employs 3,121 full-time employees. The Company’s products enables organizations to monitor and manage the performance of their IT environments, including on premise, in the cloud, and in hybrid models. Its SolarWinds Model enables it to market and sell its products directly to network and systems engineers, database administrators, storage administrators, DevOps professionals and managed service providers (MSPs). The firm engages with its registered members through THWACK, which is its online community designed to train and inform technology professionals about its products. Its AppOptics integrates application performance, server infrastructure monitoring and custom metrics into cloud-based solution. The firm also offers an email protection and archiving platform on a standalone basis that protects businesses from phishing, malware and other email-borne threats."
+ceo,Mr. Kevin Thompson
+sector,Technology
+country,US
+fullTimeEmployees,3298
+phone,15126829300
+address,7171 Southwest Pkwy Bldg 400
+city,Austin
+state,TEXAS
+zip,78735
+dcfDiff,
+dcf,22.2772
+image,https://financialmodelingprep.com/image-stock/SWI.jpg
+ipoDate,2018-10-19
+defaultImage,True

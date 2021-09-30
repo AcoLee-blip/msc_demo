@@ -1,0 +1,33 @@
+,0
+symbol,ABUS
+price,3.55
+beta,2.99385
+volAvg,1772304
+mktCap,301428000
+lastDiv,0.0
+range,0.88-9.02
+changes,-0.02
+companyName,Arbutus Biopharma Corp
+currency,USD
+cik,0001447028
+isin,CA03879J1003
+cusip,03879J100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.arbutusbio.com/
+description,"Arbutus Biopharma Corp. engages in discovering, developing and commercializing a cure for patients suffering from chronic Hepatitis B virus infection. The company is headquartered in Burnaby, British Columbia and currently employs 80 full-time employees. The firm is dedicated to discovering, developing and commercializing a cure for patients suffering from chronic hepatitis B infection, a disease of the liver caused by hepatitis B virus (HBV). The firm develops a portfolio of drug candidates with multiple mechanisms of action that results in a combination therapy to cure HBV. In addition to its HBV pipeline, the Company actively licenses its Lipid Nanoparticle (LNP) technology to its industry partners. This technology represents a delivery technology in RNA interference (RNAi) therapeutic development, which has enabled several clinical trials and has been administered to hundreds of human subjects."
+ceo,Mr. William Collier
+sector,Healthcare
+country,US
+fullTimeEmployees,80
+phone,12674690914
+address,701 Veterans Circle
+city,Warminster
+state,PENNSYLVANIA
+zip,18974
+dcfDiff,-3628.13
+dcf,3.34696
+image,https://financialmodelingprep.com/image-stock/ABUS.png
+ipoDate,2010-11-13
+defaultImage,False

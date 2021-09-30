@@ -1,0 +1,33 @@
+,0
+symbol,IPWR
+price,6.12
+beta,0.98657
+volAvg,38349
+mktCap,17746898
+lastDiv,0.0
+range,1.08-10.92
+changes,0.02
+companyName,Ideal Power Inc
+currency,USD
+cik,0001507957
+isin,US4516222035
+cusip,451622203
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Electrical Equipment & Parts
+website,http://www.idealpower.com/
+description,"Ideal Power, Inc. engages in the development of power converter solutions for photovoltaic generation, grid-storage and electrified vehicle charging. The company is headquartered in Austin, Texas and currently employs 22 full-time employees. The firm is engaged in the development of its bi-directional power switches, creating energy control solutions for industrial, alternative energy, military and automotive applications. The firm is focused on its Bi-directional, Bi-polar Junction Transistor (B-TRAN) semiconductor technology. B-TRAN is a double-sided bi-directional alternating current (AC) switch."
+ceo,Dr. Lon Bell
+sector,Industrials
+country,US
+fullTimeEmployees,5
+phone,15122641542
+address,4120 Freidrich Ln Ste 100
+city,Austin
+state,TEXAS
+zip,78744
+dcfDiff,-2.15
+dcf,7.76866
+image,https://financialmodelingprep.com/image-stock/IPWR.png
+ipoDate,2013-11-22
+defaultImage,False

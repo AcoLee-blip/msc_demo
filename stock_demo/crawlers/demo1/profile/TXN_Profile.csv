@@ -1,0 +1,33 @@
+,0
+symbol,TXN
+price,156.68
+beta,1.1028
+volAvg,4047275
+mktCap,143823143000
+lastDiv,3.7199999999999998
+range,93.09-164.63
+changes,2.18
+companyName,Texas Instruments Inc
+currency,USD
+cik,0000097476
+isin,US8825081040
+cusip,882508104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.ti.com
+description,"Texas Instruments Incorporated engages in the design and manufacture semiconductor solutions for analog and digital embedded and application processing. The company is headquartered in Dallas, Texas and currently employs 29,888 full-time employees. The firm operates through two segments: Analog and Embedded Processing. As of December 31, 2016, the Company had design, manufacturing or sales operations in more than 30 countries. The firm's Analog segment's product line includes High Volume Analog & Logic (HVAL), Power Management (Power), High Performance Analog (HPA) and Silicon Valley Analog (SVA). HVAL products support applications, such as automotive safety devices, touchscreen controllers, low-voltage motor drivers and integrated motor controllers. The firm's Embedded Processing segment's product line includes Processor, Microcontrollers and Connectivity. Processor products include digital signal processors (DSPs) and applications processors. DSPs perform mathematical computations to process digital data."
+ceo,Mr. Richard Templeton
+sector,Technology
+country,US
+fullTimeEmployees,29768
+phone,19729953773
+address,12500 T I Blvd
+city,Dallas
+state,TEXAS
+zip,75243
+dcfDiff,-44.11
+dcf,148.69
+image,https://financialmodelingprep.com/image-stock/TXN.png
+ipoDate,1953-10-01
+defaultImage,False

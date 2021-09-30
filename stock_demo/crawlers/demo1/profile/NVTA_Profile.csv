@@ -1,0 +1,33 @@
+,0
+symbol,NVTA
+price,47.78
+beta,2.11943
+volAvg,2781992
+mktCap,8442725900
+lastDiv,0.0
+range,7.415-55.38
+changes,0.64
+companyName,Invitae Corp
+currency,USD
+cik,0001501134
+isin,US46185L1035
+cusip,46185L103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.invitae.com
+description,"Invitae Corp. engages in the provision of genetic information into mainstream medical practice. The company is headquartered in San Francisco, California and currently employs 1,100 full-time employees. As of December 31, 2016, the Company's products consisted of assays totaling over 1,100 genes that could be used for multiple indications, including hereditary cancer, neurological disorders, cardiovascular disorders, pediatric disorders and other hereditary conditions. The firm offers panels for a range of hereditary conditions in cancer, cardiology, neuromuscular, pediatric and rare diseases. The firm focuses on genetic testing, genome network and genome management. The firm offers full gene sequencing and deletion/duplication analysis as a standard for all of its tests. The firm holds interests in AltaVoice, a patient-centered data company."
+ceo,Dr. Sean George
+sector,Healthcare
+country,US
+fullTimeEmployees,1500
+phone,14153747782
+address,1400 16th St
+city,San Francisco
+state,CALIFORNIA
+zip,94103
+dcfDiff,-12190.6
+dcf,45.7062
+image,https://financialmodelingprep.com/image-stock/NVTA.png
+ipoDate,2015-02-12
+defaultImage,False

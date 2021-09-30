@@ -1,0 +1,33 @@
+,0
+symbol,PTI
+price,1.075
+beta,1.14967
+volAvg,591649
+mktCap,56093932
+lastDiv,0.0
+range,0.87-4.72
+changes,0.005
+companyName,Proteostasis Therapeutics Inc
+currency,USD
+cik,0001445283
+isin,US74373B1098
+cusip,74373B109
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.proteostasis.com/
+description,"Proteostasis Therapeutics, Inc. operates as a clinical stage biopharmaceutical company. The company is headquartered in Boston, Massachusetts and currently employs 48 full-time employees. The firm is engaged in the discovery and development of novel therapeutics to treat cystic fibrosis (CF), and other diseases caused by an imbalance in the proteostasis network, a set of pathways that control protein biosynthesis, folding, trafficking and clearance. The firm focuses on identifying therapies that restore protein function. The Company’s CF focused pipeline consists of novel CFTR modulators including correctors, potentiators and amplifiers. The Company’s clinical developments include PTI-801, a third generation CFTR corrector, PTI-808, a CFTR potentiator, and PTI-428, a CFTR amplifier."
+ceo,Ms. Meenu Chhabra
+sector,Healthcare
+country,US
+fullTimeEmployees,42
+phone,16172250096
+address,80 Guest St Fl 5
+city,Boston
+state,MASSACHUSETTS
+zip,02135
+dcfDiff,8.44
+dcf,1.61902
+image,https://financialmodelingprep.com/image-stock/PTI.jpg
+ipoDate,2016-02-11
+defaultImage,True

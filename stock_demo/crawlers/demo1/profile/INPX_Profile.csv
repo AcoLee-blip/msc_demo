@@ -1,0 +1,33 @@
+,0
+symbol,INPX
+price,1.0
+beta,2.24082
+volAvg,2220387
+mktCap,42259300
+lastDiv,0.0
+range,0.921-29.25
+changes,-0.02
+companyName,Inpixon
+currency,USD
+cik,0001529113
+isin,US45790J8009
+cusip,45790J800
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://inpixon.com/
+description,"Inpixon is an indoor intelligence company. The Company offers positioning, mapping and analytics products to secure, digitize and optimize indoor spaces. Its indoor intelligence platform uses sensor technology to detect accessible cellular, Wi-Fi, Bluetooth, ultra-wide band (UWB) and radio frequency identification (RFID) signals emitted from devices within a venue providing positional information. It designs, manufactures, sells and/or resells various sensor and tag or transponder technologies and related positioning products, including Inpixon Sensor 4000, Inpixon IPA Pod, Inpixon Smart School Safety Network, UWB Sensor Module, Inpixon GPS 900, IPA Security, Inpixon MDM Connector, Inpixon On-Premises Analytics and Inpixon GPS Viewer. Jibestream, a mapping solution, provides enterprise organizations with the tools to add intelligence to indoor spaces by integrating business data with indoor maps."
+ceo, Nadir Ali
+sector,Technology
+country,US
+fullTimeEmployees,69
+phone,14087022167
+address,2479 E Bayshore Rd Ste 195
+city,Palo Alto
+state,CALIFORNIA
+zip,94303
+dcfDiff,
+dcf,7.51209
+image,https://financialmodelingprep.com/image-stock/INPX.png
+ipoDate,2002-05-29
+defaultImage,False

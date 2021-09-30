@@ -1,0 +1,33 @@
+,0
+symbol,PLAB
+price,11.1
+beta,0.79749
+volAvg,507455
+mktCap,728865980
+lastDiv,0.0
+range,8.31-16.75
+changes,0.055
+companyName,Photronics Inc
+currency,USD
+cik,0000810136
+isin,US7194051022
+cusip,719405102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.photronics.com/
+description,"Photronics, Inc. engages in the manufacture of photomasks. The company is headquartered in Brookfield, Connecticut and currently employs 1,775 full-time employees. As of October 30, 2016, the Company operated principally from nine manufacturing facilities: two located in Europe, three in Taiwan, one in Korea and three in the United States. Photomasks are used in the manufacture of semiconductors and flat panel displays (FPDs), and are used as masters to transfer circuit patterns onto semiconductor wafers and flat panel substrates during the fabrication of integrated circuits (ICs), and a range of FPDs and other types of electrical and optical components. The firm offers reticle and photomask maintenance, including pellicle replacement, mask cleaning and re-certification, at all its sites across the world. Its products include Mature Binary, Advanced Binary Reticles, Phase Shift Masks-Embedded Attenuated Phase Shift Masks (EAPSM), Other Advanced Products and Large Area Masks."
+ceo,Dr. Peter Kirlin
+sector,Technology
+country,US
+fullTimeEmployees,1775
+phone,12037759000
+address,"15 Secor Rd, PO Box 5226"
+city,Brookfield
+state,CONNECTICUT
+zip,06804
+dcfDiff,66.26
+dcf,13.1965
+image,https://financialmodelingprep.com/image-stock/PLAB.jpg
+ipoDate,1987-03-10
+defaultImage,True

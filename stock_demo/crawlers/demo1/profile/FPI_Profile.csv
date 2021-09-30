@@ -1,0 +1,33 @@
+,0
+symbol,FPI
+price,7.585
+beta,0.67977
+volAvg,158583
+mktCap,220619584
+lastDiv,0.2
+range,5.05-7.66
+changes,0.135
+companyName,Farmland Partners Inc
+currency,USD
+cik,0001591670
+isin,US31154R1095
+cusip,31154R109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Specialty
+website,http://www.farmlandpartners.com/
+description,"Farmland Partners, Inc. operates as a real estate investment trust. The company is headquartered in Denver, Colorado and currently employs 13 full-time employees. The firm owns and seeks to acquire farmland located in agricultural markets throughout North America. The firm is the sole member of the general partner of Farmland Partners Operating Partnership, LP (the Operating Partnership). All of the Company's assets are held by, and its operations are primarily conducted through, the Operating Partnership and the subsidiaries of the Operating Partnership. The firm's principal investment focus is on farmland located in agricultural markets throughout North America, however, it may seek to acquire farmland outside of North America. The company also may acquire properties related to farming, such as grain storage facilities, grain elevators, feedlots, cold storage facilities, processing plants and distribution centers, as well as livestock farms or ranches. As of December 31, 2016, the Company owned approximately 115,489 acres, as well as eight grain storage facilities."
+ceo,Mr. Paul Pittman
+sector,Real Estate
+country,US
+fullTimeEmployees,13
+phone,17204523100
+address,4600 S Syracuse St Ste 1450
+city,Denver
+state,COLORADO
+zip,80237
+dcfDiff,
+dcf,7.13635
+image,https://financialmodelingprep.com/image-stock/FPI.png
+ipoDate,2014-04-11
+defaultImage,False

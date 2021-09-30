@@ -1,0 +1,33 @@
+,0
+symbol,BCEL
+price,14.51
+beta,0.0
+volAvg,216152
+mktCap,522786592
+lastDiv,0.0
+range,9.51-29.35
+changes,-0.44
+companyName,Atreca Inc
+currency,USD
+cik,0001532346
+isin,US04965G1094
+cusip,04965G109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.atreca.com/
+description,"Atreca, Inc. is a biopharmaceutical company. The company is headquartered in Redwood City, California and currently employs 102 full-time employees. The firm is engaged in developing therapeutics drawn from human immune responses, including anti-cancer immune responses. Its portfolio programs are focused on applications in cancer treatment. The Company’s lead product candidate, ATRC-101, is a monoclonal antibody with a novel mechanism of action and target derived from an antibody identified using our discovery platform. The firm's Immune Repertoire Capture (IRC) technology, which enables us to accurately reconstruct the original antibody sequences from a single B cell in parallel with other B cells in the sample. Its IRC tracks the co-expression of genes from the same single cell and TCRs are recovered. IRC generates sequence information from the beginning of signal sequences through constant regions of immunoglobulins, delivering variable domains and isotype information."
+ceo,Mr. John Orwin
+sector,Healthcare
+country,US
+fullTimeEmployees,118
+phone,16505952595
+address,450 East Jamie Court
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,23.9155
+image,https://financialmodelingprep.com/image-stock/BCEL.jpg
+ipoDate,2019-06-20
+defaultImage,True

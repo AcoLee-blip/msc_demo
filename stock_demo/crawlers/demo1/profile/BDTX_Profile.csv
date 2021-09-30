@@ -1,0 +1,33 @@
+,0
+symbol,BDTX
+price,34.3
+beta,0.0
+volAvg,210943
+mktCap,1234652540
+lastDiv,0.0
+range,17.63-46.25
+changes,-0.7
+companyName,Black Diamond Therapeutics Inc
+currency,USD
+cik,0001701541
+isin,US09203E1055
+cusip,09203E105
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.blackdiamondtherapeutics.com/
+description,"Black Diamond Therapeutics, Inc. is a precision oncology medicine company. The Company’s technology platform, Mutation-Allostery-Pharmacology (MAP) platform is designed to allow it to analyze population-level genetic sequencing data to identify oncogenic mutations that promote cancer across tumor types, group these mutations into families and develop a single small molecule therapy in a tumor-agnostic manner that targets a specific family of mutations. The Company has designed its lead product candidate, BDTX-189, to block the function of an undrugged family of oncogenic proteins defined by mutations which occur across a range of tumor types, and which affect both the epidermal growth factor receptor (EGFR) and the tyrosine-protein kinase ErbB-2, or HER2."
+ceo,Dr. David M. Epstein
+sector,Healthcare
+country,US
+fullTimeEmployees,32
+phone,16174175868
+address,139 Main St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/BDTX.jpg
+ipoDate,2020-01-30
+defaultImage,True

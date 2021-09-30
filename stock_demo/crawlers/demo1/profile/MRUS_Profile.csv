@@ -1,0 +1,33 @@
+,0
+symbol,MRUS
+price,13.08
+beta,0.56912
+volAvg,73100
+mktCap,380480192
+lastDiv,0.0
+range,10.18-20.64
+changes,-0.12
+companyName,Merus NV
+currency,USD
+cik,0001651311
+isin,NL0011606264
+cusip,N5749R100
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.merus.nl/
+description,"Merus NV is a clinical-stage immune-oncology company, which engages in the discovery and development of bi-specific antibody therapeutics. The company is headquartered in Utrecht, Utrecht and currently employs 98 full-time employees. The firm develops differentiating therapeutics for cancer patients. The product programs in the Merus pipeline are based on the Biclonics format. Its products include, among others, MCLA-134 that is designed to bind to a combination of two immunomodulatory targets expressed by T cells, as well as MCLA-145 that is designed to bind to a tumor-associated target with an immunomodulatory target involved in checkpoint inhibition."
+ceo,Dr. Ton Logtenberg
+sector,Healthcare
+country,NL
+fullTimeEmployees,87
+phone,31850162500
+address,Yalelaan 62
+city,Utrecht
+state,UTRECHT
+zip,3584 CM
+dcfDiff,
+dcf,12.9082
+image,https://financialmodelingprep.com/image-stock/MRUS.jpg
+ipoDate,2016-05-19
+defaultImage,True

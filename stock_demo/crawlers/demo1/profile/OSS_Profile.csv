@@ -1,0 +1,33 @@
+,0
+symbol,OSS
+price,2.3301
+beta,3.101345
+volAvg,176266
+mktCap,38743972
+lastDiv,0.0
+range,0.59-3.14
+changes,-0.2599
+companyName,One Stop Systems Inc
+currency,USD
+cik,0001394056
+isin,US68247W1099
+cusip,68247W109
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.onestopsystems.com
+description,"One Stop Systems, Inc. engages in the design, manufacture, and marketing of computing systems and components. The company is headquartered in Escondido, California and currently employs 112 full-time employees. The firm provides HPC servers, compute accelerators and flash storage arrays. The firm's products include graphical processing unit (GPU) acceleration, GPUs, flash storage systems, servers, peripheral component interconnect Express (PCle) expansion, peripheral component interconnect (PCI) expansion, disk arrays, Compact PCI (CPCI) and CPCIe products, desktop computing appliances, accessories and parts, and Magma Thunderbolt expansions. The firm also sells software used to operate solid-state drive (SSD) storage systems for defense systems and commercial applications. The firm also invests in the development of HPC storage management software and HPC cloud services. The firm serves the customers in various sectors, including finance, defense, medical, research, oil and gas, and media and entertainment."
+ceo,Mr. David Raun
+sector,Technology
+country,US
+fullTimeEmployees,116
+phone,17607459883
+address,2235 Enterprise St Ste 110
+city,Escondido
+state,CALIFORNIA
+zip,92029
+dcfDiff,
+dcf,2.7123
+image,https://financialmodelingprep.com/image-stock/OSS.png
+ipoDate,2018-02-01
+defaultImage,False

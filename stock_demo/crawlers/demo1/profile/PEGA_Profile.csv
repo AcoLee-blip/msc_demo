@@ -1,0 +1,33 @@
+,0
+symbol,PEGA
+price,121.88
+beta,1.27655
+volAvg,274792
+mktCap,9835435000
+lastDiv,0.12
+range,38.01-135.36
+changes,2.49
+companyName,Pegasystems Inc
+currency,USD
+cik,0001013857
+isin,US7055731035
+cusip,705573103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.pega.com/
+description,"Pegasystems, Inc. engages in the development, market, license, and support of software, which allows organizations to build, deploy, and change enterprise applications. The company is headquartered in Cambridge, Massachusetts and currently employs 4,650 full-time employees. The firm also offers software applications built on the Pega platform. Its software is designed to assist clients in building, deploying and evolving enterprise applications. Its applications and platform intersect with and encompass several traditional software markets, including Customer Relationship Management (CRM); Business Process Management (BPM); Business Rules Management Systems (BRMS); Dynamic Case Management (DCM); Decision Management, which includes Predictive and Adaptive analytics, and the Vertical Specific Software (VSS) market of industry solutions and packaged applications. The company provides implementation, consulting, training, technical support and hosting services to facilitate the use of its software. The firm offers its services to financial, healthcare, insurance, manufacturing, life sciences and other markets."
+ceo,Mr. Alan Trefler
+sector,Technology
+country,US
+fullTimeEmployees,5155
+phone,16173749600
+address,1 Rogers St
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142-1209
+dcfDiff,-66.29
+dcf,130.775
+image,https://financialmodelingprep.com/image-stock/PEGA.png
+ipoDate,1996-07-19
+defaultImage,False

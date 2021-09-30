@@ -1,0 +1,33 @@
+,0
+symbol,RNG
+price,296.45
+beta,0.56035
+volAvg,1009058
+mktCap,26571317200
+lastDiv,0.0
+range,134.85-317.84
+changes,-8.2
+companyName,RingCentral Inc
+currency,USD
+cik,0001384905
+isin,US76680R2067
+cusip,76680R206
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.ringcentral.com/
+description,"RingCentral, Inc. engages in the provision of global enterprise cloud communications and collaboration solutions. The company is headquartered in Belmont California, California and currently employs 1,871 full-time employees. The firm's cloud-based business communications solutions provide a single user identity across multiple locations and devices, including smartphones, tablets, personal computers (PCs) and desk phones, and allow for communication across multiple channels, including high definition (HD) voice, video, short messaging service (SMS), messaging and collaboration, conferencing, online meetings, and fax. The firm's products include RingCentral Office, RingCentral Professional, RingCentral Fax, RingCentral Contact Center and RingCentral Glip. RingCentral Office is a multi-user, enterprise-grade communications solution. RingCentral Professional is an inbound call routing subscription with additional text and fax capabilities targeting smaller deployments, and RingCentral Fax is an Internet fax subscription that permits sending and receiving faxes over the Internet."
+ceo,Mr. Vladimir Shmunis
+sector,Technology
+country,US
+fullTimeEmployees,2363
+phone,16504724100
+address,20 Davis Dr
+city,Belmont California
+state,CALIFORNIA
+zip,94002
+dcfDiff,-126.74
+dcf,295.933
+image,https://financialmodelingprep.com/image-stock/RNG.png
+ipoDate,2013-09-27
+defaultImage,False

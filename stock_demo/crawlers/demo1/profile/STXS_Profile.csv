@@ -1,0 +1,33 @@
+,0
+symbol,STXS
+price,4.02
+beta,1.35623
+volAvg,190904
+mktCap,296216096
+lastDiv,0.0
+range,1.7-5.82
+changes,0.19
+companyName,Stereotaxis Inc
+currency,USD
+cik,0001289340
+isin,US85916J4094
+cusip,85916J409
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Medical Instruments & Supplies
+website,http://www.stereotaxis.com
+description,"Stereotaxis, Inc. designs, manufactures and markets robotic magnetic navigation systems for use in a hospital's interventional surgical suite to enhance the treatment of arrhythmias and coronary artery disease. The company is headquartered in St. Louis, Missouri and currently employs 133 full-time employees. The firm is engaged in the development of robotic cardiology instrument navigation systems designed to enhance the treatment of arrhythmias and coronary disease. The firm also provides information management solutions for the interventional lab. The Stereotaxis platform helps physicians to provide patient care with robotic precision and enhanced integration of procedural information. The Company’s Epoch solution includes the Niobe ES remote magnetic navigation system, the Odyssey portfolio of lab optimization, networking and patient information management systems, and the Vdrive robotic navigation system and consumables. The Niobe ES remote magnetic navigation system includes the Navigant software user interface and the QuikCAS catheter advancement system. The Vdrive robotic navigation system with Niobe ES magnetic navigation system provides navigation and stability for diagnostic and ablation devices."
+ceo,Mr. David Fischel
+sector,Healthcare
+country,US
+fullTimeEmployees,118
+phone,13146786100
+address,4320 Forest Park Ave Ste 100
+city,St. Louis
+state,MISSOURI
+zip,63108
+dcfDiff,
+dcf,3.94869
+image,https://financialmodelingprep.com/image-stock/STXS.png
+ipoDate,2004-08-12
+defaultImage,False

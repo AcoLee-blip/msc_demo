@@ -1,0 +1,33 @@
+,0
+symbol,TACT
+price,8.8
+beta,2.44258
+volAvg,43864
+mktCap,78574144
+lastDiv,0.09
+range,2.87-11.61
+changes,0.38
+companyName,TransAct Technologies Inc
+currency,USD
+cik,0001017303
+isin,US8929181035
+cusip,892918103
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.transact-tech.com/
+description,"TransAct Technologies, Inc. operates as a software-driven technology and printing solutions company. The company is headquartered in Hamden, Connecticut and currently employs 126 full-time employees. Its products are designed based on customer requirements and are sold under the BOHA!, AccuDate, EPICENTRAL, Epic, Ithaca and Printrex brands. Through the TransAct Services Group (TSG), the Company also provides customers with a range of supplies and consumable items both online and through its direct sales team. The company designs, develops and markets a range of transaction-based and specialty printers and terminals using thermal and inkjet printing technology. Its POS printers are used primarily by quick-serve restaurants. Its maintenance services include the sale of extended warranties, multi-year maintenance contracts, 24-hour guaranteed replacement product service."
+ceo, Bart Shuldman
+sector,Technology
+country,US
+fullTimeEmployees,134
+phone,12038596800
+address,2319 Whitney Ave Ste 3b
+city,Hamden
+state,CONNECTICUT
+zip,06518
+dcfDiff,-1.13
+dcf,7.71748
+image,https://financialmodelingprep.com/image-stock/TACT.png
+ipoDate,1996-08-22
+defaultImage,False

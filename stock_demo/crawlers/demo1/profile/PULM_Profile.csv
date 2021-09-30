@@ -1,0 +1,33 @@
+,0
+symbol,PULM
+price,1.13
+beta,1.65289
+volAvg,453935
+mktCap,38880476
+lastDiv,0.0
+range,0.72-2.055
+changes,0.03
+companyName,Pulmatrix Inc
+currency,USD
+cik,
+isin,US74584P2020
+cusip,74584P202
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.pulmatrix.com/
+description,"Pulmatrix, Inc. is a clinical stage biotechnology company, which engages in the discovery and development of novel inhaled therapeutic products for respiratory and other diseases. The company is headquartered in Lexington, Massachusetts and currently employs 6 full-time employees. The Company’s product pipeline is focused on advancing treatments for rare diseases, including PUR1900, an inhaled anti-fungal for patients with lung disease, including cystic fibrosis. In addition, the Company focuses on pulmonary diseases through collaboration with partners, including PUR0200, a generic in clinical development for chronic obstructive pulmonary disease."
+ceo,Mr. Teofilo Raad
+sector,Healthcare
+country,US
+fullTimeEmployees,22
+phone,17813572333
+address,99 Hayden Ave Ste 390
+city,Lexington
+state,MASSACHUSETTS
+zip,02421
+dcfDiff,
+dcf,2.61075
+image,https://financialmodelingprep.com/image-stock/PULM.png
+ipoDate,2014-03-21
+defaultImage,False

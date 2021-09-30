@@ -1,0 +1,33 @@
+,0
+symbol,UNH
+price,355.67
+beta,0.7273
+volAvg,2938243
+mktCap,337467179000
+lastDiv,4.66
+range,187.72-367.95
+changes,1.26
+companyName,UnitedHealth Group Inc
+currency,USD
+cik,0000731766
+isin,US91324P1021
+cusip,91324P102
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Health Care Plans
+website,http://www.unitedhealthgroup.com/
+description,"UnitedHealth Group, Inc. engages in the provision of health care coverage, software, and data consultancy services. The company is headquartered in Hopkins, Minnesota and currently employs 300,000 full-time employees. The firm operates through four segments: UnitedHealthcare, OptumHealth, OptumInsight and OptumRx. The company conducts its operations through two business platforms: health benefits operating under UnitedHealthcare and health services operating under Optum. UnitedHealthcare provides healthcare benefits to an array of customers and markets, and includes UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement, UnitedHealthcare Community & State, and UnitedHealthcare Global businesses. Optum is a health services business serving the healthcare marketplace, including payers, care providers, employers, governments, life sciences companies and consumers, through its OptumHealth, OptumInsight and OptumRx businesses. OptumInsight provides services, technology and healthcare solutions to participants in the healthcare industry. OptumRx provides retail network contracting, purchasing and clinical solutions."
+ceo,Mr. Andrew Witty
+sector,Healthcare
+country,US
+fullTimeEmployees,325000
+phone,19529361300
+address,9900 Bren Rd E
+city,Hopkins
+state,MINNESOTA
+zip,55343
+dcfDiff,-219.04
+dcf,334.162
+image,https://financialmodelingprep.com/image-stock/UNH.png
+ipoDate,1984-10-17
+defaultImage,False

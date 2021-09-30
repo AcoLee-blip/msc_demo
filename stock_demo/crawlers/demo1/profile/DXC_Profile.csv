@@ -1,0 +1,33 @@
+,0
+symbol,DXC
+price,20.95
+beta,2.52469
+volAvg,2705216
+mktCap,5329931800
+lastDiv,0.42
+range,7.9-38.37
+changes,0.67
+companyName,DXC Technology Co
+currency,USD
+cik,0001688568
+isin,US23355L1061
+cusip,23355L106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,http://www.dxc.technology/
+description,"DXC Technology Co. provides technology consulting, outsourcing and support services. The company is headquartered in Tysons Corner, Virginia and currently employs 130,000 full-time employees. The firm provides a range of services, including analytics, applications, business process, cloud and workload, consulting, enterprise and cloud applications, security, and workplace and mobility. The firm offers a portfolio of analytics services, to provide insights and accelerate users’ digital transformation. Its analytics services and solutions include Data Discovery Experience, Data Workload Optimization and Managed Business Intelligence Services. The firm addresses analytic solution needs to run the business, including customer analytic services, warranty analytics, predictive maintenance analytics, social intelligence analytics, healthcare analytics, insurance analytics, data pipeline and operations, banking analytics, airline analytics and operational analytics. The firm also offers e-commerce, finance and administration products and services."
+ceo,Mr. Michael Salvino
+sector,Technology
+country,US
+fullTimeEmployees,138000
+phone,17032459675
+address,1775 Tysons Blvd
+city,Tysons Corner
+state,VIRGINIA
+zip,22102
+dcfDiff,
+dcf,34.0683
+image,https://financialmodelingprep.com/image-stock/DXC.png
+ipoDate,2017-03-16
+defaultImage,False

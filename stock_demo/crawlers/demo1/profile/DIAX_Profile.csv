@@ -1,0 +1,33 @@
+,0
+symbol,DIAX
+price,14.13
+beta,0.98339
+volAvg,117643
+mktCap,513864288
+lastDiv,1.136
+range,9.5-18.29
+changes,-0.24
+companyName,Nuveen Dow 30SM Dynamic Overwrite Fund
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Asset Management
+website,https://www.nuveen.com/CEF/Product/Overview.aspx
+description,"Nuveen Dow 30SM Dynamic Overwrite Fund is a non-diversified closed-end management investment fund. The Fund's investment objective is to seek attractive total return with less volatility than the Dow Jones Industrial Average (DJIA). The Fund pursues its investment strategy by emphasizing single name options on individual stocks in the DJIA, as well as a range of options, including index options on the DJIA and other broad-based indexes and options on custom baskets of stocks in addition to exchange-traded funds (ETFs). The Fund uses a dynamic call option overwrite strategy within a range of 35% to 75%, with a long-run target of approximately 55% overwrite of the value of the Fund's equity portfolio, in seeking to enhance the portfolio's risk-adjusted returns. The Fund investments in various sectors, including Aerospace and Defense; Information Technology (IT) Services, and Pharmaceuticals. The Fund's investment advisor is Nuveen Fund Advisors, LLC."
+ceo,
+sector,Financial Services
+country,US
+fullTimeEmployees,
+phone,13129178146
+address,333 W Wacker Dr
+city,Boston
+state,MASSACHUSETTS
+zip,
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/DIAX.jpg
+ipoDate,2014-12-22
+defaultImage,True

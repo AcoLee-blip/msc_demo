@@ -1,0 +1,33 @@
+,0
+symbol,KZR
+price,5.5
+beta,0.0
+volAvg,185856
+mktCap,254475648
+lastDiv,0.0
+range,2.18-9.79
+changes,0.0
+companyName,Kezar Life Sciences Inc
+currency,USD
+cik,0001645666
+isin,US49372L1008
+cusip,49372L100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://kezarlifesciences.com/
+description,"Kezar Life Sciences, Inc. is a clinical-stage biotechnology company, which engages in the development of novel small molecule therapeutics to treat autoimmunity and cancer in South San Francisco, California. The company is headquartered in South San Francisco, California and currently employs 24 full-time employees. The firm is engaged in developing novel small molecule therapeutics to treat autoimmune disorders, cancer, and malignant diseases. Its therapies target protein homeostasis. Its lead development program is KZR-616. KZR-616 is a selective small molecule inhibitor of the immunoproteasome. Its second program focuses on small-molecule modulators of the protein secretion pathway. Its protein secretion program is focused on the areas of oncology, inflammation and immune-oncology."
+ceo,Mr. John Fowler
+sector,Healthcare
+country,US
+fullTimeEmployees,40
+phone,16508225600
+address,4000 Shoreline Ct Ste 300
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,6.47344
+image,https://financialmodelingprep.com/image-stock/KZR.png
+ipoDate,2018-06-21
+defaultImage,False

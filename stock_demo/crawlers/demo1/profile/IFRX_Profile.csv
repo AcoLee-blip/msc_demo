@@ -1,0 +1,33 @@
+,0
+symbol,IFRX
+price,4.09
+beta,-1.24867
+volAvg,351221
+mktCap,115454160
+lastDiv,0.0
+range,2.26-9.698
+changes,0.015
+companyName,Inflarx NV
+currency,EUR
+cik,0001708688
+isin,NL0012661870
+cusip,N44821101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.inflarx.de/
+description,"InflaRx NV is a clinical-stage biopharmaceutical company, which engages in the discovery and development of inhibitors of the complement activation factor known as C5a. The company is headquartered in Jena, Thueringen and currently employs 38 full-time employees. The firm's primary focus is on the development of monoclonal antibodies targeting activation products of the complement system for application in the treatment of life-threatening inflammatory diseases. Its lead product candidate, IFX-1, is an intravenously delivered first-in-class anti-C5a monoclonal antibody, undergoing Phase II clinical trial for the treatment of Hidradenitis Suppurativa (HS), a rare and chronic debilitating systemic inflammatory skin disease, and entering Phase II clinical trial for the treatment of ANCA-associated vasculitis (AAV) and other rare autoimmune diseases. The firm's product pipeline also includes IFX-2, which is in preclinical development."
+ceo,"Dr. Niels C. Riedemann M.D., Ph.D."
+sector,Healthcare
+country,DE
+fullTimeEmployees,38
+phone,493641508180
+address,Winzerlaer Str. 2
+city,Jena
+state,THUERINGEN
+zip,07745
+dcfDiff,-51.27
+dcf,10.9634
+image,https://financialmodelingprep.com/image-stock/IFRX.png
+ipoDate,2017-11-16
+defaultImage,False

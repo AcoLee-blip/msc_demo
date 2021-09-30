@@ -1,0 +1,33 @@
+,0
+symbol,KMI
+price,13.015
+beta,0.99181
+volAvg,14296003
+mktCap,29463228400
+lastDiv,1.038
+range,9.42-22.58
+changes,0.305
+companyName,Kinder Morgan Inc
+currency,USD
+cik,0001506307
+isin,US49456B1017
+cusip,49456B101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Midstream
+website,https://www.kindermorgan.com/
+description,"Kinder Morgan, Inc. is an energy infrastructure company, which engages in the operation of pipelines and terminals that transport natural gas; gasoline; crude oil; carbon dioxide (CO2) and other products and stores petroleum products chemicals; and handles bulk materials like ethanol, coal, petroleum coke and steel. The company is headquartered in Houston, Texas and currently employs 11,012 full-time employees. The company operates through four segments. Its Natural Gas Pipelines segment is engaged in the ownership and operation of interstate and intrastate natural gas pipeline and storage systems, and liquefied natural gas facilities, among others. Its CO2 segment is engaged in the production, transportation and marketing of carbon dioxide (CO2) to oil fields, and the ownership and operation of a crude oil pipeline system. Its Terminals segment is engaged in the ownership and/or operation of liquids and bulk terminal facilities located throughout the United States and portions of Canada, and Jones Act tankers. Its Products Pipelines segment is engaged in the ownership and operation of refined petroleum products, natural gas liquids and crude oil and condensate pipelines."
+ceo,Mr. Steven Kean
+sector,Energy
+country,US
+fullTimeEmployees,11086
+phone,17133699000
+address,1001 Louisiana St Ste 1000
+city,Houston
+state,TEXAS
+zip,77002
+dcfDiff,-3.5
+dcf,12.6117
+image,https://financialmodelingprep.com/image-stock/KMI.png
+ipoDate,2011-02-11
+defaultImage,False

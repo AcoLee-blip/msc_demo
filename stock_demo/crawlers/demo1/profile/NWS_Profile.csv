@@ -1,0 +1,33 @@
+,0
+symbol,NWS
+price,17.06
+beta,1.473861
+volAvg,513872
+mktCap,9994976300
+lastDiv,0.2
+range,7.88-17.69
+changes,0.47
+companyName,News Corporation
+currency,USD
+cik,0001308161
+isin,
+cusip,
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Broadcasting
+website,http://newscorp.com
+description,
+ceo,Mr. Robert J. Thomson
+sector,Communication Services
+country,United States
+fullTimeEmployees,28000
+phone,212-416-3400
+address,1211 Avenue of the Americas
+city,New York
+state,NY
+zip,10036
+dcfDiff,-0.82
+dcf,11.8
+image,https://financialmodelingprep.com/image-stock/NWS.jpg
+ipoDate,
+defaultImage,True

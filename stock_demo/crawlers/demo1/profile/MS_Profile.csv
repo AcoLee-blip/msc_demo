@@ -1,0 +1,33 @@
+,0
+symbol,MS
+price,56.64
+beta,1.48342
+volAvg,11837801
+mktCap,102457229000
+lastDiv,1.4
+range,27.2-57.57
+changes,1.09
+companyName,Morgan Stanley
+currency,USD
+cik,0000895421
+isin,US6174464486
+cusip,617446448
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Capital Markets
+website,https://www.morganstanley.com/
+description,"Morgan Stanley operates as a global financial services company. The company is headquartered in New York City, New York and currently employs 60,532 full-time employees. The firm's segments include Institutional Securities, Wealth Management and Investment Management. The firm's Institutional Securities business segment provides investment banking, sales and trading, and other services to corporations, governments, financial institutions and high-to-ultra high net worth clients. The firm's Wealth Management business segment provides an array of financial services and solutions to individual investors and small-to-medium sized businesses and institutions covering brokerage and investment advisory services, market-making activities in fixed income securities, financial and wealth planning services, annuity and insurance products, credit and other lending products, banking and retirement plan services. The firm's Investment Management business segment provides a range of investment strategies and products."
+ceo,Mr. James Gorman
+sector,Financial Services
+country,US
+fullTimeEmployees,60670
+phone,12127614000
+address,1585 Broadway
+city,New York City
+state,NEW YORK
+zip,10036
+dcfDiff,-47.2
+dcf,52.9977
+image,https://financialmodelingprep.com/image-stock/MS.png
+ipoDate,1986-03-21
+defaultImage,False

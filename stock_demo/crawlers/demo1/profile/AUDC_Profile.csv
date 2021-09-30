@@ -1,0 +1,33 @@
+,0
+symbol,AUDC
+price,27.72
+beta,0.6494
+volAvg,332983
+mktCap,912850050
+lastDiv,0.41000000000000003
+range,9.0-44.94
+changes,0.31
+companyName,AudioCodes Ltd
+currency,USD
+cik,0001086434
+isin,IL0010829658
+cusip,M15342104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.audiocodes.com
+description,"AudioCodes Ltd. engages in the development, manufacture, and marketing of products for transferring voice and data over the internet. The firm enables enterprises and service providers to build and operate all IP voice networks in unified communications, contact centers, and hosted business services. The firm categorizes its products and services into two main business lines: network and technology. Network products consist of customer premises equipment (CPE), gateways for the enterprise and service provider (or carrier) markets and of carrier-grade-oriented low- and mid-density media gateways for service providers and Enterprise Session Border Controls (ESBCs). Complementing its media gateways and session border gateways as network products are its multi-service business routers (MSBR), Internet Protocol (IP) phones, media servers, mobile VoIP solutions and value added application products. The firm offers a range of products, solutions and services worldwide."
+ceo, Shabtai Adlersberg
+sector,Technology
+country,IL
+fullTimeEmployees,698
+phone,97239764000
+address,"1 Hayarden Street, Airport City"
+city,Lod
+state,
+zip,7019900
+dcfDiff,
+dcf,34.8597
+image,https://financialmodelingprep.com/image-stock/AUDC.png
+ipoDate,1999-05-01
+defaultImage,False

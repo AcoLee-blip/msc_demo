@@ -1,0 +1,33 @@
+,0
+symbol,COHU
+price,26.13
+beta,1.7592
+volAvg,258816
+mktCap,1096566270
+lastDiv,0.12
+range,8.89-26.43
+changes,1.56
+companyName,Cohu Inc
+currency,USD
+cik,0000021535
+isin,US1925761066
+cusip,192576106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.cohu.com/
+description,"Cohu, Inc. engages in the provision of back-end semiconductor equipment and services. The company is headquartered in Poway, California and currently employs 3,500 full-time employees. The company develops, manufactures, sells and services a line of equipment capable of handling a range of integrated circuits and light-emitting diodes. The company operates through semiconductor equipment segment. The company offers products for the pick-and-place, gravity-feed, test-in-strip and turret handling, MEMS, burn-in and system-level test markets. The company sells various products, including Delta MATRiX, Delta Pyramid, Delta Eclipse, Delta LinX, Rasco SO1000, Rasco SO2000, Rasco Saturn and Jupiter, Rasco Jaguar, Ismeca NY32, Ismeca NY20 and Delta Fusion HD. Its manufacturing operations are located in Malacca, Malaysia (handlers); Poway, California (thermal subsystems); Laguna, the Philippines (kits and contactors); Kolbermoor, Germany (handlers), and Osaka, Japan (contactors)."
+ceo,Mr. Luis Muller
+sector,Technology
+country,US
+fullTimeEmployees,3200
+phone,18588488100
+address,12367 Crosthwaite Cir
+city,Poway
+state,CALIFORNIA
+zip,92064-6817
+dcfDiff,
+dcf,22.6706
+image,https://financialmodelingprep.com/image-stock/COHU.jpg
+ipoDate,2005-12-20
+defaultImage,True

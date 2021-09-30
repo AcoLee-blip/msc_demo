@@ -1,0 +1,33 @@
+,0
+symbol,UBER
+price,47.63
+beta,0.0
+volAvg,22951187
+mktCap,84008370000
+lastDiv,0.0
+range,13.71-49.62
+changes,1.23
+companyName,Uber Technologies Inc
+currency,USD
+cik,0001543151
+isin,US90353T1007
+cusip,90353T100
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.uber.com
+description,"Uber Technologies, Inc. operates as a technology platform for people and things mobility. The company is headquartered in San Francisco, California and currently employs 22,263 full-time employees. Its operating segments include Rides, Eats, Freight, Other Bets, and Advanced Technologies Group (ATG) and Other Technology Programs. The Rides products connect consumers with drivers who provide rides in a variety of vehicles, such as cars, auto rickshaws, or taxis. The Eats offering allows consumers to search for restaurants, order a meal and have the meal delivered. Freight connects carriers with shippers on its platform and gives the ability to book a shipment. The Other Bets segment consists of multiple investment stage offerings, including new mobility offering that refers to products that provide consumers with access to rides through a variety of modes, including electronic scooters. The ATG and Other Technology Programs segment is responsible for the development and commercialization of autonomous vehicle and ridesharing technologies."
+ceo,Mr. Dara Khosrowshahi
+sector,Technology
+country,US
+fullTimeEmployees,26900
+phone,14156128582
+address,1455 Market St Fl 4
+city,San Francisco
+state,CALIFORNIA
+zip,94103
+dcfDiff,
+dcf,43.9099
+image,https://financialmodelingprep.com/image-stock/UBER.png
+ipoDate,2019-05-10
+defaultImage,False

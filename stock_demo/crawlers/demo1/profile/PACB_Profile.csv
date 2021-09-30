@@ -1,0 +1,33 @@
+,0
+symbol,PACB
+price,16.99
+beta,1.24182
+volAvg,4246492
+mktCap,3061818620
+lastDiv,0.0
+range,2.2-17.14
+changes,0.265
+companyName,Pacific Biosciences of California Inc
+currency,USD
+cik,0001299130
+isin,US69404D1081
+cusip,69404D108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.pacb.com/
+description,"Pacific Biosciences of California, Inc. engages in the development, manufacture and sale of an integrated platform for genetic analysis. The company is headquartered in Menlo Park, California and currently employs 401 full-time employees. The firm is engaged in the development, manufacturing and marketing of an integrated platform for genetic analysis. Its Single Molecule, Real-Time (SMRT) technology enables single molecule, real-time detection of biological processes. The company offers The SMRT Cell, Phospholinked nucleotides and The PacBio RS II and Sequel instruments. Its SMRT technology enables the observation of deoxyribonucleic acid (DNA) synthesis as it occurs in real-time by harnessing the natural process of DNA replication, which is actuated by the DNA polymerase. Its phospholinked nucleotides have a fluorescent dye attached to the phosphate chain of the nucleotide rather than to the base. The PacBio RS II and Sequel instruments include optics, automated liquid handling, a touchscreen control interface and computational hardware and software."
+ceo,Dr. Michael Hunkapiller
+sector,Healthcare
+country,US
+fullTimeEmployees,404
+phone,16505218000
+address,1305 O'brien Drive
+city,Menlo Park
+state,CALIFORNIA
+zip,94025
+dcfDiff,
+dcf,13.2842
+image,https://financialmodelingprep.com/image-stock/PACB.png
+ipoDate,2010-10-27
+defaultImage,False

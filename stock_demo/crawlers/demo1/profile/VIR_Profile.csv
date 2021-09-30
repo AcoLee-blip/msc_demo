@@ -1,0 +1,33 @@
+,0
+symbol,VIR
+price,26.98
+beta,0.0
+volAvg,1203956
+mktCap,3436955140
+lastDiv,0.0
+range,11.65-75.0
+changes,-0.38
+companyName,Vir Biotechnology Inc
+currency,USD
+cik,0001706431
+isin,US92764N1028
+cusip,92764N102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.vir.bio/
+description,"Vir Biotechnology, Inc. operates as a clinical-stage immunology company that focuses on combining immunologic insights with cutting-edge technologies to treat and prevent serious infectious diseases. The company is headquartered in San Francisco, California and currently employs 217 full-time employees. The firm is focused on developing treatments to treat and prevent serious infectious diseases. Its technology platforms are focused on antibodies, T cells, innate immunity and small interfering ribonucleic acid (siRNA). Its pipeline consists of product candidates targeting hepatitis B virus (HBV), influenza A, human immunodeficiency virus (HIV) and tuberculosis (TB). Its product candidates include VIR-2218, VIR-3434, VIR-2482, VIR-1111 and VIR-2020. The firm is developing VIR-2218 and VIR-3434 for the functional cure of HBV. VIR-2218 is a subcutaneously administered HBV-targeting siRNA. VIR-3434 is a subcutaneously administered HBV-neutralizing monoclonal antibody (mAb). VIR-2482 is an intramuscularly administered influenza A-neutralizing mAb. VIR-1111 is a subcutaneously administered HIV T cell vaccine. VIR-2020 is a subcutaneously administered TB T cell vaccine."
+ceo,Dr. George Scangos
+sector,Healthcare
+country,US
+fullTimeEmployees,237
+phone,14159064324
+address,499 Illinois St Ste 500
+city,San Francisco
+state,CALIFORNIA
+zip,94158
+dcfDiff,
+dcf,38.1725
+image,https://financialmodelingprep.com/image-stock/VIR.png
+ipoDate,2019-10-11
+defaultImage,False

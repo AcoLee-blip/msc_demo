@@ -1,0 +1,33 @@
+,0
+symbol,FUND
+price,6.315
+beta,1.18935
+volAvg,52250
+mktCap,186560896
+lastDiv,0.448
+range,4.0-7.49
+changes,0.055
+companyName,Sprott Focus Trust Inc
+currency,USD
+cik,0000825202
+isin,
+cusip,
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Asset Management
+website,http://sprott.com/investment-strategies/focus-trust/
+description,"Sprott Focus Trust Inc is a Canada-based diversified alternative asset manager in precious metal and real asset investments. Through its subsidiaries in Canada, the United States(US) and Asia, the Company is dedicated to providing investors with investment strategies that include exchange listed products, alternative asset management and private resource Investments. The Corporation also operates merchant banking and brokerage businesses in both Canada and the US. The Company's investment products, include physical bullion trusts, mining exchange traded funds ( ETFs), private equity and debt strategies. Through its merchant banking and resource lending activities, the Company partners with natural resource companies."
+ceo,Thomas W. Ulrich
+sector,Financial Services
+country,CA
+fullTimeEmployees,
+phone,14169434065
+address,"So. Tower, Ste 2700"
+city,TORONTO
+state,ONTARIO
+zip,
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/FUND.png
+ipoDate,1988-06-08
+defaultImage,False

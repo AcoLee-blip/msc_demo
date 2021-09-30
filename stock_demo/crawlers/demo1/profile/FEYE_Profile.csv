@@ -1,0 +1,33 @@
+,0
+symbol,FEYE
+price,14.505
+beta,1.28373
+volAvg,3359940
+mktCap,3303383040
+lastDiv,0.0
+range,7.54-18.34
+changes,0.185
+companyName,FireEye Inc
+currency,USD
+cik,0001370880
+isin,US31816Q1013
+cusip,31816Q101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.fireeye.com/
+description,"FireEye, Inc. operates as a intelligence-led security company. The company is headquartered in Milpitas, California and currently employs 3,200 full-time employees. The firm offers various products, such as Threat Detection and Prevention Solutions, which include network security products (NX and Multi-vector Virtual Execution (MVX) Compute Node Series), e-mail security products (EX Series and e-mail threat prevention cloud (ETP), endpoint security products (HX Series) and content security products (FX Series); security management and orchestration products, which include Central Management System and FireEye Security Orchestrator, and forensics and investigation products, which include Threat Analytics Platform (TAP), Malware Analysis (AX Series) and Enterprise Forensics (PX Series and IA Series). Its Subscription and Services offers Threat Intelligence Subscriptions, Security-as-a-Service Offerings, and Customer Support and Maintenance Services."
+ceo,Mr. Kevin Mandia
+sector,Technology
+country,US
+fullTimeEmployees,3400
+phone,14083216300
+address,601 McCarthy Blvd
+city,Milpitas
+state,CALIFORNIA
+zip,95035
+dcfDiff,
+dcf,16.0346
+image,https://financialmodelingprep.com/image-stock/FEYE.png
+ipoDate,2013-09-20
+defaultImage,False

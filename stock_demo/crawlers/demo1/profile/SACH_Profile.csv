@@ -1,0 +1,33 @@
+,0
+symbol,SACH
+price,4.0
+beta,1.54232
+volAvg,63760
+mktCap,88499200
+lastDiv,0.36
+range,1.2-4.58
+changes,0.03
+companyName,Sachem Capital Corp
+currency,USD
+cik,0001682220
+isin,US78590A1097
+cusip,78590A109
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,REIT Mortgage
+website,https://www.sachemcapitalcorp.com/
+description,"Sachem Capital Corp. is a real estate finance company, which engages in the provision of real estate investment trust services. The company is headquartered in Branford, Connecticut and currently employs 0 full-time employees. The firm specializes in originating, underwriting, funding, servicing and managing a portfolio of short-term loans secured by first mortgage liens on real property located primarily in Connecticut. The loan is also personally guaranteed by the principals of the borrower, which guaranty is typically collaterally secured by a pledge of the guarantor’s interest in the borrower. Its s primary objective is to grow its loan portfolio while preserving capital in a manner that provides for risk-adjusted returns to its shareholders over the long term principally through dividends. The company intends to achieve the objective by continuing to focus on selectively originating, managing and servicing a portfolio of first mortgage real estate loans designed to generate risk-adjusted returns across a variety of market conditions and economic cycles. The company offers funds for acquisition, renovation, rehabilitation, development of real estate properties."
+ceo,Mr. John Villano
+sector,Real Estate
+country,US
+fullTimeEmployees,10
+phone,12034334736
+address,698 Main St
+city,Branford
+state,CONNECTICUT
+zip,06405
+dcfDiff,
+dcf,5.24047
+image,https://financialmodelingprep.com/image-stock/SACH.png
+ipoDate,2017-02-10
+defaultImage,False

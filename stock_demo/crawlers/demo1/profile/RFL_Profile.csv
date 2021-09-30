@@ -1,0 +1,33 @@
+,0
+symbol,RFL
+price,21.0
+beta,0.0
+volAvg,20393
+mktCap,332404800
+lastDiv,0.0
+range,9.4-23.88
+changes,-0.82
+companyName,Rafael Holdings Inc
+currency,USD
+cik,0001713863
+isin,US75062E1064
+cusip,75062E106
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Biotechnology
+website,https://rafaelholdings.com
+description,"Rafael Holdings, Inc. owns interest in commercial real estate assets and clinical stage pharmaceutical companies. The company is headquartered in Newark, New Jersey and currently employs 17 full-time employees. The firm is focused on developing and commercialization of therapies that exploit the metabolic differences between normal cells and cancer cells. The company also owns interests in certain commercial real estate assets. The firm conducts business as two operating segments, Pharmaceuticals and Real Estate."
+ceo,Mr. Howard S. Jonas
+sector,Healthcare
+country,US
+fullTimeEmployees,17
+phone,19734381000
+address,520 Broad St
+city,Newark
+state,NEW JERSEY
+zip,07102
+dcfDiff,
+dcf,17.5757
+image,https://financialmodelingprep.com/image-stock/RFL.jpg
+ipoDate,2018-03-12
+defaultImage,True

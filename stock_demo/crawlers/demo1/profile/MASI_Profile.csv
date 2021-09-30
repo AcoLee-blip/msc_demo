@@ -1,0 +1,33 @@
+,0
+symbol,MASI
+price,245.378
+beta,0.81419
+volAvg,367518
+mktCap,13509335000
+lastDiv,0.0
+range,143.9-259.29
+changes,-1.082
+companyName,Masimo Corp
+currency,USD
+cik,0000937556
+isin,US5747951003
+cusip,574795100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Instruments & Supplies
+website,https://www.masimo.com/
+description,"Masimo Corp. is a medical technology company, which develops, manufactures and markets non invasive patient monitoring technologies, medical devices and sensors. The company is headquartered in Irvine, California and currently employs 1,500 full-time employees. The firm's business is Measure-through Motion and Low Perfusion pulse oximetry monitoring, known as Masimo Signal Extraction Technology (SET) pulse oximetry. Its product offerings include non-invasive monitoring of blood constituents with an optical signature, optical organ oximetry monitoring, electrical, brain function monitoring, acoustic respiration monitoring and exhaled gas monitoring. In addition, the Company has developed the Root patient monitoring and connectivity platform, the Radical-7 bedside and portable patient monitor, and the Radius-7 wearable wireless patient monitor. The company offers Patient SafetyNet remote patient surveillance monitoring system, which allows patients to be monitored through a personal computer-based monitor or by care providers through their pagers, voice-over-Internet Protocol (IP) phones or smartphones."
+ceo,Mr. Joseph Kiani
+sector,Healthcare
+country,US
+fullTimeEmployees,1600
+phone,19492977000
+address,52 Discovery
+city,Irvine
+state,CALIFORNIA
+zip,92618
+dcfDiff,-80.38
+dcf,244.102
+image,https://financialmodelingprep.com/image-stock/MASI.png
+ipoDate,2007-08-08
+defaultImage,False

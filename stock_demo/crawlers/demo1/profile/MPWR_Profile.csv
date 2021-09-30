@@ -1,0 +1,33 @@
+,0
+symbol,MPWR
+price,307.595
+beta,1.11643
+volAvg,337036
+mktCap,13871611900
+lastDiv,1.9
+range,130.12-358.69
+changes,-3.155
+companyName,Monolithic Power Systems Inc
+currency,USD
+cik,
+isin,US6098391054
+cusip,609839105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.monolithicpower.com/
+description,"Monolithic Power Systems, Inc. engages in designing, developing, and marketing analog solutions for computing and storage, automotive, industrial, communications, and consumer markets. The company is headquartered in Kirkland, Washington and currently employs 1,534 full-time employees. The firm operates in the design, development, marketing and sale of power solutions for the communications, storage and computing, consumer and industrial markets segment. The firm's product families include Direct Current (DC) to DC Products, and Lighting Control Products. The firm's DC to DC integrated circuits (ICs) are used to convert and control voltages within a range of electronic systems, such as portable electronic devices, wireless local area network (LAN) access points, computers, monitors, automobiles and medical equipment. Lighting control ICs are used in backlighting and general illumination products. In addition to Alternating Current (AC)/DC offline solutions for lighting illumination applications, the Company also offers AC/DC power conversion solutions for end products that plug into a wall outlet."
+ceo,Mr. Michael Hsing
+sector,Technology
+country,US
+fullTimeEmployees,2002
+phone,14252969956
+address,5808 Lake Washington Blvd NE
+city,Kirkland
+state,WASHINGTON
+zip,98033
+dcfDiff,-113.85
+dcf,314.959
+image,https://financialmodelingprep.com/image-stock/MPWR.png
+ipoDate,2004-11-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,NURO
+price,1.73
+beta,2.87899
+volAvg,213710
+mktCap,6547462
+lastDiv,0.0
+range,0.81-31.0
+changes,0.02
+companyName,NeuroMetrix Inc
+currency,USD
+cik,0001289850
+isin,US6412558073
+cusip,641255807
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Medical Instruments & Supplies
+website,http://www.neurometrix.com
+description,"NeuroMetrix, Inc. is a healthcare company, which engages in the research, development, and trade of medical equipment and consumables. The company is headquartered in Waltham, Massachusetts and currently employs 42 full-time employees. The firm is engaged in the sale of medical equipment, and consumables and accessories. The company has two principal product lines: Wearable neuro-stimulation therapeutic devices and Point-of-care neuropathy diagnostic tests. Its products include ADVANCE NCS/EMG System (the ADVANCE System), Quell, SENSUS and DPNCheck. Quell is a wearable device for relief of chronic intractable pain, such as nerve pain due to diabetes and lower back problems. The SENSUS pain therapy device, the technological predecessor to Quell, is a prescription neuro-stimulation device based on transcutaneous electrical nerve stimulation (TENS) for relief of chronic, intractable pain. DPNCheck is a quantitative nerve conduction test. ADVANCE System is a platform for the performance of traditional nerve conduction studies."
+ceo,Dr. Shai Gozani
+sector,Healthcare
+country,US
+fullTimeEmployees,23
+phone,17818909989
+address,1000 Winter St
+city,Waltham
+state,MASSACHUSETTS
+zip,01801
+dcfDiff,-1.03
+dcf,2.12831
+image,https://financialmodelingprep.com/image-stock/NURO.png
+ipoDate,2004-07-22
+defaultImage,False

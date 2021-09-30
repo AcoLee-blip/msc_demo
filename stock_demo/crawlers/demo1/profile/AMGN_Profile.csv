@@ -1,0 +1,33 @@
+,0
+symbol,AMGN
+price,237.14
+beta,0.73743
+volAvg,2793404
+mktCap,138055565000
+lastDiv,7.8500000000000005
+range,177.05-264.97
+changes,-3.55
+companyName,Amgen Inc
+currency,USD
+cik,0000318154
+isin,US0311621009
+cusip,031162100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Drug Manufacturers General
+website,http://www.amgen.com
+description,"Amgen, Inc. is a biotechnology company, which engages in the discovery, development, manufacture and marketing of human therapeutics. The company is headquartered in Thousand Oaks, California and currently employs 21,500 full-time employees. The firm discovers, develops, manufactures and delivers various human therapeutics. The company operates in human therapeutics segment. Its marketed products portfolio includes Neulasta (pegfilgrastim); erythropoiesis-stimulating agents (ESAs), such as Aranesp (darbepoetin alfa) and EPOGEN (epoetin alfa); Sensipar/Mimpara (cinacalcet); XGEVA (denosumab); Prolia (denosumab); NEUPOGEN (filgrastim), and other marketed products, such as KYPROLIS (carfilzomib), Vectibix (panitumumab), Nplate (romiplostim), Repatha (evolocumab), BLINCYTO (blinatumomab), IMLYGIC (talimogene laherparepvec) and Corlanor (ivabradine). The company focuses on human therapeutics for the treatment of serious illness in the areas of oncology/hematology, cardiovascular disease and neuroscience. Its product candidates in Phase III include Erenumab for episodic migraine, Aranesp for myelodysplastic syndromes, BLINCYTO for acute lymphoblastic leukemia and IMLYGIC for metastatic melanoma."
+ceo,Mr. Robert Bradway
+sector,Healthcare
+country,US
+fullTimeEmployees,23400
+phone,18054471000
+address,1 Amgen Center Dr
+city,Thousand Oaks
+state,CALIFORNIA
+zip,91320-1799
+dcfDiff,
+dcf,238.883
+image,https://financialmodelingprep.com/image-stock/AMGN.jpg
+ipoDate,1987-05-01
+defaultImage,True

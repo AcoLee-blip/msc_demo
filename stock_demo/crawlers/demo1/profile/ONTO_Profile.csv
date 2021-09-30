@@ -1,0 +1,33 @@
+,0
+symbol,ONTO
+price,40.084
+beta,1.11761
+volAvg,261147
+mktCap,1957353860
+lastDiv,0.0
+range,20.32-42.5
+changes,0.634
+companyName,Onto Innovation Inc
+currency,USD
+cik,0000704532
+isin,US6833441057
+cusip,683344105
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Semiconductors
+website,http://www.nanometrics.com/
+description,"Onto Innovation, Inc. engages in developing process control systems. The company is headquartered in Wilmington, Massachusetts and currently employs 701 full-time employees. The company offers a portfolio of technologies for wafer manufacturing, front-end process control and lithography technology for advanced semiconductor packaging. The firm and its wholly-owned subsidiaries provide process control metrology and inspection systems used primarily in the fabrication of semiconductors and other solid-state devices as well as industrial and scientific applications. Its optical critical dimension (OCD) technology is a dimension measurement technology that is used to determine the dimensions on the semiconductor wafer that directly controls the resulting performance of the integrated circuit devices. Its thin film metrology systems use a broad spectrum of wavelengths, high-sensitivity optics, software, and technology to measure the thickness and uniformity of films deposited on silicon and other substrates as well as their chemical composition."
+ceo,Mr. Michael Plisinski
+sector,Technology
+country,US
+fullTimeEmployees,1340
+phone,14085456000
+address,16 Jonspin Rd
+city,Wilmington
+state,MASSACHUSETTS
+zip,01887
+dcfDiff,
+dcf,38.4347
+image,https://financialmodelingprep.com/image-stock/ONTO.jpg
+ipoDate,1984-11-29
+defaultImage,True

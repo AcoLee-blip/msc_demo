@@ -1,0 +1,33 @@
+,0
+symbol,RPD
+price,69.18
+beta,1.31491
+volAvg,551029
+mktCap,3586215170
+lastDiv,0.0
+range,31.34-71.76
+changes,1.01
+companyName,Rapid7 Inc
+currency,USD
+cik,0001560327
+isin,US7534221046
+cusip,753422104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.rapid7.com
+description,"Rapid7, Inc. engages in the provision of cyber security analytics and automation services. The company is headquartered in Boston, Massachusetts and currently employs 1,246 full-time employees. The firm's analytics enable organizations to contextualize and prioritize the threats facing their physical, virtual and cloud assets, including those posed by the behaviors of their users. Leveraging its IT data and analytics platform, its solutions enable organizations to manage their cyber security exposure and manage IT operations. Its solutions empower organizations to prevent attacks by providing visibility into vulnerabilities, and allow them to detect compromises, respond to breaches and correct the underlying causes of attacks. By providing a unified IT and security platform, with automated workflow, it enables IT and security to work together to develop, operate and secure their environment."
+ceo,Mr. Corey Thomas
+sector,Technology
+country,US
+fullTimeEmployees,1544
+phone,16172471717
+address,120 Causeway St
+city,Boston
+state,MASSACHUSETTS
+zip,02114
+dcfDiff,
+dcf,65.7525
+image,https://financialmodelingprep.com/image-stock/RPD.png
+ipoDate,2015-07-17
+defaultImage,False

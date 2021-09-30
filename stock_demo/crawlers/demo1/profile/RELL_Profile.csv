@@ -1,0 +1,33 @@
+,0
+symbol,RELL
+price,4.33
+beta,0.64649
+volAvg,21373
+mktCap,57189340
+lastDiv,0.24
+range,3.1-6.32
+changes,-0.02
+companyName,Richardson Electronics Ltd
+currency,USD
+cik,0000355948
+isin,US7631651079
+cusip,763165107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Electronic Components
+website,https://www.rell.com/
+description,"Richardson Electronics Ltd. engages in the provision of engineered solutions and distributes electronic components to the electron device marketplace. The company is headquartered in Lafox, Illinois and currently employs 380 full-time employees. The firm's segments include Power and Microwave Technologies Group, which provides engineered solutions and distributes electronic components to customers in alternative energy, aviation, broadcast, communications, industrial, medical, military, scientific and semiconductor markets; Canvys, which provides customized display solutions to corporate enterprise, financial, healthcare, industrial and medical original equipment manufacturers markets, and Healthcare, which manufactures, distributes and services replacement parts for the healthcare market, including hospitals, medical centers, independent service organizations and multi-vendor service providers."
+ceo,Mr. Edward Richardson
+sector,Technology
+country,US
+fullTimeEmployees,380
+phone,16302082200
+address,"40W267 Keslinger Rd, PO Box 393"
+city,LAFOX
+state,ILLINOIS
+zip,60147
+dcfDiff,-104.44
+dcf,19.0113
+image,https://financialmodelingprep.com/image-stock/RELL.jpg
+ipoDate,1983-10-28
+defaultImage,True

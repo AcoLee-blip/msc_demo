@@ -1,0 +1,33 @@
+,0
+symbol,FATE
+price,51.73
+beta,1.83764
+volAvg,859670
+mktCap,4513132000
+lastDiv,0.0
+range,13.26-54.63
+changes,-0.25
+companyName,Fate Therapeutics Inc
+currency,USD
+cik,0001434316
+isin,US31189P1021
+cusip,31189P102
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://fatetherapeutics.com/
+description,"Fate Therapeutics, Inc. engages in the development of programmed cellular immunotherapies for cancer and immune disorder. The company is headquartered in San Diego, California and currently employs 104 full-time employees. The firm is engaged in development of programmed cellular immunotherapies for cancer and immune disorders. The firm's cell therapy pipeline consists of immuno-oncology programs, including cancer immunotherapies derived from engineered induced pluripotent cells, and immuno-regulatory programs, including hematopoietic cell immunotherapies for protecting the immune system of patients undergoing hematopoietic cell transplantation and for suppressing autoimmunity. Its lead clinical program is ProTmune, which is a programmed immuno-regulatory cell therapy. The firm programs immune cells, such as CD34+ cells, Natural Killer (NK) cells and T cells, by utilizing its cell programming approach. Its adoptive cell therapy programs are based on the Company's ex vivo cell programming approach, which it applies to modulate the therapeutic function and direct the fate of immune cells."
+ceo,Mr. John Wolchko
+sector,Healthcare
+country,US
+fullTimeEmployees,178
+phone,18588751803
+address,3535 General Atomics Ct Ste 200
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,-18.18
+dcf,45.9237
+image,https://financialmodelingprep.com/image-stock/FATE.png
+ipoDate,2013-10-01
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,MX
+price,13.92
+beta,1.17798
+volAvg,340656
+mktCap,494695936
+lastDiv,0.0
+range,6.3-16.06
+changes,0.16
+companyName,MagnaChip Semiconductor Corp
+currency,USD
+cik,0001325702
+isin,US55933J2033
+cusip,55933J203
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Semiconductors
+website,http://www.magnachip.com/
+description,"MagnaChip Semiconductor Corp. engages in the design and manufacture of analog and mixed-signal semiconductor products. The company employs 2,515 full-time employees The company operates through two segments: Foundry Services Group and Standard Products Group. Foundry Services Group provides specialty analog and mixed-signal foundry services mainly for fabless and Integrated Device Manufacturer (IDM) semiconductor companies that primarily serve communications, IoT, consumer, industrial and automotive applications. Standard Products Group includes Display Solutions and Power Solutions. Display Solutions products provide panel display solutions to major suppliers of large and small rigid and flexible panel displays, mobile, automotive applications and home appliances. Power Solutions products include discrete and integrated circuit solutions for power management in communications, consumer and industrial applications."
+ceo,Mr. Young-Joon Kim
+sector,Technology
+country,LU
+fullTimeEmployees,2451
+phone,352456262
+address,"c/o Magnachip Semiconductor S.A., 74 Rue de Merl"
+city,Luxembourg
+state,
+zip,2520
+dcfDiff,33.8
+dcf,18.2387
+image,https://financialmodelingprep.com/image-stock/MX.png
+ipoDate,2011-03-10
+defaultImage,False

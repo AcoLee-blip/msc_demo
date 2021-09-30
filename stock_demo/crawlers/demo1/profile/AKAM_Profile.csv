@@ -1,0 +1,33 @@
+,0
+symbol,AKAM
+price,98.23
+beta,0.41462
+volAvg,1622492
+mktCap,15991255000
+lastDiv,0.0
+range,75.18-120.0
+changes,1.03
+companyName,Akamai Technologies Inc
+currency,USD
+cik,0001086222
+isin,US00971T1016
+cusip,00971T101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.akamai.com/
+description,"Akamai Technologies, Inc. engages in the provision of cloud services for delivering, optimizing, and securing content and business applications over the Internet. The company is headquartered in Cambridge, Massachusetts and currently employs 7,519 full-time employees. The firm is involved in offering content delivery network (CDN) services. Its services include the delivery of content, applications and software over the Internet, as well as mobile and security solutions. Its solutions include Performance and Security Solutions, Media Delivery Solutions, and Service and Support Solutions. Its Performance and Security Solutions include Web and Mobile Performance Solutions, Cloud Security Solutions, Enterprise Solutions and Network Operator Solutions. The Media Delivery Solutions offerings include Adaptive Delivery solutions, Download Delivery offerings, Infinite Media Acceleration solutions Media Services and Media Analytics. The company offers a range of professional services and solutions designed to assist its customers with integrating, configuring, optimizing and managing its core offerings."
+ceo,Dr. F. Thomson Leighton
+sector,Technology
+country,US
+fullTimeEmployees,7724
+phone,16174443000
+address,145 Broadway
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,
+dcf,111.413
+image,https://financialmodelingprep.com/image-stock/AKAM.jpg
+ipoDate,1999-10-29
+defaultImage,True

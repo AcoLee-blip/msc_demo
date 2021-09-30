@@ -1,0 +1,33 @@
+,0
+symbol,CBT
+price,39.88
+beta,1.70871
+volAvg,266781
+mktCap,2251684610
+lastDiv,1.4
+range,20.0-49.62
+changes,-1.68
+companyName,Cabot Corp
+currency,USD
+cik,0000016040
+isin,US1270551013
+cusip,127055101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Chemicals
+website,https://www.cabotcorp.com/
+description,"Cabot Corp. is a global specialty chemicals and performance materials company. The company is headquartered in Boston, Massachusetts and currently employs 4,500 full-time employees. The Company’s principal products are rubber and specialty grade carbon blacks, specialty compounds, fumed metal oxides, activated carbons, inkjet colorants, aerogel, cesium formate drilling fluids, and fine cesium chemicals. The company operates through three business segments: Reinforcement Materials; Performance Chemicals, and Purification Solutions. The Reinforcement Materials segment combines the rubber blacks and elastomer composites product lines. Performance Chemicals is composed of two businesses: Specialty Carbons and Formulations business and Metal Oxides business. Purification Solutions segment manufactures activated carbon products are used for the purification of water, air, food and beverages, pharmaceuticals and other liquids and gases."
+ceo,Mr. Sean Keohane
+sector,Basic Materials
+country,US
+fullTimeEmployees,4500
+phone,16173450100
+address,2 Seaport Ln Ste 1300
+city,Boston
+state,MASSACHUSETTS
+zip,02210-2019
+dcfDiff,-9.97
+dcf,43.2641
+image,https://financialmodelingprep.com/image-stock/CBT.jpg
+ipoDate,1990-02-07
+defaultImage,True

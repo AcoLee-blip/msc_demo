@@ -1,0 +1,33 @@
+,0
+symbol,TCCO
+price,3.61
+beta,2.03913
+volAvg,25004
+mktCap,6679944
+lastDiv,0.0
+range,1.72-10.49
+changes,0.07
+companyName,Technical Communications Corp
+currency,USD
+cik,0000096699
+isin,US8784091014
+cusip,878409101
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.tccsecure.com/
+description,"Technical Communications Corp. engages in the design, development, manufacture, distribution, marketing and sale of communications security devices, systems and services. The company is headquartered in Concord, Massachusetts and currently employs 28 full-time employees. The secure communications solutions provided by the Company protect information transmitted over a range of data, video, fax and voice networks. The firm's products are sold to governments, military agencies, telecommunications carriers, financial institutions and multinational corporations. Its products can be used to protect confidentiality in communications between radios, telephones, mobile phones, facsimile machines and data network equipment over wires, fiber optic cables, radio waves, and microwave and satellite links. Its DSD 72A-SP Military Bulk Ciphering System is a military system that provides cryptographic security for data networks operating at up to 34 million bits per second. The CSD 4100 Executive Secure Telephone offers voice and data security in an executive telephone package."
+ceo,Mr. Carl Guild
+sector,Technology
+country,US
+fullTimeEmployees,28
+phone,19782875100
+address,100 Domino Dr
+city,Concord
+state,MASSACHUSETTS
+zip,01742-2892
+dcfDiff,-8.72
+dcf,4.19104
+image,https://financialmodelingprep.com/image-stock/TCCO.png
+ipoDate,1970-03-20
+defaultImage,False

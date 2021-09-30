@@ -1,0 +1,33 @@
+,0
+symbol,INFI
+price,1.725
+beta,1.81345
+volAvg,533507
+mktCap,110756728
+lastDiv,0.0
+range,0.6-1.77
+changes,0.195
+companyName,Infinity Pharmaceuticals Inc
+currency,USD
+cik,0001113148
+isin,US45665G3039
+cusip,45665G303
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.infi.com
+description,"Infinity Pharmaceuticals, Inc. operates as a biopharmaceutical company, which engages in discovering, developing and delivering medicines for people with cancer. The company is headquartered in Cambridge, Massachusetts and currently employs 25 full-time employees. The firm is engaged in the discovery, development and delivery of medicines to treat diseases. The firm develops small molecule drugs that target disease pathways for potential applications in oncology. Its product candidate is duvelisib, also known as IPI-145, is an oral, dual-inhibitor of the delta and gamma isoforms of phosphoinositide-3-kinase (PI3K), for the treatment of hematologic malignancies, or blood cancers. The firm is also developing IPI-549, which is an orally administered, clinical-stage, immuno-oncology product candidate that selectively inhibits the gamma isoform of PI3K. In addition to duvelisib, the Company focuses to generate new product candidates for potential investigation in oncology. The firm also focuses on developing DYNAMO, CONTEMPO, BRAVURA, FRESCO, DYNAMO+R, DUO, SYNCHRONY and Duvelisib + Venetoclax."
+ceo,Ms. Adelene Perkins
+sector,Healthcare
+country,US
+fullTimeEmployees,25
+phone,16174531000
+address,1100 Massachusetts Ave Ste 4
+city,Cambridge
+state,MASSACHUSETTS
+zip,02138
+dcfDiff,
+dcf,1.55064
+image,https://financialmodelingprep.com/image-stock/INFI.jpg
+ipoDate,2000-07-27
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,ACN
+price,238.15
+beta,1.04535
+volAvg,1915321
+mktCap,151098065000
+lastDiv,3.2800000000000002
+range,137.15-248.0
+changes,-4.6
+companyName,Accenture PLC
+currency,USD
+cik,0001467373
+isin,IE00B4BNMY34
+cusip,G1151C101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.accenture.com/ie-en/
+description,"Accenture Plc engages in the provision of management consulting, technology, and outsourcing services. The company is headquartered in Dublin, Dublin and currently employs 492,000 full-time employees. The company provides management and technology consulting services. Its segments include Communications, Media and Technology; Financial Services; Health and Public Service; Products, and Resources. The Communications, Media & Technology segment serves communications, electronics, technology, media and entertainment industries. The Financial Services segment serves banking, capital markets and insurance industries. The Health & Public service segment serves healthcare payers and providers, and government departments and agencies, public service organizations, educational institutions and non-profit organizations. The Resources segment serves chemicals, energy, forest products, metals and mining, utilities and related industries. The company also offers digital advertising services."
+ceo,Ms. Julie Sweet
+sector,Technology
+country,IE
+fullTimeEmployees,492000
+phone,35316462000
+address,"1 Grand Canal Square, Grand Canal Harbour, Dublin 2"
+city,DUBLIN
+state,DUBLIN
+zip,2
+dcfDiff,
+dcf,242.523
+image,https://financialmodelingprep.com/image-stock/ACN.png
+ipoDate,2009-09-01
+defaultImage,False

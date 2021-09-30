@@ -1,0 +1,33 @@
+,0
+symbol,JMP
+price,2.58
+beta,0.76156
+volAvg,9844
+mktCap,50660880
+lastDiv,0.04
+range,2.15-3.39
+changes,0.1
+companyName,JMP Group LLC
+currency,USD
+cik,0001302350
+isin,US46629U1079
+cusip,46629U107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Capital Markets
+website,https://www.jmpg.com/
+description,"JMP Group LLC provides investment banking, sales and trading, and equity research services to corporate and institutional clients, and alternative asset management products and services to institutional investors and high net-worth individuals. The company is headquartered in San Francisco, California and currently employs 226 full-time employees. The firm operates in five segments: Broker-Dealer, Asset Management, Corporate Credit, Investment Income and Corporate Costs. The Broker-Dealer segment includes a range of services, such as underwriting and acting as a placement agent for public and private capital markets raising transactions and financial advisory services in mergers and acquisitions, restructuring and other strategic transactions. The Asset Management segment includes the management of a range of pooled investment vehicles. The Corporate Credit segment includes the management of collateralized loan obligations and small business loans. The Investment Income segment includes income from the Company's principal investments in public and private securities."
+ceo,Mr. Joseph Andrew Jolson
+sector,Financial Services
+country,US
+fullTimeEmployees,209
+phone,14158358900
+address,600 Montgomery St Ste 1100
+city,San Francisco
+state,CALIFORNIA
+zip,94111
+dcfDiff,-3.98
+dcf,5.03827
+image,https://financialmodelingprep.com/image-stock/JMP.jpg
+ipoDate,2007-05-11
+defaultImage,True

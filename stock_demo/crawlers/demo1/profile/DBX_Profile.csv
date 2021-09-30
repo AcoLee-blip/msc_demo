@@ -1,0 +1,33 @@
+,0
+symbol,DBX
+price,19.01
+beta,0.0
+volAvg,5192661
+mktCap,7862859300
+lastDiv,0.0
+range,14.55-24.14
+changes,0.24
+companyName,Dropbox Inc
+currency,USD
+cik,0001467623
+isin,US26210C1045
+cusip,26210C104
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.dropbox.com/
+description,"Dropbox, Inc. is a collaboration platform that's transforming the way people and teams work together. The company is headquartered in San Francisco, California and currently employs 2,323 full-time employees. The firm provides a Dropbox collaboration platform, which enables users to create, access, organize, share, collaborate and secure the content. Its Dropbox paper allow users to co-author content, tag others, assign tasks with due dates, embed and comment on files, tables, checklists and code snippets in real-time. Its Dropbox Smart Sync enables users to access their content on their computers without taking up storage space on their local hard drives. Its Dropbox Showcase enables users to present their work to clients and business partners through a Webpage."
+ceo,Mr. Andrew Houston
+sector,Technology
+country,US
+fullTimeEmployees,2801
+phone,14159867057
+address,1800 Owens St Ste 200
+city,San Francisco
+state,CALIFORNIA
+zip,94158
+dcfDiff,
+dcf,21.3194
+image,https://financialmodelingprep.com/image-stock/DBX.png
+ipoDate,2018-03-23
+defaultImage,False

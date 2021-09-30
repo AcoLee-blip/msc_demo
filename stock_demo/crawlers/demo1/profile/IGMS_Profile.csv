@@ -1,0 +1,33 @@
+,0
+symbol,IGMS
+price,54.09
+beta,0.0
+volAvg,202766
+mktCap,1660595460
+lastDiv,0.0
+range,19.43-89.81
+changes,0.73
+companyName,IGM Biosciences Inc
+currency,USD
+cik,0001496323
+isin,US4495851085
+cusip,449585108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://igmbio.com/
+description,"IGM Biosciences, Inc. operates as a biotechnology company which develops antibodies for the treatment of cancer. The company is headquartered in Mountain View, California and currently employs 54 full-time employees. The company has developed IgM antibody technology platform that is particularly well suited for developing T cell engagers, receptor cross-linking agonists and targeted cytokines. The Company’s lead product candidates are IGM-2323: CD20 x CD3 and Death Receptor 5 (DR5). Its IgM platform enables to create a broad pipeline of product candidates. The firm is also conducting research and discovery programs on CD3 T cell engaging antibodies; T cell stimulating antibodies, including antibodies that target T cell stimulatory members of the TNFrSF; and antibodies that are intended to deliver IL-15 to a target to enhance cancer immune responses while limiting systemic toxicity. Its product pipelines also include CD20 x CD3, CD123 x CD3, CD38 x CD3, solid tumor target x CD3 programs, OX40 and glucocorticoid-induced TNFr-related protein (GITR)."
+ceo,Mr. Fred Schwarzer
+sector,Healthcare
+country,US
+fullTimeEmployees,77
+phone,16509657873
+address,325 E Middlefield Rd
+city,Mountain View
+state,CALIFORNIA
+zip,94043
+dcfDiff,
+dcf,64.3999
+image,https://financialmodelingprep.com/image-stock/IGMS.jpg
+ipoDate,2019-09-18
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,ATHX
+price,1.88
+beta,-1.75691
+volAvg,1653973
+mktCap,371676000
+lastDiv,0.0
+range,1.13-4.38
+changes,-0.01
+companyName,Athersys Inc
+currency,USD
+cik,0001368148
+isin,US04744L1061
+cusip,04744L106
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.athersys.com/
+description,"Athersys, Inc. engages in the discovery and development of therapies designed to extend and enhance to quality of human life. The company is headquartered in Cleveland, Ohio and currently employs 75 full-time employees. The firm's MultiStem cell therapy, an allogeneic stem cell product, is its lead platform product and is in later-stage clinical development. Its clinical development programs are focused on treating neurological conditions, cardiovascular disease, inflammatory and immune disorders, certain pulmonary conditions and other conditions where the standard of care is limited or inadequate for many patients."
+ceo,Dr. Gil Van Bokkelen
+sector,Healthcare
+country,US
+fullTimeEmployees,83
+phone,12164319900
+address,3201 Carnegie Ave
+city,CLEVELAND
+state,OHIO
+zip,44115
+dcfDiff,
+dcf,1.84099
+image,https://financialmodelingprep.com/image-stock/ATHX.png
+ipoDate,2007-04-23
+defaultImage,False

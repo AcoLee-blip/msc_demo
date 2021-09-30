@@ -1,0 +1,33 @@
+,0
+symbol,ADX
+price,17.01
+beta,0.99215
+volAvg,200240
+mktCap,1848697860
+lastDiv,1.42
+range,10.16-17.74
+changes,-0.08
+companyName,Adams Diversified Equity Fund Inc
+currency,USD
+cik,0000002230
+isin,US0062121043
+cusip,006212104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Asset Management
+website,http://www.adamsfunds.com/funds/
+description,"Adams Diversified Equity Fund, Inc. (the Fund) is a diversified, closed-end equity investment company. The Fund's investment objectives are preservation of capital, the attainment of reasonable income from investments and an opportunity for capital appreciation. Its portfolio includes investments in consumer discretionary, consumer staples, energy, financials, healthcare, industrials, information technology, materials, real estate, telecommunication services and utilities. The Fund is internally managed."
+ceo,Mr. Mark Stoeckle
+sector,Financial Services
+country,US
+fullTimeEmployees,30
+phone,14107525900
+address,500 E Pratt St Ste 1300
+city,Baltimore
+state,MARYLAND
+zip,21202
+dcfDiff,
+dcf,0.0
+image,https://financialmodelingprep.com/image-stock/ADX.png
+ipoDate,1980-03-17
+defaultImage,False

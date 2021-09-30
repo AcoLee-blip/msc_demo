@@ -1,0 +1,33 @@
+,0
+symbol,SANM
+price,32.06
+beta,0.95364
+volAvg,437636
+mktCap,2172507650
+lastDiv,0.0
+range,18.34-34.96
+changes,1.22
+companyName,Sanmina Corp
+currency,USD
+cik,0000897723
+isin,US8010561020
+cusip,801056102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Electronic Components
+website,
+description,"Sanmina Corp. engages in the provision of integrated manufacturing solutions, components, products and repair, logistics, and after-market services. The company is headquartered in San Jose, California and currently employs 43,000 full-time employees. The firm provides its offerings primarily to original equipment manufacturers (OEMs) in various industries, including communications networks, storage, industrial, defense and aerospace, medical and energy. The firm operates through two businesses: Integrated Manufacturing Solutions (IMS) and Components, Products and Services (CPS). IMS consists of printed circuit board assembly and test, final system assembly and test, and direct-order-fulfillment. Its Components include interconnect systems and mechanical systems. Its Products include memory, radio frequency (RF), optical and microelectronics solutions, defense and aerospace products, storage solutions and cloud-based manufacturing execution software. Its Services include design, engineering, logistics and repair services."
+ceo,Mr. Hartmut Liebel
+sector,Technology
+country,US
+fullTimeEmployees,43000
+phone,14089643500
+address,2700 N 1st St
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,
+dcf,32.6581
+image,https://financialmodelingprep.com/image-stock/SANM.jpg
+ipoDate,1993-04-14
+defaultImage,True

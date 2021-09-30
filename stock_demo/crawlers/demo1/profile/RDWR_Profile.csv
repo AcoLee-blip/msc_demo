@@ -1,0 +1,33 @@
+,0
+symbol,RDWR
+price,25.03
+beta,0.92165
+volAvg,214563
+mktCap,1155389820
+lastDiv,0.0
+range,16.02-26.99
+changes,0.39
+companyName,Radware Ltd
+currency,USD
+cik,0001094366
+isin,IL0010834765
+cusip,M81873107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.radware.com
+description,"Radware Ltd. engages in the provision of application delivery and cyber security solutions for virtual, cloud, and software defined data centers. The firm's solutions incorporate Distributed Denial of Service protection, Web application firewall (WAF) and Application Delivery Controllers (ADC) technologies to enable its customers to provide cyber-attack mitigation solutions for a range of applications. The firm's products and activities are focused on protecting against cyber-attacks and ensuring optimal application service level for enterprises' and carriers' data centers. Its solutions include application and network security, and application delivery. Its application and network Security products include DefensePro Attack Mitigation Device, AppWall Web Application Firewall, DefenseFlow Cyber Command and Control application, and DefensePipe Cloud Scrubbing Service. Its application delivery products include Alteon NG, LinkProof NG and FastView. Its management solutions include APSolute Vision, application performance monitoring and vDirect."
+ceo,Mr. Roy Zisapel
+sector,Technology
+country,IL
+fullTimeEmployees,358
+phone,97237668666
+address,22 Raoul Wallenberg Street
+city,TEL AVIV-YAFO
+state,
+zip,6971917
+dcfDiff,-12.71
+dcf,31.4391
+image,https://financialmodelingprep.com/image-stock/RDWR.png
+ipoDate,1999-09-30
+defaultImage,False

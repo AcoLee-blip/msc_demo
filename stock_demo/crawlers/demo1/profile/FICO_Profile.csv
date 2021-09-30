@@ -1,0 +1,33 @@
+,0
+symbol,FICO
+price,470.09
+beta,1.08845
+volAvg,194029
+mktCap,13678772200
+lastDiv,0.0
+range,177.65-474.99
+changes,8.37
+companyName,Fair Isaac Corp
+currency,USD
+cik,0000814547
+isin,US3032501047
+cusip,303250104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,http://www.fico.com
+description,"Fair Isaac Corp. engages in the provision of decision management solutions. The company is headquartered in San Jose, California and currently employs 4,009 full-time employees. The firm operates through three segments: Applications, Scores and Decision Management Software. The Applications segment includes pre-configured decision management applications designed for a specific type of business problem or process, such as marketing, account origination, customer management, fraud, collections and insurance claims management. The Scores segment includes business-to-business scoring solutions and services, business-to-consumer scoring solutions and services, including myFICO solutions for consumers. The Decision Management Software segment consists of analytic and decision management software tools that clients can use to create their own custom decision management applications, its new FICO Decision Management Suite, as well as associated professional services."
+ceo,SECMr. William Lansing
+sector,Technology
+country,US
+fullTimeEmployees,4029
+phone,14085351500
+address,181 Metro Dr Ste 700
+city,San Jose
+state,CALIFORNIA
+zip,95110
+dcfDiff,
+dcf,435.283
+image,https://financialmodelingprep.com/image-stock/FICO.png
+ipoDate,1987-07-22
+defaultImage,False

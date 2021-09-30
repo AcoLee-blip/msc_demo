@@ -1,0 +1,33 @@
+,0
+symbol,CRSP
+price,101.77
+beta,2.3482
+volAvg,975156
+mktCap,7190294500
+lastDiv,0.0
+range,32.3-111.9
+changes,1.13
+companyName,CRISPR Therapeutics AG
+currency,USD
+cik,0001674416
+isin,CH0334081137
+cusip,H17182108
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.crisprtx.com/about-us/contact
+description,"CRISPR Therapeutics AG engages in the development and commercialization of therapies derived from genome-editing technology. The company is headquartered in Zug, Zug and currently employs 188 full-time employees. The company focuses on the development of transformative gene-based medicines for serious diseases. The firm develops its products using Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9 gene-editing platform, which allows for precise directed changes to genomic deoxyribonucleic acid (DNA). The firm has a portfolio of therapeutic programs in a range of disease areas, including hemoglobinopathies, oncology, regenerative medicine and rare diseases. Its lead product candidate is CTX001, an ex vivo CRISPR gene-edited therapy for treating patients suffering from transfusion-dependent beta thalassemia or severe sickle cell disease in which a patient’s hematopoietic stem cells are engineered to produce high levels of fetal hemoglobin in red blood cells. The firm has business operations in London and the United Kingdom, as well as research and development operations in the United States."
+ceo,Dr. Samarth Kulkarni
+sector,Healthcare
+country,CH
+fullTimeEmployees,304
+phone,41415613277
+address,Baarerstrasse 14
+city,Zug
+state,ZUG
+zip,6300
+dcfDiff,-38.65
+dcf,108.797
+image,https://financialmodelingprep.com/image-stock/CRSP.jpg
+ipoDate,
+defaultImage,True

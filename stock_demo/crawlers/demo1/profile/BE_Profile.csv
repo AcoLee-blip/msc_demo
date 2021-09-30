@@ -1,0 +1,33 @@
+,0
+symbol,BE
+price,17.1
+beta,0.0
+volAvg,5969383
+mktCap,2841985790
+lastDiv,0.0
+range,3.0-23.38
+changes,0.0
+companyName,Bloom Energy Corp
+currency,USD
+cik,0001664703
+isin,US0937121079
+cusip,093712107
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Electrical Equipment & Parts
+website,http://www.bloomenergy.com/
+description,"Bloom Energy Corp. engages in the manufacture and installation of on-site distributed power generators. The company is headquartered in San Jose, California and currently employs 1,524 full-time employees. The firm's technology generates onsite power from multiple fuel sources. The company offers Bloom Energy Server, a solid oxide fuel cell technology energy server that is a distributed power generator, which produces electricity at the customer site. In an Energy Server, multiple stacks are aggregated together into a power module, and then multiple power modules, along with a common fuel input and electrical output are assembled as a complete system. The firm offers its services to the banking, financial services, cloud services, data centers, technology, communications and media, consumer packaged goods and consumables, government, healthcare, hospitality, logistics, manufacturing, real estate, and retail industries. Its manufacturing facilities are located in California and Delaware."
+ceo,DR. K. R. Sridhar
+sector,Industrials
+country,US
+fullTimeEmployees,1518
+phone,14085431500
+address,4353 N 1st St
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,
+dcf,23.0407
+image,https://financialmodelingprep.com/image-stock/BE.png
+ipoDate,2018-07-25
+defaultImage,False

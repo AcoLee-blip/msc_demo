@@ -1,0 +1,33 @@
+,0
+symbol,RMBS
+price,15.565
+beta,1.01366
+volAvg,636249
+mktCap,1773211390
+lastDiv,0.0
+range,9.01-16.98
+changes,0.115
+companyName,Rambus Inc
+currency,USD
+cik,0000917273
+isin,US7509171069
+cusip,750917106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.rambus.com
+description,"Rambus, Inc. engages in the provision of cutting-edge semiconductor and Internet Protocol products, spanning memory and interfaces to security, smart sensors and lighting. The company is headquartered in Sunnyvale, California and currently employs 796 full-time employees. The firm's segments include Memory and Interface Division (MID), which focuses the design, development, manufacturing through partnerships and licensing of technology and solutions that is related to memory and interfaces; Rambus Security Division (RSD), which focuses on the design, development and licensing of technologies for chip and system security and anti-counterfeiting; Emerging Solutions Division (ESD), which encompasses its long-term research and development efforts in the area of emerging technologies, and Rambus Lighting Division (RLD), which focuses on the design, development and licensing of technologies for lighting. The firm collaborates with application-specific integrated circuit (ASIC) and System-on-Chip (SoC) designers, foundries, Internet protocol (IP) developers, processor companies, electronic design automation (EDA) companies and validation laboratories."
+ceo,Mr. Luc Seraphin
+sector,Technology
+country,US
+fullTimeEmployees,685
+phone,14084628000
+address,1050 Enterprise Way Ste 700
+city,Sunnyvale
+state,CALIFORNIA
+zip,94089
+dcfDiff,
+dcf,15.1609
+image,https://financialmodelingprep.com/image-stock/RMBS.png
+ipoDate,1997-05-14
+defaultImage,False

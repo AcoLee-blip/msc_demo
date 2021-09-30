@@ -1,0 +1,33 @@
+,0
+symbol,GSAT
+price,0.3292
+beta,0.45785
+volAvg,1645958
+mktCap,549898940
+lastDiv,0.0
+range,0.23-0.6
+changes,-0.0031
+companyName,Globalstar Inc
+currency,USD
+cik,0001366868
+isin,US3789734080
+cusip,378973408
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Communication Services
+website,https://www.globalstar.com/
+description,"Globalstar, Inc. provides mobile satellite services, voice and data communications services through satellite worldwide. The company is headquartered in Covington, Louisiana and currently employs 353 full-time employees. The firm provides wireless communications services in areas not served or underserved by terrestrial wireless and wireline networks and in circumstances where terrestrial networks are not operational due to natural or man-made disasters. The company offers voice and data communication services over its network of in-orbit satellites and its active ground stations (gateways), which it refers to collectively as the Globalstar System. The firm's services are available only with equipment designed to work on its network two-way voice communication and data transmissions (Duplex) using mobile or fixed devices, and one-way data transmissions (Simplex) using a mobile or fixed device that transmits its location and other information to a central monitoring station, including certain SPOT and Simplex products."
+ceo,Mr. David Kagan
+sector,Communication Services
+country,US
+fullTimeEmployees,336
+phone,14089334000
+address,1351 Holiday Square Blvd.
+city,Covington
+state,LOUISIANA
+zip,
+dcfDiff,3.66
+dcf,4.26
+image,https://financialmodelingprep.com/image-stock/GSAT.png
+ipoDate,2006-11-02
+defaultImage,False

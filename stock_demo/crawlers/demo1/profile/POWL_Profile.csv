@@ -1,0 +1,33 @@
+,0
+symbol,POWL
+price,25.92
+beta,1.32691
+volAvg,53826
+mktCap,301050432
+lastDiv,1.3
+range,15.62-50.81
+changes,0.25
+companyName,Powell Industries Inc
+currency,USD
+cik,0000080420
+isin,US7391281067
+cusip,739128106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Electrical Equipment & Parts
+website,http://www.powellind.com/
+description,"Powell Industries, Inc. engages in the development, design, manufacture, and provision of services of custom-engineered products and systems. The company is headquartered in Houston, Texas and currently employs 2,312 full-time employees. The firm's principal products include integrated power control room substations (PCRs), custom-engineered modules, electrical houses (E-Houses), traditional and arc-resistant distribution switchgear and control gear, medium-voltage circuit breakers, monitoring and control communications systems, motor control centers and bus duct systems. These products are designed for application voltages ranging from 480 volts to 38,000 volts, and are used in oil and gas refining, offshore oil and gas production, petrochemical, pipeline, terminal, mining and metals, light rail traction power, electric utility, pulp and paper, and other heavy industrial markets."
+ceo,Mr. Brett Cope
+sector,Industrials
+country,US
+fullTimeEmployees,2312
+phone,17139446900
+address,"8550 Mosley Rd, PO Box 12818"
+city,Houston
+state,TEXAS
+zip,77075
+dcfDiff,-15.37
+dcf,34.8376
+image,https://financialmodelingprep.com/image-stock/POWL.jpg
+ipoDate,1980-03-17
+defaultImage,True

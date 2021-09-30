@@ -1,0 +1,33 @@
+,0
+symbol,AVT
+price,27.805
+beta,1.42808
+volAvg,695393
+mktCap,2747948540
+lastDiv,0.84
+range,17.85-43.0
+changes,-0.745
+companyName,Avnet Inc
+currency,USD
+cik,0000008858
+isin,US0538071038
+cusip,053807103
+exchange,New York Stock Exchange
+exchangeShortName,NASDAQ
+industry,Electronics & Computer Distribution
+website,https://www.avnet.com/
+description,"Avnet, Inc. engages in the distribution and sale of electronic components. The company is headquartered in Phoenix, Arizona and currently employs 15,500 full-time employees. The firm operates through Electronics Marketing (EM) segment. The EM segment markets and sells semiconductors; interconnect, passive and electromechanical devices (IP&E), and embedded products to a customer base serving various end markets. The firm creates a link in the technology supply chain that connects electronic component and computer product manufacturers and software developers with a customer base of original equipment manufacturers (OEMs), electronic manufacturing services (EMS) providers, original design manufacturers (ODMs), systems integrators (SIs), independent software vendors (ISVs) and value-added resellers (VARs). The firm distributes electronic components, computer products and software, as received from its suppliers or through a customized solution, and offers assembly and other services."
+ceo,Mr. William Amelio
+sector,Technology
+country,US
+fullTimeEmployees,15500
+phone,14806432000
+address,2211 S 47th St
+city,Phoenix
+state,ARIZONA
+zip,85034
+dcfDiff,2.41
+dcf,32.2379
+image,https://financialmodelingprep.com/image-stock/AVT.png
+ipoDate,1960-12-30
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,PSTV
+price,2.23
+beta,0.44479
+volAvg,843426
+mktCap,10658463
+lastDiv,0.0
+range,0.93-3.56
+changes,0.0
+companyName,Plus Therapeutics Inc
+currency,USD
+cik,0001095981
+isin,US72941H4002
+cusip,72941H400
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.plustherapeutics.com/
+description,"Plus Therapeutics, Inc. is a clinical-stage pharmaceutical company, which engages in the discovery, development, and delivery of complex and innovative treatments for patients battling cancer and rare diseases. The company is headquartered in Austin, Texas and currently employs 37 full-time employees. The firm is focused on developing treatments for patients battling cancer. The firm provides nanotechnology platform to reformulate and improve workhorse chemotherapeutics to provide benefits to patients and healthcare providers. The firm is focused on developing generic oncology drugs that address unmet medical and market needs. The Company’s lead product candidate, DocePLUS, is an albumin-stabilized PEGylated liposomal formulation of docetaxel. DocePLUS is developed for the treatment of patients with small cell lung cancer (SCLC). The firm is also developing DoxoPLUS, which is a generic PEGylated liposomal formulation of doxorubicin. DoxoPLUS is developed for the treatment of breast cancer, ovarian cancer, multiple myeloma and Kaposi’s sarcoma."
+ceo,Dr. Marc Hedrick
+sector,Healthcare
+country,US
+fullTimeEmployees,12
+phone,17372557194
+address,4200 Marathon Blvd Ste 200
+city,Austin
+state,TEXAS
+zip,78756
+dcfDiff,
+dcf,15.282
+image,https://financialmodelingprep.com/image-stock/PSTV.jpg
+ipoDate,2000-08-09
+defaultImage,True

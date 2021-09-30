@@ -1,0 +1,33 @@
+,0
+symbol,EB
+price,12.785
+beta,0.0
+volAvg,1120836
+mktCap,1171691520
+lastDiv,0.0
+range,5.71-22.9
+changes,0.185
+companyName,Eventbrite Inc
+currency,USD
+cik,0001475115
+isin,US29975E1091
+cusip,29975E109
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.eventbrite.com
+description,"Eventbrite, Inc. provides event management services encompassing online ticketing, event hosting, organization, promotion and advertising. The company is headquartered in San Francisco, California and currently employs 1,075 full-time employees. The Company’s platform allows anyone to create, share, find and attend events. The company enable events ranging from fundraisers, seminars, wellness activities and music festivals to classes and cultural celebrations all over the world. Its platform also allows developers to integrate services from third-party partners. The company provides an organizer application that is customized to enable creators to create, manage and handle onsite needs. The company also provides the Eventbrite application for consumers that enables them to discover, purchase and gain access to events. The Company’s platform allows creators to set up professional ticketing and registration pages on any device. Users can customize this flow to include multiple ticket types and specifications, design checkout forms, integrate fundraising, implement waitlists and more. The company also offers three pricing packages: Essentials, Professional and Premium."
+ceo,Ms. Julia Hartz
+sector,Technology
+country,US
+fullTimeEmployees,1111
+phone,18884145119
+address,155 5th St Fl 7
+city,San Francisco
+state,CALIFORNIA
+zip,94103
+dcfDiff,
+dcf,14.4119
+image,https://financialmodelingprep.com/image-stock/EB.jpg
+ipoDate,2018-09-20
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,DAIO
+price,3.7
+beta,1.3817
+volAvg,22386
+mktCap,31063720
+lastDiv,0.0
+range,2.34-4.52
+changes,-0.04
+companyName,Data I/O Corp
+currency,USD
+cik,0000351998
+isin,US2376901029
+cusip,237690102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Electronic Components
+website,http://dataio.com/
+description,"Data I/O Corp. engages in the provision of programming, security provisioning and associated intellectual property management solutions used in electronics manufacturing with flash memory, microcontrollers and flash memory-based intelligent devices as well as secure element devices and secure microcontrollers. The company is headquartered in Redmond, Washington and currently employs 102 full-time employees. The firm's solutions are used in the manufacturing of flash, microcontrollers and flash-memory-based intelligent devices. The company designs, manufactures and sells programming systems used by designers and manufacturers of electronic products. Its solutions, including associated intellectual property management, secure content management and process control capabilities, enable it to address the requirements of the electronic device market. The company provides services related to hardware support, system installation and repair, and device programming. Its programming solutions include a range of products, systems, modules and accessories, grouped into over two categories, such as automated programming systems and manual programming systems. Its products include PSV Handlers, RoadRunner and RoadRunner3 Series Handlers, LumenX Programmer, FlashPAK III programmer and Sprint/Unifamily programmers."
+ceo,Mr. Anthony Ambrose
+sector,Technology
+country,US
+fullTimeEmployees,96
+phone,14258676922
+address,6645 185th Ave NE Ste 100
+city,Redmond
+state,WASHINGTON
+zip,98052
+dcfDiff,-0.32
+dcf,1693.57
+image,https://financialmodelingprep.com/image-stock/DAIO.png
+ipoDate,1981-05-06
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,TEAM
+price,192.29
+beta,0.99693
+volAvg,1686944
+mktCap,47919051000
+lastDiv,0.0
+range,110.01-216.295
+changes,-0.71
+companyName,Atlassian Corporation PLC
+currency,USD
+cik,0001650372
+isin,GB00BZ09BD16
+cusip,G06242104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,
+description,"Atlassian Corp. Plc is a holding company, which engages in the design, development, license, and maintenance of software and provision software hosting services. The firm offers a range of team collaboration products. The firm offers products, including JIRA, Confluence, HipChat, Bitbucket and JIRA Service Desk, for software developers, information technology (IT) managers and knowledge workers. The firm offers JIRA for team planning and project management; Confluence for team content creation and sharing; HipChat for team real-time messaging and communications; Bitbucket for team code sharing and management, and JIRA Service Desk for team service and support applications. JIRA allows teams to organize their work into projects and customize dashboards for those projects to keep their teams aligned and on track. Confluence provides a system for organizing, sharing and securing content in spaces arranged by team, project, department and others. The firm also offers additional tools for software developers, such as FishEye, Clover, Crowd, Crucible, Bamboo and SourceTree."
+ceo,Mr. Michael Cannon-Brookes
+sector,Technology
+country,GB
+fullTimeEmployees,3616
+phone,444157011110
+address,"Exchange House, 12 Primrose Street"
+city,LONDON
+state,
+zip,2000
+dcfDiff,-84.8
+dcf,213.043
+image,https://financialmodelingprep.com/image-stock/TEAM.jpg
+ipoDate,2015-12-09
+defaultImage,True

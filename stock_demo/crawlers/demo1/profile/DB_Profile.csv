@@ -1,0 +1,33 @@
+,0
+symbol,DB
+price,10.65
+beta,1.46227
+volAvg,4146607
+mktCap,22159134700
+lastDiv,0.0
+range,4.99-11.16
+changes,0.24
+companyName,Deutsche Bank AG
+currency,EUR
+cik,
+isin,DE0005140008
+cusip,D18190898
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Banks Regional
+website,https://www.db.com/
+description,"Deutsche Bank AG engages in the provision of corporate banking and investment services. The company is headquartered in Frankfurt, Hessen and currently employs 89,958 full-time employees. The firm offers a range of investment, financial and related products and services to private individuals, corporate entities and institutional clients. The company operates through six divisions: Global Markets, which offers financial products, including trading and hedging services to institutions and corporate clients; Corporate & Investment Banking, which brings together its commercial banking, corporate finance and transaction banking capability; Private, Wealth and Commercial Clients, which combines its capability in private and commercial banking, as well as in wealth management solutions; Deutsche Asset Management, whose investment capabilities span both active and passive strategies and an array of asset classes, including equities, fixed income, real estate and sustainable investments; Postbank, which is a German financial service provider for retail, business and corporate clients, and Non-Core Operations Unit."
+ceo,Mr. Christian Sewing
+sector,Financial Services
+country,DE
+fullTimeEmployees,86667
+phone,496991000
+address,Taunusanlage 12
+city,Frankfurt
+state,HESSEN
+zip,60325
+dcfDiff,-14.08
+dcf,140.801
+image,https://financialmodelingprep.com/image-stock/DB.png
+ipoDate,1870-05-30
+defaultImage,False

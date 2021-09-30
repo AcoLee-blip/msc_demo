@@ -1,0 +1,33 @@
+,0
+symbol,DOW
+price,50.94
+beta,0.0
+volAvg,4341860
+mktCap,37784846000
+lastDiv,2.8
+range,21.95-55.75
+changes,-0.1
+companyName,Dow Inc
+currency,USD
+cik,0001751788
+isin,US2605571031
+cusip,260557103
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Chemicals
+website,
+description,"Dow, Inc. materials science company, combining science and technology to develop innovative solutions. The company is headquartered in Midland, Michigan and currently employs 37,000 full-time employees. The Company’s portfolio comprised of six global business units, organized into three operating segments: Performance Materials & Coatings, Industrial Intermediates & Infrastructure and Packaging & Specialty Plastics. Its products serve different applications, including coatings, home and personal care, durable goods, adhesives and sealants, and food and specialty packaging. In addition, the Company operates a global commercial and development network that features eight research and development (R&D) centers."
+ceo,Mr. James Fitterling
+sector,Basic Materials
+country,US
+fullTimeEmployees,36500
+phone,19896361000
+address,2211 H H Dow Way
+city,Midland
+state,MICHIGAN
+zip,48674
+dcfDiff,
+dcf,51.7379
+image,https://financialmodelingprep.com/image-stock/DOW.jpg
+ipoDate,2019-03-20
+defaultImage,True

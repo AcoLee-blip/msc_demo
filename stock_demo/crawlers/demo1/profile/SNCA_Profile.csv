@@ -1,0 +1,33 @@
+,0
+symbol,SNCA
+price,0.57
+beta,1.75811
+volAvg,325336
+mktCap,9858549
+lastDiv,0.0
+range,0.5-4.09
+changes,0.0043
+companyName,Seneca Biopharma Inc
+currency,USD
+cik,0001357459
+isin,US81689B1035
+cusip,81689B103
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.neuralstem.com/
+description,"Seneca Biopharma, Inc. operates as a biopharmaceutical company, which engages in the research, development, and commercialization of central nervous system therapies based on human neuronal stem cells and small molecule compounds. The company is headquartered in Germantown, Maryland and currently employs 6 full-time employees. The firm is focused on developing treatments for diseases of unmet medical need. The company is focused on finding and acquiring new assets, sciences and technologies that provide therapies for patients. The company intends to focus on developing a pipeline of biopharmaceuticals and commercializing those products."
+ceo,Mr. Richard Daly
+sector,Healthcare
+country,US
+fullTimeEmployees,5
+phone,13013664841
+address,20271 Goldenrod Ln Ste 2024
+city,Germantown
+state,MARYLAND
+zip,20876
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/SNCA.png
+ipoDate,2006-12-20
+defaultImage,False

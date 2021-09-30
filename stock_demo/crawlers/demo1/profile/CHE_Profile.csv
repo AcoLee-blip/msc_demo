@@ -1,0 +1,33 @@
+,0
+symbol,CHE
+price,485.76
+beta,0.61057
+volAvg,67249
+mktCap,7748746800
+lastDiv,1.32
+range,330.01-528.29
+changes,-1.55
+companyName,Chemed Corp
+currency,USD
+cik,0000019584
+isin,US16359R1032
+cusip,16359R103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Care Facilities
+website,http://www.chemed.com
+description,"Chemed Corp. engages in the provision of healthcare and maintenance services. The company is headquartered in Cincinnati, Ohio and currently employs 15,707 full-time employees. The firm operates through two segments: the VITAS segment (VITAS) and the Roto-Rooter segment (Roto-Rooter). The firm's VITAS provides hospice and palliative care services to its patients through a network of physicians, registered nurses, home health aides, social workers, clergy and volunteers. VITAS is the provider of hospice services in an industry dominated primarily by small, non-profit, community-based hospices. VITAS provides hospice care to Medicare beneficiaries participating in these managed care programs. A portion of its VITAS business is operated in the state of Florida. The Roto-Rooter segment provides plumbing, drain cleaning, water restoration and other related services to both residential and commercial customers."
+ceo,Mr. Kevin McNamara
+sector,Healthcare
+country,US
+fullTimeEmployees,16641
+phone,15137626690
+address,255 E 5th St Ste 2600
+city,Cincinnati
+state,OHIO
+zip,45202
+dcfDiff,-184.33
+dcf,483.743
+image,https://financialmodelingprep.com/image-stock/CHE.jpg
+ipoDate,1971-05-27
+defaultImage,True

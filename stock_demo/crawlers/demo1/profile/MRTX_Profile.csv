@@ -1,0 +1,33 @@
+,0
+symbol,MRTX
+price,232.55
+beta,1.99073
+volAvg,529718
+mktCap,11692869600
+lastDiv,0.0
+range,66.01-240.58
+changes,0.24
+companyName,Mirati Therapeutics Inc
+currency,USD
+cik,0001576263
+isin,US60468T1051
+cusip,60468T105
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.mirati.com/
+description,"Mirati Therapeutics, Inc. is a clinical-stage oncology company. The company is headquartered in San Diego, California and currently employs 63 full-time employees. The firm is focused on developing a pipeline of targeted oncology products. The firm develops product candidates to address the genetic and immunological promoters of cancer. Its clinical programs consist of two product candidates: MRTX849, a Kirsten Rat Sarcoma (KRAS) G12C inhibitor, and Sitravatinib, a multi-kinase inhibitor. Its KRAS inhibitor program is focused on the discovery and development of small molecule compounds that target KRAS G12C and G12D. MRTX849 is designed to inhibit KRAS G12C mutations which are present in non-small cell lung cancer (NSCLC) adenocarcinoma patients, colorectal cancer (CRC) patients, pancreatic cancer patients, as well as several other difficult-to-treat cancers. Sitravatinib is a spectrum-selective kinase inhibitor designed to inhibit receptor tyrosine kinases (RTKs), including TAM family receptors (TYRO3, Axl, Mer), split family receptors (VEGFR2, KIT) and RET."
+ceo,Dr. Charles Baum
+sector,Healthcare
+country,US
+fullTimeEmployees,111
+phone,18583323410
+address,9393 Towne Centre Dr Ste 200
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,
+dcf,186.182
+image,https://financialmodelingprep.com/image-stock/MRTX.png
+ipoDate,2013-07-12
+defaultImage,False

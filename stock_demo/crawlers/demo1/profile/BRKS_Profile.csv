@@ -1,0 +1,33 @@
+,0
+symbol,BRKS
+price,65.09
+beta,1.72486
+volAvg,416470
+mktCap,4805711400
+lastDiv,0.4
+range,21.19-72.29
+changes,-1.51
+companyName,Brooks Automation Inc
+currency,USD
+cik,0000933974
+isin,US1143401024
+cusip,114340102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.brooks.com/
+description,"Brooks Automation, Inc. engages in the provision of automation and cryogenic solutions for multiple markets, including semiconductor capital equipment and life science biological sample management and storage. The company is headquartered in Chelmsford, Massachusetts and currently employs 2,984 full-time employees. The firm operates through two segments: Brooks Semiconductor Solutions Group and Brooks Life Science Systems. The Brooks Semiconductor Solutions Group segment offers critical automated transport, vacuum and contamination control solutions and services. Its product offerings include robots and integrated automation systems for handling of substrates. The company also offers equipment for automated contamination control, conditioning and metrology solutions for wafer and reticle carriers. The Brooks Life Science Systems segment offers sample life cycle management solutions that provide life science and bioscience customers with a range of sample management solutions for scientific research and support drug development."
+ceo,Dr. Stephen Schwartz
+sector,Technology
+country,US
+fullTimeEmployees,2984
+phone,19782622400
+address,15 Elizabeth Dr
+city,Chelmsford
+state,MASSACHUSETTS
+zip,01824
+dcfDiff,
+dcf,52.4471
+image,https://financialmodelingprep.com/image-stock/BRKS.jpg
+ipoDate,1995-02-02
+defaultImage,True

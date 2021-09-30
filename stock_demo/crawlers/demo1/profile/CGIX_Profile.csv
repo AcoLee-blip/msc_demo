@@ -1,0 +1,33 @@
+,0
+symbol,CGIX
+price,2.23
+beta,2.78342
+volAvg,1857029
+mktCap,9088008
+lastDiv,0.0
+range,1.92-10.39
+changes,0.01
+companyName,Cancer Genetics Inc
+currency,USD
+cik,0001349929
+isin,US13739U2033
+cusip,13739U203
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.cancergenetics.com
+description,"Cancer Genetics, Inc. engages in the development, commercialization, and sale of molecular and biomarker-based tests and services. The company is headquartered in Rutherford, New Jersey and currently employs 218 full-time employees. Through its subsidiary, the Company offers preclinical test systems. The firm offers discovery services to the pharmaceutical industry, biotechnology companies and academic research centers. The firm provides the tools and testing methods for companies and researchers to identify new molecular- and biomarker-based indicators for disease and to determine the pharmacogenomics, toxicity and efficacy of therapeutic candidate compounds. Its discovery services include development of both xenograft and syngeneic animal models, toxicology and genetic toxicology services, pharmacology testing, pathology services, and validation of biomarkers for diseases including cancers. The company also provides consulting, guidance and preparation of samples."
+ceo,Mr. John Roberts
+sector,Healthcare
+country,US
+fullTimeEmployees,110
+phone,12015289200
+address,201 State Rt 17 Fl 2
+city,Rutherford
+state,NEW JERSEY
+zip,07070
+dcfDiff,-99.11
+dcf,5.96245
+image,https://financialmodelingprep.com/image-stock/CGIX.png
+ipoDate,2013-04-10
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,LH
+price,201.18
+beta,1.23306
+volAvg,712241
+mktCap,19594932200
+lastDiv,0.0
+range,98.02-218.77
+changes,-0.36
+companyName,Laboratory Corporation of America Holdings
+currency,USD
+cik,0000920148
+isin,US50540R4092
+cusip,50540R409
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.labcorp.com
+description,"Laboratory Corp. of America Holdings is a clinical laboratory company. The company is headquartered in Burlington, North Carolina and currently employs 61,000 full-time employees. The firm operates as a healthcare diagnostics company. The firm operates through two segments: LabCorp Diagnostics (LCD) and Covance Drug Development (CDD). The LCD segment is an independent clinical laboratory business, which offers menu of frequently requested and specialty testing through an integrated network of primary and specialty laboratories across the United States. The CDD segment offers drug development services, and provides a range of drug research and development (R&D) and market access services to biopharmaceutical companies and medical device companies across the world. The company serves a range of customers, including managed care organizations (MCOs), biopharmaceutical companies, governmental agencies, physicians and other healthcare providers."
+ceo,Mr. Adam Schechter
+sector,Healthcare
+country,US
+fullTimeEmployees,65000
+phone,13362291127
+address,358 S MAIN ST
+city,Burlington
+state,NORTH CAROLINA
+zip,27215
+dcfDiff,
+dcf,207.32
+image,https://financialmodelingprep.com/image-stock/LH.png
+ipoDate,1991-04-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,CRNC
+price,64.0
+beta,0.0
+volAvg,614773
+mktCap,2350246400
+lastDiv,0.0
+range,11.39-67.735
+changes,-0.82
+companyName,Cerence Inc
+currency,USD
+cik,0001768267
+isin,US1567271093
+cusip,156727109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.cerence.com/
+description,"Cerence, Inc. builds automotive cognitive assistance solutions to power natural and intuitive interactions between automobiles, drivers and passengers, and the broader digital world. The company is headquartered in Burlington, Massachusetts and currently employs 1,400 full-time employees. The firm provides artificial intelligence (AI)-powered assistants for connected and autonomous vehicles, including software platforms for building automotive virtual assistants. Its platform uses speech recognition, natural language understanding, speech signal enhancement and acoustic modeling technology. Automotive virtual assistants developed with the Company’s platform enables a range of modes of human-vehicle interaction, including speech, touch, handwriting, gaze tracking and gesture recognition, and supports the integration of third-party virtual assistants into the in-vehicle experience. Its software platform’s edge software components are installed on a vehicle’s head unit and can operate without access to external networks and information. The company also offers professional services, such as personalization of grammar and natural language understanding development."
+ceo,Mr. Sanjay Dhawan
+sector,Technology
+country,US
+fullTimeEmployees,1400
+phone,16175800843
+address,15 Wayside Rd
+city,Burlington
+state,MASSACHUSETTS
+zip,01803
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/CRNC.png
+ipoDate,2019-09-16
+defaultImage,False

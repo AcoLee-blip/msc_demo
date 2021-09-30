@@ -1,0 +1,33 @@
+,0
+symbol,COUP
+price,289.39
+beta,1.51346
+volAvg,1255270
+mktCap,20619589600
+lastDiv,0.0
+range,99.01-353.55
+changes,1.39
+companyName,Coupa Software Inc
+currency,USD
+cik,0001385867
+isin,US22266L1061
+cusip,22266L106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.coupa.com/
+description,"Coupa Software, Inc. engages in the provision of business spend management (BSM) solutions. The company is headquartered in San Mateo, California and currently employs 1,202 full-time employees. The firm offers spend management cloud applications, which are pre-integrated. The platform offers consumerized financial applications. Its spend management suite includes procurement, invoicing, expenses, sourcing, inventory, contract lifecycle management, budgeting, analytics, open business network, supplier information management and storefront. The platform offers features, such as Procurement, Invoicing and Expense Management. Procurement module enables customers to strategically establish spend policies and approval rules to govern company spending. Invoicing module enables customers to improve cash management through the effective management of supplier invoices via embedded dashboards. Expense management module enables customers to gain control of the expenses incurred by employees."
+ceo,Mr. Robert Bernshteyn
+sector,Technology
+country,US
+fullTimeEmployees,1693
+phone,16509313200
+address,1855 S Grant St
+city,San Mateo
+state,CALIFORNIA
+zip,94402
+dcfDiff,-97.86
+dcf,298.9
+image,https://financialmodelingprep.com/image-stock/COUP.png
+ipoDate,2016-10-06
+defaultImage,False

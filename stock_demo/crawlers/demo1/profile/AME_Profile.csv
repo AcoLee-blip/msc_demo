@@ -1,0 +1,33 @@
+,0
+symbol,AME
+price,115.45
+beta,1.33253
+volAvg,921470
+mktCap,26561003500
+lastDiv,0.68
+range,54.82-118.95
+changes,-1.31
+companyName,AMETEK Inc
+currency,USD
+cik,0001037868
+isin,US0311001004
+cusip,031100100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,https://www.ametek.com/
+description,"AMETEK, Inc. engages in the manufacture of electronic instruments and electromechanical devices. The company is headquartered in Berwyn, Pennsylvania and currently employs 18,200 full-time employees. The firm operates through two segments: Electronic Instruments (EIG) and Electromechanical (EMG). EIG designs and manufactures instruments for the process, power and industrial and aerospace markets. EIG provides process and analytical instruments for the oil, gas, petrochemical, pharmaceutical, semiconductor and automation markets. The company makes monitoring and metering devices, industrial battery chargers and uninterruptible power supplies, programmable power equipment, electrical test equipment and gas turbine sensors. EMG is a differentiated supplier of precision motion control solutions, thermal management systems, specialty metals and electrical interconnects. Its end markets include medical, automation, petrochemical and other industrial markets. The company operates a network of aviation maintenance, repair and overhaul (MRO) facilities."
+ceo,Mr. David Zapico
+sector,Industrials
+country,US
+fullTimeEmployees,18100
+phone,16106472121
+address,"1100 Cassatt Rd, PO Box 1764"
+city,Berwyn
+state,PENNSYLVANIA
+zip,19312-1177
+dcfDiff,-30.29
+dcf,108.863
+image,https://financialmodelingprep.com/image-stock/AME.png
+ipoDate,1930-07-01
+defaultImage,False

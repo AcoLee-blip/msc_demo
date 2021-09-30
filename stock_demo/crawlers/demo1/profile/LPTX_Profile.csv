@@ -1,0 +1,33 @@
+,0
+symbol,LPTX
+price,1.595
+beta,1.61475
+volAvg,542426
+mktCap,95154032
+lastDiv,0.0
+range,0.585-3.18
+changes,0.055
+companyName,Leap Therapeutics Inc
+currency,USD
+cik,0001509745
+isin,US52187K1016
+cusip,52187K101
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.leaptx.com/
+description,"Leap Therapeutics, Inc. is a clinical stage biopharmaceutical company, which engages in developing novel therapies designed to treat patients with cancer. The company is headquartered in Cambridge, Massachusetts and currently employs 23 full-time employees. The Company’s programs are monoclonal antibodies that target key cellular pathways that enable cancer to grow and spread and specific mechanisms that activate the body’s immune system to identify and attack cancer. DKN-01 and TRX518 are its clinical stage programs. DKN-01 is a monoclonal antibody that inhibits Dickkopf-related protein 1 (DKK1). DKK1 is a protein that regulates the Wnt signaling pathways and enables tumor cells to proliferate and spread, as well as suppresses the immune system from attacking the tumor. TRX518 is a monoclonal antibody targeting the glucocorticoid-induced tumor necrosis factor-related receptor (GITR). GITR is a receptor found on the surface of a wide range of immune cells."
+ceo,Dr. Christopher Mirabelli
+sector,Healthcare
+country,US
+fullTimeEmployees,24
+phone,16172524343
+address,47 Thorndike St Ste B1-1
+city,Cambridge
+state,MASSACHUSETTS
+zip,02141
+dcfDiff,
+dcf,2.2523
+image,https://financialmodelingprep.com/image-stock/LPTX.png
+ipoDate,2017-01-24
+defaultImage,False

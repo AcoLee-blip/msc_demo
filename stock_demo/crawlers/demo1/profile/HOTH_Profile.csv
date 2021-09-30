@@ -1,0 +1,33 @@
+,0
+symbol,HOTH
+price,1.74
+beta,0.0
+volAvg,250366
+mktCap,23376552
+lastDiv,0.0
+range,1.6-7.25
+changes,0.0
+companyName,Hoth Therapeutics Inc
+currency,USD
+cik,0001711786
+isin,US44148G1058
+cusip,44148G105
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://hoththerapeutics.com/
+description,"Hoth Therapeutics, Inc. is a development stage biopharmaceutical company, which engages in the provision and development of therapeutic platform. The company is headquartered in New York City, New York and currently employs 2 full-time employees. The firm is engaged in developing and commercializing the BioLexa Platform. BioLexa Platform is a proprietary, patented antimicrobial therapy. The BioLexa Platform traps all the zinc ions by adding a chelator called DTPA, which prevents Staph biofilm formation. The company intends to explore the use of the BioLexa Platform for the treatment of atopic dermatitis, or eczema. The company also focuses on exploring the use of the BioLexa Platform in the aesthetic dermatology field to help treat and reduce post-procedure infections, accelerate healing and improve clinical outcomes for patients undergoing procedures."
+ceo,Mr. Robb Knie
+sector,Healthcare
+country,US
+fullTimeEmployees,2
+phone,15515782261
+address,701 S Carson St Ste 200
+city,New York City
+state,NEW YORK
+zip,10020
+dcfDiff,
+dcf,2.0345
+image,https://financialmodelingprep.com/image-stock/HOTH.jpg
+ipoDate,2019-02-15
+defaultImage,True

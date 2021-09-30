@@ -1,0 +1,33 @@
+,0
+symbol,CRNT
+price,2.31
+beta,2.07037
+volAvg,368323
+mktCap,187432464
+lastDiv,0.0
+range,0.99-2.94
+changes,0.06
+companyName,Ceragon Networks Ltd
+currency,USD
+cik,0001119769
+isin,IL0010851660
+cusip,M22013102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,https://www.ceragon.com
+description,"Ceragon Networks Ltd. engages in the provision of wireless backhaul solutions. The firm's products include FibeAir IP-20 Platform, FibeAir IP-20 Assured Platform and Network Management. The firm provides its services to wireless service providers, public safety organizations, government agencies and utility companies, among others. Its solutions are deployed by over 460 service providers, as well as a range of private network owners, in over 130 countries. The firm's FibeAir IP-20 platform offers flexibility in choosing all-outdoor, split-mount and all-indoor configurations to suit any deployment scenario. The FibeAir IP-20 platform includes product categories, such as shorthaul-access and shorthaul-aggregation. The FibeAir IP-20 Assured platform includes product categories, such as shorthaul-access, shorthaul-aggregation, small cells, longhaul and enterprise access. Its NetMaster is a Network Management System (NMS), which is designed for managing large-scale wireless backhaul networks."
+ceo,Mr. Ira Palti
+sector,Technology
+country,IL
+fullTimeEmployees,1042
+phone,97235431000
+address,24 Raoul Wallenberg Street
+city,TEL AVIV-YAFO
+state,
+zip,69719
+dcfDiff,-2.72
+dcf,3.02403
+image,https://financialmodelingprep.com/image-stock/CRNT.png
+ipoDate,2000-08-04
+defaultImage,False

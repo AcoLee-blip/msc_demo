@@ -1,0 +1,33 @@
+,0
+symbol,TWST
+price,107.385
+beta,0.0
+volAvg,564518
+mktCap,4796136400
+lastDiv,0.0
+range,18.52-111.24
+changes,1.385
+companyName,Twist Bioscience Corp
+currency,USD
+cik,0001581280
+isin,US90184D1000
+cusip,90184D100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.twistbioscience.com/
+description,"Twist Bioscience Corp. develops proprietary semiconductor-based synthetic DNA manufacturing process. The company is headquartered in South San Francisco, California and currently employs 414 full-time employees. The firm is developing a disruptive deoxyribonucleic acid (DNA) synthesis platform to industrialize the engineering of biology. The firm has a semiconductor-based synthetic DNA manufacturing process featuring 10,000-well silicon platform, which is capable of producing synthetic biology tools, such as genes, oligonucleotide pools and variant libraries. Its silicon-based DNA writing platform offers synthesis of genes on silicon. Its products include clonal perfect genes and non-clonal fragments. The company offers protein scanning single variant libraries. Its design methodology, coupled with its silicon-based synthesis platform, enables synthesis of each library variant positioned exactly where user wants it to be. The company offers unamplified oligo pools and cloning-ready oligo pools. Its platform offers synthesis of oligonucleotide pools for specific targeting."
+ceo,Ms. Emily Leproust
+sector,Healthcare
+country,US
+fullTimeEmployees,414
+phone,18007190671
+address,681 GATEWAY BLVD.
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,
+dcf,86.2317
+image,https://financialmodelingprep.com/image-stock/TWST.png
+ipoDate,2018-10-31
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,ALTR
+price,48.89
+beta,1.383343
+volAvg,234096
+mktCap,3601105150
+lastDiv,0.0
+range,23.04-51.04
+changes,-0.94
+companyName,Altair Engineering Inc
+currency,USD
+cik,0001701732
+isin,US0213691035
+cusip,021369103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.altair.com/
+description,"Altair Engineering Inc. is a United States-based software company. The Company is focused on developing engineering software and computing technologies. The Company’s products include HyperWorks, solidThinking, PBS Works, and Carriots. The Company offers a range of solutions such as product engineering, industrial design, and tailored solutions. The Company provides open CAE software solutions for modeling, visualization, optimization and process automation. Altair's grid computing software, PBS Pro, is a workload management solution for computing environments, LINUX clusters and desktop cycle harvesting. Through its subsidiary, FluiDyna GmbH, the Company develops NVIDIA compute unified device architecture (CUDA) and graphics processing unit (GPU)-based computational fluid dynamics (CFD) and numerical simulation technologies."
+ceo,Mr. James R. Scapa
+sector,Technology
+country,US
+fullTimeEmployees,2500
+phone,12486142400
+address,1820 E Big Beaver Rd
+city,Troy
+state,MICHIGAN
+zip,48083
+dcfDiff,
+dcf,48.5186
+image,https://financialmodelingprep.com/image-stock/ALTR.jpg
+ipoDate,2017-11-01
+defaultImage,True

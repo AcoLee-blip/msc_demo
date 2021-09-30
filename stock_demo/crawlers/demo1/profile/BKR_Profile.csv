@@ -1,0 +1,33 @@
+,0
+symbol,BKR
+price,17.25
+beta,1.72673
+volAvg,7003870
+mktCap,17858236400
+lastDiv,0.72
+range,9.12-25.99
+changes,-0.31
+companyName,Baker Hughes Co
+currency,USD
+cik,0001701605
+isin,US05722G1004
+cusip,05722G100
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,https://www.bakerhughes.com/
+description,"Baker Hughes Co. is a holding company. The company is headquartered in Houston, Texas and currently employs 68,000 full-time employees. The firm provides oilfield products, services and digital solutions. The company operates through four business segments: Oilfield Services (OFS), Oilfield Equipment (OFE), Turbomachinery & Process Solutions (TPS), and Digital Solutions (DS). OFS provides products and services for on and offshore operations across the lifecycle of a well, ranging from drilling, evaluation, completion, production and intervention. OFE provides a broad portfolio of products and services required to facilitate the flow of hydrocarbons from the subsea wellhead to the surface production facilities. TPS provides equipment and related services for mechanical-drive, compression and power-generation applications across the oil and gas industry. DS provides operating technologies for the health, productivity and safety of asset intensive industries and enable the industrial Internet of Things."
+ceo,Mr. Lorenzo Simonelli
+sector,Energy
+country,US
+fullTimeEmployees,67000
+phone,17134398600
+address,17021 Aldine Westfield Rd
+city,Houston
+state,TEXAS
+zip,77073-5101
+dcfDiff,
+dcf,14.3308
+image,https://financialmodelingprep.com/image-stock/BKR.jpg
+ipoDate,1987-04-06
+defaultImage,True

@@ -1,0 +1,33 @@
+,0
+symbol,LYFT
+price,36.95
+beta,0.0
+volAvg,11905849
+mktCap,11732474900
+lastDiv,0.0
+range,14.562-54.5
+changes,0.49
+companyName,Lyft Inc
+currency,USD
+cik,0001759509
+isin,US55087P1049
+cusip,55087P104
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.lyft.com/
+description,"Lyft, Inc. engages in the provision and management of online social rideshare community platform. The company is headquartered in San Francisco, California and currently employs 4,791 full-time employees. The firm provides peer-to-peer transportation and on-demand ridesharing platform, which offers ride-hailing services. Lyft matches drivers with passengers who request rides through its smartphone application, and passengers pay automatically through the application. The firm offers ridesharing marketplace, which connects drivers with riders to provide car sharing and transportation services. The firm also has a network of shared bikes and scooters in various cities to address the needs of riders who are looking for short trips. Its nearby transit offering integrates third-party public transit data into the Lyft app to offer riders a robust view of transportation options. The company offers various enterprise programs, including monthly ride credits for daily commutes, supplementing public transit by providing rides for the first and last leg of commute trips, late-night rides home and shuttle replacement rides."
+ceo,Mr. Logan Green
+sector,Technology
+country,US
+fullTimeEmployees,5683
+phone,18442502773
+address,185 Berry St Ste 5000
+city,San Francisco
+state,CALIFORNIA
+zip,94107
+dcfDiff,
+dcf,26.235
+image,https://financialmodelingprep.com/image-stock/LYFT.png
+ipoDate,2019-03-29
+defaultImage,False

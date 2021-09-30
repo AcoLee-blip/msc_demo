@@ -1,0 +1,33 @@
+,0
+symbol,MAXR
+price,25.26
+beta,1.27605
+volAvg,1349864
+mktCap,1542746880
+lastDiv,0.04
+range,7.18-32.42
+changes,1.83
+companyName,Maxar Technologies Inc
+currency,USD
+cik,0001121142
+isin,US57778K1051
+cusip,57778K105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Communication Equipment
+website,https://www.maxar.com
+description,"Maxar Technologies, Inc. provides space technology solutions, delivering unmatched end-to-end capabilities in satellites, robotics, Earth imagery, geospatial data, analytics and insights. The company is headquartered in Westminster, Colorado and currently employs 6,100 full-time employees. The firm is focused on delivering end-to-end capabilities in satellites, robotics, Earth imagery, geospatial data, analytics and insights. The Company’s commercial space brands include MDA, SSL, DigitalGlobe and Radiant Solutions. The Company’s portfolio of space brands provides vertically integrated capabilities in satellite communications (building and operating), ground infrastructure, Earth observation, advanced analytics, insights from machine learning, next-generation propulsion, space robotics, on-orbit servicing, on-orbit assembly, and protection of space assets through cybersecurity and monitoring of space systems."
+ceo,Mr. Daniel Jablonsky
+sector,Technology
+country,US
+fullTimeEmployees,5800
+phone,13036844000
+address,1300 W 120th Ave
+city,Westminster
+state,COLORADO
+zip,80234
+dcfDiff,168.73
+dcf,30.5001
+image,https://financialmodelingprep.com/image-stock/MAXR.png
+ipoDate,2001-07-26
+defaultImage,False

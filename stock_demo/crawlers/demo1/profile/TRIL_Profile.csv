@@ -1,0 +1,33 @@
+,0
+symbol,TRIL
+price,15.54
+beta,1.81098
+volAvg,2181053
+mktCap,1526424320
+lastDiv,0.0
+range,0.254-16.89
+changes,1.45
+companyName,Trillium Therapeutics Inc
+currency,USD
+cik,0001616212
+isin,CA89620X5064
+cusip,89620X506
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.trilliumtherapeutics.com/
+description,"Trillium Therapeutics Inc. is a clinical stage immuno-oncology company, which engages in the research and development of therapies for the treatment of cancer. The company is headquartered in Mississauga, Ontario and currently employs 60 full-time employees. The firm leads program, TTI-621, which is a SIRPaFc fusion protein that consists of the CD47-binding domain of human SIRPa linked to the Fc region of a human immunoglobulin (IgG1). The company is designed to act as a soluble decoy receptor, preventing CD47 from delivering its inhibitory (''do not eat'') signal. Neutralization of the inhibitory CD47 signal enables the activation of macrophage anti-tumor effects by pro-phagocytic (''eat'') signals. A Phase one clinical trial (NCT02663518) evaluating intravenous dosing of SIRPaFc in patients with cancer is ongoing, and a second Phase one trial evaluating direct intratumoral injections is underway in solid tumors and mycosis fungoides (NCT02890368). TTI-622 is an IgG4 SIRPaFc protein, which is primarily being developed for combination therapy. An IND filing is targeted for 2H/17."
+ceo,Dr. Jan Skvarka
+sector,Healthcare
+country,CA
+fullTimeEmployees,29
+phone,14165950627
+address,2488 Dunwin Dr
+city,Mississauga
+state,ONTARIO
+zip,L5L 1J9
+dcfDiff,
+dcf,15.7002
+image,https://financialmodelingprep.com/image-stock/TRIL.png
+ipoDate,2005-01-11
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,PING
+price,20.63
+beta,0.0
+volAvg,1040453
+mktCap,1673317760
+lastDiv,0.0
+range,12.02-37.8
+changes,0.04
+companyName,Ping Identity Holding Corp
+currency,USD
+cik,0001679826
+isin,US72341T1034
+cusip,72341T103
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.pingidentity.com/en/company/our-company.html
+description,"Ping Identity Holding Corp. engages in the provision of intelligent identity solutions. The company is headquartered in Denver, Colorado and currently employs 897 full-time employees. The company is focused on enabling secure access to any service, application or application programming interface (API) from any device. Its intelligent identity platform leverages artificial intelligence and machine learning to analyze device, network, application and user behavior data to make real-time authentication and security control decisions. Its platform is designed to detect anomalies and automatically insert additional security measures, such as multi-factor authentication, only when necessary. The company allows its platform to be deployed across cloud, hybrid and on-premise infrastructures. Its platform offers secure single sign-on (SSO), adaptive multi-factor authentication (MFA), security control for applications and APIs, personalized and unified profile directories, data governance to control access to identity data, and artificial intelligence and machine learning powered API security."
+ceo,Mr. Andre Durand
+sector,Technology
+country,US
+fullTimeEmployees,953
+phone,13034682900
+address,1001 17th St Ste 100
+city,Denver
+state,COLORADO
+zip,80202
+dcfDiff,
+dcf,1014.45
+image,https://financialmodelingprep.com/image-stock/PING.jpg
+ipoDate,2019-09-19
+defaultImage,True

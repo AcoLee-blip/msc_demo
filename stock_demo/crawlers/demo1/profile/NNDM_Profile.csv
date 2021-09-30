@@ -1,0 +1,33 @@
+,0
+symbol,NNDM
+price,3.675
+beta,1.98966
+volAvg,10701170
+mktCap,200305504
+lastDiv,0.0
+range,0.51-6.0
+changes,0.095
+companyName,Nano Dimension Ltd
+currency,USD
+cik,0001643303
+isin,US63008G2030
+cusip,63008G203
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,http://www.nano-di.com
+description,"Nano Dimension Ltd is an Israel-based additive electronics provider active in the technology sector. With its 3D printing technology for printed electronics, the Company targets the growing demand for electronic devices that require sophisticated features and rely on encapsulated sensors, antennas and printed circuit boards (PCBs). The Company's PCB Jet printer system is an inkjet deposition tool for printing multi-layer circuit boards at home or office. It uses hardware, software, print-head management and nano-chemistry for Research and Development (R&D), prototyping and custom manufacturing projects. The Company targets a range of industry sectors, such as consumer electronics, medical devices and defense, aerospace, automotive, Internet of Things (IoT) and telecom."
+ceo,Mr. Yoav Stern
+sector,Technology
+country,IL
+fullTimeEmployees,
+phone,
+address,"2 Ilan Ramon St., Science Park"
+city,NESS-ZIONA
+state,
+zip,7403635
+dcfDiff,-0.83
+dcf,4.38037
+image,https://financialmodelingprep.com/image-stock/NNDM.png
+ipoDate,1977-01-01
+defaultImage,False

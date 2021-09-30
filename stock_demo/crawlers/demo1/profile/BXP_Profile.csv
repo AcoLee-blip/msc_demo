@@ -1,0 +1,33 @@
+,0
+symbol,BXP
+price,87.09
+beta,1.00883
+volAvg,1331933
+mktCap,13556428800
+lastDiv,3.92
+range,69.69-147.83
+changes,-3.71
+companyName,Boston Properties Inc
+currency,USD
+cik,0001037540
+isin,US1011211018
+cusip,101121101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Office
+website,http://www.bostonproperties.com
+description,"Boston Properties, Inc. operates as a real estate investment trust. The company is headquartered in Boston, Massachusetts and currently employs 760 full-time employees. The firm is an owner and developer of office properties in the United States. Its segments by geographic area are Boston, New York, San Francisco and Washington, DC. Its segments by property type include Office, Residential and Hotel. As of July 23, 2018, the Company owned or had interests in over 175 commercial real estate properties, aggregating approximately 50.3 million net rentable square feet of primarily Class A office properties, including eight properties under construction/redevelopment totaling approximately 4.0 million net rentable square feet. As of July 23, 2018, its properties consisted of 167 Office properties (including nine properties under construction/redevelopment); one hotel; five retail properties, and six residential properties (including four under construction). Its tenant base includes sectors, such as media technology, legal services, government/public administration and retail."
+ceo,Mr. Owen Thomas
+sector,Real Estate
+country,US
+fullTimeEmployees,760
+phone,16172363300
+address,800 Boylston St Ste 1900
+city,Boston
+state,MASSACHUSETTS
+zip,02199
+dcfDiff,58.31
+dcf,80.2141
+image,https://financialmodelingprep.com/image-stock/BXP.png
+ipoDate,1997-06-18
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,CW
+price,104.125
+beta,1.31623
+volAvg,277283
+mktCap,4321395700
+lastDiv,0.68
+range,70.56-149.9
+changes,1.055
+companyName,Curtiss-Wright Corp
+currency,USD
+cik,0000026324
+isin,US2315611010
+cusip,231561101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Specialty Industrial Machinery
+website,https://www.curtisswright.com/
+description,"Curtiss-Wright Corp. is a manufacturing and service company, which engages in the design, manufacture and overhaul of precision components; and provides engineered products & services to the aerospace, defense, power generation and general industrial markets. The company is headquartered in Davidson, North Carolina and currently employs 9,000 full-time employees. The firm operates through three segments: Commercial/Industrial, Defense and Power. The Commercial/Industrial segment's products include electronic throttle control devices and transmission shifters, electro-mechanical actuation control components, valves, and surface technology services. The Defense segment's products include commercial off-the-shelf (COTS) embedded computing board level modules, turret aiming and stabilization products, weapons handling systems, avionics and electronics, flight test equipment, and aircraft data management solutions. The Power segment's products include a range of hardware, pumps, valves, fastening systems, specialized containment doors, airlock hatches and spent fuel management products."
+ceo,Mr. David Adams
+sector,Industrials
+country,US
+fullTimeEmployees,9100
+phone,17048694600
+address,130 Harbour Place Dr Ste 300
+city,Davidson
+state,NORTH CAROLINA
+zip,28036
+dcfDiff,-31.31
+dcf,101.86
+image,https://financialmodelingprep.com/image-stock/CW.png
+ipoDate,1980-03-17
+defaultImage,False

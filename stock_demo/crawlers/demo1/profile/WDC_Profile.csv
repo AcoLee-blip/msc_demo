@@ -1,0 +1,33 @@
+,0
+symbol,WDC
+price,41.47
+beta,1.6683
+volAvg,6122603
+mktCap,12617039900
+lastDiv,1.0
+range,27.4-72.0
+changes,2.16
+companyName,Western Digital Corp
+currency,USD
+cik,0000106040
+isin,US9581021055
+cusip,958102105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.westerndigital.com/
+description,"Western Digital Corp. engages in the development, manufacture, market and sale of data storage devices and solutions. The company is headquartered in San Jose, California and currently employs 61,800 full-time employees. The firm's portfolio of offerings addresses three categories: Datacenter Devices and Solutions (capacity and performance enterprise hard disk drives (HDDs), enterprise solid state drives (SSDs), datacenter software and system solutions); Client Devices (mobile, desktop, gaming and digital video hard drives, client SSDs, embedded products and wafers), and Client Solutions (removable products, hard drive content solutions and flash content solutions). The firm develops and manufactures a portion of the recording heads and magnetic media used in its hard drive products."
+ceo,Mr. Stephen Milligan
+sector,Technology
+country,US
+fullTimeEmployees,61800
+phone,19496727000
+address,5601 Great Oaks Pkwy
+city,San Jose
+state,CALIFORNIA
+zip,95119
+dcfDiff,
+dcf,52.2882
+image,https://financialmodelingprep.com/image-stock/WDC.jpg
+ipoDate,1991-01-31
+defaultImage,True

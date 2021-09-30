@@ -1,0 +1,33 @@
+,0
+symbol,BIP
+price,50.22
+beta,0.76077
+volAvg,257752
+mktCap,14864567300
+lastDiv,1.8985699999999999
+range,23.008928-51.86
+changes,-0.63
+companyName,Brookfield Infrastructure Partners LP
+currency,USD
+cik,0001406234
+isin,BMG162521014
+cusip,G16252101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated
+website,https://bip.brookfield.com/en
+description,"Brookfield Infrastructure Partners LP is an infrastructure company, which engages in the management of diversified portfolio of infrastructure assets that will generate sustainable and growing distributions over the long-term for unit holders. The firm's segments include utilities, transport, energy, communications infrastructure and other. The utilities segment consists of regulated businesses, including regulated distribution (electricity and natural gas connections), electricity transmission and a regulated terminal (coal export terminal). The transport segment consists of open access systems that provide transportation, storage and handling services for freight, bulk commodities and passengers. The firm's energy segment consists of systems that provide transportation, storage and distribution services. The firm's communications infrastructure segment provides services and infrastructure to the media broadcasting and telecommunication sectors."
+ceo,Mr. Sam Pollock
+sector,Utilities
+country,BM
+fullTimeEmployees,0
+phone,14412964480
+address,73 Front Street
+city,Hamilton
+state,
+zip,
+dcfDiff,118.15
+dcf,48.3902
+image,https://financialmodelingprep.com/image-stock/BIP.jpg
+ipoDate,2008-01-10
+defaultImage,True

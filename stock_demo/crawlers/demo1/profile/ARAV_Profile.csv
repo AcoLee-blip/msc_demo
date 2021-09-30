@@ -1,0 +1,33 @@
+,0
+symbol,ARAV
+price,5.35
+beta,3.27921
+volAvg,150775
+mktCap,86067056
+lastDiv,0.0
+range,3.34-15.62
+changes,0.05
+companyName,Aravive Inc
+currency,USD
+cik,
+isin,US03890D1081
+cusip,03890D108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://aravive.com/
+description,"Aravive, Inc. is a clinical-stage biotechnology company, which engages in developing new therapies that target important survival pathways for both advanced solid tumors as well as hematologic malignancies. The company is headquartered in Houston, Texas and currently employs 14 full-time employees. The firm is focused on developing therapies that target survival pathways for both solid tumors, as well as hematologic malignancies. Its primary therapeutic focus is the growth arrest-specific 6 (GAS6) - AXL receptor tyrosine kinase (AXL) pathway, where AXL receptor signaling promotes metastasis, cancer cell survival, resistance to treatments and immune suppression. The Company’s lead candidate, Aravive-S6 (AVB-S6)-500, is a GAS6 binding protein and AXL decoy receptor. The company is a Fc -chimeric fusion protein designed to block the activation of the Growth arrest-specific 6 (GAS6)-AXL signaling pathway by intercepting the binding of GAS6 to its receptor AXL. Its AXL decoy receptor is a protein based on the extracellular portion of AXL that binds its ligand GAS6, sequesters it from the native receptor and prevents AXLmediated signaling."
+ceo,Ms. Rekha Hemrajani
+sector,Healthcare
+country,US
+fullTimeEmployees,17
+phone,19363551910
+address,"RIVER OAKS TOWER, 3730 KIRBY DRIVE, SUITE 1200"
+city,Houston
+state,TEXAS
+zip,77098
+dcfDiff,
+dcf,10.8203
+image,https://financialmodelingprep.com/image-stock/ARAV.png
+ipoDate,2014-03-20
+defaultImage,False

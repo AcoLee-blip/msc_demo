@@ -1,0 +1,33 @@
+,0
+symbol,CBLI
+price,3.28
+beta,0.86968
+volAvg,2569461
+mktCap,42693792
+lastDiv,0.0
+range,0.5-5.43
+changes,0.06
+companyName,Cleveland Biolabs Inc
+currency,USD
+cik,0001318641
+isin,US1858602022
+cusip,185860202
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.cbiolabs.com/
+description,"Cleveland BioLabs, Inc. operates as a biopharmaceutical company, which engages in the research and development of drugs. The company is headquartered in Buffalo, New York and currently employs 15 full-time employees. The firm is engaged in developing approaches to activate the immune system and address serious medical needs. Its platform of Toll-like immune receptor activators has applications in mitigation of radiation injury and immuno-oncology. Its advanced product candidate is Entolimod, an immuno-stimulatory agent, which it is developing as a radiation countermeasure and an immunotherapy for oncology and other indications. Its other products include CBLB612, Mobilan and CBL0137. CBLB612 is a compound based upon a natural activator of another tissue-specific component of the innate immune system, the toll-like receptor 2 (TLR2)/ toll-like receptor 6 (TLR6) heterodimeric receptor. Mobilan is a recombinant non-replicating adenovirus that directs expression of TLR5 and its agonistic ligand. CBL0137 is a small molecule with a multi-targeted mechanism of action that may be useful for the treatment of various types of cancer."
+ceo,Dr. Yakov Kogan
+sector,Healthcare
+country,US
+fullTimeEmployees,7
+phone,17168496810
+address,73 High St
+city,Buffalo
+state,NEW YORK
+zip,
+dcfDiff,
+dcf,3.25967
+image,https://financialmodelingprep.com/image-stock/CBLI.jpg
+ipoDate,2006-07-21
+defaultImage,True

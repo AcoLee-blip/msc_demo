@@ -1,0 +1,33 @@
+,0
+symbol,RBBN
+price,4.6501
+beta,0.7859
+volAvg,289658
+mktCap,676110590
+lastDiv,0.0
+range,1.95-5.64
+changes,0.0901
+companyName,Ribbon Communications Inc
+currency,USD
+cik,0001708055
+isin,US7625441040
+cusip,762544104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Communication Services
+website,https://ribboncommunications.com/
+description,"Ribbon Communications, Inc. engages in the provision of software solutions to telecommunications, wireless and cable service providers, and enterprises. The company is headquartered in Westford, Massachusetts and currently employs 2,245 full-time employees. The firm helps communications service providers and enterprises hold the session initiation protocol (SIP) and fourth generation (4G)/long term evolution (LTE)-based solutions, including voice over Internet protocol (VoIP), voice over wireless fidelity (VoWiFi), video and unified communications (UC) by securing and enabling Internet Protocol (IP) networks. Its products include session border controllers (SBCs), diameter signaling controllers (DSCs) and VoWiFi solutions. Sonus Products include Sonus GSX9000 Open Services Switch, Sonus T7000 Intelligent Switching System, Sonus Diameter Signaling Controllers, Sonus Signal Transfer Points, Sonus PSX Policy & Routing Server, Sonus WebRTC Services Solution, and Sonus Network Management Solutions."
+ceo,Mr. Bruce McClelland
+sector,Communication Services
+country,US
+fullTimeEmployees,2209
+phone,19786148090
+address,4 Technology Park Dr
+city,Westford
+state,MASSACHUSETTS
+zip,
+dcfDiff,-6.19
+dcf,4.49683
+image,https://financialmodelingprep.com/image-stock/RBBN.png
+ipoDate,2004-09-13
+defaultImage,False

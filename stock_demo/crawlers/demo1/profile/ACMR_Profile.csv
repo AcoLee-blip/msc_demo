@@ -1,0 +1,33 @@
+,0
+symbol,ACMR
+price,86.7
+beta,-0.590667
+volAvg,342209
+mktCap,1600898050
+lastDiv,0.0
+range,13.56-113.87
+changes,-3.78
+companyName,ACM Research Inc
+currency,USD
+cik,0001680062
+isin,US00108J1097
+cusip,00108J109
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.acmrcsh.com/
+description,"ACM Research, Inc. engages in the development, manufacture, and sale of single-wafer wet cleaning equipment. The company is headquartered in Fremont, California and currently employs 273 full-time employees. The Company’s Ultra C equipment is designed to remove random defects from a wafer surface, even at an advanced process node (the minimum line width on a chip) of 22 nanometers (nm) or less. Its equipment is based on its Space Alternated Phase Shift (SAPS) and Timely Energized Bubble Oscillation (TEBO) technologies. Its SAPS technology uses alternating phases of megasonic waves to deliver megasonic energy to flat and patterned wafer surfaces in a uniform manner on a microscopic level. Its TEBO technology provides cleaning for both conventional two-dimensional (2D) and three-dimensional (3D) patterned wafers at advanced process nodes."
+ceo, David Wang
+sector,Technology
+country,US
+fullTimeEmployees,361
+phone,15104453700
+address,42307 Osgood Rd Ste I
+city,Fremont
+state,CALIFORNIA
+zip,94539
+dcfDiff,
+dcf,72.8347
+image,https://financialmodelingprep.com/image-stock/ACMR.jpg
+ipoDate,2017-11-03
+defaultImage,True

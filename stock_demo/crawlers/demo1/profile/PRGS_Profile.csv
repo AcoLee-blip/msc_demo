@@ -1,0 +1,33 @@
+,0
+symbol,PRGS
+price,40.01
+beta,1.13168
+volAvg,341595
+mktCap,1804518910
+lastDiv,0.66
+range,28.09-52.5
+changes,0.47
+companyName,Progress Software Corp
+currency,USD
+cik,0000876167
+isin,US7433121008
+cusip,743312100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.progress.com/
+description,"Progress Software Corp. engages in the provision of a platform, which develops and deploy mission-critical business applications. The company is headquartered in Bedford, Massachusetts and currently employs 1,412 full-time employees. The firm operates through three segments: OpenEdge, Data Connectivity and Integration (DCI), and Application Development and Deployment (AppDev). The OpenEdge business segment provides the product enhancements and marketing support to its partner base. The company is also focused on providing partners and direct end users with a path to develop and integrate cloud-based applications. Its solutions include Progress OpenEdge and Progress Corticon. The DCI segment is focused on its data assets, including the data integration components of its cloud offerings. Its solutions include Progress DataDirect Connect and Progress DataDirect Cloud. The AppDev business segment is focused on generating customers for its application development assets. Its solutions include Dev Tools, NativeScript, Dev Cloud, Telerik Platform, Test Studio, Sitefinity and Progress Rollbase. Its offerings span Web, mobile and data."
+ceo,Mr. Yogesh Gupta
+sector,Technology
+country,US
+fullTimeEmployees,1538
+phone,17812804473
+address,14 Oak Park Dr
+city,Bedford
+state,MASSACHUSETTS
+zip,01730
+dcfDiff,-10.49
+dcf,42.0923
+image,https://financialmodelingprep.com/image-stock/PRGS.jpg
+ipoDate,1991-07-30
+defaultImage,True

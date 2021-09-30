@@ -1,0 +1,33 @@
+,0
+symbol,BCOV
+price,12.66
+beta,0.83918
+volAvg,227669
+mktCap,503938880
+lastDiv,0.0
+range,5.44-14.11
+changes,0.0
+companyName,Brightcove Inc
+currency,USD
+cik,0001313275
+isin,US10921T1016
+cusip,10921T101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.brightcove.com/
+description,"Brightcove, Inc. engages in the provision of video cloud solutions. The company is headquartered in Boston, Massachusetts and currently employs 596 full-time employees. The firm's products and services include Brightcove Video Cloud (Video Cloud), Brightcove Zencoder (Zencoder), Brightcove Once (Once), Brightcove Perform (Perform), Brightcove Video Marketing Suite (Video Marketing Suite), Brightcove Lift (Lift), Brightcove OTT Flow (OTT Flow) and Brightcove Enterprise Video Suite (Enterprise Video Suite), among others. Video Cloud is an online video platform. Video Cloud enables its customers to publish and distribute video to Internet-connected devices. Zencoder is a cloud-based video encoding service. Once is a cloud-based advertisement insertion and video stitching service. Perform is a cloud-based service for creating and managing video player experiences. Video Marketing Suite is a suite of video technologies designed to address the needs of marketers to drive awareness, engagement and conversion."
+ceo,Mr. Hugh Ray
+sector,Technology
+country,US
+fullTimeEmployees,610
+phone,18888821880
+address,290 Congress St
+city,Boston
+state,MASSACHUSETTS
+zip,02210
+dcfDiff,-13.03
+dcf,13.0585
+image,https://financialmodelingprep.com/image-stock/BCOV.png
+ipoDate,2012-02-17
+defaultImage,False

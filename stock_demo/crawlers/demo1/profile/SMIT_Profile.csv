@@ -1,0 +1,33 @@
+,0
+symbol,SMIT
+price,5.525
+beta,0.94589
+volAvg,13255
+mktCap,20765602
+lastDiv,0.0
+range,2.12-5.67
+changes,0.145
+companyName,Schmitt Industries Inc
+currency,USD
+cik,0000922612
+isin,US8068702005
+cusip,806870200
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,http://www.schmitt-ind.com/
+description,"Schmitt Industries, Inc. designs, manufactures and markets measurement and process control systems. The company is headquartered in Portland, Oregon and currently employs 54 full-time employees. The firm designs and assembles laser-based test and measurement systems (Measurement). The firm through its subsidiary, Schmitt Measurement Systems, Inc., designs, manufactures and sells laser and white light sensors, laser-based micro roughness measurement products, laser-based surface analysis and measurement products, and ultrasonic measurement products. The firm provides sales and service for Europe and Asia through its subsidiary, Schmitt Europe Limited. The firm offers surface roughness measurement products, which use a technology using laser light scatterometry to perform surface measurement tests that quantify surface micro-roughness. The firm's Complete Angle Scatter Instrument (CASI) Scatterometers are sold to companies and institutions involved in scientific research and development."
+ceo,Mr. Michael Zapata
+sector,Technology
+country,US
+fullTimeEmployees,54
+phone,15032277908
+address,2765 Nw Nicolai St
+city,Portland
+state,OREGON
+zip,97210
+dcfDiff,-2.27
+dcf,7.71537
+image,https://financialmodelingprep.com/image-stock/SMIT.jpg
+ipoDate,1993-10-27
+defaultImage,True

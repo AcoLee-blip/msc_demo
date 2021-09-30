@@ -1,0 +1,33 @@
+,0
+symbol,ANIX
+price,2.11
+beta,1.46037
+volAvg,234649
+mktCap,50195632
+lastDiv,0.0
+range,1.33-4.13
+changes,0.05
+companyName,Anixa Biosciences Inc
+currency,USD
+cik,0000715446
+isin,US03528H1095
+cusip,03528H109
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.anixa.com/
+description,"Anixa Biosciences, Inc. is a cancer-focused biotechnology company, which focuses on harnessing the body's immune system in the fight against cancer. The company is headquartered in San Jose, California and currently employs 7 full-time employees. The firm is developing a cancer immunotherapy program, which leverages chimeric endocrine receptor t-cell (CER-T) technology, and is engaged in developing a diagnostic platform called Cchek, for the early detection of tumor-based cancers. The Cchek liquid biopsy technology is a series of non-invasive blood tests for early detection of solid tumors based on the body's immune response to a malignancy by detecting the presence, absence and quantity of certain immune cells that exist in and around a tumor and that enter the blood stream. This technology enables cancer detection in its earliest stages in efforts to treat patients when the disease is curable. The firm has developed techniques and protocols for measuring the subtle immunological changes that occur in the blood stream during tumor development. Through its protocols, the Company has detected the biomarkers in the peripheral blood of biopsy verified cancer patients."
+ceo,Dr. Amit Kumar
+sector,Healthcare
+country,US
+fullTimeEmployees,7
+phone,14087089808
+address,3150 Almaden Expy Ste 250
+city,San Jose
+state,CALIFORNIA
+zip,95118
+dcfDiff,
+dcf,2.56644
+image,https://financialmodelingprep.com/image-stock/ANIX.png
+ipoDate,1983-10-07
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,SLB
+price,18.01
+beta,2.12804
+volAvg,14095638
+mktCap,25070458900
+lastDiv,1.25
+range,11.87-41.14
+changes,0.71
+companyName,Schlumberger NV
+currency,USD
+cik,0000087347
+isin,AN8068571086
+cusip,806857108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Equipment & Services
+website,https://www.slb.com/
+description,"Schlumberger NV engages in the provision of technology for reservoir characterization, drilling, production and processing to the oil and gas industry. The company is headquartered in Houston, Texas and currently employs 105,000 full-time employees. The firm's segments include Reservoir Characterization Group, Drilling Group, Production Group and Cameron Group. The Reservoir Characterization Group consists of the principal technologies involved in finding and defining hydrocarbon resources. The Drilling Group consists of the principal technologies involved in the drilling and positioning of oil and gas wells. The Production Group consists of the principal technologies involved in the lifetime production of oil and gas reservoirs and includes Well Services, Completions, Artificial Lift, Integrated Production Services (IPS) and Schlumberger Production Management (SPM). The Cameron Group consists of the principal technologies involved in pressure and flow control for drilling and intervention rigs, oil and gas wells and production facilities."
+ceo,Mr. Olivier Le Peuch
+sector,Energy
+country,US
+fullTimeEmployees,105000
+phone,17135132000
+address,5599 San Felipe St Fl 17
+city,Houston
+state,TEXAS
+zip,77056
+dcfDiff,-21.09
+dcf,15.8309
+image,https://financialmodelingprep.com/image-stock/SLB.png
+ipoDate,1962-02-02
+defaultImage,False

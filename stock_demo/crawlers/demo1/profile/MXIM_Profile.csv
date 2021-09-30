@@ -1,0 +1,33 @@
+,0
+symbol,MXIM
+price,80.89
+beta,1.25426
+volAvg,3062958
+mktCap,21621977100
+lastDiv,1.92
+range,41.93-83.68
+changes,0.43
+companyName,Maxim Integrated Products Inc
+currency,USD
+cik,0000743316
+isin,US57772K1016
+cusip,57772K101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.maximintegrated.com/en.html
+description,"Maxim Integrated Products, Inc. engages in the design, development, manufacture, and marketing of linear and mixed-signal integrated circuits. The company is headquartered in San Jose, California and currently employs 7,131 full-time employees. The firm also provides a range of high-frequency process technologies and capabilities for use in custom designs. The firm caters to automotive, communications and data center, computing, consumer and industrial markets. The company offers a range of products, such as switching regulators, battery management, isolated power, charge pumps, linear regulators, light emitting diode (LED) drivers, motor driver integrated circuits (ICs), monitors and sequencers, transceivers, controllers and expanders, level translators, signal line protection ICs, broadband switches, powerline communications, real-time clocks, embedded security, microcontrollers, 1-Wire, iButton, data loggers, clock generation and distribution, memory products, optical, signal integrity, high-speed signaling, and display power and control."
+ceo,Mr. Tunc Doluca
+sector,Technology
+country,US
+fullTimeEmployees,7131
+phone,14086011000
+address,160 RIO ROBLES
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-27.79
+dcf,79.2833
+image,https://financialmodelingprep.com/image-stock/MXIM.png
+ipoDate,1994-01-01
+defaultImage,False

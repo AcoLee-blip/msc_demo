@@ -1,0 +1,33 @@
+,0
+symbol,FLUX
+price,8.62
+beta,0.65512
+volAvg,389135
+mktCap,98437816
+lastDiv,0.0
+range,4.0-12.49
+changes,-0.26
+companyName,Flux Power Holdings Inc
+currency,USD
+cik,0001083743
+isin,US3440573026
+cusip,344057302
+exchange,Other OTC
+exchangeShortName,NASDAQ
+industry,Electrical Equipment & Parts
+website,http://www.fluxpwr.com/
+description,"Flux Power Holdings, Inc. engages in the design, development, and sale of rechargeable lithium-ion energy storage systems for industrial applications. The company is headquartered in Vista, California and currently employs 13 full-time employees. The firm offers a high power battery cell management system (BMS). Its BMS provides three functions to its battery systems: cell balancing, performed by adjusting the capacity of each cell in a storage system according to temperature, voltage, and internal impedance metrics; monitoring, performed by way of a physical connection to individual cells for monitoring voltage and performing calculations from basic metrics to determine remaining capacity and internal impedance, and error reporting, performed by analyzing data from monitoring each individual cell and making decisions on whether the individual cell or the system is operating out of normal specifications. Using its battery management technology, it offers integrated energy storage solutions or custom modular standalone systems to its clients."
+ceo,Mr. Ronald Dutt
+sector,Industrials
+country,US
+fullTimeEmployees,13
+phone,18775053589
+address,2685 S Melrose Dr
+city,Vista
+state,CALIFORNIA
+zip,92081
+dcfDiff,
+dcf,8.60337
+image,https://financialmodelingprep.com/image-stock/FLUX.png
+ipoDate,1999-12-07
+defaultImage,False

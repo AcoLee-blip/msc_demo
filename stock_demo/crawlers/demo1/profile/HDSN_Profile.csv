@@ -1,0 +1,33 @@
+,0
+symbol,HDSN
+price,1.2
+beta,1.15782
+volAvg,194318
+mktCap,51197164
+lastDiv,0.0
+range,0.5-1.54
+changes,0.01
+companyName,Hudson Technologies Inc
+currency,USD
+cik,0000925528
+isin,US4441441098
+cusip,444144109
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Specialty Chemicals
+website,https://www.hudsontech.com/
+description,"Hudson Technologies, Inc. operates as a refrigerant services company, which provides solutions to recurring problems within the refrigeration industry. The company is headquartered in Pearl River, New York and currently employs 243 full-time employees. The firm's products and services are primarily used in commercial air conditioning, industrial processing and refrigeration systems, and include refrigerant and industrial gas sales, refrigerant management services consisting primarily of reclamation of refrigerants and RefrigerantSide Services performed at a customer's site, consisting of system decontamination to remove moisture, oils and other contaminants. In addition, the Company's SmartEnergy OPS service is a Web-based real time continuous monitoring service applicable to a facility's refrigeration systems and other energy systems. The firm's Chiller Chemistry and Chill Smart services are also predictive and diagnostic service offerings. The firm sells reclaimed and virgin (new) refrigerants to a variety of customers in various segments of the air conditioning and refrigeration industry, and sells industrial gases to a variety of industry segments."
+ceo,Mr. Kevin Zugibe
+sector,Basic Materials
+country,US
+fullTimeEmployees,234
+phone,18457356000
+address,"One Blue Hill Plaza, 14Th Floor, PO Box 1541"
+city,Pearl River
+state,NEW YORK
+zip,10965
+dcfDiff,-16.14
+dcf,1.16101
+image,https://financialmodelingprep.com/image-stock/HDSN.png
+ipoDate,1994-11-01
+defaultImage,False

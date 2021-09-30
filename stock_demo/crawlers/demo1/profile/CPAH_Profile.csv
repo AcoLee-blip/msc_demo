@@ -1,0 +1,33 @@
+,0
+symbol,CPAH
+price,2.64
+beta,1.60046
+volAvg,45167
+mktCap,16927232
+lastDiv,0.0
+range,0.83-6.0
+changes,-0.09
+companyName,CounterPath Corp
+currency,USD
+cik,0001236997
+isin,
+cusip,
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,http://www.counterpath.com/
+description,"CounterPath Corp. engages in the provision of desktop and mobile VoIP software products and solutions. The company is headquartered in Vancouver, British Columbia and currently employs 88 full-time employees. The firm's solutions range from software products to cloud-based services. Its software products include applications for smartphones, tablets and desktop computers, a Software Development Kit (SDK) for software developers seeking to add voice, video and messaging capabilities to their existing applications, and server-based software solutions for configuring, managing and supporting softphones and for deploying messaging and collaboration services. These software products are also available to customers in the form of cloud-based hosted services. The firm is focused on selling its software products to enterprises, telecommunication service providers and channel partners."
+ceo,Mr. David Karp
+sector,Technology
+country,CA
+fullTimeEmployees,88
+phone,16043203344
+address,"Suite 300, One Bentall Centre, 505 Burrard Street"
+city,Vancouver
+state,BRITISH COLUMBIA
+zip,V7X 1M3
+dcfDiff,-8.88
+dcf,-7.08
+image,https://financialmodelingprep.com/image-stock/CPAH.png
+ipoDate,2008-08-25
+defaultImage,False

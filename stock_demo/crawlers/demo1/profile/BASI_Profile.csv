@@ -1,0 +1,33 @@
+,0
+symbol,BASI
+price,5.73
+beta,1.6715
+volAvg,20936
+mktCap,62967544
+lastDiv,0.0
+range,3.05-6.5
+changes,0.26
+companyName,Bioanalytical Systems Inc
+currency,USD
+cik,0000720154
+isin,US09058M1036
+cusip,09058M103
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://www.basinc.com/
+description,"Bioanalytical Systems, Inc. operates as a pharmaceutical development company, which engages in the provision of drug discovery, development services, and analytical instruments. The company is headquartered in West Lafayette, Indiana and currently employs 150 full-time employees. The firm operates in two segments: contract research services and research products. The contract research services segment provides research and development support on a contract basis to pharmaceutical companies. The research products segment provides liquid chromatography, electrochemical and physiological monitoring products to pharmaceutical companies, universities, government research centers, and medical research institutions. The firm supports the preclinical and clinical development needs of researchers and clinicians for small molecule and large biomolecule drug candidates. The contract research services segment provides screening and pharmacological testing, preclinical safety testing, formulation development, regulatory compliance and quality control testing."
+ceo,Mr. Robert Leasure
+sector,Healthcare
+country,US
+fullTimeEmployees,150
+phone,13174634527
+address,2701 Kent Ave
+city,West Lafayette
+state,INDIANA
+zip,47906
+dcfDiff,
+dcf,5.32836
+image,https://financialmodelingprep.com/image-stock/BASI.jpg
+ipoDate,1997-11-25
+defaultImage,True

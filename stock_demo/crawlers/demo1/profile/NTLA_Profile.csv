@@ -1,0 +1,33 @@
+,0
+symbol,NTLA
+price,33.3301
+beta,1.75065
+volAvg,906203
+mktCap,1969169020
+lastDiv,0.0
+range,9.18-33.435
+changes,3.6201
+companyName,Intellia Therapeutics Inc
+currency,USD
+cik,0001652130
+isin,US45826J1051
+cusip,45826J105
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.intelliatx.com/
+description,"Intellia Therapeutics, Inc. engages in the development of gene editing-based therapies. The company is headquartered in Cambridge, Massachusetts and currently employs 211 full-time employees. The firm is focused on developing therapeutics utilizing a biological tool known as CRISPR/Cas9. The CRISPR/Cas9 genome editing system includes two components: the Cas9 protein and the guide RNA sequence. The Cas9 protein acts like a pair of molecular scissors that initiates the natural cellular repair process to knockout, repair or insert a gene. The guide RNA sequence recognizes and directs the Cas9 to a specific target deoxyribonucleic acid (DNA) sequence. The firm's sentinel in vivo programs focus on the use of Lipid Nanoparticle (LNPs) for delivery of the CRISPR/Cas9 complex to the liver. The firm's division, eXtellia Therapeutics, is focused on the application of CRISPR/Cas9 genome editing in the fields of immuno-oncology and autoimmune and inflammatory diseases. The firm's subsidiary is Intellia Securities Corp. As of September 30, 2016, the Company had not generated any revenue."
+ceo,Dr. John Leonard
+sector,Healthcare
+country,US
+fullTimeEmployees,270
+phone,18572856200
+address,40 Erie St Ste 130
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,-16.69
+dcf,24.7012
+image,https://financialmodelingprep.com/image-stock/NTLA.png
+ipoDate,2016-05-06
+defaultImage,False

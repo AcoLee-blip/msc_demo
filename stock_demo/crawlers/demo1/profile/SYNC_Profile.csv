@@ -1,0 +1,33 @@
+,0
+symbol,SYNC
+price,1.34
+beta,0.62679
+volAvg,178047
+mktCap,52875596
+lastDiv,0.0
+range,0.79-1.85
+changes,0.07
+companyName,Synacor Inc
+currency,USD
+cik,0001408278
+isin,US8715611062
+cusip,871561106
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://synacor.com/
+description,"Synacor, Inc. engages in the provision of email and collaboration software; cloud-based identity management platforms; managed web and mobile portals; and advertising solutions. The company is headquartered in Buffalo, New York and currently employs 407 full-time employees. The firm enables its customers to provide their consumers engaging, multiscreen experiences with products that require scale, actionable data and implementation. Through its Managed Portals and Advertising solutions, the Company enables its customers to earn revenue by monetizing media among their consumers. Its Managed Portals are delivered across devices and under its customers' own brand names. The firm delivers content, such as top news, entertainment, and long- and short-form video and applications, on its Managed Portals. In addition, consumers have the ability through portals to manage their e-mail and messaging, pay bills, receive special promotions and perform other account management needs."
+ceo, Himesh Bhise
+sector,Technology
+country,US
+fullTimeEmployees,320
+phone,17168531362
+address,40 La Riviere Dr Ste 300
+city,Buffalo
+state,NEW YORK
+zip,14202
+dcfDiff,-1.79
+dcf,1.65053
+image,https://financialmodelingprep.com/image-stock/SYNC.jpg
+ipoDate,2012-02-10
+defaultImage,True

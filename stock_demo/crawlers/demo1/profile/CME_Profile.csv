@@ -1,0 +1,33 @@
+,0
+symbol,CME
+price,161.01
+beta,0.33004
+volAvg,1644341
+mktCap,57801142000
+lastDiv,5.8
+range,131.8-225.36
+changes,-4.8
+companyName,CME Group Inc
+currency,USD
+cik,0001156375
+isin,US12572Q1058
+cusip,12572Q105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Financial Data & Stock Exchanges
+website,http://www.cmegroup.com
+description,"CME Group, Inc. operates as a security and commodity exchange company. The company is headquartered in Chicago, Illinois and currently employs 4,590 full-time employees. The firm's segment primarily consists of the Chicago Mercantile Exchange Inc. (CME), Board of Trade of the City of Chicago, Inc. (CBOT), New York Mercantile Exchange, Inc. (NYMEX) and Commodity Exchange, Inc. (COMEX) exchanges. The firm provides electronic trading around the globe on its CME Globex platform. The firm also offers clearing and settlement services across asset classes for exchange-traded and over-the-counter derivatives through its clearinghouses CME Clearing and CME Clearing Europe. The company also provides hosting, connectivity and customer support for electronic trading through its co-location services. The firm's CME Direct platform offers side-by-side trading of exchange-listed and privately negotiated markets."
+ceo,Hon. Terrence Duffy
+sector,Financial Services
+country,US
+fullTimeEmployees,4360
+phone,13129301000
+address,20 S Wacker Dr
+city,Chicago
+state,ILLINOIS
+zip,60606
+dcfDiff,663.14
+dcf,168.921
+image,https://financialmodelingprep.com/image-stock/CME.png
+ipoDate,2002-12-06
+defaultImage,False

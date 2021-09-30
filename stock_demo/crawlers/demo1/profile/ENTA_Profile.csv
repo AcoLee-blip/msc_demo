@@ -1,0 +1,33 @@
+,0
+symbol,ENTA
+price,45.89
+beta,0.5991
+volAvg,174460
+mktCap,921108670
+lastDiv,0.0
+range,38.4-67.88
+changes,-0.03
+companyName,Enanta Pharmaceuticals Inc
+currency,USD
+cik,0001177648
+isin,US29251M1062
+cusip,29251M106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.enanta.com/
+description,"Enanta Pharmaceuticals, Inc. operates as a biotechnology company. The company is headquartered in Watertown, Massachusetts and currently employs 132 full-time employees. The firm uses chemistry-driven approach and drug discovery solutions to create small molecule drugs for the treatment of viral infections and liver diseases. Its research and development programs are focused on three disease targets: non-alcoholic steatohepatitis (NASH)/ primary biliary cholangitis (PBC), respiratory syncytial virus (RSV) and hepatitis B virus (HBV). The company has discovered novel protease inhibitors that are members of the direct-acting-antiviral (DAA) inhibitor classes designed for use against the hepatitis C virus (HCV). These protease inhibitors, developed through its collaboration with AbbVie Inc. (AbbVie), include paritaprevir and glecaprevir (ABT-493). Its product candidates also include EDP-305, which is a farnesoid X receptor (FXR) agonist product candidate for NASH and PBC, and EDP-938, which is a clinical candidate for RSV."
+ceo,Dr. Jay Luly
+sector,Healthcare
+country,US
+fullTimeEmployees,132
+phone,16176070800
+address,500 Arsenal St
+city,Watertown
+state,MASSACHUSETTS
+zip,02472
+dcfDiff,417.71
+dcf,44.8132
+image,https://financialmodelingprep.com/image-stock/ENTA.png
+ipoDate,2013-03-21
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,APTO
+price,5.46
+beta,0.76703
+volAvg,915612
+mktCap,487729792
+lastDiv,0.0
+range,2.36-9.25
+changes,0.23
+companyName,Aptose Biosciences Inc
+currency,USD
+cik,0000882361
+isin,CA03835T2002
+cusip,03835T200
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://aptose.com/
+description,"Aptose Biosciences, Inc. is a clinical-stage oncology company, which engages in the discovery, research, and development of anti-cancer therapies. The company is headquartered in North York, Ontario and currently employs 22 full-time employees. The firm is engaged in the development of anticancer drugs that target specific epigenetic processes and signal transduction abnormalities that underlie a particular life-threatening malignancy. Its product pipeline includes cancer drug candidates that exert activity as stand-alone agents and that enhance the activities of other anticancer agents without causing overlapping toxicities. The firm develops therapeutics focused on epigenetic processes and signal transduction abnormalities at the edge of cancer research, coupled with companion diagnostics to identify the optimal patient population for its products. The firm's APTO-253 is a small molecule that can induce expression of the genes that codes for the Kruppel-like factor 4 (KLF4) master transcription factor and the p21 cell cycle inhibitor protein."
+ceo,Dr. William Rice
+sector,Healthcare
+country,CA
+fullTimeEmployees,31
+phone,16507185028
+address,251 Consumers Rd Suite 1105
+city,North York
+state,ONTARIO
+zip,M2J 4R3
+dcfDiff,
+dcf,7.47175
+image,https://financialmodelingprep.com/image-stock/APTO.png
+ipoDate,1993-06-04
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,DFIN
+price,14.39
+beta,2.03578
+volAvg,242306
+mktCap,480272032
+lastDiv,0.0
+range,4.04-15.52
+changes,0.28
+companyName,Donnelley Financial Solutions Inc
+currency,USD
+cik,0001669811
+isin,US25787G1004
+cusip,25787G100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Capital Markets
+website,https://www.dfinsolutions.com/
+description,"Donnelley Financial Solutions, Inc. engages in the provision of compliance and technology solutions. The company is headquartered in Chicago, Illinois and currently employs 3,100 full-time employees. The firm supports global capital markets compliance and transaction needs for its corporate clients and their advisors (such as law firms and investment bankers), and global investment markets compliance and analytics needs for mutual fund companies, variable annuity providers and broker/dealers. The firm provides content management, multi-channel content distribution, data management and analytics services, and collaborative workflow and business reporting tools. The firm operates in two business segments: United States and International. The United States segment consists of two reporting units: capital markets, investment markets and other."
+ceo,Mr. Daniel Leib
+sector,Financial Services
+country,US
+fullTimeEmployees,2900
+phone,18448664337
+address,35 W Wacker Dr
+city,Chicago
+state,ILLINOIS
+zip,60601
+dcfDiff,-15.5
+dcf,14.5715
+image,https://financialmodelingprep.com/image-stock/DFIN.jpg
+ipoDate,2016-09-21
+defaultImage,True

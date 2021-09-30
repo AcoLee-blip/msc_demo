@@ -1,0 +1,33 @@
+,0
+symbol,MIME
+price,43.66
+beta,1.1986
+volAvg,573227
+mktCap,2789537790
+lastDiv,0.0
+range,25.14-54.4
+changes,0.3
+companyName,Mimecast Ltd
+currency,USD
+cik,0001644675
+isin,GB00BYT5JK65
+cusip,G14838109
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.mimecast.com/
+description,"Mimecast Ltd. engages in the provision of cloud security and risk management services for corporate information and email. The Company’s principal activity is the provision of email management services. The company provides its services for archiving, continuity, and security, Web security and awareness training. The company provides cloud security and risk management services for corporate information and email. Its solutions include cyber resilience for email, awareness training, email security, archive and email and Web security. Its Mimecast Email Security with Targeted Threat Protection is a set of cloud services that provides protection against email-borne threats. Its Mimecast Web Security protects against malicious Web activity initiated by user action or malware and blocks business inappropriate websites based on customer-configured policies. Mimecast Mailbox Continuity enables employees to keep sending and receiving email in the event of an unplanned or planned outage of the primary email system."
+ceo,Mr. Peter Bauer
+sector,Technology
+country,GB
+fullTimeEmployees,1800
+phone,442078478700
+address,1 Finsbury Avenue
+city,LONDON
+state,
+zip,EC2M 2PF
+dcfDiff,-49.54
+dcf,45.8447
+image,https://financialmodelingprep.com/image-stock/MIME.png
+ipoDate,2015-11-19
+defaultImage,False

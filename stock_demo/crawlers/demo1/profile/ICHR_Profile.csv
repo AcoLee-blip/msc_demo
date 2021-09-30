@@ -1,0 +1,33 @@
+,0
+symbol,ICHR
+price,28.365
+beta,2.33733
+volAvg,286296
+mktCap,657001470
+lastDiv,0.0
+range,13.68-39.83
+changes,1.045
+companyName,Ichor Holdings Ltd
+currency,USD
+cik,0001652535
+isin,KYG4740B1059
+cusip,G4740B105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.ichorsystems.com/
+description,"Ichor Holdings Ltd. engages in designing, engineering, and manufacturing fluid delivery subsystems for semiconductor capital equipment. The company is headquartered in Fremont, California and currently employs 1,305 full-time employees. The firm's primary offerings include gas and chemical delivery subsystems, collectively known as fluid delivery subsystems, which are key elements of the process tools used in the manufacturing of semiconductor devices. The firm's gas delivery subsystems deliver, monitor and control precise quantities of the specialized gases used in semiconductor manufacturing processes, such as etch and deposition. Its chemical delivery subsystems precisely blend and dispense the reactive liquid chemistries used in semiconductor manufacturing processes, such as chemical-mechanical planarization (CMP) electroplating and cleaning. The firm also manufactures certain components for internal use in fluid delivery systems and for direct sales to its customers."
+ceo,Mr. Jeffrey Andreson
+sector,Technology
+country,US
+fullTimeEmployees,1355
+phone,15108975200
+address,3185 Laurelview Ct
+city,Fremont
+state,CALIFORNIA
+zip,94538
+dcfDiff,-25.35
+dcf,26.9423
+image,https://financialmodelingprep.com/image-stock/ICHR.png
+ipoDate,2016-12-09
+defaultImage,False

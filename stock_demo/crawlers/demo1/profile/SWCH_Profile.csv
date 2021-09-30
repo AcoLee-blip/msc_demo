@@ -1,0 +1,33 @@
+,0
+symbol,SWCH
+price,15.285
+beta,0.543292
+volAvg,1418396
+mktCap,3677922560
+lastDiv,0.187
+range,10.3-19.99
+changes,-0.215
+companyName,Switch Inc
+currency,USD
+cik,0001710583
+isin,US87105L1044
+cusip,87105L104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.switch.com
+description,"Switch, Inc. (Nevada) engages in the provision of technology infrastructure. The company is headquartered in Las Vegas, Nevada and currently employs 731 full-time employees. The firm is developer and operator of the SUPERNAP, data center facilities, and provides colocation, telecommunications, cloud services, and content ecosystems. The firm designs, constructs and operates hyperscale data centers that address the growing challenges facing the data center industry. The firm's patented technologies include 100% hot aisle containment rows, exterior wall penetrating multi-mode HVAC units, hot and cold containment segregation structure, redundant data center roofing system, multi-system power containers, data center infrastructure management system (DCIM)."
+ceo,Mr. Rob Roy
+sector,Technology
+country,US
+fullTimeEmployees,789
+phone,17024444111
+address,7135 S Decatur Blvd
+city,Las Vegas
+state,NEVADA
+zip,89118
+dcfDiff,-10.3
+dcf,15.7704
+image,https://financialmodelingprep.com/image-stock/SWCH.png
+ipoDate,2017-10-06
+defaultImage,False

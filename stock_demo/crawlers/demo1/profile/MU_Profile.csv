@@ -1,0 +1,33 @@
+,0
+symbol,MU
+price,57.9009
+beta,1.30831
+volAvg,18218353
+mktCap,64456442000
+lastDiv,0.0
+range,31.13-61.19
+changes,1.6509
+companyName,Micron Technology Inc
+currency,USD
+cik,0000723125
+isin,US5951121038
+cusip,595112103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,https://www.micron.com/
+description,"Micron Technology, Inc. engages in the provision of innovative memory and storage solutions. The company is headquartered in Boise, Idaho and currently employs 37,000 full-time employees. The firm's portfolio of memory technologies, including dynamic random-access memory (DRAM), negative-AND (NAND) Flash and NOR Flash are the basis for solid-state drives, modules, multi-chip packages and other system solutions. Its business segments include Compute and Networking Business Unit (CNBU), which includes memory products sold into compute, networking, graphics and cloud server markets; Mobile Business Unit (MBU), which includes memory products sold into smartphone, tablet and other mobile-device markets; Storage Business Unit (SBU), which includes memory products sold into enterprise, client, cloud and removable storage markets, and SBU also includes products sold to Intel through its Intel/Micron Flash Technology (IMFT) joint venture, and Embedded Business Unit (EBU), which includes memory products sold into automotive, industrial, connected home and consumer electronics markets."
+ceo,Mr. Sanjay Mehrotra
+sector,Technology
+country,US
+fullTimeEmployees,37000
+phone,12083684000
+address,"8000 S Federal Way, PO Box 6"
+city,Boise
+state,IDAHO
+zip,
+dcfDiff,129.05
+dcf,59.5672
+image,https://financialmodelingprep.com/image-stock/MU.png
+ipoDate,1984-06-01
+defaultImage,False

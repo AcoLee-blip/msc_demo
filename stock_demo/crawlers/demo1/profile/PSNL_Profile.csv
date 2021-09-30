@@ -1,0 +1,33 @@
+,0
+symbol,PSNL
+price,28.72
+beta,0.0
+volAvg,679935
+mktCap,1118150020
+lastDiv,0.0
+range,4.27-30.95
+changes,-0.22
+companyName,Personalis Inc
+currency,USD
+cik,0001527753
+isin,US71535D1063
+cusip,71535D106
+exchange,NasdaqGM
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,http://www.personalis.com/
+description,"Personalis, Inc. engages in the provision of genomic sequencing and analytics solutions to support the development of personalized cancer vaccines and other next-generation cancer immunotherapies. The company is headquartered in Menlo Park, California and currently employs 147 full-time employees. The firm is focused on the development of therapies by providing molecular data about each patient’s cancer and immune response. The firm has designed NeXT Platform, which provides its biopharmaceutical customers with information on over 20,000 human genes, together with the immune system, in contrast to many cancer panels that cover over 50 to 500 genes. Its NeXT Platform is designed to provide analysis of both a tumor and its immune microenvironment from a single limited tissue sample. Its platform covers the deoxyribonucleic acid sequence of all of the approximately 20,000 human genes. The company also report on the entire transcriptome of a tumor, which encompasses ribonucleic acid expression across human genes, allowing it to determine which of the genomic mutations might actually be driving tumor progression."
+ceo,Mr. John West
+sector,Healthcare
+country,US
+fullTimeEmployees,182
+phone,16507521300
+address,1330 Obrien Dr
+city,Menlo Park
+state,CALIFORNIA
+zip,94025
+dcfDiff,
+dcf,27.8962
+image,https://financialmodelingprep.com/image-stock/PSNL.png
+ipoDate,2019-06-20
+defaultImage,False

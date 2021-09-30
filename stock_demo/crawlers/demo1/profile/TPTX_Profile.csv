@@ -1,0 +1,33 @@
+,0
+symbol,TPTX
+price,110.275
+beta,0.0
+volAvg,452392
+mktCap,5233232400
+lastDiv,0.0
+range,31.304-122.85
+changes,2.225
+companyName,Turning Point Therapeutics Inc
+currency,USD
+cik,0001595893
+isin,US90041T1088
+cusip,90041T108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://tptherapeutics.com/
+description,"Turning Point Therapeutics, Inc. engages in the discovery and development of precision medicines for cancer and other diseases. The company is headquartered in San Diego, California and currently employs 77 full-time employees. The firm is designing and developing novel small molecule, targeted oncology therapies to address key limitations of existing therapies. Its tyrosine kinase inhibitors (TKIs) pipeline targets numerous genetic drivers of cancer in both TKI-naive and TKI-pretreated patients. The firm has developed a macrocycle platform enabling to design proprietary small, compact TKIs with rigid three-dimensional structures that potentially bind to their targets with greater precision and affinity than other kinase inhibitors. The Company’s lead drug candidate, repotrectinib (TPX-0005), is being evaluated in an ongoing Phase I/II trial called TRIDENT-1 for the treatment of patients with ROS1+ advanced non-small-cell lung cancer (NSCLC) and patients with ROS1+, NTRK+ or ALK+ advanced solid tumors."
+ceo,Dr. Athena Maria Countouriotis
+sector,Healthcare
+country,US
+fullTimeEmployees,102
+phone,18589265251
+address,10628 Science Center Dr Ste 200
+city,San Diego
+state,CALIFORNIA
+zip,92121
+dcfDiff,
+dcf,104.027
+image,https://financialmodelingprep.com/image-stock/TPTX.png
+ipoDate,2019-04-17
+defaultImage,False

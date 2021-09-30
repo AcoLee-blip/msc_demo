@@ -1,0 +1,33 @@
+,0
+symbol,WDAY
+price,222.0
+beta,1.57832
+volAvg,1986683
+mktCap,52614001000
+lastDiv,0.0
+range,107.75-248.75
+changes,2.19
+companyName,Workday Inc
+currency,USD
+cik,0001327811
+isin,US98138H1014
+cusip,98138H101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.workday.com/
+description,"Workday, Inc. engages in the development of enterprise cloud applications for finance and human resources. The company is headquartered in Pleasanton, California and currently employs 11,800 full-time employees. The firm delivers financial management, human capital management and analytics applications designed for various companies, educational institutions and government agencies. As part of its applications, the Company provides embedded analytics that capture the content and context of everyday business events, facilitating informed decision-making from wherever users are working. Its applications include Workday Financial Management, Workday Human Capital Management (HCM) and Other Applications. The company also provides open, standards-based Web-services application programming interfaces, and pre-built packaged integrations and connectors. Workday Financial Management is a unified application with a range of financial capabilities, relevant analytics and metrics, and auditable process management. Workday HCM allows an organization to staff, pay, organize and develop its global workforce."
+ceo,Mr. Aneel Bhusri
+sector,Technology
+country,US
+fullTimeEmployees,12400
+phone,19259519000
+address,6110 Stoneridge Mall Rd
+city,Pleasanton
+state,CALIFORNIA
+zip,94588
+dcfDiff,-247.94
+dcf,227.528
+image,https://financialmodelingprep.com/image-stock/WDAY.png
+ipoDate,2012-12-10
+defaultImage,False

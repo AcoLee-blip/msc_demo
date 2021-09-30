@@ -1,0 +1,33 @@
+,0
+symbol,NOVT
+price,112.38
+beta,1.17797
+volAvg,103138
+mktCap,3951348220
+lastDiv,0.0
+range,66.44-127.91
+changes,-1.34
+companyName,Novanta Inc
+currency,USD
+cik,0001076930
+isin,CA67000B1040
+cusip,67000B104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,https://www.novanta.com/
+description,"Novanta, Inc. engages in the provision of core technology solutions to healthcare and advanced industrial original equipment manufacturers. The company is headquartered in Bedford, Massachusetts and currently employs 2,133 full-time employees. The firm's segments are Photonics, Vision and Precision Motion. The Photonics segment designs, manufactures and markets photonics-based solutions, including carbon dioxide (CO2) laser sources, laser scanning and laser beam delivery products, to customers around the world. The Vision Technologies segment designs, manufactures and markets a range of medical grade technologies, including visualization solutions, imaging informatics products, optical data collection and machine vision technologies, radio frequency identification (RFID) technologies, and thermal printers, to customers around the world. The firm's Precision Motion segment designs, manufactures and markets optical encoders, precision motors and other motion control technology, air bearing spindles and precision machined components to customers around the world."
+ceo,Mr. Matthijs Glastra
+sector,Technology
+country,US
+fullTimeEmployees,2290
+phone,17812665618
+address,125 Middlesex Tpke
+city,Bedford
+state,MASSACHUSETTS
+zip,01730
+dcfDiff,-52.78
+dcf,115.231
+image,https://financialmodelingprep.com/image-stock/NOVT.jpg
+ipoDate,1999-03-24
+defaultImage,True

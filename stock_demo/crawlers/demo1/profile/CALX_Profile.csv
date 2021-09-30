@@ -1,0 +1,33 @@
+,0
+symbol,CALX
+price,24.07
+beta,1.73921
+volAvg,943556
+mktCap,1486873730
+lastDiv,0.0
+range,5.61-27.78
+changes,0.83
+companyName,Calix Inc
+currency,USD
+cik,0001406666
+isin,US13100M5094
+cusip,13100M509
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.calix.com/
+description,"Calix, Inc. provides cloud and software platforms, systems and services required to realize the unified access network. The company is headquartered in San Jose, California and currently employs 802 full-time employees. The Company’s platforms and services help its customers to build next generation networks by developing a DevOps operating model. The firm's cloud and software platforms, systems and services enable communication service providers (CSPs) to provide a wide range of revenue-generating services, from basic voice and data to advanced broadband services, over legacy and next-generation access networks. The firm focuses on CSP access networks, the portion of the network that governs available bandwidth and determines the range and quality of services that can be offered to subscribers. The Company’s platform includes Calix Cloud, Experience eXtensible Operating System (EXOS) and Access eXtensible Operating System (AXOS)."
+ceo,Mr. Carl Russo
+sector,Technology
+country,US
+fullTimeEmployees,763
+phone,14085143000
+address,2777 Orchard Pkwy
+city,San Jose
+state,CALIFORNIA
+zip,95134
+dcfDiff,-15.46
+dcf,26.3015
+image,https://financialmodelingprep.com/image-stock/CALX.png
+ipoDate,2010-03-24
+defaultImage,False

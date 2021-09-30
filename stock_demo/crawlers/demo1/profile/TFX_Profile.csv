@@ -1,0 +1,33 @@
+,0
+symbol,TFX
+price,365.0
+beta,1.05229
+volAvg,235073
+mktCap,16996845600
+lastDiv,1.7000000000000002
+range,221.27-409.27
+changes,8.26
+companyName,Teleflex Inc
+currency,USD
+cik,0000096943
+isin,US8793691069
+cusip,879369106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Instruments & Supplies
+website,https://www.teleflex.com/
+description,"Teleflex, Inc. provides medical technology products which enables healthcare providers to improve patient outcomes and enhance patient and provider safety. The company is headquartered in Wayne, Pennsylvania and currently employs 15,200 full-time employees. The firm designs, develops, manufactures and supplies single-use medical devices used by hospitals and healthcare providers for diagnostic and therapeutic procedures in critical care and surgical applications. The firm operates through six segments: Vascular North America; Anesthesia North America; Surgical North America; Europe, the Middle East and Africa (EMEA); Asia, and Original Equipment Manufacturer (OEM). The firm's products include oxygen therapy products, aerosol therapy products, spirometry products, and ventilation management products, which are offered under Hudson RCI brand. As of December 31, 2016, it manufactured its products at approximately 30 manufacturing sites, with manufacturing operations located in the Czech Republic, Germany, Malaysia, Mexico and the United States. Its all others businesses include single-use respiratory, urology and cardiac care products, as well as capital equipment."
+ceo,Mr. Liam Kelly
+sector,Healthcare
+country,US
+fullTimeEmployees,14400
+phone,16102256800
+address,550 E Swedesford Rd Ste 400
+city,Wayne
+state,PENNSYLVANIA
+zip,19087-1603
+dcfDiff,-117.2
+dcf,365.454
+image,https://financialmodelingprep.com/image-stock/TFX.jpg
+ipoDate,1981-05-22
+defaultImage,True

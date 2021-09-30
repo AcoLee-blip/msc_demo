@@ -1,0 +1,33 @@
+,0
+symbol,VHC
+price,5.12
+beta,0.57735
+volAvg,614250
+mktCap,363820032
+lastDiv,1.0
+range,2.85-7.79
+changes,-0.07
+companyName,VirnetX Holding Corp
+currency,USD
+cik,0001082324
+isin,US92823T1088
+cusip,92823T108
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Software Infrastructure
+website,https://www.virnetx.com/
+description,"VirnetX Holding Corp. engages in the development of software and technology solutions for securing real-time communications over the Internet. The company is headquartered in Zephyr Cove, Nevada and currently employs 21 full-time employees. The firm's software and technology solutions, including its secure domain name registry and GABRIEL Connection Technology, facilitate secure communications and provide the security platform required by Internet-based applications, such as instant messaging, voice over Internet protocol, mobile services, streaming video, file transfer, remote desktop and machine-to-machine (M2M) communications. Its portfolio is focused on securing communications over the Internet, as well as related services, such as the establishment and maintenance of a secure domain name registry. Its methods also have additional applications in the areas of device operating systems and network security for cloud services, M2M communications in the initiatives, such as Smart City, Connected Car and Connected Home."
+ceo,Mr. Kendall Larsen
+sector,Technology
+country,US
+fullTimeEmployees,20
+phone,18314388200
+address,"308 Dorla Court, Suite 206"
+city,Zephyr Cove
+state,NEVADA
+zip,89448
+dcfDiff,-10.45
+dcf,5.86572
+image,https://financialmodelingprep.com/image-stock/VHC.jpg
+ipoDate,1999-07-29
+defaultImage,True

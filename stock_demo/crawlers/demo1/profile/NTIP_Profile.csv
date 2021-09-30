@@ -1,0 +1,33 @@
+,0
+symbol,NTIP
+price,2.91
+beta,0.32036
+volAvg,28076
+mktCap,69903440
+lastDiv,0.1
+range,1.8-3.24
+changes,0.03
+companyName,Network-1 Technologies Inc
+currency,USD
+cik,0001065078
+isin,US64121N1090
+cusip,64121N109
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Communication Equipment
+website,https://www.network-1.com/
+description,"Network-1 Technologies, Inc. engages in the development and licensing of intellectual property assets. The company is headquartered in New York City, New York and currently employs 3 full-time employees. The firm owns over 27 patents, including the remote power patent (Remote Power Patent) covering the delivery of power over Ethernet (PoE) cables for the purpose of remotely powering network devices, such as wireless access ports, Internet protocol (IP) phones and network based cameras; the Mirror Worlds patent portfolio (the Mirror Worlds Patent Portfolio) relating to foundational technologies that enable unified search and indexing, displaying and archiving of documents in a computer system; the Cox patent portfolio (the Cox Patent Portfolio) relating to enabling technology for identifying media content on the Internet, and the QoS patents (the QoS Patents) covering systems and methods for the transmission of audio, video and data in order to achieve high quality of service (QoS) over computer and telephony networks."
+ceo,Mr. Corey Horowitz
+sector,Technology
+country,US
+fullTimeEmployees,3
+phone,12128295770
+address,445 Park Ave Ste 912
+city,New York City
+state,NEW YORK
+zip,10022
+dcfDiff,
+dcf,3.65196
+image,https://financialmodelingprep.com/image-stock/NTIP.png
+ipoDate,1998-11-12
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,TECH
+price,302.5
+beta,1.07914
+volAvg,166840
+mktCap,11679312900
+lastDiv,1.28
+range,155.17-316.87
+changes,-0.71
+companyName,Bio-Techne Corp
+currency,USD
+cik,0000842023
+isin,US09073M1045
+cusip,09073M104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.bio-techne.com/
+description,"Bio-Techne Corp. engages in the development, manufacture and sale of biotechnology reagents and instruments for the research and clinical diagnostic markets. The company is headquartered in Minneapolis, Minnesota and currently employs 2,250 full-time employees. The firm operates through two segments: Protein Sciences and Diagnostics and Genomics. The Protein Sciences reporting segment supplies specialized proteins, such as cytokines and growth factors, immunoassays, antibodies and reagents, to the biotechnology community. The Protein Sciences segment also provides an array of platforms useful in various areas of protein analysis. The Diagnostics and Genomics reporting segment provides blood chemistry and blood gas quality controls, hematology instrument controls, diagnostics immunoassays and other bulk and custom reagents for the in vitro diagnostic market."
+ceo,Mr. Charles Kummeth
+sector,Healthcare
+country,US
+fullTimeEmployees,2250
+phone,16123798854
+address,614 McKinley Pl NE
+city,Minneapolis
+state,MINNESOTA
+zip,55413
+dcfDiff,-91.44
+dcf,265.521
+image,https://financialmodelingprep.com/image-stock/TECH.jpg
+ipoDate,1989-02-09
+defaultImage,True

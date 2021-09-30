@@ -1,0 +1,33 @@
+,0
+symbol,IFS
+price,21.45
+beta,0.95215
+volAvg,33416
+mktCap,2447681020
+lastDiv,1.75
+range,19.235-45.01
+changes,0.65
+companyName,Intercorp Financial Services Inc
+currency,PEN
+cik,0001615903
+isin,PAL2400671A3
+cusip,P5626F128
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Banks Regional
+website,http://www.ifs.com.pe/
+description,"Intercorp Financial Services Inc is a Peru-based financial holding company. Through its subsidiaries, the Company provides a wide range of products and related services spanning banking, insurance and wealth management to retail and commercial clients, by a distribution network of specialized advisors, dedicated sales force, and digital channels. The Company’s operations are divided into three different business segments that complement each other: Banking, operated through the subsidiary Interbank; Insurance, operated through the subsidiary Interseguro; and Wealth Management, operated through the subsidiary Inteligo."
+ceo,Lord Luis Felipe Castellanos Lpez-Torres B.B.A.
+sector,Financial Services
+country,PE
+fullTimeEmployees,7763
+phone,5112192000
+address,Av. Carlos Villaran 140
+city,LA VICTORIA
+state,LIMA
+zip,13
+dcfDiff,
+dcf,22.8
+image,https://financialmodelingprep.com/image-stock/IFS.jpg
+ipoDate,2007-05-16
+defaultImage,True

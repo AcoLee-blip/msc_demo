@@ -1,0 +1,33 @@
+,0
+symbol,NET
+price,64.35
+beta,0.0
+volAvg,5718760
+mktCap,19774818300
+lastDiv,0.0
+range,15.05-71.77
+changes,0.2
+companyName,Cloudflare Inc
+currency,USD
+cik,0001477333
+isin,US18915M1071
+cusip,18915M107
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,https://www.cloudflare.com/
+description,"Cloudflare, Inc. engages in the provision of cloud-based services to secure websites. The company is headquartered in San Francisco, California and currently employs 1,069 full-time employees. The firm has built a global cloud platform that delivers a range of network services to businesses of all sizes and geographies. The firm provides businesses a unified control plane to deliver security, performance, and reliability across their on-premise, hybrid, cloud, and Software-as-a-Service (SaaS) applications. The Company’s product offerings are classified under performance and reliability, advanced security, Cloudflare for Developers, video streaming and delivery, and domain registration. The firm serves various industries including gaming, SaaS, eCommerce, media and entertainment, public sector, public interest groups, and state and local government."
+ceo,Mr. Matthew Prince
+sector,Technology
+country,US
+fullTimeEmployees,1270
+phone,18889935273
+address,101 Townsend St
+city,San Francisco
+state,CALIFORNIA
+zip,94107
+dcfDiff,
+dcf,55.9299
+image,https://financialmodelingprep.com/image-stock/NET.png
+ipoDate,2019-09-13
+defaultImage,False

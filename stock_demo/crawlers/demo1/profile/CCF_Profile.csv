@@ -1,0 +1,33 @@
+,0
+symbol,CCF
+price,110.63
+beta,0.61237
+volAvg,16743
+mktCap,1044641470
+lastDiv,0.8
+range,52.0-125.54
+changes,-1.24
+companyName,Chase Corp
+currency,USD
+cik,0000830524
+isin,US16150R1041
+cusip,16150R104
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Specialty Chemicals
+website,http://www.chasecorp.com/
+description,"Chase Corp. manufactures materials for high-reliability. The company is headquartered in Westwood, Massachusetts and currently employs 726 full-time employees. The firm's operating segments include industrial materials segment and construction materials segment. The Industrial Materials segment includes specified products that are used in, or integrated into, another company's product, with demand typically dependent upon general economic conditions. The industrial material includes insulating and conducting materials for the manufacture of electrical and telephone wire and cable, electrical splicing, and terminating and repair tapes, which are marketed to wire and cable manufacturers. The Construction Materials segment consists of project-oriented product offerings that are sold and used as Chase branded products. The firm's principal products are specialty tapes, laminates, sealants, coatings and chemical intermediates. Its manufacturing facilities are located at O'Hara Township, Pennsylvania and Blawnox, Pennsylvania facilities."
+ceo,Mr. Adam Chase
+sector,Basic Materials
+country,US
+fullTimeEmployees,726
+phone,17813320700
+address,295 University Ave
+city,Westwood
+state,MASSACHUSETTS
+zip,02090
+dcfDiff,34.4
+dcf,103.243
+image,https://financialmodelingprep.com/image-stock/CCF.png
+ipoDate,1994-04-15
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,LRCX
+price,428.78
+beta,1.2188
+volAvg,1701733
+mktCap,61748175000
+lastDiv,4.75
+range,181.38-436.0
+changes,10.32
+companyName,Lam Research Corp
+currency,USD
+cik,0000707549
+isin,US5128071082
+cusip,512807108
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.lamresearch.com
+description,"Lam Research Corp. engages in manufacturing and servicing of wafer processing semiconductor manufacturing equipment. The company is headquartered in Fremont, California and currently employs 10,700 full-time employees. The firm designs, manufactures, markets, refurbishes and services semiconductor processing systems that are used in the fabrication of integrated circuits (ICs). The company operates through manufacturing and servicing of wafer processing semiconductor manufacturing equipment segment. Its products are designed to enable its customers build a range of devices that are used in a range of electronic products, including cell phones, tablets, computers, storage devices, and networking equipment. Its customer base includes semiconductor memory, foundry, and integrated device manufacturers (IDMs) that make products, such as dynamic random-access memory (DRAM), negative-AND (NAND) memory and logic devices. The company offers a portfolio of products that are used in several areas of the semiconductor manufacturing process flow, including thin film deposition, plasma etch and single-wafer clean."
+ceo,Mr. Timothy Archer
+sector,Technology
+country,US
+fullTimeEmployees,10700
+phone,15106590200
+address,4650 Cushing Pkwy
+city,Fremont
+state,CALIFORNIA
+zip,94538
+dcfDiff,66.35
+dcf,399.588
+image,https://financialmodelingprep.com/image-stock/LRCX.png
+ipoDate,1984-05-11
+defaultImage,False

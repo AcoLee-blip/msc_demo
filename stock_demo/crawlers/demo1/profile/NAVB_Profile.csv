@@ -1,0 +1,33 @@
+,0
+symbol,NAVB
+price,2.521
+beta,2.11361
+volAvg,167290
+mktCap,66346164
+lastDiv,0.0
+range,0.63-5.36
+changes,0.281
+companyName,Navidea Biopharmaceuticals Inc
+currency,USD
+cik,0000810509
+isin,US63937X2027
+cusip,63937X202
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Biotechnology
+website,https://www.navidea.com/
+description,"Navidea Biopharmaceuticals, Inc. engages in the development and commercialization of precision immunodiagnostic agents and immunotherapeutic. The company is headquartered in Dublin Ohio, Ohio and currently employs 14 full-time employees. The firm is developing multiple precision-targeted products based on the Manocept platform to help identify the sites and pathways of undetected disease. The Manocept platform is predicated on the ability to specifically target the CD206 mannose receptor expressed on activated macrophages. NAV5001 is an iodine-123 (I-123) radiolabeled single-photon emission computed tomography (SPECT) imaging agent being developed as an aid in the diagnosis of Parkinson's disease (PD) and other movement disorders, with potential use as a diagnostic aid in dementia. NAV4694 is a fluorine-18 (F-18) radiolabeled positron emission tomography (PET) imaging agent being developed as an aid in the diagnosis of patients with signs or symptoms of Alzheimer's disease (AD) and mild cognitive impairment (MCI)."
+ceo,Mr. Jed Latkin
+sector,Healthcare
+country,US
+fullTimeEmployees,13
+phone,16147937500
+address,4995 Bradenton Ave Ste 240
+city,Dublin Ohio
+state,OHIO
+zip,43017
+dcfDiff,13.78
+dcf,2.59275
+image,https://financialmodelingprep.com/image-stock/NAVB.png
+ipoDate,1992-11-10
+defaultImage,False

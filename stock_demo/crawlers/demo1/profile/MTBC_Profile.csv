@@ -1,0 +1,33 @@
+,0
+symbol,MTBC
+price,8.6278
+beta,1.25711
+volAvg,143803
+mktCap,113776520
+lastDiv,0.68751
+range,3.73-13.4
+changes,-0.0122
+companyName,MTBC Inc
+currency,USD
+cik,0001582982
+isin,US55378G1022
+cusip,55378G102
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,http://www.mtbc.com
+description,"MTBC, Inc. is a healthcare information technology (IT) company, which engages in the provision of an integrated suite of proprietary cloud-based electronic health records and practice management solutions. The company is headquartered in Somerset, New Jersey and currently employs 2,200 full-time employees. The firm's offering, PracticePro, allows healthcare practices with the core software and business services on Software-as-a-Service (SaaS) platform. PracticePro includes practice management software and related tools, which facilitate the day-to-day operation of a medical practice; electronic health records (EHR), which allow its customers to qualify for government incentives; revenue cycle management (RCM) services, which include medical billing, analytics and related services, and mobile Health solutions, including smartphone applications that assist patients and healthcare providers in the provision of healthcare services. The firm offers a clearinghouse service, which allows clients to track claim status."
+ceo,Mr. Stephen Snyder
+sector,Healthcare
+country,US
+fullTimeEmployees,2700
+phone,17328735133
+address,7 Clyde Rd
+city,Somerset
+state,NEW JERSEY
+zip,08873
+dcfDiff,-5.03
+dcf,10.3441
+image,https://financialmodelingprep.com/image-stock/MTBC.png
+ipoDate,2014-07-23
+defaultImage,False

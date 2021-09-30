@@ -1,0 +1,33 @@
+,0
+symbol,GIB
+price,68.01
+beta,0.93978
+volAvg,157673
+mktCap,17699807200
+lastDiv,0.0
+range,46.32-87.13
+changes,0.38
+companyName,CGI Inc
+currency,CAD
+cik,0001061574
+isin,CA12532H1047
+cusip,12532H104
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://www.cgi.com/en
+description,"CGI, Inc. engages in the provision of information technology (IT) and consulting services. The company is headquartered in Montreal, Quebec and currently employs 77,500 full-time employees. The firm delivers an end-to-end portfolio of capabilities, from IT and business consulting to systems integration, outsourcing services and intellectual property solutions. CGI Inc works with clients through a local relationship model complemented by a global delivery network."
+ceo,Mr. George Schindler
+sector,Technology
+country,CA
+fullTimeEmployees,78000
+phone,15148413200
+address,"1350 Rene Levesque Boulevard West, 25Th Floor"
+city,MONTREAL
+state,QUEBEC
+zip,H3G 1T4
+dcfDiff,113.3
+dcf,67.2415
+image,https://financialmodelingprep.com/image-stock/GIB.jpg
+ipoDate,1986-12-17
+defaultImage,True

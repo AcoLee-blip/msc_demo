@@ -1,0 +1,33 @@
+,0
+symbol,WAT
+price,232.65
+beta,0.9804
+volAvg,431396
+mktCap,14435396600
+lastDiv,0.0
+range,154.39-245.68
+changes,6.08
+companyName,Waters Corp
+currency,USD
+cik,0001000697
+isin,US9418481035
+cusip,941848103
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.waters.com/nextgen/us/en.html
+description,"Waters Corp. is a measurement company, which engages in the analytical workflow solutions involving liquid chromatography, mass spectrometry and thermal analysis innovations. The company is headquartered in Milford, Massachusetts and currently employs 7,200 full-time employees. The firm operates through two segments: Waters and TA. The company designs, manufactures, sells and services high performance liquid chromatography (HPLC), ultra performance liquid chromatography (UPLC and together with HPLC, referred to as LC) and mass spectrometry (MS) technology systems and support products, including chromatography columns, other consumable products and post-warranty service plans. The company also designs, manufactures, sells and services thermal analysis, rheometry and calorimetry instruments through its TA product line. The company is also a developer and supplier of software-based products that interface with the Company's instruments, as well as other suppliers' instruments. Its LC and LC-MS instruments are utilized in a range of industries to detect, identify, monitor and measure the chemical, physical and biological composition of materials, and to purify a range of compounds."
+ceo,Mr. Christopher O'Connell
+sector,Healthcare
+country,US
+fullTimeEmployees,7500
+phone,15084782000
+address,34 MAPLE ST
+city,Milford
+state,MASSACHUSETTS
+zip,01757
+dcfDiff,-123.98
+dcf,219.825
+image,https://financialmodelingprep.com/image-stock/WAT.jpg
+ipoDate,1995-11-17
+defaultImage,True

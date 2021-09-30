@@ -1,0 +1,33 @@
+,0
+symbol,RIGL
+price,2.75
+beta,1.41917
+volAvg,2687627
+mktCap,464697728
+lastDiv,0.0
+range,1.23-5.24
+changes,0.08
+companyName,Rigel Pharmaceuticals Inc
+currency,USD
+cik,0001034842
+isin,US7665596034
+cusip,766559603
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.rigel.com/
+description,"Rigel Pharmaceuticals, Inc. operates as a clinical stage biotechnology company. The company is headquartered in South San Francisco, California and currently employs 160 full-time employees. The firm is engaged in discovering, developing and providing novel small molecule drugs that improve the lives of patients with immune and hematological disorders, cancer and rare diseases. The Company’s research focuses on signaling pathways that are critical to disease mechanisms. The Company’s product include TAVALISSE is an oral spleen tyrosine kinase (SYK) inhibitor for the treatment of adult patients with chronic immune thrombocytopenia (ITP). Its current clinical programs include Phase 2 studies of fostamatinib in autoimmune hemolytic anemia and IgA nephropathy, and a Phase I study for its interleukin receptor associated kinase (IRAK) program. In addition, it has product candidates in development with partners BerGenBio AS, Daiichi Sankyo and Aclaris Therapeutics."
+ceo,Mr. Raul Rodriguez
+sector,Healthcare
+country,US
+fullTimeEmployees,163
+phone,16506241100
+address,1180 Veterans Blvd
+city,South San Francisco
+state,CALIFORNIA
+zip,94080
+dcfDiff,-13510.7
+dcf,2.60453
+image,https://financialmodelingprep.com/image-stock/RIGL.png
+ipoDate,2000-11-29
+defaultImage,False

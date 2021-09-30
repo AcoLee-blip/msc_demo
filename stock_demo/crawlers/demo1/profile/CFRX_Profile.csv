@@ -1,0 +1,33 @@
+,0
+symbol,CFRX
+price,5.27
+beta,1.10833
+volAvg,175993
+mktCap,146555008
+lastDiv,0.0
+range,2.9-13.4
+changes,-0.2
+companyName,ContraFect Corp
+currency,USD
+cik,0001478069
+isin,US2123263004
+cusip,212326300
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.contrafect.com/
+description,"ContraFect Corporation is a clinical-stage biotechnology company. The Company is focused on discovering and developing therapeutic protein and antibody products for the treatment of infectious diseases, including those caused by drug-resistant pathogens, particularly those treated in hospital settings. Its pipeline of lysin candidates includes CF-301, CF-302, CF-303, CF-309, CF-304, CF-305, CF-306, CF-307 and CF-308. Its other product candidate includes CF-404. Its lysin product candidate, CF-301 is developed for the treatment of Staph aureus bacteremia, including endocarditis, caused by methicillin-resistant Staph aureus and susceptible Staph aureus strains. Its product candidate, CF-404 is used for the treatment of human influenza, including seasonal and pandemic varieties. It focuses on addressing drug-resistant infections using product candidates from its lysin and monoclonal antibody platforms that target conserved regions of either bacteria or viruses."
+ceo,Dr. Roger Pomerantz
+sector,Healthcare
+country,US
+fullTimeEmployees,24
+phone,19142072300
+address,28 Wells Ave Ste 3
+city,Yonkers
+state,NEW YORK
+zip,10701
+dcfDiff,-0.41
+dcf,8.25955
+image,https://financialmodelingprep.com/image-stock/CFRX.png
+ipoDate,2014-07-29
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,UPS
+price,163.7
+beta,1.01514
+volAvg,3794721
+mktCap,141501956000
+lastDiv,5.0
+range,82.0-178.01
+changes,0.59
+companyName,United Parcel Service Inc
+currency,USD
+cik,0001090727
+isin,US9113121068
+cusip,911312106
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Integrated Freight & Logistics
+website,https://www.ups.com/
+description,"United Parcel Service, Inc. operates as a logistics and package delivery company providing supply chain management services. The company is headquartered in Atlanta, Georgia and currently employs 481,000 full-time employees. The firm is a provider of global supply chain management solutions. The firm operates through three segments: U.S. Domestic Package operations, International Package operations, and Supply Chain & Freight operations. As of December 31, 2016, the Company delivered packages in over 220 countries and territories. The firm offers a spectrum of the United States domestic guaranteed ground and air package transportation services. The International Package segment includes the small package operations in Europe, Asia-Pacific, Canada and Latin America, the Indian sub-continent, the Middle East and Africa. The Supply Chain & Freight segment includes its forwarding and logistics services, truckload freight brokerage, UPS Freight and its financial offerings through UPS Capital. The firm serves the global market for logistics services, which include transportation, distribution, contract logistics and ground freight."
+ceo,Mr. David Abney
+sector,Industrials
+country,US
+fullTimeEmployees,495000
+phone,14048286000
+address,55 Glenlake Parkway Ne
+city,Atlanta
+state,GEORGIA
+zip,30328
+dcfDiff,
+dcf,178.758
+image,https://financialmodelingprep.com/image-stock/UPS.png
+ipoDate,1999-11-10
+defaultImage,False

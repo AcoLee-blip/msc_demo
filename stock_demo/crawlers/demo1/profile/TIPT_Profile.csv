@@ -1,0 +1,33 @@
+,0
+symbol,TIPT
+price,5.28
+beta,0.6466
+volAvg,50132
+mktCap,177592272
+lastDiv,0.2
+range,4.45-8.3
+changes,0.08
+companyName,Tiptree Inc
+currency,USD
+cik,0001393726
+isin,US88822Q1031
+cusip,88822Q103
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Insurance Specialty
+website,http://www.tiptreeinc.com/
+description,"Tiptree, Inc. is a holding company, which engages in the provision of specialty insurance, warranty products, and related administration services. The company is headquartered in New York City, New York and currently employs 972 full-time employees. Through its subsidiary, the Company provides specialty insurance products and related services, including credit protection, warranty, and programs which underwrite niche personal and commercial lines of insurance. The firm combines insurance operations with investment management portfolio. The company operates through two segments: specialty insurance and asset management. Its Tiptree Capital consists of asset management operations, mortgage operations and other investments."
+ceo,Mr. Jonathan Ilany
+sector,Financial Services
+country,US
+fullTimeEmployees,1009
+phone,12124461410
+address,299 Park Ave Fl 13
+city,New York City
+state,NEW YORK
+zip,10171
+dcfDiff,
+dcf,9.17973
+image,https://financialmodelingprep.com/image-stock/TIPT.jpg
+ipoDate,2010-08-27
+defaultImage,True

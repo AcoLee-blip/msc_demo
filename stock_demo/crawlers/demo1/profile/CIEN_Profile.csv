@@ -1,0 +1,33 @@
+,0
+symbol,CIEN
+price,42.48
+beta,0.82722
+volAvg,2389426
+mktCap,6555513300
+lastDiv,0.0
+range,30.58-61.52
+changes,-0.42
+companyName,Ciena Corp
+currency,USD
+cik,0000936395
+isin,US1717793095
+cusip,171779309
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Communication Equipment
+website,http://www.ciena.com
+description,"Ciena Corp. engages in the provision of network and communication infrastructure. The company is headquartered in Hanover Maryland, Maryland and currently employs 6,383 full-time employees. The company provides equipment, software and services that support the transport, switching, aggregation, service delivery and management of voice, video and data traffic on communications networks. The company segments include Networking Platforms; Software and Software-Related Services, and Global Services. The Networking Platforms segment consists of Converged Packet Optical, Packet Networking and Optical Transport product portfolios. The software business is engaged in the development and licensing of element and network management software and software-related services that support its hardware offerings. The company offers a suite of consulting and support services that help its customers to design, optimize, deploy and maintain their communications networks."
+ceo,Mr. Gary Smith
+sector,Technology
+country,US
+fullTimeEmployees,6383
+phone,14108658500
+address,7035 Ridge Rd
+city,Hanover Maryland
+state,MARYLAND
+zip,21076
+dcfDiff,13.35
+dcf,46.7459
+image,https://financialmodelingprep.com/image-stock/CIEN.png
+ipoDate,1997-02-01
+defaultImage,False

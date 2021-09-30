@@ -1,0 +1,33 @@
+,0
+symbol,MEI
+price,35.665
+beta,1.31515
+volAvg,218260
+mktCap,1338496770
+lastDiv,0.44
+range,21.76-41.7
+changes,0.555
+companyName,Methode Electronics Inc
+currency,USD
+cik,0000065270
+isin,US5915202007
+cusip,591520200
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Electronic Components
+website,https://www.methode.com/
+description,"Methode Electronics, Inc. engages in the manufacture of component and subsystem devices. The company is headquartered in Chicago, Illinois and currently employs 6,187 full-time employees. The firm designs, manufactures and markets devices employing electrical, radio remote control, electronic, wireless and sensing technologies. The firm operates through segments, including Automotive, Interface, Power Products and Other. The Automotive segment supplies electronic and electro-mechanical devices, lighting systems and related products to automobile original equipment manufacturers (OEMs). The Interface segment provides a range of copper and fiber-optic interface and interface solutions. The Power Products segment manufactures braided flexible cables, current-carrying laminated bus devices, custom power-product assemblies, such as PowerRail solution, high-current low voltage flexible power cabling systems and powder coated bus bars. The Other segment includes medical devices, inverters and battery systems, and insulated gate bipolar transistor solutions."
+ceo,Mr. Donald Duda
+sector,Technology
+country,US
+fullTimeEmployees,6187
+phone,17088676777
+address,8750 W Bryn Mawr Ave
+city,Chicago
+state,ILLINOIS
+zip,60631
+dcfDiff,9.3
+dcf,36.3319
+image,https://financialmodelingprep.com/image-stock/MEI.jpg
+ipoDate,1982-10-20
+defaultImage,True

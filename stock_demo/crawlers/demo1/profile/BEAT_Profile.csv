@@ -1,0 +1,33 @@
+,0
+symbol,BEAT
+price,47.29
+beta,1.15311
+volAvg,320432
+mktCap,1620193280
+lastDiv,0.0
+range,27.35-55.85
+changes,-0.06
+companyName,BioTelemetry Inc
+currency,USD
+cik,0001574774
+isin,US0906721065
+cusip,090672106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.gobio.com/
+description,"BioTelemetry, Inc. provides monitoring services and digital population health management in a healthcare setting, medical device manufacturing and centralized core laboratory services for clinical research. The company is headquartered in Malvern, Pennsylvania and currently employs 1,500 full-time employees. The firm operates in three segments: Healthcare, Technology and Research. The Healthcare segment, operating as CardioNet, LLC and Heartcare Corporation of America, Inc., is focused on the diagnosis and monitoring of cardiac arrhythmias, or heart rhythm disorders. The Research segment, operating as Cardiocore, LLC and VirtualScopics, Inc., is engaged in laboratory services that provide cardiac monitoring, imaging services, scientific consulting and data management services for drug, medical treatment and device trials. The Technology segment, operating as Braemar Manufacturing, LLC, Universal Medical, Inc. and BioTelemetry Belgium BVBA. and BioTelemetry Technology ApS, focuses on the manufacturing, engineering and development of noninvasive cardiac monitors for healthcare companies."
+ceo,Mr. Joseph Capper
+sector,Healthcare
+country,US
+fullTimeEmployees,1700
+phone,16107297000
+address,1000 Cedar Hollow Rd
+city,Malvern
+state,PENNSYLVANIA
+zip,19355
+dcfDiff,
+dcf,43.8229
+image,https://financialmodelingprep.com/image-stock/BEAT.png
+ipoDate,2013-08-01
+defaultImage,False

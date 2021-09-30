@@ -1,0 +1,33 @@
+,0
+symbol,RVMD
+price,39.5
+beta,0.0
+volAvg,451181
+mktCap,2604096770
+lastDiv,0.0
+range,17.345-47.14
+changes,1.46
+companyName,Revolution Medicines Inc
+currency,USD
+cik,0001628171
+isin,US76155X1000
+cusip,76155X100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://revolutionmedicines.com/
+description,"Revolution Medicines, Inc. is a clinical-stage precision oncology company. The Company is focused on developing targeted therapies to inhibit elusive frontier targets within notorious growth and survival pathways, with particular emphasis on the renin angiotensin system (RAS) and mammalian target of rapamycin (mTOR) signaling pathways. The Company’s pipeline includes RMC-4630, a clinical-stage drug candidate that is designed to selectively inhibit the activity of SHP2. Additionally, the Company is developing a portfolio of inhibitors of other key frontier oncology targets within the notorious RAS pathway, as well as the related mTOR signaling cascade. These include inhibitors of multiple mutant RAS proteins and son of sevenless homolog one (SOS1), as well as RMC-5552. RMC-5552 is a selective inhibitor of mammalian target of rapamycin complex one (mTORC1) that is designed to preserve the tumor suppressive activity."
+ceo,"Dr. Mark A. Goldsmith M.D., Ph.D."
+sector,Healthcare
+country,US
+fullTimeEmployees,95
+phone,14157663638
+address,700 Saginaw Dr
+city,Redwood City
+state,CALIFORNIA
+zip,94063
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/RVMD.jpg
+ipoDate,2020-02-13
+defaultImage,True

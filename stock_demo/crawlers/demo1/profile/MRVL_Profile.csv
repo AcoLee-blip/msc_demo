@@ -1,0 +1,33 @@
+,0
+symbol,MRVL
+price,43.162
+beta,1.07483
+volAvg,9116595
+mktCap,28982204400
+lastDiv,0.24
+range,16.45-45.82
+changes,1.562
+companyName,Marvell Technology Group Ltd
+currency,USD
+cik,0001058057
+isin,BMG5876H1051
+cusip,G5876H105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductors
+website,http://www.marvell.com
+description,"Marvell Technology Group Ltd. engages in the design, development, and sale of integrated circuits. The firm is engaged in the design, development and sale of integrated circuits. The firm develops System-on-a-Chip (SoC) devices. The company also develops integrated hardware platforms along with software that incorporates digital computing technologies designed and configured to provide an optimized computing solution. Its product portfolio includes devices for storage, networking and connectivity. In storage, it is engaged in data storage controller solutions spanning consumer, mobile, desktop and enterprise markets. Its storage solutions enable customers to engineer products for hard disk drives and solid state drives. Its networking products address end markets in cloud, enterprise, small and medium business and service provider networks."
+ceo,Mr. Matthew Murphy
+sector,Technology
+country,BM
+fullTimeEmployees,5633
+phone,14412966395
+address,"Canon's Court, 22 Victoria Street"
+city,Hamilton
+state,
+zip,HM 12
+dcfDiff,-22.21
+dcf,41.3579
+image,https://financialmodelingprep.com/image-stock/MRVL.png
+ipoDate,2000-06-27
+defaultImage,False

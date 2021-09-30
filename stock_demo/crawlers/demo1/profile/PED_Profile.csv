@@ -1,0 +1,33 @@
+,0
+symbol,PED
+price,1.38
+beta,1.39525
+volAvg,2936303
+mktCap,99999352
+lastDiv,0.0
+range,0.667-2.55
+changes,-0.04
+companyName,PEDEVCO Corp
+currency,USD
+cik,
+isin,US70532Y3036
+cusip,70532Y303
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Oil & Gas E&P
+website,https://www.pacificenergydevelopment.com/
+description,"PEDEVCO Corp. is an independent energy company. The company is headquartered in Houston, Texas and currently employs 14 full-time employees. The Company’s properties are located in the San Andres formation of the Permian Basin situated in West Texas and eastern New Mexico (the Permian Basin) and in the Denver-Julesberg Basin (D-J Basin) in Colorado. The firm holds approximately 40,200 net Permian Basin acres located in Chaves and Roosevelt Counties, New Mexico, and approximately 11,700 net D-J Basin acres located in Weld and Morgan Counties, Colorado, and holds interests in 359 gross (290 net) wells in the Permian Basin."
+ceo,Dr. Simon Kukes
+sector,Energy
+country,US
+fullTimeEmployees,16
+phone,18557333826
+address,575 N Dairy Ashford Rd Ste 210
+city,Houston
+state,TEXAS
+zip,77079
+dcfDiff,-1695.45
+dcf,2.13766
+image,https://financialmodelingprep.com/image-stock/PED.jpg
+ipoDate,2003-05-02
+defaultImage,True

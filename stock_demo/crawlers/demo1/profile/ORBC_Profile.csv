@@ -1,0 +1,33 @@
+,0
+symbol,ORBC
+price,5.57
+beta,1.2162
+volAvg,516809
+mktCap,434768576
+lastDiv,0.0
+range,1.24-6.1
+changes,0.03
+companyName,ORBCOMM Inc
+currency,USD
+cik,0001361983
+isin,US68555P1003
+cusip,68555P100
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Telecom Services
+website,https://www.orbcomm.com/
+description,"ORBCOMM, Inc. engages in the provision of network connectivity, devices, device management, and web reporting applications. The company is headquartered in Rochelle Park, New Jersey and currently employs 785 full-time employees. The firm's IoT products and services are designed to track, monitor and manage security for a range of assets, such as trailers, trucks, rail cars, sea containers, generators, fluid tanks, marine vessels, diesel or electric powered generators (gensets), oil and gas wells, pipeline monitoring equipment, irrigation control systems, and utility meters, in industries for transportation and supply chain, heavy equipment, fixed asset monitoring, maritime and government. The company also provides Automatic Identification System (AIS) data services to assist in vessel navigation and to manage maritime safety for government and commercial customers across the world. The company provides its services using various network platforms, including its own constellation of low-Earth orbit (LEO) satellites."
+ceo,Mr. Marc Eisenberg
+sector,Communication Services
+country,US
+fullTimeEmployees,786
+phone,17034336300
+address,395 W Passaic St Ste 325
+city,Rochelle Park
+state,NEW JERSEY
+zip,07662
+dcfDiff,
+dcf,4.61457
+image,https://financialmodelingprep.com/image-stock/ORBC.png
+ipoDate,2006-11-03
+defaultImage,False

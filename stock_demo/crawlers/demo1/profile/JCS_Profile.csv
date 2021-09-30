@@ -1,0 +1,33 @@
+,0
+symbol,JCS
+price,4.2503
+beta,1.14392
+volAvg,19315
+mktCap,39767420
+lastDiv,0.06
+range,3.5-9.9
+changes,0.1003
+companyName,Communications Systems Inc
+currency,USD
+cik,0000022701
+isin,US2039001050
+cusip,203900105
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Communication Equipment
+website,http://www.commsystems.com
+description,"Communications Systems, Inc. operates through its subsidiaries which are principally engaged in the manufacture and sale of core media conversion products and connectivity infrastructure products for broadband and voice communications. The company is headquartered in Minnetonka, Minnesota and currently employs 674 full-time employees. The firm operates through three segments: Suttle, Transition Networks and JDL Technologies (JDL). The firm provides physical connectivity infrastructure products and services for global deployments of broadband networks. The firm is principally engaged through its subsidiary and business unit, Suttle, Inc., in the manufacture and sale of connectivity infrastructure products for broadband and voice communications, and through its another subsidiary and business unit, Transition Networks, Inc., in the manufacture and sale of core media conversion products for broadband networks. Through its JDL Technologies, Inc. subsidiary and business unit, CSI provides information technology (IT) solutions, including network design, computer infrastructure installations, IT service management, network security and network operation services."
+ceo,Mr. Roger Lacey
+sector,Technology
+country,US
+fullTimeEmployees,674
+phone,19529961674
+address,10900 Red Circle Dr
+city,Minnetonka
+state,MINNESOTA
+zip,55343
+dcfDiff,-1.41
+dcf,5.50169
+image,https://financialmodelingprep.com/image-stock/JCS.jpg
+ipoDate,1981-11-19
+defaultImage,True

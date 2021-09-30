@@ -1,0 +1,33 @@
+,0
+symbol,INVE
+price,6.8
+beta,1.71626
+volAvg,132093
+mktCap,121669680
+lastDiv,0.0
+range,2.11-7.48
+changes,-0.01
+companyName,Identiv Inc
+currency,USD
+cik,0001036044
+isin,US45170X2053
+cusip,45170X205
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Computer Hardware
+website,https://www.identiv.com/
+description,"Identiv, Inc. engages in the provision of physical security and secure identification products. The company is headquartered in Fremont, California and currently employs 273 full-time employees. The firm operates through four segments: Physical access control systems (PACS), Identity, Credentials and All Other. PACS segment provides solutions and services that enable the issuance, management and use of secure identity credentials in diverse markets. PACS business offers Hirsch line of controllers, including the advanced MX line, Hirsch's Velocity management software and its Identiv connected physical access manager software, EDGE controller and reader package. Identity segment offers products to secure enterprise information, including login and printers through delivery of smart card reader products and identity management through its idOnDemand service. Credentials segment offers access cards, radio frequency identification (RFID) and near field communication products, including cards, labels, tags and stickers, as well as RF components. All Other segment includes products, such as Chipdrive and Digital Media readers."
+ceo,Mr. Steven Humphreys
+sector,Technology
+country,US
+fullTimeEmployees,289
+phone,19492508888
+address,2201 Walnut Ave Ste 100
+city,Fremont
+state,CALIFORNIA
+zip,94538
+dcfDiff,
+dcf,6.90246
+image,https://financialmodelingprep.com/image-stock/INVE.png
+ipoDate,1997-10-07
+defaultImage,False

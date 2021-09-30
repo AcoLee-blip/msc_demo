@@ -1,0 +1,33 @@
+,0
+symbol,ONCT
+price,4.413
+beta,0.78261
+volAvg,2310950
+mktCap,98616432
+lastDiv,0.0
+range,1.49-6.28
+changes,-0.247
+companyName,Oncternal Therapeutics Inc
+currency,USD
+cik,0001600987
+isin,US68236P1075
+cusip,68236P107
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.oncternal.com/
+description,"Oncternal Therapeutics, Inc. is a clinical-stage oncology company, which develops a diverse pipeline of treatments for cancers with critically unmet medical need. The company is headquartered in San Diego, California and currently employs 6 full-time employees. The firm is focused on developing a pipeline of product candidates for the treatment of cancers. Its pipeline includes cirmtuzumab, TK-216 and chimeric antigen receptor T-cell (CAR-T). Its cirmtuzumab product candidate is an anti-receptor tyrosine kinase-like orphan receptor 1 (ROR1) monoclonal antibody. Cirmtuzumab is in a Phase-I/II clinical trial in combination with ibrutinib for the treatment of chronic lymphocytic leukemia (CLL) and mantle cell lymphoma (MCL). TK216 is a small-molecule compound designed to inhibit the biological activity of E26 transformation-specific (ETS) oncoproteins. TK216 is being evaluated in combination with vincristine in a Phase-I clinical trial in patients with relapsed or refractory Ewing sarcoma. Its CAR-T product candidate targets ROR-1 and is in preclinical development as a treatment for hematologic cancers and solid tumors."
+ceo,Dr. James Breitmeyer
+sector,Healthcare
+country,US
+fullTimeEmployees,11
+phone,18584341113
+address,12230 El Camino Real Ste 300
+city,San Diego
+state,CALIFORNIA
+zip,92130
+dcfDiff,
+dcf,1942.9
+image,https://financialmodelingprep.com/image-stock/ONCT.png
+ipoDate,2004-02-03
+defaultImage,False

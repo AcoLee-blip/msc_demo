@@ -1,0 +1,33 @@
+,0
+symbol,SGEN
+price,174.65
+beta,1.14675
+volAvg,954609
+mktCap,31261823000
+lastDiv,0.0
+range,90.57-213.94
+changes,5.86
+companyName,Seattle Genetics Inc
+currency,USD
+cik,0001060736
+isin,US8125781026
+cusip,812578102
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.seattlegenetics.com/
+description,"Seattle Genetics, Inc. is a biotechnology company, which engages in the development and commercialization of antibody-based therapies for the treatment of cancer. The company is headquartered in Bothell, Washington and currently employs 1,302 full-time employees. The firm is engaged in the development and sale of pharmaceutical products on its own behalf or in collaboration with others. The firm's marketed product ADCETRIS, or brentuximab vedotin, is an antibody-drug conjugate (ADC). In addition to ADCETRIS, the Company's pipeline includes other clinical-stage ADC programs, such as ASG-22ME, SGN-LIV1A, SGN-CD19A, SGN-CD19B, SGN-CD123A, SGN-352A, and ASG-15ME, as well as two immuno-oncology agents, SEA-CD40, which is based on its sugar-engineered antibody (SEA) technology, and SGN-2FF, which is a small molecule. The company also has multiple preclinical and research-stage programs that employ its technologies, including SGN-CD48A and a preclinical ADC. ADCETRIS is an ADC comprising an anti-CD30 monoclonal antibody attached by a protease-cleavable linker to a microtubule disrupting agent."
+ceo,Dr. Clay Siegall
+sector,Healthcare
+country,US
+fullTimeEmployees,1605
+phone,14255274000
+address,21823 30th Dr SE
+city,Bothell
+state,WASHINGTON
+zip,98021
+dcfDiff,-82.76
+dcf,199.369
+image,https://financialmodelingprep.com/image-stock/SGEN.png
+ipoDate,2001-03-07
+defaultImage,False

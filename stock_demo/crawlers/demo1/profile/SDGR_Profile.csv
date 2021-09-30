@@ -1,0 +1,33 @@
+,0
+symbol,SDGR
+price,57.935
+beta,0.0
+volAvg,1372921
+mktCap,4001037570
+lastDiv,0.0
+range,25.5-99.5
+changes,5.245
+companyName,Schrodinger Inc
+currency,USD
+cik,0001490978
+isin,US80810D1037
+cusip,80810D103
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.schrodinger.com
+description,"Schrodinger, Inc. provides computational software solutions for drug discovery to the biopharmaceutical industry. The Company operates through two segments: Software and Drug Discovery. The Software segment is focused on licensing the Company’s software for molecular discovery. The Drug Discovery segment is focused on building a portfolio of preclinical and clinical drug programs, internally and through collaborations. Its platform integrates solutions for predictive modeling, data analytics and collaboration. Its wholly-owned programs include SDGR1, SDGR2, SDGR3, SDGR4 and SDGR5. SDGR1 and SDGR2 drug discovery programs are focused on targets that mediate deoxyribonucleic acid (DNA) repair, cell cycle regulation, replication stress responses, and apoptosis, or programmed cell death. SDGR3, SDGR4 and SDGR5 drug discovery programs are focused on genetically-defined cancers."
+ceo,Dr. Ramy Farid
+sector,Healthcare
+country,US
+fullTimeEmployees,392
+phone,15032991150
+address,"120 WEST 45TH STREET, 17TH FLOOR"
+city,New York City
+state,NEW YORK
+zip,10036
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/SDGR.jpg
+ipoDate,2020-02-06
+defaultImage,True

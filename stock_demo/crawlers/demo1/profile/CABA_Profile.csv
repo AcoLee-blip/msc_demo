@@ -1,0 +1,33 @@
+,0
+symbol,CABA
+price,13.75
+beta,0.0
+volAvg,75090
+mktCap,330763136
+lastDiv,0.0
+range,5.51-19.63
+changes,-0.2
+companyName,Cabaletta Bio Inc
+currency,USD
+cik,0001759138
+isin,US12674W1099
+cusip,12674W109
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.cabalettabio.com/
+description,"Cabaletta Bio, Inc. operates as a clinical-stage biotechnology company, which engages in the discovery and development of engineered T cell therapies for B cell-mediated autoimmune diseases. The company is headquartered in Philadelphia, Pennsylvania and currently employs 19 full-time employees. The firm is focused on discovery and development of engineered T-cell therapies for B cell-mediated autoimmune diseases. The T cells are designed to selectively bind and eliminate B cells that produce disease-causing autoantibodies, or pathogenic B cells, while sparing normal B cells. The Company’s lead CAAR T cell product candidate are designed based on chimeric antigen receptor, and its T cell technology has been developed and is marketed for the treatment of B cell cancers. The firm has discovered and developed four product candidates, including its lead product candidate, to potentially treat patients with mucosal pemphigus vulgaris (mPV), and three additional product candidates that have demonstrated specific and selective target engagement in vitro. Its product pipelines include DSG3-CAART, DSG3/1-CAART, Musk-CAART and FVIII-CAART."
+ceo,Dr. Steven Nichtberger
+sector,Healthcare
+country,US
+fullTimeEmployees,29
+phone,12677593100
+address,2929 Arch St Ste 600
+city,Philadelphia
+state,PENNSYLVANIA
+zip,19104
+dcfDiff,
+dcf,36.453
+image,https://financialmodelingprep.com/image-stock/CABA.png
+ipoDate,2019-10-25
+defaultImage,False

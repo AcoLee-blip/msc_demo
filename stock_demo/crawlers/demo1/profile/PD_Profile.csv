@@ -1,0 +1,33 @@
+,0
+symbol,PD
+price,30.015
+beta,0.0
+volAvg,1743152
+mktCap,2387107840
+lastDiv,0.0
+range,12.33-37.24
+changes,0.095
+companyName,PagerDuty Inc
+currency,USD
+cik,0001568100
+isin,US69553P1003
+cusip,69553P100
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Software Application
+website,https://www.pagerduty.com/
+description,"Pagerduty, Inc. provides digital operations management solutions. The Company offers software as a service (SaaS) - based platform, PagerDuty, which helps developers, DevOps, information technology (IT) operations and business leaders to prevent and resolve business-impacting incidents. The platform uses digital signals from virtually any software-enabled system or device, combines it with human response data, and orchestrates teams to take the actions in real time. The Company’s products are focused on on-call management to a real-time operations platform spanning event intelligence, incident response, on-call management, business visibility, and analytics."
+ceo,Ms. Jennifer Tejada
+sector,Technology
+country,US
+fullTimeEmployees,669
+phone,18448003889
+address,600 Townsend St Ste 200E
+city,San Francisco
+state,CALIFORNIA
+zip,94103
+dcfDiff,
+dcf,30.7322
+image,https://financialmodelingprep.com/image-stock/PD.png
+ipoDate,2019-04-11
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,GTT
+price,4.0
+beta,1.57983
+volAvg,513913
+mktCap,235278000
+lastDiv,0.0
+range,3.38-15.77
+changes,0.12
+companyName,GTT Communications Inc
+currency,USD
+cik,0001315255
+isin,US3623931009
+cusip,362393100
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Communication Services
+website,https://www.gtt.net/
+description,"GTT Communications, Inc. engages in the provision of cloud networking services to multinational clients. The company is headquartered in Mc Lean, Virginia and currently employs 3,000 full-time employees. The firm offers a portfolio of global communications services, wide area network (WAN) services; Internet services; managed network and security services, and voice and unified communication services. The company provides Layer 2 (Ethernet) and Layer 3 (multiprotocol label switching (MPLS)) WAN solutions for multinational clients. The company offers customers with high-bandwidth global Internet connectivity and Internet protocol (IP) transit with availability and packet delivery. The firm offers managed network services, including managed equipment, managed security services and managed remote access. Its Session Initiation Protocol (SIP) Trunking service is an enterprise-built unified communications offering that integrates voice, video and chat onto a single IP connection. As of December 31, 2016, it had provided services to multinational enterprises, carriers and government customers in over 100 countries."
+ceo,Mr. Richard Calder
+sector,Communication Services
+country,US
+fullTimeEmployees,3100
+phone,17034425500
+address,7900 Tysons One Pl Ste 1450
+city,MC LEAN
+state,VIRGINIA
+zip,
+dcfDiff,
+dcf,6.01291
+image,https://financialmodelingprep.com/image-stock/GTT.jpg
+ipoDate,2005-04-15
+defaultImage,True

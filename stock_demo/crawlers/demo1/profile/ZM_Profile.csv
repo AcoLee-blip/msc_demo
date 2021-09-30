@@ -1,0 +1,33 @@
+,0
+symbol,ZM
+price,403.58
+beta,0.0
+volAvg,11354326
+mktCap,114786623000
+lastDiv,0.0
+range,62.02-588.84
+changes,-25.06
+companyName,Zoom Video Communications Inc
+currency,USD
+cik,0001585521
+isin,US98980L1017
+cusip,98980L101
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Telecom Services
+website,https://www.zoom.us
+description,"Zoom Video Communications, Inc. engages in the provision of video-first communications platform. The company is headquartered in San Jose, California and currently employs 2,409 full-time employees. The company offers cloud-native platform, which unifies cloud video conferencing, online meetings, group messaging and a software-based conference room system, which enables users to easily experience Zoom Meetings in their physical meeting spaces. Its solution offers video, audio and screen-sharing experience across Windows, Mac, Linux, Android, BlackBerry, Zoom Rooms and H.323/Session Initiation Protocol room systems, such as Polycom and Cisco Tandberg. Its solutions include Meetings, Premium Audio, Business Instant Messaging (IM), Video Webinar, Zoom Rooms, H.323/SIP Connector and Developer Platform. Its cloud video conferencing solutions include full screen and gallery view, and dual stream for dual screen. Its security solutions include secure socket layer (SSL) encryption and role-based access control. The company offers its solutions to education, finance and government sectors."
+ceo,Mr. Eric Yuan
+sector,Communication Services
+country,US
+fullTimeEmployees,2854
+phone,18887999666
+address,55 Almaden Blvd Fl 6
+city,San Jose
+state,CALIFORNIA
+zip,95113
+dcfDiff,
+dcf,514.303
+image,https://financialmodelingprep.com/image-stock/ZM.png
+ipoDate,2019-04-18
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,AMAT
+price,69.8
+beta,1.27467
+volAvg,8349484
+mktCap,63747158000
+lastDiv,1.08
+range,36.64-75.93
+changes,-1.36
+companyName,Applied Materials Inc
+currency,USD
+cik,0000006951
+isin,US0382221051
+cusip,038222105
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,http://www.appliedmaterials.com/
+description,"Applied Materials, Inc. engages in the provision of materials engineering solutions used to produce new chip and advanced display. The company is headquartered in Santa Clara, California and currently employs 22,000 full-time employees. The firm's segments are Semiconductor Systems, which includes semiconductor capital equipment for etch, rapid thermal processing, deposition, chemical mechanical planarization, metrology and inspection, wafer packaging, and ion implantation; Applied Global Services, which provides integrated solutions to optimize equipment and fab performance and productivity; Display and Adjacent Markets, which includes products for manufacturing liquid crystal displays, organic light-emitting diodes, upgrades and roll-to-roll Web coating systems and other display technologies for televisions, personal computers, smart phones and other consumer-oriented devices, and Corporate and Other segment, which includes revenues from products, as well as costs of products sold for fabricating solar photovoltaic cells and modules, and certain operating expenses."
+ceo,Mr. Gary Dickerson
+sector,Technology
+country,US
+fullTimeEmployees,22000
+phone,14085635300
+address,3050 Bowers Ave
+city,Santa Clara
+state,CALIFORNIA
+zip,95052
+dcfDiff,5.29
+dcf,65.4211
+image,https://financialmodelingprep.com/image-stock/AMAT.png
+ipoDate,1972-10-05
+defaultImage,False

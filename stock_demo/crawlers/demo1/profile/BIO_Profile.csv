@@ -1,0 +1,33 @@
+,0
+symbol,BIO
+price,602.25
+beta,1.05552
+volAvg,164701
+mktCap,18046783500
+lastDiv,0.0
+range,309.38-648.39
+changes,16.8
+companyName,Bio Rad Laboratories Inc
+currency,USD
+cik,0000012208
+isin,US0905722072
+cusip,090572207
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Medical Devices
+website,http://www.bio-rad.com/
+description,"Bio-Rad Laboratories, Inc. engages in the development and production of specialty chemicals used in biochemical, pharmaceutical, and other life science research applications. The company is headquartered in Hercules, California and currently employs 8,260 full-time employees. The firm operates through two segments: Life Science and Clinical Diagnostics. Life Science segment markets and develops, manufactures and markets approximately 6,000 reagents, apparatus and laboratory instruments. Its products are used in research techniques, biopharmaceutical production processes and food testing regimes. Clinical Diagnostics segment designs, manufactures, sells and supports test systems, informatics systems, test kits and specialized quality controls that serve clinical laboratories in the global diagnostics market."
+ceo,Mr. Norman Schwartz
+sector,Healthcare
+country,US
+fullTimeEmployees,8120
+phone,15107247000
+address,1000 ALFRED NOBEL DR
+city,Hercules
+state,CALIFORNIA
+zip,94547
+dcfDiff,-184.69
+dcf,581.318
+image,https://financialmodelingprep.com/image-stock/BIO.png
+ipoDate,1981-05-22
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,MRSN
+price,22.605
+beta,2.37254
+volAvg,952493
+mktCap,1548383740
+lastDiv,0.0
+range,2.51-26.64
+changes,0.185
+companyName,Mersana Therapeutics Inc
+currency,USD
+cik,0001442836
+isin,US59045L1061
+cusip,59045L106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.mersana.com/
+description,"Mersana Therapeutics, Inc. engages in the development and manufacture of antibody drug conjugates to improve patient outcomes in oncology indications. The company is headquartered in Cambridge, Massachusetts and currently employs 86 full-time employees. The firm is focused on discovering and developing a pipeline of antibody drug conjugates (ADCs). The firm focuses on advancing a pipeline of targeted oncology therapeutics leveraging its Fleximer immunoconjugate technology. The Fleximer platform allows it to design ADCs with specific properties and manage the drug's chances of attacking cancers. Its product candidates include XMT-1522 and XMT-1536. The ADC therapies treat cancer patients by engineering a drug conjugate with various anti-cancer agents and controlling when, where and how those agents are released. Dolaflexin is its Fleximer antibody drug conjugation platform, which pairs the Fleximer polymer with its linker chemistries to create ADC therapies."
+ceo,Ms. Anna Protopapas
+sector,Healthcare
+country,US
+fullTimeEmployees,83
+phone,16174980020
+address,840 Memorial Dr
+city,Cambridge
+state,MASSACHUSETTS
+zip,02139
+dcfDiff,-4.38
+dcf,19.3236
+image,https://financialmodelingprep.com/image-stock/MRSN.png
+ipoDate,2017-06-28
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,MKSI
+price,127.07
+beta,1.52155
+volAvg,324267
+mktCap,7006271500
+lastDiv,1.0
+range,66.87-133.24
+changes,1.87
+companyName,MKS Instruments Inc
+currency,USD
+cik,0001049502
+isin,US55306N1046
+cusip,55306N104
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Scientific & Technical Instruments
+website,https://www.mksinst.com/
+description,"MKS Instruments, Inc. provides instruments, subsystems, and process control solutions to measure, control, power, monitor, and analyse parameters of manufacturing processes. The company is headquartered in Andover, Massachusetts and currently employs 4,851 full-time employees. The firm operates through two segments, including the Vacuum & Analysis segment and the Light & Motion segment. The Vacuum & Analysis segment provides a range of instruments, components, subsystems and software, which are derived from its core competencies in pressure measurement and control, flow measurement and control, gas and vapor delivery, gas composition analysis, residual gas analysis, leak detection, control and information technology, ozone generation and delivery, radio frequency (RF) and direct current (DC) power, reactive gas generation and vacuum technology. The Light & Motion segment provides a range of instruments, components and subsystems, which are derived from its core competencies in lasers, photonics and optics."
+ceo,Dr. John Lee
+sector,Technology
+country,US
+fullTimeEmployees,5500
+phone,19786455500
+address,"Suite 201, 2 Tech Drive"
+city,Andover
+state,MASSACHUSETTS
+zip,01810
+dcfDiff,
+dcf,120.382
+image,https://financialmodelingprep.com/image-stock/MKSI.png
+ipoDate,1999-03-30
+defaultImage,False

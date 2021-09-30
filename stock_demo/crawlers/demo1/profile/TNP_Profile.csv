@@ -1,0 +1,33 @@
+,0
+symbol,TNP
+price,7.43
+beta,0.57352
+volAvg,101916
+mktCap,139542832
+lastDiv,0.625
+range,7.06-23.85
+changes,-0.01
+companyName,Tsakos Energy Navigation Ltd
+currency,USD
+cik,0001166663
+isin,BMG9108L1735
+cusip,G9108L173
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Midstream
+website,https://www.tenn.gr/
+description,"Tsakos Energy Navigation Ltd is a provider of international seaborne crude oil and petroleum product transportation services. The Company operates through maritime transportation of liquid energy related products segment. The Company consists of 65 double-hull vessels, constituting a mix of crude tankers, product tankers and liquefied natural gas (LNG) carriers, totaling 7.2 million deadweight. Of these, 47 vessels trade in crude, 13 in products, three are shuttle tankers and two are LNG carriers. Its diversified fleet, which includes VLCC, aframax, panamax, handysize, handymax tankers, LNG carrier and DP2 shuttle tankers, allows it to serve its customers' international petroleum product and crude oil transportation needs."
+ceo,Dr. Nikolas Tsakos
+sector,Energy
+country,GR
+fullTimeEmployees,0
+phone,302109407710
+address,"367 Syngrou Avenue, P. Faliro"
+city,ATHINA
+state,ATTIKI
+zip,175 64
+dcfDiff,106.81
+dcf,10.4915
+image,https://financialmodelingprep.com/image-stock/TNP.jpg
+ipoDate,2002-03-05
+defaultImage,True

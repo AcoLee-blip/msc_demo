@@ -1,0 +1,33 @@
+,0
+symbol,PRSP
+price,22.22
+beta,0.0
+volAvg,971755
+mktCap,3576620030
+lastDiv,0.33
+range,14.03-29.44
+changes,0.3
+companyName,Perspecta Inc
+currency,USD
+cik,0001724670
+isin,US7153471005
+cusip,715347100
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Information Technology Services
+website,https://perspecta.com/
+description,"Perspecta, Inc. engages in the provision of end-to-end enterprise information technology services to government customers across the United States federal, state and local markets. The company is headquartered in Chantilly, Virginia and currently employs 14,300 full-time employees. The firm serves intelligence, defense, space, federal civilian, federal healthcare and state and local governments. The company provides various solutions in mission services, digital transformation and enterprise operations. Through its subsidiary, United States public sector business (USPS), the Company helps its government customers to implement workplaces, hybrid cloud platforms and digital systems of engagement with their enterprise management systems. The company also provides enterprise-level support to multiple governmental programs that manage, collect, analyze and disseminate mission data to national security agencies and their customers. The company categorizes its primary services and solutions as systems engineering and integration (SE&I), cybersecurity, big data analytics and applied research. Its subsidiaries include Vencore Holding Corp. and KGS Holding Corp."
+ceo,Mr. John Curtis
+sector,Technology
+country,US
+fullTimeEmployees,14000
+phone,15713136000
+address,15052 Conference Center Dr
+city,Chantilly
+state,VIRGINIA
+zip,20151
+dcfDiff,
+dcf,20.1575
+image,https://financialmodelingprep.com/image-stock/PRSP.png
+ipoDate,2018-05-24
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,PANW
+price,258.25
+beta,1.27085
+volAvg,1133863
+mktCap,24524763100
+lastDiv,0.0
+range,125.47-275.03
+changes,6.29
+companyName,Palo Alto Networks Inc
+currency,USD
+cik,0001327567
+isin,US6974351057
+cusip,697435105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Software Infrastructure
+website,http://www.paloaltonetworks.com
+description,"Palo Alto Networks, Inc. engages in the provision of network security solutions to enterprises, service providers, and government entities. The company is headquartered in Santa Clara, California and currently employs 7,382 full-time employees. The firm's security platform consists of three elements: Next-Generation Firewall, Advanced Endpoint Protection and Threat Intelligence Cloud. Its Next-Generation Firewall delivers application, user and content visibility and control, as well as protection against network-based cyber threats integrated within the firewall through its hardware and software architecture. Its Advanced Endpoint Protection prevents cyber attacks that run malicious code or exploit software vulnerabilities on a range of fixed and virtual endpoints and servers. Its Threat Intelligence Cloud provides central intelligence capabilities, security for software as a service applications and automated delivery of preventative measures against cyber attacks. Its products and services include firewall appliances, panorama, virtual system upgrades, subscription services, support and maintenance, and professional services."
+ceo,Mr. Nikesh Arora
+sector,Technology
+country,US
+fullTimeEmployees,8049
+phone,14087534000
+address,3000 Tannery Way
+city,Santa Clara
+state,CALIFORNIA
+zip,95054
+dcfDiff,-588.93
+dcf,266.376
+image,https://financialmodelingprep.com/image-stock/PANW.jpg
+ipoDate,2012-07-20
+defaultImage,True

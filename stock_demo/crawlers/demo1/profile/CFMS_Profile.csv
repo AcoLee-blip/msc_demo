@@ -1,0 +1,33 @@
+,0
+symbol,CFMS
+price,0.65
+beta,1.79706
+volAvg,390184
+mktCap,55861456
+lastDiv,0.0
+range,0.5-1.915
+changes,-0.0185
+companyName,Conformis Inc
+currency,USD
+cik,0001305773
+isin,US20717E1010
+cusip,20717E101
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Medical Devices
+website,http://www.conformis.com/
+description,"ConforMIS, Inc. is a medical technology company, which engages in the development, manufacture, and sale of joint replacement implants. The company is headquartered in Billerica, Massachusetts and currently employs 268 full-time employees. The firm uses its iFit Image-to-Implant technology platform to develop, manufacture and sell joint replacement implants, which are individually sized and shaped, to fit each patient's anatomy. The firm's iFit technology platform is applicable to various joints. The company offers a line of customized knee implants designed to restore the natural shape of a patient's knee. The company offers iTotal CR, which is a total knee replacement implant. Its iFit technology platform consists of three elements, including iFit Design, its algorithms and computer software that is used to design customized implants and associated single-use patient-specific instrumentation referred to as iJigs, based on computed tomography scans of the patient and to prepare a surgical plan customized for the patient (iView); iFit Printing, which is a three-dimensional printing technology used to manufacture iJigs, and iFit Just-in-Time manufacturing and delivery capabilities."
+ceo,Mr. Mark Augusti
+sector,Healthcare
+country,US
+fullTimeEmployees,262
+phone,17813459001
+address,600 Technology Park Dr
+city,Billerica
+state,MASSACHUSETTS
+zip,01821
+dcfDiff,-10.7
+dcf,-8.25
+image,https://financialmodelingprep.com/image-stock/CFMS.png
+ipoDate,2015-07-01
+defaultImage,False

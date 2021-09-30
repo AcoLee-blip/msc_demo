@@ -1,0 +1,33 @@
+,0
+symbol,FTCH
+price,46.81
+beta,0.0
+volAvg,5178230
+mktCap,15909596200
+lastDiv,0.0
+range,5.99-50.355
+changes,3.6
+companyName,Farfetch Ltd
+currency,USD
+cik,0001740915
+isin,KY30744W1070
+cusip,30744W107
+exchange,NYSE
+exchangeShortName,NYSE
+industry,Internet Retail
+website,
+description,"Farfetch Ltd. engages in the provision of technology platform for the luxury fashion industry. The firm operates the global luxury digital marketplace at scale, connecting brands, retailers and consumers. Its platform consists of three components, such as applications, services and data. The company provides the consumers with a localized luxury experience, including after-care in the form of multilingual customer service and free returns processing. The Company’s data science capability automates decision making through the application of machine learning to guide merchandizing, targeting, curation and feedback. The company also offers supply chain capabilities to its platform partners, from content creation to its global fulfillment network, which integrates delivery partners from around the world in a single, efficient interface. The Company’s platform is accessible through its Website (Fartech.com) and through iOS and android application."
+ceo,Mr. Jos Ferreira Neves
+sector,Consumer Cyclical
+country,GB
+fullTimeEmployees,4532
+phone,442075495400
+address,"The Bower, 4th Floor, 211 Old Street"
+city,LONDON
+state,
+zip,EC1V 9NR
+dcfDiff,
+dcf,27.16
+image,https://financialmodelingprep.com/image-stock/FTCH.jpg
+ipoDate,2018-09-21
+defaultImage,True

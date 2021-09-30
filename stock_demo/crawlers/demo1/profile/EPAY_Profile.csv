@@ -1,0 +1,33 @@
+,0
+symbol,EPAY
+price,43.44
+beta,1.23153
+volAvg,237678
+mktCap,1959734780
+lastDiv,0.0
+range,27.82-57.22
+changes,0.7
+companyName,Bottomline Technologies (DE) Inc
+currency,USD
+cik,0001073349
+isin,US1013881065
+cusip,101388106
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,http://www.bottomline.com/
+description,"Bottomline Technologies, Inc. engages in facilitating electronic payments and transaction settlement between businesses, vendors, and banks. The company is headquartered in Portsmouth, New Hampshire and currently employs 1,900 full-time employees. The firm helps businesses pay and get paid. The company offers hosted or Software as a Service (SaaS) solutions, as well as software designed to run on-site at the customer's location. The company operates through four segments: Cloud Solutions, Banking Solutions, Payments and Transactional Documents, and Other. The Payments and Transactional Documents segment is a supplier of software products that provide a range of financial business process management solutions, including making and collecting payments and generating and storing business documents. The Cloud Solutions segment provides customers with SaaS technology offerings. The Banking Solutions segment provides solutions to banking and financial institution customers. The Other segment consists of its healthcare and cyber fraud and risk management operating segments."
+ceo,Mr. Robert Eberle
+sector,Technology
+country,US
+fullTimeEmployees,1900
+phone,16034360700
+address,325 Corporate Dr
+city,Portsmouth
+state,NEW HAMPSHIRE
+zip,03801
+dcfDiff,-30.78
+dcf,47.1544
+image,https://financialmodelingprep.com/image-stock/EPAY.png
+ipoDate,1999-02-12
+defaultImage,False

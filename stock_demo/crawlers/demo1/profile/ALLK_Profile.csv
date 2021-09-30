@@ -1,0 +1,33 @@
+,0
+symbol,ALLK
+price,99.87
+beta,0.0
+volAvg,214038
+mktCap,5243504600
+lastDiv,0.0
+range,41.61-139.99
+changes,-2.9
+companyName,Allakos Inc
+currency,USD
+cik,0001564824
+isin,US01671P1003
+cusip,01671P100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.allakos.com/
+description,"Allakos, Inc. engages in the development of therapeutic antibodies. The company is headquartered in Redwood City, California and currently employs 77 full-time employees. The firm's antibodies target receptor molecules present on the surface of immune effector cells, which are involved in allergy, inflammation and tissue damage. Its lead program is AK002, which is an antibody that targets Siglec-8, an inhibitory receptor found on eosinophils and mast cells. The firm's AK002 is used in the treatment of various diseases with abnormal proliferation of mast cells, including eosinophilic gastritis (EG), indolent systemic mastocytosis, urticaria and allergic conjunctivitis."
+ceo,Dr. Robert Alexander
+sector,Healthcare
+country,US
+fullTimeEmployees,96
+phone,16505975002
+address,975 Island Dr Ste 201
+city,Redwood City
+state,CALIFORNIA
+zip,94065
+dcfDiff,
+dcf,80.429
+image,https://financialmodelingprep.com/image-stock/ALLK.png
+ipoDate,2018-07-19
+defaultImage,False

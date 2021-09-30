@@ -1,0 +1,33 @@
+,0
+symbol,NAV
+price,43.985
+beta,2.43795
+volAvg,1760501
+mktCap,4379854800
+lastDiv,0.0
+range,15.01-45.25
+changes,0.075
+companyName,Navistar International Corp
+currency,USD
+cik,0000808450
+isin,US63934E1082
+cusip,63934E108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Farm & Heavy Construction Machinery
+website,https://www.navistar.com/
+description,"Navistar International Corp. is a holding company, which engages in the manufacture of military truck, proprietary diesel engines, school and commercial buses, and service parts for trucks and diesel engines. The company is headquartered in Lisle, Illinois and currently employs 12,300 full-time employees. The firm's segments include Truck, Parts, Global Operations (collectively, Manufacturing operations) and Financial Services, which consists of NFC and its foreign finance operations (collectively, Financial Services operations). The Truck segment manufactures and distributes Class 4 through 8 trucks, buses and military vehicles under the International and IC Bus brands, along with production of engines. The Parts segment supports its brands of International commercial trucks, IC buses and engines. The Global Operations segment includes operations of its subsidiary, International Industria de Motores da America do Sul Ltda. (IIAA). The Financial Services segment provides and manages retail, wholesale and lease financing of products sold by the Truck and Parts segments and their dealers."
+ceo,Mr. Troy Clarke
+sector,Industrials
+country,US
+fullTimeEmployees,12300
+phone,13313325000
+address,2701 Navistar Dr
+city,Lisle
+state,ILLINOIS
+zip,60532
+dcfDiff,16.05
+dcf,57.0488
+image,https://financialmodelingprep.com/image-stock/NAV.png
+ipoDate,1980-03-17
+defaultImage,False

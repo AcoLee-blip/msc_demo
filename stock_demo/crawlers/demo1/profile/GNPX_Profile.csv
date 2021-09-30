@@ -1,0 +1,33 @@
+,0
+symbol,GNPX
+price,3.13
+beta,0.0
+volAvg,882624
+mktCap,121665296
+lastDiv,0.0
+range,0.231-7.03
+changes,-0.03
+companyName,Genprex Inc
+currency,USD
+cik,0001595248
+isin,US3724461047
+cusip,372446104
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.genprex.com/
+description,"Genprex, Inc. is a clinical stage gene therapy company, which engages in the development of novel proprietary technology platform for the treatment of cancer. The company is headquartered in Austin, Texas and currently employs 7 full-time employees. The firm is focused on developing cancer-based upon its novel proprietary technology platform, including its initial product candidate, Oncoprex, immunogene therapy, or Oncoprex. The Company’s Oncoprex is lead product candidate, is the subject of an ongoing Phase I/II clinical trials at The University of Texas MD Anderson Cancer Center in patients with late stage non-small cell lung cancer, or NSCLC. Oncoprex gene therapy platform may also be effective with respect to other types of cancer, including breast, head and neck, renal cell (kidney), soft tissue cancer. The Company’s platform technologies are designed to administer cancer fighting genes by encapsulating them into nanoscale hollow spheres called nanovesicles. The Company’s Oncoprex has a multimodal mechanism of action whereby it interrupts cell signaling pathways that cause replication and proliferation of cancer cells, re-establishes pathways for apoptosis."
+ceo,Mr. J. Rodney Varner
+sector,Healthcare
+country,US
+fullTimeEmployees,8
+phone,15125377997
+address,1601 Trinity St Bldg B
+city,Austin
+state,TEXAS
+zip,78712
+dcfDiff,
+dcf,3.37495
+image,https://financialmodelingprep.com/image-stock/GNPX.png
+ipoDate,2018-03-29
+defaultImage,False

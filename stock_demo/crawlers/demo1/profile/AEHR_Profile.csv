@@ -1,0 +1,33 @@
+,0
+symbol,AEHR
+price,1.45
+beta,0.96865
+volAvg,153833
+mktCap,33799936
+lastDiv,0.0
+range,1.1-2.78
+changes,0.01
+companyName,Aehr Test Systems
+currency,USD
+cik,0001040470
+isin,US00760J1088
+cusip,00760J108
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Semiconductor Equipment & Materials
+website,https://www.aehr.com/
+description,"Aehr Test Systems engages in the design, manufacture, and marketing of test and burn-in products to the semiconductor manufacturing industry. The company is headquartered in Fremont, California and currently employs 79 full-time employees. The firm manufactures and markets full wafer contact test systems, test during burn-in systems, test fixtures, die carriers and related accessories. The firm's principal products are the Advanced Burn-In and Test System (ABTS), the FOX full wafer contact parallel test and burn-in systems, WaferPak full wafer contactor, the DiePak carrier and test fixtures. The firm develops, manufactures and sells systems, which are designed to reduce the cost of testing and to perform reliability screening, or burn-in, of complex logic devices, memory integrated circuits (ICs), sensors and optical devices. These systems can be used to perform parallel testing and burn-in of packaged ICs, singulated bare die or ICs still in wafer form."
+ceo,Mr. Gayn Erickson
+sector,Technology
+country,US
+fullTimeEmployees,79
+phone,15106239400
+address,400 Kato Ter
+city,Fremont
+state,CALIFORNIA
+zip,94539
+dcfDiff,
+dcf,238.756
+image,https://financialmodelingprep.com/image-stock/AEHR.png
+ipoDate,1997-08-15
+defaultImage,False

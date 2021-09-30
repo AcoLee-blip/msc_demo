@@ -1,0 +1,33 @@
+,0
+symbol,CWBR
+price,1.03
+beta,2.50235
+volAvg,675678
+mktCap,59702300
+lastDiv,0.0
+range,0.85-4.25
+changes,0.0
+companyName,CohBar Inc
+currency,USD
+cik,
+isin,US19249J1097
+cusip,19249J109
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://www.cohbar.com/
+description,"CohBar, Inc. engages in the research and development of mitochondria-based therapeutics. The company is headquartered in Menlo Park, California and currently employs 12 full-time employees. MBTs originate from the discovery of a group of peptides encoded within the genome of mitochondria. The firm's development of mitochondrial-derived peptides (MDPs) into MBTs offers the potential to address a range of diseases including type 2 diabetes, cancer, atherosclerosis and neurodegenerative disorders. MDPs represent a diverse and largely unexplored collection of peptides. MOTS-c is an MDP, which indicates that it plays a role in the regulation of metabolism. The firm is engaged in the research on MOTS-c and its analogs as its lead program. The firm's academic collaborators have discovered various other MDPs with similar mitochondrial origin to the MDP, humanin, which the Company refers to as small humanin-like peptides (SHLPs)."
+ceo,Mr. Steven Engle
+sector,Healthcare
+country,US
+fullTimeEmployees,12
+phone,16504467888
+address,1455 Adams Dr Ste 2050
+city,Menlo Park
+state,CALIFORNIA
+zip,94025
+dcfDiff,
+dcf,1.31343
+image,https://financialmodelingprep.com/image-stock/CWBR.png
+ipoDate,2015-01-06
+defaultImage,False

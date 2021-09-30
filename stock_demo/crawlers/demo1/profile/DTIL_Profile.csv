@@ -1,0 +1,33 @@
+,0
+symbol,DTIL
+price,9.39
+beta,0.0
+volAvg,664140
+mktCap,492791904
+lastDiv,0.0
+range,4.455-23.67
+changes,0.53
+companyName,Precision BioSciences Inc
+currency,USD
+cik,0001357874
+isin,US74019P1084
+cusip,74019P108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://precisionbiosciences.com/
+description,"Precision BioSciences, Inc. is a biotechnology company, which engages in the development of genome editing technologies. The company is headquartered in Durham, North Carolina and currently employs 184 full-time employees. The firm is engaged in providing genome engineering technology. The Company’s ARCUS genome editing technology enables the production of specific nucleases that can insert, remove and modify deoxyribonucleic acid (DNA) at any location in a genome. The firm is also engaged in developing genome editing-based product leads for human therapeutic, agricultural and biologics manufacturing applications. The Company’s four product candidates in its CAR T cell development pipeline are PBCAR0191, PBCAR20A, PBCAR269A and PBCAR371A. The Company’s ARCUS platform designed to treat human diseases and create healthy and sustainable food and agricultural solutions. The company also developing product candidates in three areas to overcome the limitations of other genome editing technologies: allogeneic CAR T immunotherapy, in vivo gene correction, and food."
+ceo,Mr. Matthew Kane
+sector,Healthcare
+country,US
+fullTimeEmployees,225
+phone,19193145512
+address,302 E Pettigrew St Ste A100
+city,Durham
+state,NORTH CAROLINA
+zip,27701
+dcfDiff,
+dcf,10.8077
+image,https://financialmodelingprep.com/image-stock/DTIL.png
+ipoDate,2019-03-28
+defaultImage,False

@@ -1,0 +1,33 @@
+,0
+symbol,VIE
+price,33.92
+beta,0.0
+volAvg,191800
+mktCap,1860087940
+lastDiv,0.0
+range,23.69-70.66
+changes,0.83
+companyName,Viela Bio Inc
+currency,USD
+cik,0001734517
+isin,US9266131005
+cusip,926613100
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://vielabio.com/
+description,"Viela Bio, Inc. is a clinical stage biotechnology company, which engages in the development and commercialization of treatment for autoimmune and inflammatory diseases. The company is headquartered in Gaithersburg, Maryland and currently employs 95 full-time employees. The firm is focused on developing treatments for severe inflammation and autoimmune diseases. Its product pipeline includes Inebilizumab, VIB4920 and VIB7734. Inebilizumab is a humanized mAb that binds to and depletes CD19+ B cells including plasmablasts and plasma cells. VIB4920 is a fusion protein designed to bind to CD40 ligand (CD40L) on activated T cells, blocking the interaction with CD40 expressed on B cells and preventing them from differentiating into plasma cells and memory B cells. VIB7734 is a treatment for autoimmune and related inflammatory diseases."
+ceo,Dr. Zhengbin Yao
+sector,Healthcare
+country,US
+fullTimeEmployees,139
+phone,12405580038
+address,1 Medimmune Way
+city,Gaithersburg
+state,MARYLAND
+zip,20878
+dcfDiff,
+dcf,46.5971
+image,https://financialmodelingprep.com/image-stock/VIE.png
+ipoDate,2019-10-03
+defaultImage,False

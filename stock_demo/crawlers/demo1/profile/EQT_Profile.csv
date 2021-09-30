@@ -1,0 +1,33 @@
+,0
+symbol,EQT
+price,15.17
+beta,1.58285
+volAvg,4805395
+mktCap,4180836860
+lastDiv,0.03
+range,4.21-17.97
+changes,0.65
+companyName,EQT Corp
+currency,USD
+cik,0000033213
+isin,US26884L1098
+cusip,26884L109
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas E&P
+website,https://www.eqt.com/
+description,"EQT Corp. engages in natural gas production, gathering, and transmission in the Appalachian area. The company is headquartered in Pittsburgh, Pennsylvania and currently employs 863 full-time employees. The firm operates through three segments: EQT Production, EQT Gathering and EQT Transmission. The EQT Production segment includes its exploration for, and development and production of, natural gas, natural gas liquids and a limited amount of crude oil, primarily in the Appalachian Basin. The EQT Production segment also includes the marketing activities of the Company. EQT Production's properties are located in Pennsylvania, West Virginia, Kentucky and Virginia. The operations of EQT Gathering include the natural gas gathering activities of the Company, consisting solely of assets that are owned and operated by EQT Midstream Partners, LP (EQM). The operations of EQT Transmission include the natural gas transmission and storage activities of the Company, consisting solely of assets that are owned and operated by EQM. EQT Transmission focuses on various transmission projects, including Mountain Valley Pipeline and Transmission Expansion."
+ceo,Mr. Toby Rice
+sector,Energy
+country,US
+fullTimeEmployees,647
+phone,14125535700
+address,625 Liberty Ave Ste 1700
+city,Pittsburgh
+state,PENNSYLVANIA
+zip,15222
+dcfDiff,1115.7
+dcf,14.848
+image,https://financialmodelingprep.com/image-stock/EQT.jpg
+ipoDate,1950-06-05
+defaultImage,True

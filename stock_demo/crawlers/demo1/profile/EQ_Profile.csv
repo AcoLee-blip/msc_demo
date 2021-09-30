@@ -1,0 +1,33 @@
+,0
+symbol,EQ
+price,4.7
+beta,0.0
+volAvg,1365427
+mktCap,114037976
+lastDiv,0.0
+range,2.2-27.05
+changes,0.22
+companyName,Equillium Inc
+currency,USD
+cik,0001746466
+isin,US29446K1060
+cusip,29446K106
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://equilliumbio.com/
+description,"Equillium, Inc. is a biotechnology company, which engages in the development of products for severe immuno-inflammatory disorders with high unmet medical need. The company is headquartered in La Jolla, California and currently employs 16 full-time employees. The firm develops products for severe autoimmune and inflammatory, or immuno-inflammatory, disorders with high unmet medical need. Its initial product candidate, EQ001 (itolizumab), is a clinical-stage, monoclonal antibody that selectively targets the novel immune checkpoint receptor CD6. CD6 plays a central role in the modulation of effector T cells, or Teff cells. Activated Teff cells drive a number of immuno-inflammatory diseases across therapeutic areas including transplant science, systemic autoimmunity, pulmonary, neurologic, gastrointestinal, renal, vascular, ophthalmic and dermatologic disorders. EQ001, disease modifying treatment for multiple severe immuno-inflammatory disorders. The company plans to initiate a Phase Ib/II clinical trial of EQ001 for the treatment of acute graft-versus-host disease, or aGVHD."
+ceo,Mr. Bruce Steel
+sector,Healthcare
+country,US
+fullTimeEmployees,22
+phone,18584125302
+address,2223 Avenida de La Playa Ste 105
+city,La Jolla
+state,CALIFORNIA
+zip,92037
+dcfDiff,
+dcf,6.37067
+image,https://financialmodelingprep.com/image-stock/EQ.jpg
+ipoDate,2018-10-12
+defaultImage,True

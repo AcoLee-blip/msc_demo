@@ -1,0 +1,33 @@
+,0
+symbol,MYO
+price,5.2267
+beta,1.06607
+volAvg,1107078
+mktCap,19191344
+lastDiv,0.0
+range,2.82-40.0
+changes,0.1167
+companyName,Myomo Inc
+currency,USD
+cik,0001369290
+isin,US62857J2015
+cusip,62857J201
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Medical Devices
+website,http://myomo.com/
+description,"Myomo, Inc. is a United States-based medical device company specializing in myoelectric orthotics for people with neurological disorders. The Company’s products help to restore function in individuals with neuromuscular conditions, such as brachial plexus injury, spinal cord injury, multiple sclerosis and stroke. Its MyoPro myoelectric limb orthosis is a powered brace that supports a weakened and deformed arm for functional use. The MyoPro is an elbow/wrist/Hand orthosis, which supports the arm and helps to bend and straighten the arm at the elbow. The brace provides assistive function for joint motion that enables a user to self-initiate and control movements of a partially paralyzed arm using their own muscle signals. When the user tries to bend their arm, sensors in the brace detect the weak muscle signal, which activates the motor to amplify their weak muscle signal to help bend and move their arm. The brace uses non-invasive skin sensors."
+ceo,Mr. Paul Gudonis
+sector,Healthcare
+country,US
+fullTimeEmployees,49
+phone,16179969058
+address,"ONE BROADWAY, 14TH FLOOR"
+city,Cambridge
+state,MASSACHUSETTS
+zip,02142
+dcfDiff,-1.2
+dcf,12.5936
+image,https://financialmodelingprep.com/image-stock/MYO.png
+ipoDate,2017-06-12
+defaultImage,False

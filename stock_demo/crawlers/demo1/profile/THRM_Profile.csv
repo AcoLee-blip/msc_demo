@@ -1,0 +1,33 @@
+,0
+symbol,THRM
+price,52.205
+beta,1.49354
+volAvg,138878
+mktCap,1706597120
+lastDiv,0.0
+range,27.24-53.39
+changes,0.915
+companyName,Gentherm Inc
+currency,USD
+cik,0000903129
+isin,US37253A1034
+cusip,37253A103
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Auto Parts
+website,https://www.gentherm.com/
+description,"Gentherm, Inc. engages in the designing, development, manufacturing, and marketing of heating, cooling, and ventilating devices. The company is headquartered in Northville, Michigan and currently employs 13,755 full-time employees. The firm has two segments: Automotive and Industrial. Its products provide solutions for automotive passenger comfort and convenience, battery thermal management, remote power generation, patient temperature management, environmental product testing and other consumer and industrial temperature control needs. Its automotive products can be found on the vehicles of all major automotive manufacturers operating in North America, Europe and Asia. The Automotive segment comprises the results from its global automotive businesses and individual convenience products. The Industrial segment represents the combined results from its remote power generation systems business, patient temperature management systems business, environmental testing equipment and services business, and advanced research and product development division."
+ceo,Mr. Phillip Eyler
+sector,Consumer Cyclical
+country,US
+fullTimeEmployees,11726
+phone,12485040500
+address,21680 Haggerty Rd
+city,Northville
+state,MICHIGAN
+zip,48167
+dcfDiff,-0.69
+dcf,47.6949
+image,https://financialmodelingprep.com/image-stock/THRM.jpg
+ipoDate,1993-06-11
+defaultImage,True

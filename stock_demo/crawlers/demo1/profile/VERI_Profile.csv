@@ -1,0 +1,33 @@
+,0
+symbol,VERI
+price,12.12
+beta,2.10804
+volAvg,654469
+mktCap,336127584
+lastDiv,0.0
+range,1.22-19.67
+changes,0.63
+companyName,Veritone Inc
+currency,USD
+cik,0001615165
+isin,US92347M1009
+cusip,92347M100
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.veritone.com/
+description,"Veritone, Inc. engages in the provision of artificial intelligence (AI) computing solutions to media and entertainment, government, and legal and compliance industries. The company is headquartered in Costa Mesa, California and currently employs 317 full-time employees. The Company’s platform unlocks the power of cognitive computing to transform unstructured audio and video data and analyze it in conjunction with structured data in a seamless, automated manner to generate actionable intelligence. Its cloud-based artificial intelligence operating system (aiOS) integrates and orchestrates an open ecosystem of cognitive engines, together with the Company’s suite of applications, to reveal valuable multivariate insights from vast amounts of audio, video and structured data. The Company’s technology enables users to run comprehensive, multivariate queries, correlations and analyses in near real-time using multiple cognitive engines and data sets, integrating and refining the outputs. The Company’s services and target markets include Media Agency Services, software as a service (Saas) Solutions, and Other Vertical Markets and Applications."
+ceo,Mr. Chad Steelberg
+sector,Technology
+country,US
+fullTimeEmployees,277
+phone,18885071737
+address,575 Anton Blvd
+city,Costa Mesa
+state,CALIFORNIA
+zip,92626
+dcfDiff,
+dcf,10.7415
+image,https://financialmodelingprep.com/image-stock/VERI.png
+ipoDate,2017-05-12
+defaultImage,False

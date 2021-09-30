@@ -1,0 +1,33 @@
+,0
+symbol,HTGM
+price,0.297
+beta,1.68546
+volAvg,2635073
+mktCap,21115512
+lastDiv,0.0
+range,0.267-0.92
+changes,0.0036
+companyName,HTG Molecular Diagnostics Inc
+currency,USD
+cik,0001169987
+isin,US40434H1041
+cusip,40434H104
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Diagnostics & Research
+website,https://www.htgmolecular.com/
+description,"HTG Molecular Diagnostics, Inc. engages in the provision of molecular technology solutions that facilitates molecular profiling. The company is headquartered in Tucson, Arizona and currently employs 107 full-time employees. The firm's HTG Edge and HTG EdgeSeq platforms, consisting of instrumentation, consumables and software analytics, are used in sample profiling applications, including tumor profiling, molecular diagnostic testing and biomarker development. The firm's HTG Edge and HTG EdgeSeq platforms automate the molecular profiling of genes and gene activity using its nuclease protection chemistry on a range of biological samples. The firm's HTG EdgeSeq chemistry, together with its HTG Edge or HTG EdgeSeq instrumentation and software, automates and adapts its nuclease protection chemistry to enable analysis using next generation sequencing (NGS) instrumentation. The HTG EdgeSeq system utilizes substantially the same sample preparation reagents as its original chemistry, but allows for read out on an NGS instrument."
+ceo,Mr. John Lubniewski
+sector,Healthcare
+country,US
+fullTimeEmployees,108
+phone,18772892615
+address,3430 E Global Loop
+city,Tucson
+state,ARIZONA
+zip,85706
+dcfDiff,-231.34
+dcf,-228.82
+image,https://financialmodelingprep.com/image-stock/HTGM.png
+ipoDate,2015-05-06
+defaultImage,False

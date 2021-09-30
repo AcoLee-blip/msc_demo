@@ -1,0 +1,33 @@
+,0
+symbol,AMS
+price,1.88
+beta,1.23558
+volAvg,141650
+mktCap,10699080
+lastDiv,0.0
+range,1.16-3.58
+changes,-0.02
+companyName,American Shared Hospital Services
+currency,USD
+cik,0000744825
+isin,US0295951059
+cusip,029595105
+exchange,NYSE American
+exchangeShortName,AMEX
+industry,Medical Care Facilities
+website,http://www.ashs.com/
+description,"American Shared Hospital Services engages in leasing radiosurgery and radiation therapy equipment to healthcare providers. The company is headquartered in San Francisco, California and currently employs 9 full-time employees. The firm provides Gamma Knife services through its over 81% indirect interest in GK Financing, LLC (GKF). The firm's business is the outsourcing of stereotactic radiosurgery services and radiation therapy services. The firm provides the equipment, as well as planning, installation, reimbursement and marketing support services. The firm's radiation therapy business consists of one Image Guided Radiation Therapy Operations (IGRT) system. IGRT technology integrates imaging and detection components into a linear accelerator, allowing clinicians to plan treatment, verify positioning and deliver treatment with a single device, providing radiation therapy with less damage to healthy tissue. The company is also engaged in proton beam radiation therapy business (PBRT)."
+ceo,Dr. Ernest Bates
+sector,Healthcare
+country,US
+fullTimeEmployees,9
+phone,14157885300
+address,2 Embarcadero Ctr Ste 410
+city,San Francisco
+state,CALIFORNIA
+zip,94111-4107
+dcfDiff,
+dcf,2.13143
+image,https://financialmodelingprep.com/image-stock/AMS.jpg
+ipoDate,1984-07-04
+defaultImage,True

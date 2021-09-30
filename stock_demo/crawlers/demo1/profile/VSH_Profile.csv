@@ -1,0 +1,33 @@
+,0
+symbol,VSH
+price,18.24
+beta,1.40419
+volAvg,877258
+mktCap,2638561790
+lastDiv,0.38
+range,11.23-23.25
+changes,0.5
+companyName,Vishay Intertechnology Inc
+currency,USD
+cik,0000103730
+isin,US9282981086
+cusip,928298108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Semiconductors
+website,https://www.vishay.com/
+description,"Vishay Intertechnology, Inc. engages in the manufacture and distribution of discrete semiconductors and passive components. The company is headquartered in Malvern, Pennsylvania and currently employs 24,100 full-time employees. The firm operates through five product segments: MOSFETs, Diodes, Optoelectronic Components, Resistors & Inductors and Capacitors. MOSFETs segment offers low-voltage TrenchFET MOSFETs and high-voltage MOSFETs. Diodes segment's products include rectifiers, small signal diodes, protection diodes, thyristors/silicon-controlled rectifiers (SCRs) and power modules. Optoelectronic Components segment includes infrared (IR) emitters and detectors, IR remote control receivers, optocouplers, solid-state relays, optical sensors, light-emitting diodes (LEDs), 7-segment displays and IR data transceiver modules (IrDA). Resistors and Inductors segment manufactures various types of fixed resistors, both in discrete and network forms, as well as various variable types. Capacitors segment manufactures products based on capacitor technologies."
+ceo,Dr. Gerald Paul
+sector,Technology
+country,US
+fullTimeEmployees,22400
+phone,16106441300
+address,63 Lancaster Ave
+city,Malvern
+state,PENNSYLVANIA
+zip,19355-2143
+dcfDiff,1.01
+dcf,22.1426
+image,https://financialmodelingprep.com/image-stock/VSH.jpg
+ipoDate,1973-02-28
+defaultImage,True

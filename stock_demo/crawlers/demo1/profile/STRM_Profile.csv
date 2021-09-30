@@ -1,0 +1,33 @@
+,0
+symbol,STRM
+price,1.54
+beta,0.76307
+volAvg,72829
+mktCap,48702192
+lastDiv,0.0
+range,0.53-1.86
+changes,0.04
+companyName,Streamline Health Solutions Inc
+currency,USD
+cik,0001008586
+isin,US86323X1063
+cusip,86323X106
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Health Information Services
+website,https://www.streamlinehealth.net/
+description,"Streamline Health Solutions, Inc. engages in the provision of transformational data-driven solutions for healthcare organizations. The company is headquartered in Atlanta, Georgia and currently employs 106 full-time employees. The firm also provides implementation and consulting services to complement its software solutions. The firm provides computer software-based solutions through its Looking Glass platform. The firm sells its solutions and services in North America to hospitals and health systems, including physician practices, through its direct sales force and its reseller partnerships. The firm's software and services allow hospitals and integrated healthcare delivery systems in the United States and Canada to capture, store, manage, route, retrieve and process patient clinical, financial and other healthcare provider information."
+ceo,Mr. Wyche Green
+sector,Healthcare
+country,US
+fullTimeEmployees,80
+phone,18889978732
+address,11800 Amber Park Drive - Suite 125
+city,Alpharetta
+state,GEORGIA
+zip,30009
+dcfDiff,-10.62
+dcf,1.56252
+image,https://financialmodelingprep.com/image-stock/STRM.png
+ipoDate,1996-04-18
+defaultImage,False

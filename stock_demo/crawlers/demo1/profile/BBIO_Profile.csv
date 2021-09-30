@@ -1,0 +1,33 @@
+,0
+symbol,BBIO
+price,43.05
+beta,0.0
+volAvg,684673
+mktCap,5276552200
+lastDiv,0.0
+range,14.23-48.36
+changes,2.08
+companyName,BridgeBio Pharma Inc
+currency,USD
+cik,0001743881
+isin,US10806X1028
+cusip,10806X102
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://bridgebio.com/
+description,"BridgeBio Pharma, Inc. is a pharma company. The company is headquartered in Palo Alto, California and currently employs 185 full-time employees. The Company’s product platform divided into three key categories: Mendelian, Oncology and Gene therapy. The Company’s pipeline programs include product candidates ranging from early discovery to late-stage development. The Company’s products include BBP-265, BBP-831, BBP-631 and BBP-454."
+ceo,Dr. Neil Kumar
+sector,Healthcare
+country,US
+fullTimeEmployees,296
+phone,16503919740
+address,421 Kipling St
+city,Palo Alto
+state,CALIFORNIA
+zip,94301
+dcfDiff,
+dcf,42.5712
+image,https://financialmodelingprep.com/image-stock/BBIO.png
+ipoDate,2019-06-27
+defaultImage,False

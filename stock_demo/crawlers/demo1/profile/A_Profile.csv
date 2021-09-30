@@ -1,0 +1,33 @@
+,0
+symbol,A
+price,109.44
+beta,1.03856
+volAvg,1247084
+mktCap,33741449200
+lastDiv,0.72
+range,61.13-117.5
+changes,0.03
+companyName,Agilent Technologies Inc
+currency,USD
+cik,0001090872
+isin,US00846U1016
+cusip,00846U101
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Diagnostics & Research
+website,https://www.agilent.com/
+description,"Agilent Technologies, Inc. engages in the provision of application focused solutions for life sciences, diagnostics, and applied chemical markets. The company is headquartered in Santa Clara, California and currently employs 16,300 full-time employees. The firm serves the life sciences, diagnostics and applied chemical markets. The company has three business segments: life sciences and applied markets business, diagnostics and genomics business, and Agilent CrossLab business. Its life sciences and applied markets business segment offers instruments and software that enable customers to identify, quantify and analyze the physical and biological properties of substances and products, as well as enable customers in the clinical and life sciences research areas to interrogate samples at the molecular level. Its diagnostics and genomics business segment includes the reagent partnership, pathology, companion diagnostics, genomics and the nucleic acid solutions businesses. Its Agilent CrossLab business segment spans the entire lab with its consumables and services portfolio."
+ceo,Mr. Michael McMullen
+sector,Healthcare
+country,US
+fullTimeEmployees,16370
+phone,14083458886
+address,5301 Stevens Creek Blvd
+city,Santa Clara
+state,CALIFORNIA
+zip,95051
+dcfDiff,-53.5
+dcf,111.83
+image,https://financialmodelingprep.com/image-stock/A.png
+ipoDate,1999-11-18
+defaultImage,False

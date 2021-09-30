@@ -1,0 +1,33 @@
+,0
+symbol,FIVN
+price,143.14
+beta,0.53702
+volAvg,710912
+mktCap,9352180700
+lastDiv,0.0
+range,52.51-167.17
+changes,-2.34
+companyName,Five9 Inc
+currency,USD
+cik,0001288847
+isin,US3383071012
+cusip,338307101
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.five9.com/
+description,"Five9, Inc. engages in the provision of cloud software for contact centers. The company is headquartered in San Ramon, California and currently employs 860 full-time employees. The firm's purpose-built Virtual Contact Center (VCC) cloud platform delivers a suite of applications that enable the breadth of contact center-related customer service, sales and marketing functions. The firm's solution, which consists of its VCC cloud platform and applications, allows simultaneous management and optimization of customer interactions across voice, chat, e-mail, Web, social media and mobile channels, either directly or through its application programming interfaces (APIs). The firm's VCC cloud platform matches each customer interaction with an appropriate agent resource and delivers relevant customer data to the agent in real-time through integrations with adjacent enterprise applications, such as customer relationship management (CRM) software, to optimize the customer experience and agent productivity."
+ceo,Mr. Rowan Trollope
+sector,Technology
+country,US
+fullTimeEmployees,1210
+phone,19252012000
+address,4000 Executive Pkwy Ste 400
+city,San Ramon
+state,CALIFORNIA
+zip,94583
+dcfDiff,-51.62
+dcf,142.492
+image,https://financialmodelingprep.com/image-stock/FIVN.png
+ipoDate,2014-04-04
+defaultImage,False

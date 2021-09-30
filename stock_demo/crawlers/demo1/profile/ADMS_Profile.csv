@@ -1,0 +1,33 @@
+,0
+symbol,ADMS
+price,3.76
+beta,2.50458
+volAvg,269084
+mktCap,107237080
+lastDiv,0.0
+range,1.9-7.45
+changes,0.18
+companyName,Adamas Pharmaceuticals Inc
+currency,USD
+cik,0001328143
+isin,US00548A1060
+cusip,00548A106
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,Drug Manufacturers General Specialty & Generic
+website,https://adamaspharma.com/
+description,"Adamas Pharmaceuticals, Inc. engages in discovery and development of chrono-synchronous therapies for chronic neurologic disorders. The company is headquartered in Emeryville, California and currently employs 134 full-time employees. The firm is engaged in developing medicines to manage the daily lives of those affected by chronic neurologic disorders. The company offers a platform based on an understanding of time dependent biologic effects of disease activity and drug response to achieve relief without tolerability issues. The company has developed a portfolio of chrono-synchronous therapies to address chronic neurologic disorders. Its first product candidate is ADS-5102, a chrono-synchronous amantadine therapy, for the treatment of levodopa-induced dyskinesia (LID) in patients with Parkinson's disease (PD). The company has completed Phase II proof-of-concept study of ADS-5102 in these patients. Its Phase III clinical program included three placebo-controlled trials: EASED, EASE LID and EASE LID 3. Its second product candidate is ADS-4101, an extended-release version of single-agent compound for the treatment of epilepsy (partial onset seizures)."
+ceo,Mr. Neil McFarlane
+sector,Healthcare
+country,US
+fullTimeEmployees,136
+phone,15104503554
+address,1900 Powell St Ste 1000
+city,Emeryville
+state,CALIFORNIA
+zip,94608
+dcfDiff,-22025700.0
+dcf,6.10649
+image,https://financialmodelingprep.com/image-stock/ADMS.jpg
+ipoDate,2014-04-10
+defaultImage,True

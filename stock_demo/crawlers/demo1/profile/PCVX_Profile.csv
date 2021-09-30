@@ -1,0 +1,33 @@
+,0
+symbol,PCVX
+price,37.535
+beta,0.0
+volAvg,217333
+mktCap,1911428610
+lastDiv,0.0
+range,17.8-58.475
+changes,0.495
+companyName,Vaxcyte Inc
+currency,USD
+cik,0001649094
+isin,US92243G1085
+cusip,92243G108
+exchange,NasdaqGS
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,https://vaxcyte.com/
+description,"Vaxcyte, Inc. is a vaccine company. The Company is developing vaccines to prevent some common and deadly infectious diseases. The Company’s cell-free protein synthesis platform enables to design and produce protein carriers and antigens, the critical building blocks of vaccines. The Company’s pipeline includes pneumococcal conjugate vaccine (PCV). The Company’s lead vaccine candidate is, VAX-24, is a 24-valent investigational PCV. The Company’s candidate include VAX-XP, leverages scalable and modular platform and builds on the technical concept established by VAX-24; VAX-A1 for Group A Strep and VAX-PG for periodontitis."
+ceo,Mr. Grant E. Pickering
+sector,Healthcare
+country,US
+fullTimeEmployees,43
+phone,16508370111
+address,353 Hatch Dr
+city,Foster City
+state,CALIFORNIA
+zip,94404
+dcfDiff,
+dcf,
+image,https://financialmodelingprep.com/image-stock/PCVX.jpg
+ipoDate,2020-06-12
+defaultImage,True

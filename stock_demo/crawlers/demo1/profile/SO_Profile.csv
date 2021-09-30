@@ -1,0 +1,33 @@
+,0
+symbol,SO
+price,63.74
+beta,0.41442
+volAvg,3953161
+mktCap,67324740000
+lastDiv,3.16
+range,41.96-71.1
+changes,0.86
+companyName,Southern Co
+currency,USD
+cik,0000092122
+isin,US8425871071
+cusip,842587107
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Utilities Regulated Electric
+website,https://www.southerncompany.com/
+description,"The Southern Co. is a holding company. The company is headquartered in Atlanta, Georgia and currently employs 29,192 full-time employees. The firm owns all of the stock of the traditional electric operating companies and the parent entities of Southern Power Company (Southern Power) and Southern Company Gas, and owns other direct and indirect subsidiaries. The firm's segments include Gas distribution operations, Gas marketing services, Wholesale gas services, Gas midstream operations and All other. The Gas distribution operations segment includes natural gas local distribution utilities that construct, manage, and maintain intrastate natural gas pipelines and gas distribution facilities in seven states. The Gas marketing services segment provides natural gas commodity and related services to customers markets that provide for customer choice. The Wholesale gas services segment engages in natural gas storage and gas pipeline arbitrage. The Gas midstream operations consist primarily of gas pipeline investments, with storage and fuels."
+ceo,Mr. Thomas Fanning
+sector,Utilities
+country,US
+fullTimeEmployees,27943
+phone,14045065000
+address,30 Ivan Allen Jr Blvd NW
+city,Atlanta
+state,GEORGIA
+zip,30308
+dcfDiff,1566.71
+dcf,60.232
+image,https://financialmodelingprep.com/image-stock/SO.png
+ipoDate,1949-09-30
+defaultImage,False

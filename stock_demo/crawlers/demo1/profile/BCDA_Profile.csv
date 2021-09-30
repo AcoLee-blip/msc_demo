@@ -1,0 +1,33 @@
+,0
+symbol,BCDA
+price,2.06
+beta,1.85087
+volAvg,84083
+mktCap,25603328
+lastDiv,0.0
+range,1.91-6.75
+changes,-0.02
+companyName,BioCardia Inc
+currency,USD
+cik,0000925741
+isin,US09060U5074
+cusip,09060U507
+exchange,NasdaqCM
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.biocardia.com/
+description,"BioCardia, Inc. operates as a clinical-stage regenerative medicine company. The company is headquartered in San Carlos, California and currently employs 27 full-time employees. The firm is engaged in developing therapeutics for cardiovascular diseases. The firm's lead therapeutic candidate is the CardiAMP Cell Therapy System (CardiAMP). The company focuses on the Phase III trial for CardiAMP in ischemic systolic heart failure. The firm also offers CardiALLO Cell Therapy System (CardiALLO), an allogeneic off the shelf mesenchymal stem cell product candidate from other donors. The company focuses on the Phase II trial for CardiALLO for the treatment of ischemic systolic heart failure. The firm focuses on various fields of autologous and allogeneic cell-based therapies to manage the lives of patients with cardiovascular conditions. CardiAMP is a therapeutic treatment that includes a companion diagnostic. The company consists of a cell potency screening test, a point of care cell processing platform and a biotherapeutic delivery system."
+ceo,Dr. Peter Altman
+sector,Healthcare
+country,US
+fullTimeEmployees,20
+phone,16502260120
+address,125 Shoreway Rd Ste B
+city,San Carlos
+state,CALIFORNIA
+zip,94070
+dcfDiff,
+dcf,3.24949
+image,https://financialmodelingprep.com/image-stock/BCDA.png
+ipoDate,1996-11-13
+defaultImage,False

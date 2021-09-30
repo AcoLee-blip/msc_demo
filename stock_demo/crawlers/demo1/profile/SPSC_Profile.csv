@@ -1,0 +1,33 @@
+,0
+symbol,SPSC
+price,92.48
+beta,0.86654
+volAvg,194641
+mktCap,3265357820
+lastDiv,0.0
+range,31.28-94.64
+changes,2.4
+companyName,SPS Commerce Inc
+currency,USD
+cik,0001092699
+isin,US78463M1071
+cusip,78463M107
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Software Infrastructure
+website,https://www.spscommerce.com/
+description,"SPS Commerce, Inc. provides cloud-based supply chain management services. The company is headquartered in Minneapolis, Minnesota and currently employs 1,231 full-time employees. The firm provides its solutions through the SPS Commerce platform, a cloud-based product suite that manages the way suppliers, retailers, distributors and logistics firms orchestrate the sourcing, set up of new vendors and items, and fulfillment of products that customers buy from retailers and suppliers. The Fulfillment solution provides fulfillment automation and replaces or augments an organization's existing trading partner electronic communication infrastructure, enabling suppliers to have visibility into the journey of an order and comply with retailers' rule books and enabling the electronic exchange of information among various trading partners through various protocols. The Community Development solution provides communication programs based on its best practices."
+ceo,Mr. Archie Black
+sector,Technology
+country,US
+fullTimeEmployees,1363
+phone,16124359400
+address,333 S 7th St Ste 1000
+city,Minneapolis
+state,MINNESOTA
+zip,55402
+dcfDiff,-47.18
+dcf,90.0289
+image,https://financialmodelingprep.com/image-stock/SPSC.png
+ipoDate,2010-04-23
+defaultImage,False

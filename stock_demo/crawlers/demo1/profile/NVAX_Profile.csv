@@ -1,0 +1,33 @@
+,0
+symbol,NVAX
+price,96.79
+beta,1.50282
+volAvg,4732129
+mktCap,6161651700
+lastDiv,0.0
+range,3.54-189.4
+changes,5.92
+companyName,Novavax Inc
+currency,USD
+cik,0001000694
+isin,US6700024010
+cusip,670002401
+exchange,Nasdaq Global Select
+exchangeShortName,NASDAQ
+industry,Biotechnology
+website,http://www.novavax.com/
+description,"Novavax, Inc. is operates as a clinical-stage biotechnology company, which focuses on the discovery, development and commercialization of vaccines to prevent infectious diseases. The company is headquartered in Gaithersburg, Maryland and currently employs 379 full-time employees. The firm operates through developing recombinant vaccines segment. The Company, through its recombinant nanoparticle vaccine technology, produces vaccine candidates to respond to both known and newly emerging diseases. The firm's product pipeline focuses on a range of infectious diseases with vaccine candidates in clinical development for respiratory syncytial virus (RSV), seasonal influenza, pandemic influenza and the Ebola virus (EBOV). The firm's lead adjuvant for human applications, Matrix-M, is in a Phase I/II clinical trial for pandemic influenza H7N9 vaccine candidate. The company is also testing Matrix-M in conjunction with its EBOV vaccine candidate in a Phase I clinical trial. The company is developing additional pre-clinical stage programs in a range of infectious diseases, including Middle East respiratory syndrome (MERS)."
+ceo,Mr. Stanley Erck
+sector,Healthcare
+country,US
+fullTimeEmployees,165
+phone,12402682000
+address,21 Firstfield Rd
+city,Gaithersburg
+state,MARYLAND
+zip,20878
+dcfDiff,-19.79
+dcf,94.4307
+image,https://financialmodelingprep.com/image-stock/NVAX.png
+ipoDate,2001-09-11
+defaultImage,False

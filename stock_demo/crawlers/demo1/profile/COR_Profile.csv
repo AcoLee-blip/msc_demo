@@ -1,0 +1,33 @@
+,0
+symbol,COR
+price,126.64
+beta,0.25804
+volAvg,291287
+mktCap,5415962100
+lastDiv,4.88
+range,90.07-131.36
+changes,1.02
+companyName,CoreSite Realty Corp
+currency,USD
+cik,0001490892
+isin,US21870Q1058
+cusip,21870Q105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,REIT Office
+website,http://www.coresite.com
+description,"CoreSite Realty Corp. is a real estate investment trust, which engages in the ownership, acquisition, construction and operation of strategically located data centers. The company is headquartered in Denver, Colorado and currently employs 454 full-time employees. The Company, through its controlling interest in CoreSite, L.P., is engaged in the business of ownership, acquisition, construction and operation of data centers across a range of markets in the United States, including the Northern Virginia, New York and San Francisco Bay areas, Chicago, Los Angeles, Boston, Miami and Denver. The enterprises, network operators, cloud providers and supporting service providers choose CoreSite to connect and protect their data, applications and computing workloads. Its offerings include the CoreSite Open Cloud Exchange and the Any2 Internet Exchange. As of December 31, 2016, it had offered cloud-enabled, network data center campuses with over 20,000 interconnections across its portfolio and direct access to carriers and Internet service providers, cloud and information technology service providers, and inter site connectivity."
+ceo,Mr. Paul Szurek
+sector,Real Estate
+country,US
+fullTimeEmployees,242
+phone,18667772673
+address,1001 17th St Ste 500
+city,Denver
+state,COLORADO
+zip,80202
+dcfDiff,214.88
+dcf,123.973
+image,https://financialmodelingprep.com/image-stock/COR.png
+ipoDate,2010-09-23
+defaultImage,False

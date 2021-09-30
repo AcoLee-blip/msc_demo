@@ -1,0 +1,33 @@
+,0
+symbol,IEC
+price,9.825
+beta,1.16336
+volAvg,29030
+mktCap,103682240
+lastDiv,0.0
+range,5.0-10.35
+changes,0.065
+companyName,IEC Electronics Corp
+currency,USD
+cik,0000049728
+isin,US44949L1052
+cusip,44949L105
+exchange,NYSE American
+exchangeShortName,NASDAQ
+industry,Electronic Components
+website,https://www.iec-electronics.com/
+description,"IEC Electronics Corp. provides electronic manufacturing services to technology companies that produce products for the medical, industrial, aerospace and defense sectors. The company is headquartered in Newark New York, New York and currently employs 840 full-time employees. The firm specializes in delivering technical solutions for the custom manufacture of full system assemblies by providing on-site analytical testing laboratories, custom design and test engineering services combined with an array of manufacturing services encompassing electronics, interconnect solutions and precision metalworking. The company offers its customers a range of manufacturing services, combined with scientific technical support to ensure their products perform for the critical applications they are intended for. Its products are distributed to and through original equipment manufacturers (OEMs). Its capabilities include design and test development, analysis and testing laboratory, custom functional test design and component risk mitigation."
+ceo,Mr. Jeffrey Schlarbaum
+sector,Technology
+country,US
+fullTimeEmployees,866
+phone,13153317742
+address,105 Norton St
+city,Newark New York
+state,NEW YORK
+zip,14513
+dcfDiff,-6.95
+dcf,9.48
+image,https://financialmodelingprep.com/image-stock/IEC.png
+ipoDate,1993-02-12
+defaultImage,False

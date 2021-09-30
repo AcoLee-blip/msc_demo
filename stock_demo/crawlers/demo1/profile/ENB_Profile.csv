@@ -1,0 +1,33 @@
+,0
+symbol,ENB
+price,29.09
+beta,0.91188
+volAvg,3516449
+mktCap,59185639000
+lastDiv,3.163
+range,22.57-43.15
+changes,0.15
+companyName,Enbridge Inc
+currency,CAD
+cik,0000895728
+isin,CA29250N1050
+cusip,29250N105
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,Oil & Gas Midstream
+website,http://www.enbridge.com/
+description,"Enbridge, Inc. engages in the provision of gas and oil businesses. The company is headquartered in Calgary, Alberta and currently employs 12,000 full-time employees. The firm is engaged in delivering energy. The company operates through five segments: Liquids Pipelines, Gas Distribution, Gas Pipelines and Processing, Green Power and Transmission, and Energy Services. Liquids Pipelines consists of common carrier and contract crude oil, natural gas liquids (NGL), and refined products pipelines and terminals, including Canadian Mainline, Lakehead Pipeline System, Mid-Continent and Gulf Coast and Regional Oil Sands System. Gas Distribution consists of its natural gas utility operations, the core of which is Enbridge Gas Distribution Inc. Green Power and Transmission consists of its investments in renewable energy assets and transmission facilities. Renewable energy assets consist of wind, solar, geothermal and waste heat recovery facilities in Canada. Energy Services undertake physical commodity marketing activity and logistical services, and oversee refinery supply services."
+ceo,Mr. Albert Monaco
+sector,Energy
+country,CA
+fullTimeEmployees,11300
+phone,14032313900
+address,"Suite 200, 425 - 1 Street S.W."
+city,Calgary
+state,ALBERTA
+zip,T2P 3L8
+dcfDiff,743.49
+dcf,29.2099
+image,https://financialmodelingprep.com/image-stock/ENB.png
+ipoDate,2001-10-30
+defaultImage,False

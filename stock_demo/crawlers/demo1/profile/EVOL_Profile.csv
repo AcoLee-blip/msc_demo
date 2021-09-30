@@ -1,0 +1,33 @@
+,0
+symbol,EVOL
+price,1.7
+beta,0.85121
+volAvg,53632
+mktCap,20731500
+lastDiv,0.0
+range,0.56-1.71
+changes,0.1
+companyName,Evolving Systems Inc
+currency,USD
+cik,0001052054
+isin,US30049R2094
+cusip,30049R209
+exchange,NASDAQ Capital Market
+exchangeShortName,NASDAQ
+industry,Software Application
+website,https://www.evolving.com/
+description,"Evolving Systems, Inc. provides real-time digital engagement solutions and services to the wireless, wireline and cable markets. The company is headquartered in Englewood, Colorado and currently employs 314 full-time employees. The firm operates in two segments: license fees and services revenue, and customer support revenue. Its service activation solution, Tertio is used to activate voice, video and data services for wireless, wireline and cable network operators. Its Subscriber Identity Module (SIM) card activation solution, Dynamic SIM Allocation is used to allocate and assign resources to Mobile Network Operators devices that rely on SIM cards. Its Mobile Data Enablement solution provides a data consumption and policy management solution for wireless carriers and Mobile Virtual Network Operators that monitor the usage and consumption of data services. Its Total Number Management product is an automated database solution that enables operators to manage their telephone numbers, as well as other communication identifiers."
+ceo,Mr. Matthew Stecker
+sector,Technology
+country,US
+fullTimeEmployees,261
+phone,13038021000
+address,9800 Pyramid Ct Ste 400
+city,Englewood
+state,COLORADO
+zip,80112
+dcfDiff,6.47
+dcf,1.30302
+image,https://financialmodelingprep.com/image-stock/EVOL.png
+ipoDate,1998-05-12
+defaultImage,False
